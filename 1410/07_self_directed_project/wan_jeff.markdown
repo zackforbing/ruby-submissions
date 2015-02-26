@@ -38,4 +38,20 @@ Middle class or lower-income people who want to enjoy life and take a trip.
   Google Maps.
 
 
-##
+### ThePickUp
+## Pitch
+Google maps search for courts and fields to see how hot they are right now. Hotness
+based on check-ins so that a person can find a pickup game.
+
+### problem
+Google maps does not currently show how hot a location is right now. Nor do they
+show newcomers to a city where rec centers or bball courts are
+
+### Solution
+show a google map that show hot spots for sports
+
+### target audience
+everyone
+
+### INtegrations
+google maps
