@@ -52,3 +52,27 @@ maintaining their pace.
 Scrape Jog.fm and Spotify API.
 
 
+### GitLocal
+
+### Pitch
+
+What are the developers around you working on? Find the commit messages
+of people around you and see what languages are being used and the projects.
+
+### Problem
+
+Ever wonder what people are working on around you or elsewhere in the world?
+Find out with GitLocal. See what are the hottest things in any area.
+
+### Solution
+
+Using the Github API, we can do some filtering by location of what people are
+doing and what they're working on.
+
+## Target Audience
+
+Developers across the world that want more data about what's being used where.
+
+### Integrations
+
+Google Maps, Github API.
