@@ -1,5 +1,5 @@
 ### Stravify
-
+** SELECTED **
 ### Pitch
 
 Giving competitive cyclists the most contested routes and visualizing it.
