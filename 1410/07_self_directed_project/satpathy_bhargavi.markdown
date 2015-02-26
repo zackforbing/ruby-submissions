@@ -1,4 +1,4 @@
-### [Plan and Hangout]
+### Plan and Hangout
 
 **SELECTED**
 
@@ -25,7 +25,7 @@ Everyone can with a connected device can use it.
 * Any other integrations - might go into email (SMTP server)
 
 
-### [Social Driving]
+### Social Driving
 
 ### Pitch
 
@@ -51,7 +51,7 @@ Any driver.
 
 
 
-### [Mobile Crew]
+### Mobile Crew
 
 ### Pitch
 
