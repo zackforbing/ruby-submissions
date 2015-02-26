@@ -55,3 +55,28 @@ everyone
 
 ### INtegrations
 google maps
+
+
+
+### Feedbacker
+## Pitch
+Only your closest freinds and family have the balls to give you hoenst constructive
+feedback. Have an anonoymous platform that helps you provide feedback anonymously.
+
+### Problem
+People suck, Let's make them better through feedback.
+
+### Solution
+Create a platform that gives painful unbridled criticism to people anonoymously without
+it turning into a firestorm of unconstructive insults. How to do you draw the line
+between criticism and insults?
+
+### target audience
+Everyone
+
+### INtegrations
+Twitter and facebook.
+
+
+
+### quick and easy
