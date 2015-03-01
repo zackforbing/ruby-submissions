@@ -1,6 +1,6 @@
 ### La Joya
 
-If this project gets selected, put **SELECTED** here
+SELECTED
 
 ### Pitch
 
@@ -33,6 +33,7 @@ Putla and Juxtlahuaxa, Oaxaca, Mexico.
 Facebook.
 
 * What API will you use?
+Facebook
 http://www.collinsdictionary.com/api/
 http://www.dictionaryapi.com/products/api-spanish-dictionary.htm
 
@@ -40,8 +41,6 @@ http://www.dictionaryapi.com/products/api-spanish-dictionary.htm
 No.
 
 ### Buddist Retreats
-
-If this project gets selected, put **SELECTED** here
 
 ### Pitch
 
@@ -75,8 +74,6 @@ http://www.quotesdaddy.com/api Buddha quotes.
 No.
 
 ### Chicken colors
-
-If this project gets selected, put **SELECTED** here
 
 ### Pitch
 
