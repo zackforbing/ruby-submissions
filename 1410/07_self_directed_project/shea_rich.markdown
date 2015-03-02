@@ -1,3 +1,29 @@
+## Rails Trail [This is my official project]
+
+A job trender app that identifies locations around the country that have the most Ruby on Rails jobs as well as the areas that are showing the most growth in those jobs.
+
+### Problem
+
+Difficult to see big picture trends on where specific jobs are located and where they might be headed.
+
+### Solution
+
+Rails Trail will aggregrate all of the Ruby on Rails jobs from Indeed.com and organize the quantitative data into a table (eventually a heatmap). Each day's data will be stored so that it can then be organized into monthly tables to show the job amount increases/decreases in each location.
+A registered user can create an account and receive daily text/emails of jobs in their selected region.
+
+### Target Audience
+
+Ruby on Rails jobseekers
+
+### Integrations
+
+* linkedin, github 
+* Indeed.com 
+* Google heat map 
+
+
+
+
 ## FantasyFit 
 
 FantasyFit is a fitness app that allows users to improve their overall health and fitness by competing against their favorites sports team's opponents fans.
@@ -19,6 +45,9 @@ Any one who watches sports.
 * Facebook or twitter 
 * ESPN 
 * Google maps 
+
+
+
 
 
 ## TreasureHunter 
@@ -44,24 +73,4 @@ Any one who collects things or is searching for something very specific.
 * No other integrations 
 
 
-## CareerPath
 
-A job heat map that shows a visual trend of where the job are and where they are headed.
-
-### Problem
-
-Difficult to see big picture trends on where specific jobs are located and where they might be headed.
-
-### Solution
-
-The CareerPath will use a heat map to visually display where specific jobs are concentrated.
-
-### Target Audience
-
-Jobseekers
-
-### Integrations
-
-* linkedin, github 
-* Bureau of Labor and statistics 
-* Google heat map 
