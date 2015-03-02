@@ -128,7 +128,7 @@ submissions:
       REPL Interface and Game Functionality: 0
       Breaking Logic into Components: 0
   Rob Cornell
-    repository: your_github_repo_url
+    repository: git@github.com:kurohyou108/mastermind.git
     notes: '(filled in by instructor)'
     evaluation:
       Fundamental Ruby & Style: 0
