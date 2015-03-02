@@ -152,7 +152,7 @@ submissions:
       REPL Interface and Game Functionality: 0
       Breaking Logic into Components: 0
   Tony DiNitto
-    repository: your_github_repo_url
+    repository: https://github.com/think41c/mastermind_v2
     notes: '(filled in by instructor)'
     evaluation:
       Fundamental Ruby & Style: 0
