@@ -10,12 +10,12 @@ submissions:
       Breaking Logic into Components: 3
   Chelsea Worrel
       repository: https://github.com/chelseaworrel/mastermind_2.0.git
-    notes: '(filled in by instructor)'
+    notes: 'Good sense of how to break up code. Needs integration tests. Ran into issues testing time, but figured out why time is hard to test on her own. Went above and beyond with colorization.'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Test-Driven Development: 0
-      REPL Interface and Game Functionality: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 3
+      REPL Interface and Game Functionality: 4
+      Breaking Logic into Components: 4
   David Daniel
     repository: your_github_repo_url
     notes: '(filled in by instructor)'
@@ -99,12 +99,12 @@ submissions:
       Breaking Logic into Components: 0
   Michelle Golle
     repository: https://github.com/MichelleGolle/Mastermind
-    notes: '(filled in by instructor)'
+    notes: 'Clean and tidy code, with nothing unnecessary. Unclear on responsibilities between Runner and main game class. Would have been nice to see additional REPL features.'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Test-Driven Development: 0
-      REPL Interface and Game Functionality: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 4
+      Test-Driven Development: 3
+      REPL Interface and Game Functionality: 3
+      Breaking Logic into Components: 3
   Mihir Parikh
     repository: https://github.com/mihir787/mastermind.git
     notes: '(filled in by instructor)'
@@ -115,12 +115,12 @@ submissions:
       Breaking Logic into Components: 0
   Minnie Lee
     repository: your_github_repo_url
-    notes: '(filled in by instructor)'
+    notes: 'Needs to break down runon methods. Nice use of modules, but no clarity on why. More and better tests required.'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Test-Driven Development: 0
-      REPL Interface and Game Functionality: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 2
+      REPL Interface and Game Functionality: 3
+      Breaking Logic into Components: 3
   Patrick Medaugh
     repository: https://github.com/patrickmedaugh/Mastermind
     notes: '(filled in by instructor)'
@@ -158,12 +158,12 @@ submissions:
       Breaking Logic into Components: 3
   Tony DiNitto
     repository: https://github.com/think41c/mastermind_v2
-    notes: '(filled in by instructor)'
+    notes: 'Could use guidance on method and class naming, but good sense of components. Some overly complicated methods for performing game logic. Added high scores to file.'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Test-Driven Development: 0
-      REPL Interface and Game Functionality: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 4
+      Test-Driven Development: 3
+      REPL Interface and Game Functionality: 4
+      Breaking Logic into Components: 4
   Tracy Caruso
     repository: https://github.com/ycartc/MasterMindFinal
     repository2: https://github.com/ycartc/MasterMinded
