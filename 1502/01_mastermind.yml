@@ -1,12 +1,13 @@
 submissions:
   Andrew Carmer
     repository: https://github.com/Carmer/Mastermind/tree/final_mastermind
-    notes: '(filled in by instructor)'
+    notes: 'Good number of tests overall, but the tests themselves need to dig deeper into the code.
+            Game play is fine.'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Test-Driven Development: 0
-      REPL Interface and Game Functionality: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 2
+      REPL Interface and Game Functionality: 3
+      Breaking Logic into Components: 3
   Chelsea Worrel
       repository: https://github.com/chelseaworrel/mastermind_2.0.git
     notes: '(filled in by instructor)'
