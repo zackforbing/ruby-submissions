@@ -20,10 +20,10 @@ submissions:
     repository: your_github_repo_url
     notes: '(filled in by instructor)'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Test-Driven Development: 0
-      REPL Interface and Game Functionality: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2
+      Test-Driven Development: 3
+      REPL Interface and Game Functionality: 4
+      Breaking Logic into Components: 2.5
   Dmitry Vizersky
     repository: https://github.com/Dmitry1007/master_mind
     notes: 'One test failing out of the box. Some test coverage of core game logic. Gameplay is fine with some
@@ -45,10 +45,10 @@ submissions:
     repository: your_github_repo_url
     notes: '(filled in by instructor)'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Test-Driven Development: 0
-      REPL Interface and Game Functionality: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2.5
+      Test-Driven Development: 3
+      REPL Interface and Game Functionality: 2.5
+      Breaking Logic into Components: 3
   Jack Yeh
     repository: your_github_repo_url
     notes: '(filled in by instructor)'
@@ -77,10 +77,10 @@ submissions:
     repository: https://github.com/kristinabrown/mastermind
     notes: '(filled in by instructor)'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Test-Driven Development: 0
-      REPL Interface and Game Functionality: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 4
+      REPL Interface and Game Functionality: 3.5
+      Breaking Logic into Components: 3.5
   Kyle Henson
     repository: git@github.com:kylehenson/mastermind.git
     notes: 'Need more tests. Mastermind.rb is too powerful. Guess feedback is not quite right. Write more of your own code.'
@@ -169,10 +169,10 @@ submissions:
     repository2: https://github.com/ycartc/MasterMinded
     notes: '(filled in by instructor)'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Test-Driven Development: 0
-      REPL Interface and Game Functionality: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2
+      Test-Driven Development: 4
+      REPL Interface and Game Functionality: 3.5
+      Breaking Logic into Components: 2.5
   Tyler Graham
     repository: your_github_repo_url
     notes: '(filled in by instructor)'
