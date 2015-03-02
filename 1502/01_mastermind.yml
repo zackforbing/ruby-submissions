@@ -1,6 +1,6 @@
 submissions:
   Andrew Carmer
-    repository: your_github_repo_url
+    repository: https://github.com/Carmer/Mastermind/tree/final_mastermind
     notes: '(filled in by instructor)'
     evaluation:
       Fundamental Ruby & Style: 0
@@ -8,7 +8,7 @@ submissions:
       REPL Interface and Game Functionality: 0
       Breaking Logic into Components: 0
   Chelsea Worrel
-      repository: your_github_repo_url
+      repository: https://github.com/chelseaworrel/mastermind_2.0.git
     notes: '(filled in by instructor)'
     evaluation:
       Fundamental Ruby & Style: 0
@@ -57,7 +57,7 @@ submissions:
       REPL Interface and Game Functionality: 0
       Breaking Logic into Components: 0
   Jamie Kawahara
-    repository: your_github_repo_url
+    repository: https://github.com/androidgrl/mastermind2
     notes: '(filled in by instructor)'
     evaluation:
       Fundamental Ruby & Style: 0
@@ -65,7 +65,7 @@ submissions:
       REPL Interface and Game Functionality: 0
       Breaking Logic into Components: 0
   Kenny Chen
-    repository: your_github_repo_url
+    repository: https://github.com/boomkenster/Mastermind
     notes: '(filled in by instructor)'
     evaluation:
       Fundamental Ruby & Style: 0
@@ -73,7 +73,7 @@ submissions:
       REPL Interface and Game Functionality: 0
       Breaking Logic into Components: 0
   Kristina Brown
-    repository: your_github_repo_url
+    repository: https://github.com/kristinabrown/mastermind
     notes: '(filled in by instructor)'
     evaluation:
       Fundamental Ruby & Style: 0
@@ -89,7 +89,7 @@ submissions:
       REPL Interface and Game Functionality: 2
       Breaking Logic into Components: 2
   Michael Merrill
-    repository: your_github_repo_url
+    repository: https://github.com/michaelkm/mastermind
     notes: '(filled in by instructor)'
     evaluation:
       Fundamental Ruby & Style: 0
@@ -97,7 +97,7 @@ submissions:
       REPL Interface and Game Functionality: 0
       Breaking Logic into Components: 0
   Michelle Golle
-    repository: your_github_repo_url
+    repository: https://github.com/MichelleGolle/Mastermind
     notes: '(filled in by instructor)'
     evaluation:
       Fundamental Ruby & Style: 0
@@ -105,7 +105,7 @@ submissions:
       REPL Interface and Game Functionality: 0
       Breaking Logic into Components: 0
   Mihir Parikh
-    repository: your_github_repo_url
+    repository: https://github.com/mihir787/mastermind.git
     notes: '(filled in by instructor)'
     evaluation:
       Fundamental Ruby & Style: 0
@@ -121,7 +121,7 @@ submissions:
       REPL Interface and Game Functionality: 0
       Breaking Logic into Components: 0
   Patrick Medaugh
-    repository: your_github_repo_url
+    repository: https://github.com/patrickmedaugh/Mastermind
     notes: '(filled in by instructor)'
     evaluation:
       Fundamental Ruby & Style: 0
@@ -129,7 +129,7 @@ submissions:
       REPL Interface and Game Functionality: 0
       Breaking Logic into Components: 0
   Rob Cornell
-    repository: your_github_repo_url
+    repository: git@github.com:kurohyou108/mastermind.git
     notes: 'No tests. Guess feedback is good for correct element in correct position, but misses right element
             in the wrong position. Code needs more refinement. Extract small classes with a single responsibility.'
     evaluation:
@@ -138,7 +138,7 @@ submissions:
       REPL Interface and Game Functionality: 2
       Breaking Logic into Components: 2
   Tess Griffin
-    repository: your_github_repo_url
+    repository: https://github.com/tessgriffin/mastermind-1
     notes: 'Lots of good, interesting ideas. A little bit tangled in some implementation
             details. '
     evaluation:
@@ -156,7 +156,7 @@ submissions:
       REPL Interface and Game Functionality: 2
       Breaking Logic into Components: 3
   Tony DiNitto
-    repository: your_github_repo_url
+    repository: https://github.com/think41c/mastermind_v2
     notes: '(filled in by instructor)'
     evaluation:
       Fundamental Ruby & Style: 0
@@ -164,7 +164,8 @@ submissions:
       REPL Interface and Game Functionality: 0
       Breaking Logic into Components: 0
   Tracy Caruso
-    repository: your_github_repo_url
+    repository: https://github.com/ycartc/MasterMindFinal
+    repository2: https://github.com/ycartc/MasterMinded
     notes: '(filled in by instructor)'
     evaluation:
       Fundamental Ruby & Style: 0
