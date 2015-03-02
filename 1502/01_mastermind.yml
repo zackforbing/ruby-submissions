@@ -24,13 +24,14 @@ submissions:
       REPL Interface and Game Functionality: 0
       Breaking Logic into Components: 0
   Dmitry Vizersky
-    repository: your_github_repo_url
-    notes: '(filled in by instructor)'
+    repository: https://github.com/Dmitry1007/master_mind
+    notes: 'One test failing out of the box. Some test coverage of core game logic. Gameplay is fine with some
+            disagreement on feedback. Few objects with too many jobs.'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Test-Driven Development: 0
-      REPL Interface and Game Functionality: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 2
+      REPL Interface and Game Functionality: 3
+      Breaking Logic into Components: 2
   Eric Dowty
     repository: your_github_repo_url
     notes: '(filled in by instructor)'
@@ -80,13 +81,13 @@ submissions:
       REPL Interface and Game Functionality: 0
       Breaking Logic into Components: 0
   Kyle Henson
-    repository: your_github_repo_url
-    notes: '(filled in by instructor)'
+    repository: git@github.com:kylehenson/mastermind.git
+    notes: 'Need more tests. Mastermind.rb is too powerful. Guess feedback is not quite right. Write more of your own code.'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Test-Driven Development: 0
-      REPL Interface and Game Functionality: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2
+      Test-Driven Development: 2
+      REPL Interface and Game Functionality: 2
+      Breaking Logic into Components: 2
   Michael Merrill
     repository: your_github_repo_url
     notes: '(filled in by instructor)'
@@ -129,28 +130,31 @@ submissions:
       Breaking Logic into Components: 0
   Rob Cornell
     repository: your_github_repo_url
-    notes: '(filled in by instructor)'
+    notes: 'No tests. Guess feedback is good for correct element in correct position, but misses right element
+            in the wrong position. Code needs more refinement. Extract small classes with a single responsibility.'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Test-Driven Development: 0
-      REPL Interface and Game Functionality: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2
+      Test-Driven Development: 1
+      REPL Interface and Game Functionality: 2
+      Breaking Logic into Components: 2
   Tess Griffin
     repository: your_github_repo_url
-    notes: '(filled in by instructor)'
+    notes: 'Lots of good, interesting ideas. A little bit tangled in some implementation
+            details. '
     evaluation:
-      Fundamental Ruby & Style: 0
-      Test-Driven Development: 0
-      REPL Interface and Game Functionality: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 3
+      REPL Interface and Game Functionality: 3
+      Breaking Logic into Components: 3
   Thomas Leskin
     repository: your_github_repo_url
-    notes: '(filled in by instructor)'
+    notes: 'Two failing tests, 10% of tests. Need tests to cover more of the functionality. Incorrect feedback
+            on guesses. Decent job breaking out components. Not bad ruby style.'
     evaluation:
-      Fundamental Ruby & Style: 0
-      Test-Driven Development: 0
-      REPL Interface and Game Functionality: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 2
+      REPL Interface and Game Functionality: 2
+      Breaking Logic into Components: 3
   Tony DiNitto
     repository: your_github_repo_url
     notes: '(filled in by instructor)'
