@@ -120,7 +120,7 @@ submissions:
       REPL Interface and Game Functionality: 0
       Breaking Logic into Components: 0
   Patrick Medaugh
-    repository: your_github_repo_url
+    repository: https://github.com/patrickmedaugh/Mastermind
     notes: '(filled in by instructor)'
     evaluation:
       Fundamental Ruby & Style: 0
