@@ -1,7 +1,5 @@
 ### PlanToMeet
 
-**SELECTED**
-
 ### Pitch
 
 A tool that recommends meetup events to you by text and/or email
@@ -31,11 +29,5 @@ while connecting with people who have similar interests.
 
 ### Integrations
 
-* What OAuth provider makes sense for this audience?
-  Meetup.com
-
-* What API will you use?
-  Meetup.com
-
-* Any other integrations?
-  possibly the Google calendar api
+* Meetup.com
+* Google Calendar API

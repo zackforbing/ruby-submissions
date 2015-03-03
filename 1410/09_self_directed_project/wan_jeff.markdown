@@ -1,6 +1,4 @@
 ### FlyAwayFromHere
-### (Or HedonismBot)
-
 
 ### Pitch
 
@@ -33,53 +31,6 @@ Middle class or lower-income people who want to enjoy life and take a trip.
 
 ### Integrations
 
-  Facebook. You can post trips you booked to where. Anybody want to join?
-  Kayak and maybe Cheaptickets
-  Google Maps.
-
-
-
-
-
-### ThePickUp
-## Pitch
-Google maps search for courts and fields to see how hot they are right now. Hotness
-based on check-ins so that a person can find a pickup game.
-
-### problem
-Google maps does not currently show how hot a location is right now. Nor do they
-show newcomers to a city where rec centers or bball courts are
-
-### Solution
-show a google map that show hot spots for sports
-
-### target audience
-everyone
-
-### INtegrations
-google maps
-
-
-
-### Feedbacker
-## Pitch
-Only your closest freinds and family have the balls to give you hoenst constructive
-feedback. Have an anonoymous platform that helps you provide feedback anonymously.
-
-### Problem
-People suck, Let's make them better through feedback.
-
-### Solution
-Create a platform that gives painful unbridled criticism to people anonoymously without
-it turning into a firestorm of unconstructive insults. How to do you draw the line
-between criticism and insults?
-
-### target audience
-Everyone
-
-### INtegrations
-Twitter and facebook.
-
-
-
-### quick and easy
+* Facebook
+* Kayak and maybe Cheaptickets
+* Google Maps
