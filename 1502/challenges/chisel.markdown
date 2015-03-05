@@ -13,7 +13,7 @@
 * Kyle Henson: (replace with your repo url here)
 * Michael Merrill: (replace with your repo url here)
 * Michelle Golle: (https://github.com/MichelleGolle/Chisel)
-* Mihir Parikh: (replace with your repo url here)
+* Mihir Parikh: (https://github.com/mihir787/chisel.git)
 * Minnie Lee: (replace with your repo url here)
 * Patrick Medaugh: (replace with your repo url here)
 * Rob Cornell: (https://github.com/kurohyou108/chisel/blob/master/README.md)

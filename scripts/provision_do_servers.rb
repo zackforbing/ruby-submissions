@@ -1,11 +1,8 @@
 require_relative 'provisioner_do'
 
 students = [
-    "journaling",
-    "warmitup",
-    "mentorship",
-    "jobbasket"
-  ]
+  'horace'
+]
 
 pro = Provisioner::DO.new
 students.each do |student|
