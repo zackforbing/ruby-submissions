@@ -1,7 +1,7 @@
 submissions:
   Dustin:
-    repository: https://github.com/...
-    setup_notes: ""
+    repository: https://github.com/DSynergy/IdeaBox
+    setup_notes: "user: d, pass: g"
   Trey:
     repository: https://github.com/...
     setup_notes: ""
