@@ -33,8 +33,8 @@ submissions:
     repository: https://github.com/...
     setup_notes: ""
   Mac:
-    repository: https://github.com/...
-    setup_notes: ""
+    repository: https://github.com/mcshakes/IdeaBox
+    setup_notes: "admin username: admin password: hammer. Had trouble viewing individual users' ideas."
   Fred:
     repository: https://github.com/...
     setup_notes: ""
