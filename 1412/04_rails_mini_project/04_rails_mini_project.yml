@@ -39,8 +39,8 @@ submissions:
     repository: https://github.com/...
     setup_notes: ""
   DJ:
-    repository: https://github.com/...
-    setup_notes: ""
+    repository: https://github.com/AllPurposeName/point-box
+    setup_notes: "run ```rake db:drop db:create db:migrate db:seed``` the two seeded users are DJ password: pw and Kaitryn password: pw"
   Miriam:
     repository: https://github.com/...
     setup_notes: ""
