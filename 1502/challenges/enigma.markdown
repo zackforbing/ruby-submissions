@@ -119,46 +119,6 @@ submissions:
       Test-Driven Development: 3
       File I/O: 3
       Breaking Logic into Components: 3
-  David Daniel:
-    repository:
-    notes:
-    evaluation:
-      Fundamental Ruby & Style:
-      Test-Driven Development:
-      File I/O:
-      Breaking Logic into Components:
-  Dmitry Vizersky:
-    repository:
-    notes:
-    evaluation:
-      Fundamental Ruby & Style:
-      Test-Driven Development:
-      File I/O:
-      Breaking Logic into Components:
-  Eugene Khanutin:
-    repository:
-    notes:
-    evaluation:
-      Fundamental Ruby & Style:
-      Test-Driven Development:
-      File I/O:
-      Breaking Logic into Components:
-  Kyle Henson:
-    repository:
-    notes:
-    evaluation:
-      Fundamental Ruby & Style:
-      Test-Driven Development:
-      File I/O:
-      Breaking Logic into Components:
-  Rob Cornell:
-    repository:
-    notes:
-    evaluation:
-      Fundamental Ruby & Style:
-      Test-Driven Development:
-      File I/O:
-      Breaking Logic into Components:
   Thomas Leskin:
     repository:
     notes:
@@ -191,3 +151,43 @@ submissions:
       Test-Driven Development:
       File I/O:
       Breaking Logic into Components:
+  David Daniel:
+    repository: 
+    notes: 'Great job with testing in isolation and integration.'
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 4
+      File I/O: 4
+      Breaking Logic into Components: 3
+  Dmitry:
+    repository: https://github.com/Dmitry1007/enigma
+    notes: 'Would like to see more edge cases tested even if you have 100% coverage. '
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 3
+      File I/O: 3
+      Breaking Logic into Components: 3
+  Eugene:
+    repository: 
+    notes: ''
+    evaluation:
+      Fundamental Ruby & Style: 3
+      Test-Driven Development: 3
+      File I/O: 3
+      Breaking Logic into Components: 3
+  Kyle:
+    repository: 
+    notes: 'Components tested individually but missing some integrated tests. Missing crack functionality which is reason for 2 on fundamental ruby and style."
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Test-Driven Development: 2
+      File I/O: 3
+      Breaking Logic into Components: 3
+  Rob:
+    repository: https://github.com/kurohyou108/enigma
+    notes: "Looks like you have a good start with testing but unable to run. Encrypt and decrypt work, but missing crack functionality which is the reason for score of 2 in ruby style. "
+    evaluation:
+      Fundamental Ruby & Style: 2
+      Test-Driven Development: 2
+      File I/O: 3
+      Breaking Logic into Components: 2
