@@ -208,8 +208,13 @@ submissions:
       REPL Interface and Game Functionality: 3
       Breaking Logic into Components: 3
   Minnie Lee
+<<<<<<< HEAD
     repository: your_github_repo_url
     notes: 'Needs to break down runon methods. Nice use of modules, but no clarity on why. More and better tests required.'
+=======
+    repository: https://github.com/MLee21/Mastermind
+    notes: '(filled in by instructor)'
+>>>>>>> added URL.
     evaluation:
       Fundamental Ruby & Style: 3
       Test-Driven Development: 2
