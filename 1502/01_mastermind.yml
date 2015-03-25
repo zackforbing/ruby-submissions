@@ -287,6 +287,9 @@ submissions:
       REPL Interface and Game Functionality: 3.5
       Breaking Logic into Components: 2.5
   Tyler Graham
+    repository: https://github.com/tgraham777/master_mind
+    notes: '(filled in by instructor)'
+=======
     repository: your_github_repo_url
     notes: |
       1. Fundamental Ruby & Style
