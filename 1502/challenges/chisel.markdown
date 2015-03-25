@@ -14,7 +14,7 @@
 * Michael Merrill: (replace with your repo url here)
 * Michelle Golle: (https://github.com/MichelleGolle/Chisel)
 * Mihir Parikh: (https://github.com/mihir787/chisel.git)
-* Minnie Lee: (replace with your repo url here)
+* Minnie Lee: https://github.com/MLee21/Chisel
 * Patrick Medaugh: (replace with your repo url here)
 * Rob Cornell: (https://github.com/kurohyou108/chisel/blob/master/README.md)
 * Tess Griffin: (https://github.com/tessgriffin/chisel)
