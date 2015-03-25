@@ -2,19 +2,10 @@ submissions:
   Andrew Carmer:
     repository: 
     notes: ""
-  Chelsea Worrel:
-    repository: 
-    notes: ""
   David Daniel:
     repository: 
     notes: ""
-  Dmitry Vizersky:
-    repository: 
-    notes: ""
   Eric Dowty:
-    repository: 
-    notes: ""
-  Eugene Khanutin:
     repository: 
     notes: ""
   Jack Yeh:
@@ -24,16 +15,14 @@ submissions:
     repository: 
     notes: ""
   Kenny Chen:
-    repository: 
+    repository: https://github.com/boomkenster/interest_site
     notes: ""
   Kristina Brown:
-    repository: 
-    notes: ""
+    repository: https://github.com/kristinabrown/personal-webpage
+    notes: http://kristinabrown.github.io/personal-webpage/ 
+    and a bootstrap version for fun: http://kristinabrown.github.io/personal-webpage-bootstrapped/
   Kyle Henson:
     repository:
-    notes: ""
-  Michael Merrill:
-    repository: 
     notes: ""
   Michelle Golle:
     repository: 
@@ -47,9 +36,6 @@ submissions:
   Patrick Medaugh:
     repository: 
     notes: ""
-  Rob Cornell:
-    repository: 
-    notes: ""
   Tess Griffin:
     repository: 
     notes: ""
@@ -60,8 +46,8 @@ submissions:
     repository: 
     notes: ""
   Tracy Caruso:
-    repository: 
-    notes: ""
+    repository: https://github.com/ycartc/personal_website
+    notes: http://tracymcaruso.com/
   Tyler Graham:
     repository: 
     notes: ""
