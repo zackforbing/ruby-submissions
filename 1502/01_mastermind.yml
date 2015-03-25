@@ -212,8 +212,6 @@ submissions:
     notes: 'Needs to break down runon methods. Nice use of modules, but no clarity on why. More and better tests required.'
     repository: https://github.com/MLee21/Mastermind
     notes: '(filled in by instructor)'
-    repository: https://github.com/MLee21/Mastermind
-    notes: '(filled in by instructor)'
     evaluation:
       Fundamental Ruby & Style: 3
       Test-Driven Development: 2
