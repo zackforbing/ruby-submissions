@@ -210,6 +210,8 @@ submissions:
   Minnie Lee
     repository: your_github_repo_url
     notes: 'Needs to break down runon methods. Nice use of modules, but no clarity on why. More and better tests required.'
+    repository: https://github.com/MLee21/Mastermind
+    notes: '(filled in by instructor)'
     evaluation:
       Fundamental Ruby & Style: 3
       Test-Driven Development: 2
@@ -285,6 +287,9 @@ submissions:
       REPL Interface and Game Functionality: 3.5
       Breaking Logic into Components: 2.5
   Tyler Graham
+    repository: https://github.com/tgraham777/master_mind
+    notes: '(filled in by instructor)'
+=======
     repository: your_github_repo_url
     notes: |
       1. Fundamental Ruby & Style

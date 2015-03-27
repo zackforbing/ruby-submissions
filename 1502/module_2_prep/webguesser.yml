@@ -18,7 +18,7 @@ submissions:
     repository:
     notes: ""
   Jack Yeh:
-    repository:
+    repository: https://github.com/jxandery/web_guesser
     notes: ""
   Jamie Kawahara:
     repository: https://github.com/androidgrl/webguesser
@@ -63,5 +63,5 @@ submissions:
     repository:
     notes: ""
   Tyler Graham:
-    repository:
+    repository: https://github.com/tgraham777/web_guesser
     notes: ""

@@ -1,6 +1,6 @@
 submissions:
   Andrew Carmer:
-    repository:
+    repository: https://github.com/carmer/task_manager
     notes: ""
   Chelsea Worrel:
     repository:
@@ -27,7 +27,7 @@ submissions:
     repository: https://github.com/boomkenster/task_manager
     notes: ""
   Kristina Brown:
-    repository:
+    repository: https://github.com/kristinabrown/task-manager
     notes: ""
   Kyle Henson:
     repository:
@@ -50,7 +50,7 @@ submissions:
   Rob Cornell:
     repository:
     notes: ""
-  Tess Griffin:
+  Tess Griffin: https://github.com/tessgriffin/task_manager
     repository:
     notes: ""
   Thomas Leskin:
