@@ -11,8 +11,8 @@ submissions:
   Dmitry Vizersky:
     repository:
     notes: ""
-  Eric Dowty:
-    repository:
+  Eric Dowty: 
+    repository: https://github.com/eric-dowty/web_guesser
     notes: ""
   Eugene Khanutin:
     repository:
