@@ -2,20 +2,11 @@ submissions:
   Andrew Carmer:
     repository: https://github.com/carmer/task_manager
     notes: ""
-  Chelsea Worrel:
-    repository:
-    notes: ""
-  David Daniel: https://github.com/davedan7/task_manager
-    repository:
-    notes: ""
-  Dmitry Vizersky:
-    repository:
+  David Daniel: 
+    repository: https://github.com/davedan7/task_manager
     notes: ""
   Eric Dowty:
     repository: https://github.com/eric-dowty/task_manager
-    notes: ""
-  Eugene Khanutin:
-    repository:
     notes: ""
   Jack Yeh:
     repository:https://github.com/jxandery/task_manager
@@ -32,14 +23,11 @@ submissions:
   Kyle Henson:
     repository: https://github.com/kylehenson/task_manager
     notes: ""
-  Michael Merrill:
-    repository:
-    notes: ""
   Michelle Golle:
     repository:
     notes: ""
-  Mihir Parikh: https://github.com/mihir787/task_mananger
-    repository:
+  Mihir Parikh: 
+    repository: https://github.com/mihir787/task_mananger
     notes: ""
   Minnie Lee: 
     repository: https://github.com/MLee21/task_manager
@@ -47,20 +35,14 @@ submissions:
   Patrick Medaugh:
     repository: https://github.com/patrickmedaugh/Task-Manager
     notes: ""
-  Rob Cornell:
-    repository:
-    notes: ""
-  Tess Griffin: https://github.com/tessgriffin/task_manager
-    repository:
+  Tess Griffin: 
+    repository: https://github.com/tessgriffin/task_manager
     notes: ""
   Thomas Leskin:
     repository: https://github.com/tleskin/task_manager
     notes: ""
-  Tony DiNitto:
-    repository:
-    notes: ""
   Tracy Caruso:
-    repository:
+    repository: https://github.com/ycartc/task_manager
     notes: ""
   Tyler Graham:
     repository:

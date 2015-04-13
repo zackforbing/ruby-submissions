@@ -1,0 +1,62 @@
+submissions:
+  Kyle, Kristina, Michelle:
+    repository: https://github.com/kristinabrown/traffic-spy
+    setup_notes: "parse_payload.rb:47:in `find_url_id'; payload saying it exists when it doesn't exist yet; get rid of duplicated code in your tests;"
+    instructor_evaluation:
+      notes: 
+      rubric:
+        Functional Expectations: 2.5
+        Test-Driven Development: 3
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 4
+        Sinatra / Web and Business Logic: 4
+        View Layer: 4
+  Kenny, Jack:
+    repository: 
+    setup_notes: "need more robust tests; source registration works; can see all event data per identifier; problem with superclass mismatch for class UserAgent; views are on the right track -- would have liked to see more views implemented; great job delegating business logic to models instead of keeping in controller; "
+    instructor_evaluation:
+      notes: 
+      rubric:
+        Functional Expectations: 1.5
+        Test-Driven Development: 2
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3.5
+        View Layer: 2.5
+  GROUP NAMES :
+    repository: 
+    setup_notes: ""
+    instructor_evaluation:
+      notes: 
+      rubric:
+        Functional Expectations: 
+        Test-Driven Development: 
+        Encapsulation / Components: 
+        Fundamental Ruby & Style: 
+        Sinatra / Web and Business Logic: 
+        View Layer:
+ GROUP NAMES :
+    repository: 
+    setup_notes: ""
+    instructor_evaluation:
+      notes: 
+      rubric:
+        Functional Expectations: 
+        Test-Driven Development: 
+        Encapsulation / Components: 
+        Fundamental Ruby & Style: 
+        Sinatra / Web and Business Logic: 
+        View Layer:
+ GROUP NAMES :
+    repository: 
+    setup_notes: ""
+    instructor_evaluation:
+      notes: 
+      rubric:
+        Functional Expectations: 
+        Test-Driven Development: 
+        Encapsulation / Components: 
+        Fundamental Ruby & Style: 
+        Sinatra / Web and Business Logic: 
+        View Layer:
+ 
