@@ -23,40 +23,40 @@ submissions:
         Fundamental Ruby & Style: 3
         Sinatra / Web and Business Logic: 3.5
         View Layer: 2.5
-  GROUP NAMES :
-    repository: 
-    setup_notes: ""
+  Andrew, Dave, Eric:
+    repository: https://github.com/Carmer/traffic-spy-skeleton
+    setup_notes: "tests look awesome, great coverage; check weird behavior of posting payload with nonexistant source; all statistical data appears correctly in views"
     instructor_evaluation:
       notes: 
       rubric:
-        Functional Expectations: 
-        Test-Driven Development: 
-        Encapsulation / Components: 
-        Fundamental Ruby & Style: 
-        Sinatra / Web and Business Logic: 
-        View Layer:
- GROUP NAMES :
-    repository: 
-    setup_notes: ""
+        Functional Expectations: 3
+        Test-Driven Development: 4
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style: 4
+        Sinatra / Web and Business Logic: 3.5
+        View Layer: 3
+ Minnie, Patrick, Mihir:
+    repository: https://github.com/MLee21/Traffic_Spy
+    setup_notes: "source_creator.rb:7:in `raw_source' when missing param; Payload created even when sending in empty params, move 'new_payload.validate' from controller to model; send minimal instance variables to views"
     instructor_evaluation:
       notes: 
       rubric:
-        Functional Expectations: 
-        Test-Driven Development: 
-        Encapsulation / Components: 
-        Fundamental Ruby & Style: 
-        Sinatra / Web and Business Logic: 
-        View Layer:
- GROUP NAMES :
+        Functional Expectations: 3
+        Test-Driven Development: 3
+        Encapsulation / Components: 2.5
+        Fundamental Ruby & Style: 2.5
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3
+ Tracy, Tess, Tom:
     repository: 
-    setup_notes: ""
+    setup_notes: "tests look pretty good, make sure to test all models (payload helper, etc.); excellent job with clean views"
     instructor_evaluation:
       notes: 
       rubric:
-        Functional Expectations: 
-        Test-Driven Development: 
-        Encapsulation / Components: 
-        Fundamental Ruby & Style: 
-        Sinatra / Web and Business Logic: 
-        View Layer:
+        Functional Expectations: 3
+        Test-Driven Development: 3.5
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3.5
+        View Layer: 3.5
  
