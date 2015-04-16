@@ -1,6 +1,6 @@
 ### Rick Bacci
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/RickBacci/enigma
 * Fundamental Ruby:
 * TDD:
 * File I/O:
