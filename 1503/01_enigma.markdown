@@ -118,11 +118,12 @@
 ### Dave Maurer
 
 * Project GitHub URL:
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Fundamental Ruby: 3
+* TDD: 2
+* File I/O: 2
+* Components: 3
+* Notes: Need to spend some time on how to construct tests and improve understandings of assert. Maybe a class
+session? Code is well factored into small pieces. Doesn't decrypt. 
 
 ### Michael Merrill
 
