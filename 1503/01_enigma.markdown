@@ -73,11 +73,11 @@
 ### Justin Holmes
 
 * Project GitHub URL:
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Fundamental Ruby: 3
+* TDD: 3
+* File I/O: 3
+* Components: 3
+* Notes: Tests look good. Well written code, need a bit more architecture.
 
 ### Eugene Khanutin
 
