@@ -88,29 +88,29 @@
 ### Whitney Hiemstra
 
 * Project GitHub URL: https://github.com/whiemstra/enigma.git
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Fundamental Ruby: 3
+* TDD: 3
+* File I/O: 3
+* Components: 3
+* Notes: Good testing, put a little attention into edge cases. Well done project overall.
 
 ### Justin Holmes
 
 * Project GitHub URL:https://github.com/Justin-Holmes/enigma
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Fundamental Ruby: 3
+* TDD: 3
+* File I/O: 3
+* Components: 3
+* Notes: Tests look good. Well written code, need a bit more architecture.
 
 ### Eugene Khanutin
 
 * Project GitHub URL:
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Fundamental Ruby: 3
+* TDD: 3
+* File I/O: 2
+* Components: 3
+* Notes: Good code, good tests, well broken apart, just missing the decrypt from command line.
 
 ### Lev Kravinsky
 
@@ -157,11 +157,12 @@
 ### Dave Maurer
 
 * Project GitHub URL:
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Fundamental Ruby: 3
+* TDD: 2
+* File I/O: 2
+* Components: 3
+* Notes: Need to spend some time on how to construct tests and improve understandings of assert. Maybe a class
+session? Code is well factored into small pieces. Doesn't decrypt. 
 
 ### Michael Merrill
 
@@ -175,11 +176,11 @@
 ### Morgan Miller
 
 * Project GitHub URL: https://github.com/morganmiller/enigma
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Fundamental Ruby: 3
+* TDD: 3
+* File I/O: 4
+* Components: 3
+* Notes: Like that you tested edge cases. Code looks good. A few little leaks with componentization.
 
 ### Drew Reynolds
 
@@ -198,11 +199,13 @@
 ### Max Tedford
 
 * Project GitHub URL: https://github.com/maxtedford/enigma
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Fundamental Ruby: 3
+* TDD: 3
+* File I/O: 3
+* Components: 3
+* Notes: Testing needs a bit more depth and breadth. Good coverage of components, but need more attention
+to edge cases and tighter validation out results. Good decomposition. Keep an eye out for specialty tools to solve
+appropriate problems -- like the zip method. 
 
 ### Dmitry Vizersky
 
