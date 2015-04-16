@@ -64,11 +64,11 @@
 ### Whitney Hiemstra
 
 * Project GitHub URL: https://github.com/whiemstra/enigma.git
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Fundamental Ruby: 3
+* TDD: 3
+* File I/O: 3
+* Components: 3
+* Notes: Good testing, put a little attention into edge cases. Well done project overall.
 
 ### Justin Holmes
 
