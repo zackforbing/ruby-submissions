@@ -9,7 +9,7 @@
 
 ### Erik Butcher
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/with-a-k/enigma
 * Fundamental Ruby:
 * TDD:
 * File I/O:
