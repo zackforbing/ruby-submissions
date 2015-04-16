@@ -144,12 +144,12 @@
 
 ### Drew Reynolds
 
-* Project GitHub URL:
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Project GitHub URL: https://github.com/NYDrewReynolds/my_enigma
+* Fundamental Ruby: https://github.com/NYDrewReynolds/my_enigma/tree/master/lib
+* TDD: https://github.com/NYDrewReynolds/my_enigma/tree/master/test
+* File I/O: https://github.com/NYDrewReynolds/my_enigma/blob/master/lib/encrypt.rb
+* Components: https://github.com/NYDrewReynolds/my_enigma
+* Notes: 
 
 ### Max Tedford
 
