@@ -27,7 +27,7 @@
 
 ### Rob Cornell
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/RMCornell/enigma_1.git
 * Fundamental Ruby:
 * TDD:
 * File I/O:
