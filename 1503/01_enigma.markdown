@@ -155,11 +155,13 @@ session? Code is well factored into small pieces. Doesn't decrypt.
 ### Max Tedford
 
 * Project GitHub URL: https://github.com/maxtedford/enigma
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Fundamental Ruby: 3
+* TDD: 3
+* File I/O: 3
+* Components: 3
+* Notes: Testing needs a bit more depth and breadth. Good coverage of components, but need more attention
+to edge cases and tighter validation out results. Good decomposition. Keep an eye out for specialty tools to solve
+appropriate problems -- like the zip method. 
 
 ### Dmitry Vizersky
 
