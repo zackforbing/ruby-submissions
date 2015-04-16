@@ -72,7 +72,7 @@
 
 ### Justin Holmes
 
-* Project GitHub URL:
+* Project GitHub URL:https://github.com/Justin-Holmes/enigma
 * Fundamental Ruby:
 * TDD:
 * File I/O:
