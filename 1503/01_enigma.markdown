@@ -153,7 +153,7 @@
 
 ### Max Tedford
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/maxtedford/enigma
 * Fundamental Ruby:
 * TDD:
 * File I/O:
