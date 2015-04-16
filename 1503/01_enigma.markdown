@@ -54,7 +54,7 @@
 
 ### Brett Grigsby
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/brettgrigsby/projects/tree/master/enigma
 * Fundamental Ruby:
 * TDD:
 * File I/O:
