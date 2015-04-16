@@ -10,20 +10,27 @@
 ### Erik Butcher
 
 * Project GitHub URL: https://github.com/with-a-k/enigma
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Fundamental Ruby: 3.5
+* TDD: 3.5
+* File I/O: 4
+* Components: 4
+* Notes: Great job overall; tests are thorough and components are
+  well-factored. Next steps might be to pursure some more specific
+  enumerables in a few places and look at common logic/patterns between
+  runner files. Also don't be afraid to use git and delete old code. A
+  few places where we could get away without an instance variable for data
+  that isn't intended to be changed.
 
 ### Josh Cass
 
 * Project GitHub URL: https://github.com/joshcass/enigma
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Fundamental Ruby: 4
+* TDD: 4
+* File I/O: 4
+* Components: 3.5
+* Notes: Great job overall; keep an eye out for opportunities to use
+  ruby enumerables to avoid index math. Great test coverage, don't be
+  afraid to cut obsolete tests.
 
 ### Rob Cornell
 
@@ -47,21 +54,29 @@
 
 ### Andrew Fink
 
-* Project GitHub URL:
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Project GitHub URL: https://github.com/adfink/enigma
+* Fundamental Ruby: 3
+* TDD: 3
+* File I/O: 3
+* Components: 3
+* Notes: Not bad overall; good work getting the project to completion
+  with the proper interface. Tests are good and component factoring is
+  overall pretty with perhaps a couple remaining opportunities to pull out an
+  additional object. Ruby style and enumerables are good; main thing to
+  watch out for here is unnecessary use of instance variables and
+  attr_accessors.
 
 ### Vanessa Gomez
 
 * Project GitHub URL: https://github.com/vanegomez/enigma.git
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Fundamental Ruby: 3.5
+* TDD: 3
+* File I/O: 2
+* Components: 3.5
+* Notes: Code that we have is quite good, components are well factored
+  and code is clean and readable; we're just missing the remaining Crack
+  feature, and a couple small details with the program output (displaying
+  the key and date used, etc)
 
 ### Brett Grigsby
 
@@ -138,21 +153,32 @@
 
 ### Margarett Ly
 
-* Project GitHub URL:
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Project GitHub URL: https://github.com/aoili/enigma_challenge
+* Fundamental Ruby: 3
+* TDD: 3
+* File I/O: 2
+* Components: 2
+* Notes: Good work the test suite; several of the components are well
+  thought out and I appreciate the attention to edge cases and error
+  handling. Unfortunately we're missing the core interface (CLI) of the
+  program and there's a general tendency toward over-complexity in some of
+  the components. I think more focused use of the appropriate
+  enumerables could help tighten up some of the code issues.
 
 ### Sally MacNicholas
 
 * Project GitHub URL: https://github.com/sallymacnicholas/enigma.git
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Fundamental Ruby: 3
+* TDD: 3
+* File I/O: 3
+* Components: 3
+* Notes: Pretty solid across the board; generally good attention to
+  tests although there are some gaps surrounding the Cracking logic. The
+  components are overall well-factored and easy to re-use and the
+  interface/runner files are pretty small (with the exception of the
+  Cracker which is kind of doing everything). Ruby style is pretty good
+  and enumerable usage is pretty proficient; main thing to look out for is
+  overuse of instance variables in cases where it's not really necessary.
 
 ### Dave Maurer
 
@@ -210,11 +236,14 @@ appropriate problems -- like the zip method.
 ### Dmitry Vizersky
 
 * Project GitHub URL: https://github.com/Dmitry1007/enigma_reloaded
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Fundamental Ruby: 3
+* TDD: 3
+* File I/O: 3
+* Components: 3
+* Notes: Project works and has some unconventional structure behind it;
+  following a very functional style using lots of class methods for
+  every behavior. Also some bizarre uses of constants to store data
+  which isn't actually constant.
 
 ### Chelsea Worrel
 
