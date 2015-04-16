@@ -137,11 +137,11 @@ session? Code is well factored into small pieces. Doesn't decrypt.
 ### Morgan Miller
 
 * Project GitHub URL: https://github.com/morganmiller/enigma
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Fundamental Ruby: 3
+* TDD: 3
+* File I/O: 4
+* Components: 3
+* Notes: Like that you tested edge cases. Code looks good. A few little leaks with componentization.
 
 ### Drew Reynolds
 
