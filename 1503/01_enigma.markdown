@@ -45,7 +45,7 @@
 
 ### Vanessa Gomez
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/vanegomez/enigma.git
 * Fundamental Ruby:
 * TDD:
 * File I/O:
