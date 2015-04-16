@@ -63,7 +63,7 @@
 
 ### Whitney Hiemstra
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/whiemstra/enigma.git
 * Fundamental Ruby:
 * TDD:
 * File I/O:
