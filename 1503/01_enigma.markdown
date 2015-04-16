@@ -1,6 +1,6 @@
 ### Rick Bacci
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/RickBacci/enigma
 * Fundamental Ruby:
 * TDD:
 * File I/O:
@@ -18,7 +18,7 @@
 
 ### Josh Cass
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/joshcass/enigma
 * Fundamental Ruby:
 * TDD:
 * File I/O:
@@ -72,7 +72,7 @@
 
 ### Justin Holmes
 
-* Project GitHub URL:
+* Project GitHub URL:https://github.com/Justin-Holmes/enigma
 * Fundamental Ruby: 3
 * TDD: 3
 * File I/O: 3
@@ -165,7 +165,7 @@ appropriate problems -- like the zip method.
 
 ### Dmitry Vizersky
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/Dmitry1007/enigma_reloaded
 * Fundamental Ruby:
 * TDD:
 * File I/O:
@@ -174,7 +174,7 @@ appropriate problems -- like the zip method.
 
 ### Chelsea Worrel
 
-* Project GitHub URL:
+* Project GitHub URL:https://github.com/chelseaworrel/enigma.git
 * Fundamental Ruby:
 * TDD:
 * File I/O:
