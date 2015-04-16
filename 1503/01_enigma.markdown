@@ -162,7 +162,7 @@
 
 ### Dmitry Vizersky
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/Dmitry1007/enigma_reloaded
 * Fundamental Ruby:
 * TDD:
 * File I/O:
