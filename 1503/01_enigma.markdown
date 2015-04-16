@@ -18,7 +18,7 @@
 
 ### Josh Cass
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/joshcass/enigma
 * Fundamental Ruby:
 * TDD:
 * File I/O:
