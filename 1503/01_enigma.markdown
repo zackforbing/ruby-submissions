@@ -82,11 +82,11 @@
 ### Eugene Khanutin
 
 * Project GitHub URL:
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
-* Notes:
+* Fundamental Ruby: 3
+* TDD: 3
+* File I/O: 2
+* Components: 3
+* Notes: Good code, good tests, well broken apart, just missing the decrypt from command line.
 
 ### Lev Kravinsky
 
