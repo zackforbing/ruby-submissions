@@ -135,7 +135,7 @@
 
 ### Morgan Miller
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/morganmiller/enigma
 * Fundamental Ruby:
 * TDD:
 * File I/O:
