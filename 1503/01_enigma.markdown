@@ -108,7 +108,7 @@
 
 ### Sally MacNicholas
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/sallymacnicholas/enigma.git
 * Fundamental Ruby:
 * TDD:
 * File I/O:
