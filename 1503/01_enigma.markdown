@@ -171,7 +171,7 @@
 
 ### Chelsea Worrel
 
-* Project GitHub URL:
+* Project GitHub URL:https://github.com/chelseaworrel/enigma.git
 * Fundamental Ruby:
 * TDD:
 * File I/O:
