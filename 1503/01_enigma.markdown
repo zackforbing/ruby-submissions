@@ -1,10 +1,22 @@
 ### Rick Bacci
 
 * Project GitHub URL: https://github.com/RickBacci/enigma
-* Fundamental Ruby:
-* TDD:
-* File I/O:
-* Components:
+* Fundamental Ruby & Style
+  * No issues
+  * Score: 3
+* Test-Driven Development
+  * Tests can't be run without interacting with the user
+  * Implies that we need to separate IO from encryption and decryption
+  * Didn't check to see gaps in coverage
+  * Score: 2
+* File I/O
+  * Score: 4
+* Breaking Logic into Components
+  * Mostly really good
+  * Good separating ARGV from behaviour
+  * Need to do the same for input/output streams
+  * Need to separate file reading/writing from encryption / decryption algorithms.
+  * Score: 3
 * Notes:
 
 ### Erik Butcher
@@ -188,7 +200,7 @@
 * File I/O: 2
 * Components: 3
 * Notes: Need to spend some time on how to construct tests and improve understandings of assert. Maybe a class
-session? Code is well factored into small pieces. Doesn't decrypt. 
+session? Code is well factored into small pieces. Doesn't decrypt.
 
 ### Michael Merrill
 
@@ -231,7 +243,7 @@ session? Code is well factored into small pieces. Doesn't decrypt.
 * Components: 3
 * Notes: Testing needs a bit more depth and breadth. Good coverage of components, but need more attention
 to edge cases and tighter validation out results. Good decomposition. Keep an eye out for specialty tools to solve
-appropriate problems -- like the zip method. 
+appropriate problems -- like the zip method.
 
 ### Dmitry Vizersky
 
