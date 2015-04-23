@@ -92,10 +92,6 @@ Evaluated by Josh Cheek
   * Push responsibilities up the caller (eg `File.read(ARGV[0])`
 
 
-### Lev
-
-Evaluated by Horace Williams
-
 
 ### Rob Cornell
 
@@ -118,3 +114,67 @@ Evaluated by Josh Cheek
   * I like Converter, (minus the side effects of the individual converters).
     Because it allows me to see how the markdown flows through the system.
   * Push the file reading and knowledge of ARGV up to the caller (chisel.rb)
+
+
+### Dave M.
+
+Evaluated by Horace Williams
+
+* Project GitHub URL:
+* Fundamental Ruby & Style
+  * 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+* Test-Driven Development
+  * 3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
+* Functionality
+  * 3: Application implements all base functionality
+* Breaking Logic into Components
+  * 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+* Notes: Nice work overall; covers a good amount of functionality with a
+decent volume of tests. A few edge cases lacking and some of the
+element objects could have absorbed more responsibility to slim down the
+main chisel class.
+
+### Michael M.
+
+Evaluated by Horace Williams
+
+* Project GitHub URL: https://github.com/michaelkm/chisel
+* Fundamental Ruby & Style
+  * 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+* Test-Driven Development
+  * 3.5: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
+* Functionality
+  * 3: Application implements all base functionality
+* Breaking Logic into Components
+  * 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+* Notes: Nice Job; good project which meets all the expectations and has
+  some nice design choices going on. There are a few cases where the design
+abstractions fall down or could have gone a little further (Link
+parsing; piping/chaining multiple elements together). Test
+implementations are great and the tests seem pretty attentive to how the
+objects will be used in the system
+
+### Lev K.
+
+Evaluated by Horace Williams
+
+
+* Project GitHub URL: https://github.com/kravinskylev/chisel
+
+* Fundamental Ruby & Style
+  * 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+
+* Test-Driven Development
+  * 3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
+
+* Functionality
+  * 3: Application implements all base functionality
+
+* Breaking Logic into Components
+  * 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+
+* Notes: Not bad overall. Fairly good division between objects; test
+  coverage is thorough with a few gaps here and there of edge cases that
+  could have been covered. Would have liked to see some more parallelism
+  between structures of different elements so that they could be rendered
+  more dynamically (via an enumerator or some such).
