@@ -1,6 +1,6 @@
 ### Template
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/davemaurer/chisel
 * Fundamental Ruby & Style
   * 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
   * 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
@@ -22,3 +22,37 @@
   * 2: Application has some logical components but divisions of responsibility are inconsistent or unclear and/or there is a "God" object taking too much responsibility
   * 1: Application logic shows poor decomposition with too much logic mashed together
 * Notes:
+
+### Dave M.
+
+* Project GitHub URL:
+* Fundamental Ruby & Style
+  * 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+* Test-Driven Development
+  * 3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
+* Functionality
+  * 3: Application implements all base functionality
+* Breaking Logic into Components
+  * 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+* Notes: Nice work overall; covers a good amount of functionality with a
+decent volume of tests. A few edge cases lacking and some of the
+element objects could have absorbed more responsibility to slim down the
+main chisel class.
+
+### Michael M.
+
+* Project GitHub URL: https://github.com/michaelkm/chisel
+* Fundamental Ruby & Style
+  * 3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+* Test-Driven Development
+  * 3.5: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
+* Functionality
+  * 3: Application implements all base functionality
+* Breaking Logic into Components
+  * 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+* Notes: Nice Job; good project which meets all the expectations and has
+  some nice design choices going on. There are a few cases where the design
+abstractions fall down or could have gone a little further (Link
+parsing; piping/chaining multiple elements together). Test
+implementations are great and the tests seem pretty attentive to how the
+objects will be used in the system
