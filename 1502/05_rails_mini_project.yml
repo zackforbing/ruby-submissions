@@ -15,8 +15,8 @@ submissions:
     repository:
     notes: ""
   Kristina Brown:
-    repository:
-    notes:
+    repository: https://github.com/kristinabrown/point-box
+    notes: https://enigmatic-springs-4476.herokuapp.com
   Kyle Henson:
     repository:
     notes: ""
@@ -33,7 +33,7 @@ submissions:
     repository:
     notes: ""
   Tess Griffin:
-    repository:
+    repository: https://github.com/tessgriffin/point_box
     notes: ""
   Thomas Leskin:
     repository:
