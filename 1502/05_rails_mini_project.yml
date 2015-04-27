@@ -3,8 +3,8 @@ submissions:
     repository: https://github.com/Carmer/Point_Box
     notes: ""
   David Daniel:
-    repository:
-    notes: ""
+    repository: https://github.com/davedan7/idea_box
+    notes: "This is the last working vesion I have - Paperclip gave some problems. Sadface :("
   Eric Dowty:
     repository: https://github.com/eric-dowty/pointbox, https://github.com/eric-dowty/idea-box
     notes: Got frustrated with ideabox, learned a bunch, and put that into pointbox. Functionality is there... CSS is really ugly.
