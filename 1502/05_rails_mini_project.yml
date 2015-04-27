@@ -6,8 +6,8 @@ submissions:
     repository: 
     notes: ""
   Eric Dowty:
-    repository:
-    notes: ""
+    repository: https://github.com/eric-dowty/pointbox, https://github.com/eric-dowty/idea-box
+    notes: Got frustrated with ideabox, learned a bunch, and put that into pointbox. Functionality is there... CSS is really ugly.
   Jack Yeh:
     repository: 
     notes: ""
