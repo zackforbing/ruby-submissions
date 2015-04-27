@@ -1,34 +1,34 @@
 submissions:
   Andrew Carmer:
-    repository: 
+    repository: https://github.com/Carmer/Point_Box
     notes: ""
   David Daniel:
-    repository: 
+    repository:
     notes: ""
   Eric Dowty:
     repository: https://github.com/eric-dowty/pointbox, https://github.com/eric-dowty/idea-box
     notes: Got frustrated with ideabox, learned a bunch, and put that into pointbox. Functionality is there... CSS is really ugly.
   Jack Yeh:
-    repository: 
+    repository:
     notes: ""
   Kenny Chen:
-    repository: 
+    repository:
     notes: ""
   Kristina Brown:
     repository: https://github.com/kristinabrown/point-box
     notes: https://enigmatic-springs-4476.herokuapp.com
-  Kyle Henson: 
+  Kyle Henson:
     repository: https://github.com/kylehenson/idea_box
     notes: "Tried out minitest....wrong idea"
   Michelle Golle:
-    repository: 
+    repository:
     notes: ""
   Mihir Parikh:
+    repository:
+    notes: ""
+  Minnie Lee:
     repository: https://github.com/mihir787/ideabox
     notes: "need to still add functionality to join picture with idea but jointable created."
-  Minnie Lee: 
-    repository: 
-    notes: ""
   Patrick Medaugh:
     repository:
     notes: ""
@@ -36,8 +36,8 @@ submissions:
     repository: https://github.com/tessgriffin/point_box
     notes: ""
   Thomas Leskin:
-    repository: 
-    notes: 
+    repository:
+    notes:
   Tracy Caruso:
-    repository: 
-    notes: 
+    repository:
+    notes:
