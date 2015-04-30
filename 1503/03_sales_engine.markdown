@@ -28,12 +28,6 @@ Evaluated by Josh Cheek and Sam Alghanmi
   * Zero complaints
   * Score: 4
 
-
-
-
-
-
-
 ### Sally and Justin
 
 Evaluated by Josh Cheek and Sam Alghanmi
@@ -92,3 +86,86 @@ Evaluated by Josh Cheek and Sam Alghanmi
 6. Code Sanitation
   * Zero complaints
   * Score: 4
+
+### Morgan & Chelsea
+
+Assessor: Horace
+
+repository: https://github.com/morganmiller/sales-engine
+
+1. Functional Expectations
+3: Application fulfills all base expectations as tested by the spec harness
+
+2. Test-Driven Development
+3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+3. Encapsulation / Breaking Logic into Components
+3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+4. Fundamental Ruby & Style
+4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
+
+5. Enumerable & Collections
+3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+6. Code Sanitation
+4: Five or fewer complaints
+
+### Brett & Whitney
+
+Assessor: Horace
+
+repository: https://github.com/whiemstra/sales_engine
+
+Good job overall; great to see extensions included. Biggest improvement for the project
+would be concision in test suite and some fixture data. Enumerables and ruby style are solid.
+Main opportunity for improving structure is in delegating more responsibility to lower-level
+objects.
+
+1. Functional Expectations
+4: Application fulfills all base expectations and two extensions
+
+2. Test-Driven Development
+3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
+3. Encapsulation / Breaking Logic into Components
+3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+4. Fundamental Ruby & Style
+3.5: Application shows strong effort towards organization, content, and refactoring
+
+5. Enumerable & Collections
+3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+6. Code Sanitation
+4: Zero complaints
+
+### Max & Drew
+
+Assessor: Horace
+
+repository: https://github.com/adfink/sales-engine
+
+Great test suite. The rest of the project is mostly ok, but there is a lot
+of repetition among different repositories due to repeatedly accessing same data
+via different paths. Project could be improved a lot by leveraging the relationships
+more to avoid parent objects having to juggle so much data.
+
+1. Functional Expectations
+3: Application fulfills all base expectations as tested by the spec harness
+
+2. Test-Driven Development
+4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+
+3. Encapsulation / Breaking Logic into Components
+3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+4. Fundamental Ruby & Style
+3: Application shows strong effort towards organization, content, and refactoring
+
+5. Enumerable & Collections
+3: Application demonstrates comfortable use of appropriate Enumerable methods
+
+6. Code Sanitation
+4: Zero complaints
+
