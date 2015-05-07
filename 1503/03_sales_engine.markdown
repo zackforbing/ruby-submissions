@@ -169,3 +169,26 @@ more to avoid parent objects having to juggle so much data.
 6. Code Sanitation
 4: Zero complaints
 
+### Margarett & Eugene
+
+Assessor: Rachel
+
+Repo: https://github.com/aoili/sales_engine
+
+1. Functional Expectations
+3: Application fulfills all base expectations as tested by the spec harness
+
+2. Test-Driven Development
+3.5
+
+3. Encapsulation / Breaking Logic into Components
+3: Application effectively breaks logical components apart but breaks the principle of SRP
+
+4. Fundamental Ruby & Style
+3.5
+
+5. Enumerable & Collections
+4: Application consistently makes use of the best-choice Enumerable methods
+
+6. Code Sanitation
+4: Zero complaints
