@@ -2,38 +2,109 @@ Andrew, Kenny, Mihir, Tom:
   Repo:
   Feature Completeness:
   Views:
-  Controllers: 
-  Models: 
-  Testing: 
-  Usability: 
+  Controllers:
+  Models:
+  Testing:
+  Usability:
   Workflow:
 
 Eric, Kyle, Tess:
   Repo:
   Feature Completeness:
   Views:
-  Controllers: 
-  Models: 
-  Testing: 
-  Usability: 
+  Controllers:
+  Models:
+  Testing:
+  Usability:
   Workflow:
 
 Dave, Kristina, Minnie, Tracy:
-  Repo: 
-  Feature Completeness:
+  Repo: https://github.com/kristinabrown/dinner-dash.git
+  Feature Completeness: |
+    * Score: 4
+    * Extensions: Stripe, AWS integration for avatars
+    * Can add stuff to my cart while signed out
+    * It's available when I sign in
+    * I can order it
+    * Order shows up (confusingly ;) in the admin orders page
+    * Non admin users can't access admin endpoints
+    * Non logged in users can't access other user's orders
+    * Can cancel an order
+    * Cancelled orders can't be modified
+    * Can pay and complete orders
+    * Paying done via Stripe
+    * Can remove items
+    * Adding the same item multiple times gets consolidated
+    * Can edit profile
+    * Can see old orders
+    * Can delete and retire items, which makes them unavailable
   Views:
-  Controllers: 
-  Models: 
-  Testing: 
-  Usability: 
+    * Score: 3
+    * Aesthetically pleasing
+    * Some interfaces are confusing, eg admin orders page
+    * Can't update the order from the order show
+  Controllers:
+    * Score: 3
+    * Nothing really problematic
+  Models:
+    * Score: 3.5
+    * I like your Cart
+    * Some commented out stuff
+  Testing:
+    * Score: 4
+    * Tests pass
+    * I liked your names a lot
+    * Using RSpec
+  Usability:
+    * Score: 3
   Workflow:
+    * Score: 4
+    * Many commits
+    * "Good workflow"
 
 Jack, Michelle, Patrick:
-  Repo: 
+  Repo: https://github.com/patrickmedaugh/dinner_dash
   Feature Completeness:
+    * Score: 3.5
+    * Order stuff logged out
+    * It's there when I log in
+    * I can remove items
+    * I can change quantities
+    * Admin can update the statuses
+    * I can updaet my profile
+    * I can see my past orders
   Views:
-  Controllers: 
-  Models: 
-  Testing: 
-  Usability: 
+    * Score: 2
+    * Password fields should have type passwords, to prevent people from seeing what I type
+    * Use partials to ensure consistency, less work, less clutter, etc
+    * Use the number helpers to fix the money stuff
+      * rendering pennies instead of dollars
+      * manually entering '$'
+      * losing the cents from the dollar amount
+      * Try using the snippet at https://github.com/JoshCheek/playgrounds#view-helpers
+  Controllers:
+    * Score: 4
+    * Nice Service Objects (Cart, OrderCreator, maybe others)
+  Models:
+    * Score: 4
+    * Integer division issue
+    * Good choice on keeping amounts as pennies
+    * I <3 the cart!
+  Testing:
+    * Score: 4
+    * 64 specs
+    * 0 failures
+    * Generally like the spec names, esp the ones on the features
+    * I like the model tests, they look like they test just enough to be helpful, without becoming painful
+    * I like that the feature tests do just enough to show that it does what ti says that it does
+    * I <3 the cart specs!
+  Usability:
+    * Score: 3
+    * Views need <3
+    * Amounts shown in pennies, switch to dollars
+    * Switch time zones to local
+    * Walk through the app yourselves, write down the things that will get you big wins with little effort.
+      Then make that happen!
   Workflow:
+    * Score: 3
+    * 79 commits
