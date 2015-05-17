@@ -45,8 +45,8 @@ submissions:
     repo: ""
     notes: ""
   Dmitry Vizersky:
-    repo: ""
-    notes: ""
+    repo: "https://github.com/Dmitry1007/task_manager"
+    notes: "Why can't I get this thing on Heroku? Sup wit dat?"
   Michael Merrill:
     repo: ""
     notes: ""
