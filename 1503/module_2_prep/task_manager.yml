@@ -57,8 +57,8 @@ submissions:
     repo: ""
     notes: ""
   Dave Maurer:
-    repo: ""
-    notes: ""
+    repo: "https://github.com/davemaurer/task-manager"
+    notes: "not able to create a task and click to see it. only direct access via http."
   Tyler Graham:
     repo: "https://github.com/tgraham777/task_manager"
     notes: ""
