@@ -3,8 +3,8 @@
 * Notes:
 
 ### Marla Brizel
-* Project Github URL:
-* Notes:
+* Project Github URL: https://github.com/marlabrizel/fibber
+* Notes: Blog post to come later. Apparently setting up a blog is more involved than I originally thought.
 
 ### Sebastian Abondano
 * Project GitHub URL: 
