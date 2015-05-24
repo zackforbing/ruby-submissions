@@ -15,7 +15,7 @@
 * Notes:
 
 ### David Stinnette
-* Project GitHub URL: 
+* Project GitHub URL: https://github.com/dastinnette/Fibber
 * Notes:
 
 ### Rebekah Sosa
