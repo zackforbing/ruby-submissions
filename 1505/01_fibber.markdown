@@ -63,8 +63,8 @@
 * Notes:
 
 ### Mitch Ashby
-* Project GitHub URL: 
-* Notes:
+* Project GitHub URL: https://github.com/mitchashby16/fibonacci
+* Notes: This was a fun project and it was interesting see the other ways people have solved it!
 
 ### Samson Brock
 * Project GitHub URL: 
