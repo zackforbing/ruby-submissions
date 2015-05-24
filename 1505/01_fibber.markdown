@@ -75,8 +75,8 @@
 * Notes:
 
 ### Mike Reeves
-* Project GitHub URL: 
-* Notes:
+* Project GitHub URL: https://github.com/tsunami719/fibber
+* Notes: There are 3 methods to calculate the fibonacci sequence, plus a set of tests.
 
 ### Jerrod Junker
 * Project GitHub URL: 
