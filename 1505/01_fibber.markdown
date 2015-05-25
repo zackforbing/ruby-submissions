@@ -47,8 +47,8 @@
 * Notes:
 
 ### Justin Holzmann
-* Project GitHub URL: 
-* Notes:
+* Project GitHub URL: https://github.com/philmphoenix/fibber
+* Notes: Cool beans
 
 ### Adam Caron
 * Project GitHub URL: 
