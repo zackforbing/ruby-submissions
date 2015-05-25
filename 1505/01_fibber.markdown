@@ -23,7 +23,7 @@
 * Notes:
  
 ### David Shim
-* Project GitHub URL: 
+* Project GitHub URL: https://github.com/dsshim/Fibber
 * Notes:
 
 ### Max Millington
