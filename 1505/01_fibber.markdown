@@ -3,8 +3,8 @@
 * Notes:
 
 ### Marla Brizel
-* Project Github URL:
-* Notes:
+* Project Github URL: https://github.com/marlabrizel/fibber
+* Notes: Blog post to come later. Apparently setting up a blog is more involved than I originally thought.
 
 ### Sebastian Abondano
 * Project GitHub URL: 
@@ -15,7 +15,7 @@
 * Notes:
 
 ### David Stinnette
-* Project GitHub URL: 
+* Project GitHub URL: https://github.com/dastinnette/Fibber
 * Notes:
 
 ### Rebekah Sosa
@@ -23,7 +23,7 @@
 * Notes:
  
 ### David Shim
-* Project GitHub URL: 
+* Project GitHub URL: https://github.com/dsshim/Fibber
 * Notes:
 
 ### Max Millington
@@ -63,8 +63,8 @@
 * Notes:
 
 ### Mitch Ashby
-* Project GitHub URL: 
-* Notes:
+* Project GitHub URL: https://github.com/mitchashby16/fibonacci
+* Notes: This was a fun project and it was interesting see the other ways people have solved it!
 
 ### Samson Brock
 * Project GitHub URL: 
@@ -83,6 +83,6 @@
 * Notes:
 
 ### Jason Wright
-* Project GitHub URL: 
-* Notes:
+* Project GitHub URL: https://github.com/noobjey/fibber
+* Notes: run /lib/run_it.rb to see the results
 
