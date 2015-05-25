@@ -67,7 +67,7 @@
 * Notes: This was a fun project and it was interesting see the other ways people have solved it!
 
 ### Samson Brock
-* Project GitHub URL: 
+* Project GitHub URL: https://github.com/imwithsam/fibber
 * Notes:
 
 ### Michael Dorrance
