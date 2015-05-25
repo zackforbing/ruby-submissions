@@ -83,6 +83,6 @@
 * Notes:
 
 ### Jason Wright
-* Project GitHub URL: 
-* Notes:
+* Project GitHub URL: https://github.com/noobjey/fibber
+* Notes: run /lib/run_it.rb to see the results
 
