@@ -71,8 +71,8 @@
 * Notes:
 
 ### Michael Dorrance
-* Project GitHub URL: 
-* Notes:
+* Project GitHub URL: https://github.com/mdorrance/fibber
+* Notes: Run fibber.rb and follow the onscreen prompts
 
 ### Mike Reeves
 * Project GitHub URL: https://github.com/tsunami719/fibber
