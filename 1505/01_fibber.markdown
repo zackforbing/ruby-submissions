@@ -39,8 +39,8 @@
 * Notes:
 
 ### Lovisa Svallingson
-* Project GitHub URL: 
-* Notes:
+* Project GitHub URL: https://github.com/applegrain/fibber
+* Notes:Run 'print_fib.rb' to run fibber/second-iteration.  
 
 ### Jai Misra
 * Project GitHub URL: 
