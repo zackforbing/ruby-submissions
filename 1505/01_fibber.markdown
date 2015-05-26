@@ -51,7 +51,7 @@
 * Notes: Cool beans
 
 ### Adam Caron
-* Project GitHub URL: 
+* Project GitHub URL: https://github.com/adamcaron/fibber
 * Notes:
 
 ### Drew Conly
