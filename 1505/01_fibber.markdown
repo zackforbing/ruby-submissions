@@ -19,7 +19,7 @@
 * Notes:
 
 ### Rebekah Sosa
-* Project GitHub URL: 
+* Project GitHub URL: https://github.com/rebekahsosa/Fibber
 * Notes:
  
 ### David Shim
