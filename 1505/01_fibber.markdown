@@ -43,8 +43,8 @@
 * Notes:Run 'print_fib.rb' to run fibber/second-iteration.  
 
 ### Jai Misra
-* Project GitHub URL: 
-* Notes:
+* Project GitHub URL: https://github.com/mrjaimisra/fibber
+* Notes: boom!
 
 ### Justin Holzmann
 * Project GitHub URL: https://github.com/philmphoenix/fibber
