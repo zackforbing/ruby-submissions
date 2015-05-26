@@ -31,7 +31,7 @@
 * Notes: Only fibonacci4 works. 
 
 ### Rachel Parri
-* Project GitHub URL: https://github.com/Erachelparri/fibber.rb
+* Project GitHub URL: 
 * Notes:
 
 ### Alex Tideman
