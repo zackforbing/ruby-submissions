@@ -27,8 +27,8 @@
 * Notes:
 
 ### Max Millington
-* Project GitHub URL: 
-* Notes:
+* Project GitHub URL: https://github.com/MaxMillington/Fibonacci-Exercise
+* Notes: Only fibonacci4 works. 
 
 ### Rachel Parri
 * Project GitHub URL: 
