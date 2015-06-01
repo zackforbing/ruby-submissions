@@ -48,38 +48,61 @@ submissions:
         Sinatra / Web and Business Logic: 
         View Layer: 
   Michael Merrill, Josh Cass, Jamie Kawahara:
-    repository: 
+    repository: https://github.com/joshcass/traffic_spy
     setup_notes: 
-    instructor_evaluation:
-      notes: 
+    instructor_evaluation: 
+      notes: "Viewing data and statistics looks great; no missing functionality or bugs; couldn't get 400 status for missing payload. Application is well-tested both at the model level and integration level. Models have a single responsibility; some methods that have multiple responsibilities per class. "
       rubric:
-        Functional Expectations: 
-        Test-Driven Development: 
-        Encapsulation / Components: 
-        Fundamental Ruby & Style: 
-        Sinatra / Web and Business Logic: 
-        View Layer: 
+        Functional Expectations: 3.5
+        Test-Driven Development: 4
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3.5
+        View Layer: 4
   Rick Bacci, Margarett Ly, Chelsea Worrel:
-    repository: 
+    repository: https://github.com/chelseaworrel/traffic-spy-skeleton
     setup_notes: 
     instructor_evaluation:
-      notes: 
+      notes: "Registering source and posting paylods works great from command line; need to scope statistical data per client; finish remaining views (events, urls, etc). Several happy and sad path cases for integration; missing model tests. Will run into problems when querying database b/c of schema. Long methods in controller. Clean views; no mixed logic. "
       rubric:
-        Functional Expectations: 
-        Test-Driven Development: 
-        Encapsulation / Components: 
-        Fundamental Ruby & Style: 
-        Sinatra / Web and Business Logic: 
-        View Layer: 
+        Functional Expectations: 2
+        Test-Driven Development: 2.5
+        Encapsulation / Components: 2.5
+        Fundamental Ruby & Style: 2
+        Sinatra / Web and Business Logic: 2.5
+        View Layer: 3
   Dmitry Vizersky, Max Tedford, Rob Cornell:
-    repository: 
+    repository: https://github.com/Dmitry1007/traffic_spy
     setup_notes: 
     instructor_evaluation:
-      notes: 
+      notes: "All base expectations fulfilled. Controller tests look good; would like to see more models tested and more robust feature tests. Classes are nicely divided into single responsibilities. Very clean server file with no mixing of business logic. Clean views with no leaking logic. "
       rubric:
-        Functional Expectations: 
-        Test-Driven Development: 
-        Encapsulation / Components: 
-        Fundamental Ruby & Style: 
-        Sinatra / Web and Business Logic: 
-        View Layer: 
+        Functional Expectations: 3
+        Test-Driven Development: 3
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 3.5
+        Sinatra / Web and Business Logic: 4
+        View Layer: 3.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
