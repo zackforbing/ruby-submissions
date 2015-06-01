@@ -2,51 +2,51 @@ submissions:
   Sally MacNicholas, Andrew Fink, Tyler Graham:
     repository: 
     setup_notes: 
-    instructor_evaluation:
-      notes: 
+    instructor_evaluation: Josh M.
+      notes: Bug payload already taken but the count increments. Resoultion only takes the width into consideration. Most Popular referrer
       rubric:
-        Functional Expectations: 
-        Test-Driven Development: 
-        Encapsulation / Components: 
-        Fundamental Ruby & Style: 
-        Sinatra / Web and Business Logic: 
-        View Layer: 
+        Functional Expectations: 2.5
+        Test-Driven Development: 3
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style: 4
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3
   Brett Grigsby, Drew Reynolds, Dave Maurer:
     repository: 
     setup_notes: 
-    instructor_evaluation:
-      notes: 
+    instructor_evaluation: Josh M.
+      notes: JSON and Basic Auth added
       rubric:
-        Functional Expectations: 
-        Test-Driven Development: 
-        Encapsulation / Components: 
-        Fundamental Ruby & Style: 
-        Sinatra / Web and Business Logic: 
-        View Layer: 
+        Functional Expectations: 4
+        Test-Driven Development: 3
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 4
+        Sinatra / Web and Business Logic: 4
+        View Layer: 4
   Morgan Miller, Justin Holmes, Vanessa Gomez:
     repository: 
     setup_notes: 
-    instructor_evaluation:
+    instructor_evaluation: Josh M.
       notes: 
       rubric:
-        Functional Expectations: 
-        Test-Driven Development: 
-        Encapsulation / Components: 
-        Fundamental Ruby & Style: 
-        Sinatra / Web and Business Logic: 
-        View Layer: 
+        Functional Expectations: 3.5
+        Test-Driven Development: 4
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 4
+        Sinatra / Web and Business Logic: 3
+        View Layer: 4
   Erik Butcher, Lev Kravinsky, Whitney Hiemstra:
     repository: 
     setup_notes: 
-    instructor_evaluation:
-      notes: 
+    instructor_evaluation: Josh M.
+      notes: Missing Payload does not return correct response. Events not filtering properly.
       rubric:
-        Functional Expectations: 
-        Test-Driven Development: 
-        Encapsulation / Components: 
-        Fundamental Ruby & Style: 
-        Sinatra / Web and Business Logic: 
-        View Layer: 
+        Functional Expectations: 2
+        Test-Driven Development: 3
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3
   Michael Merrill, Josh Cass, Jamie Kawahara:
     repository: 
     setup_notes: 
