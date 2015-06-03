@@ -19,7 +19,7 @@
 * Notes:
 
 ### Rebekah Sosa
-* Project GitHub URL: 
+* Project GitHub URL: https://github.com/rebekahsosa/Fibber
 * Notes:
  
 ### David Shim
@@ -27,11 +27,11 @@
 * Notes:
 
 ### Max Millington
-* Project GitHub URL: 
-* Notes:
+* Project GitHub URL: https://github.com/MaxMillington/Fibonacci-Exercise
+* Notes: Only fibonacci4 works. 
 
 ### Rachel Parri
-* Project GitHub URL: 
+* Project GitHub URL: https://github.com/Erachelparri/Fibber/blob/master/fibber.rb
 * Notes:
 
 ### Alex Tideman
@@ -39,23 +39,23 @@
 * Notes:
 
 ### Lovisa Svallingson
-* Project GitHub URL: 
-* Notes:
+* Project GitHub URL: https://github.com/applegrain/fibber
+* Notes:Run 'print_fib.rb' to run fibber/second-iteration.  
 
 ### Jai Misra
-* Project GitHub URL: 
-* Notes:
+* Project GitHub URL: https://github.com/mrjaimisra/fibber
+* Notes: boom!
 
 ### Justin Holzmann
-* Project GitHub URL: 
-* Notes:
+* Project GitHub URL: https://github.com/philmphoenix/fibber
+* Notes: Cool beans
 
 ### Adam Caron
-* Project GitHub URL: 
+* Project GitHub URL: https://github.com/adamcaron/fibber
 * Notes:
 
 ### Drew Conly
-* Project GitHub URL: 
+* Project GitHub URL: https://github.com/Drew242/fibber-/blob/master/fibber.rb
 * Notes:
 
 ### Nicole Hall
@@ -67,12 +67,12 @@
 * Notes: This was a fun project and it was interesting see the other ways people have solved it!
 
 ### Samson Brock
-* Project GitHub URL: 
+* Project GitHub URL: https://github.com/imwithsam/fibber
 * Notes:
 
 ### Michael Dorrance
-* Project GitHub URL: 
-* Notes:
+* Project GitHub URL: https://github.com/mdorrance/fibber
+* Notes: Run fibber.rb and follow the onscreen prompts
 
 ### Mike Reeves
 * Project GitHub URL: https://github.com/tsunami719/fibber
