@@ -1,7 +1,7 @@
 ### Marla Brizel
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
@@ -37,7 +37,7 @@
 ### Sebastian Abondano
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
@@ -73,7 +73,7 @@
 ### Justin Pease
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
@@ -109,7 +109,7 @@
 ### David Stinette
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
@@ -145,7 +145,7 @@
 ### Rebekah Sosa
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
@@ -181,7 +181,7 @@
 ### David Shim
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
@@ -217,7 +217,7 @@
 ### Max Millington
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
@@ -253,7 +253,7 @@
 ### Rachel Parri
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
@@ -289,7 +289,7 @@
 ### Alex Tideman
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
@@ -325,7 +325,7 @@
 ### Lovisa Svallingson
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
@@ -361,7 +361,7 @@
 ### Jai Misra
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
@@ -397,7 +397,7 @@
 ### Justin Holzmann
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
@@ -433,7 +433,7 @@
 ### Adam Caron
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
@@ -469,7 +469,7 @@
 ### Drew Conly
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
@@ -505,7 +505,7 @@
 ### Mitch Ashby
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
@@ -541,7 +541,7 @@
 ### Samson Brock
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
@@ -577,7 +577,7 @@
 ### Michael Dorrance
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
@@ -613,7 +613,7 @@
 ### Mike Reeves
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
@@ -649,7 +649,7 @@
 ### Jerrod Junker
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
@@ -685,7 +685,7 @@
 ### Jason Wright
 
 * Project GitHub URL:
-* Notes
+* Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
 
