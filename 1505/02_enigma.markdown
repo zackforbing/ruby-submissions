@@ -400,8 +400,8 @@ as the File I/O handling. Did not start on Cracker, decryptor was 95 percent rea
 
 ### Adam Caron
 
-* Project GitHub URL:
-* Instructor Notes:
+* Project GitHub URL: https://github.com/adamcaron/enigma
+* Instructor Notes: 
 
 ### 1. Overall Functionality
 
