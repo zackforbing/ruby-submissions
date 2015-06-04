@@ -2,6 +2,13 @@
 
 * Project GitHub URL:
 * Instructor Notes:
+* 
+### Mitch Ashby
+
+*  Project GitHub URL:https://github.com/mitchashby16/Enigma_Encryptor
+*  instrucotr Notes: 
+
+
 
 ### 1. Overall Functionality
 
@@ -541,7 +548,7 @@
 
 ### Michael Dorrance
 
-* Project GitHub URL:
+* Project GitHub URL:https://github.com/mdorrance/enigma
 * Instructor Notes:
 
 ### 1. Overall Functionality
