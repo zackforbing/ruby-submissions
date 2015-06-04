@@ -2,6 +2,13 @@
 
 * Project GitHub URL:
 * Instructor Notes:
+* 
+### Mitch Ashby
+
+*  Project GitHub URL:https://github.com/mitchashby16/Enigma_Encryptor
+*  instrucotr Notes: 
+
+
 
 ## 1. Fundamental Ruby & Style
 
@@ -324,7 +331,7 @@
 
 ### Lovisa Svallingson
 
-* Project GitHub URL: https://github.com/applegrain/enigma
+* Project GitHub URL:
 * Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
@@ -396,7 +403,7 @@
 
 ### Justin Holzmann
 
-* Project GitHub URL: https://github.com/philmphoenix/enigma
+* Project GitHub URL:
 * Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
