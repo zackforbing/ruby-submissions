@@ -576,7 +576,7 @@
 
 ### Michael Dorrance
 
-* Project GitHub URL:
+* Project GitHub URL:https://github.com/mdorrance/enigma
 * Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
