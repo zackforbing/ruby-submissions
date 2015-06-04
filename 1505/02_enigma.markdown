@@ -547,8 +547,8 @@
 
 ### Samson Brock
 
-* Project GitHub URL:
-* Instructor Notes:
+* Project GitHub URL: https://github.com/imwithsam/enigma
+* Instructor Notes: 
 
 ## 1. Fundamental Ruby & Style
 
