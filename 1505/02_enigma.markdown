@@ -125,7 +125,7 @@ Checks to see if file exists. encrypts, decrypts, cracks. Rake file, one failing
 
 ### David Stinette
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/dastinnette/Enigma
 * Instructor Notes:
 
 ### 1. Overall Functionality
