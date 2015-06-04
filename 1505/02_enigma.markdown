@@ -210,7 +210,7 @@
 
 ### Max Millington
 
-* Project GitHub URL:
+* Project GitHub URL:https://github.com/MaxMillington/Enigma-Project
 * Instructor Notes:
 
 ### 1. Overall Functionality
