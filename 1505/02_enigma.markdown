@@ -396,7 +396,7 @@
 
 ### Justin Holzmann
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/philmphoenix/enigma
 * Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
