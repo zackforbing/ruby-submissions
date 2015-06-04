@@ -35,7 +35,7 @@
 * Notes:
 
 ### Alex Tideman
-* Project GitHub URL: 
+* Project GitHub URL: https://github.com/Alex-Tideman/fibber/blob/master/fibber.rb
 * Notes:
 
 ### Lovisa Svallingson
