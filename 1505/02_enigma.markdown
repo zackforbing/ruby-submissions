@@ -324,7 +324,7 @@
 
 ### Lovisa Svallingson
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/applegrain/enigma
 * Instructor Notes:
 
 ## 1. Fundamental Ruby & Style
