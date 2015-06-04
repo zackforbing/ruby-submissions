@@ -270,7 +270,7 @@
 
 ### Alex Tideman
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/Alex-Tideman/enigma
 * Instructor Notes:
 
 ### 1. Overall Functionality
@@ -643,8 +643,8 @@
 
 ### Jason Wright
 
-* Project GitHub URL:
-* Instructor Notes:
+* Project GitHub URL: https://github.com/noobjey/enigma
+* Instructor Notes: 
 
 ### 1. Overall Functionality
 
