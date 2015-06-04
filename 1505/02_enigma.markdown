@@ -508,9 +508,13 @@ as the File I/O handling. Did not start on Cracker, decryptor was 95 percent rea
 ### Samson Brock
 
 * Project GitHub URL: https://github.com/imwithsam/enigma
+<<<<<<< HEAD
 * Instructor Notes: Assessed by Mike
 
 ### 1. Overall Functionality
+=======
+* Instructor Notes: 
+>>>>>>> 48594bc8ca12bdfa99208fb33c2221adea9bd3dd
 
 * 4: Application follows the complete spec and can crack a 100-character message in under 1 second
 * 3: Application encrypts, decrypts, and cracks files as described
