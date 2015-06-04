@@ -41,7 +41,7 @@
 
 ### Sebastian Abondano
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/sabondano/enigma
 * Instructor Notes:
 
 ### 1. Overall Functionality
