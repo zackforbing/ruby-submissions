@@ -7,7 +7,7 @@
 * Notes: Blog post to come later. Apparently setting up a blog is more involved than I originally thought.
 
 ### Sebastian Abondano
-* Project GitHub URL: 
+* Project GitHub URL: https://github.com/sabondano/fibber/blob/master/fibber.rb
 * Notes:
 
 ### Justin Pease
