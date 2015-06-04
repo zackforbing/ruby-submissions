@@ -136,7 +136,7 @@
 
 ### David Stinette
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/dastinnette/Enigma
 * Instructor Notes:
 
 ### 1. Overall Functionality
