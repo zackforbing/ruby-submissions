@@ -203,7 +203,7 @@
 
 ### David Shim
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/dsshim/Enigma.git
 * Instructor Notes:
 
 ### 1. Overall Functionality
