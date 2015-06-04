@@ -142,8 +142,8 @@
 
 ### Rebekah Sosa
 
-* Project GitHub URL:
-* Instructor Notes:
+* Project GitHub URL:https://github.com/rebekahsosa/enigma
+* Instructor Notes: 
 
 ### 1. Overall Functionality
 
