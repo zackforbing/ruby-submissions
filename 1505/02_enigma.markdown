@@ -1,6 +1,6 @@
 ### Marla Brizel
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/marlabrizel/enigma
 * Instructor Notes:
 
 ### 1. Overall Functionality
@@ -137,36 +137,25 @@ Score: 3
 
 ### Sebastian Abondano
 
-* Project GitHub URL:
-* Instructor Notes:
+* Project GitHub URL: https://github.com/sabondano/enigma
+* Instructor Notes: Assessed by Mike
+
+Checks to see if file exists. encrypts, decrypts, cracks. Rake file, one failing test. good file structure
 
 ### 1. Overall Functionality
 
-* 4: Application follows the complete spec and can crack a 100-character message in under 1 second
 * 3: Application encrypts, decrypts, and cracks files as described
-* 2: Application is missing one of the three operations
-* 1: Application is missing two operations or crashes during normal usage
 
 ### 2. Fundamental Ruby & Style
 
-* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 * 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
-* 2:  Application runs but the code has many long methods (>8 lines) and needs significant refactoring
-* 1:  Application generates syntax error or crashes during execution
 
 ### 3. Test-Driven Development
 
-* 4: Application is broken into components which are well tested in both isolation and integration
 * 3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
-* 2: Application tests some components but has many gaps in coverage.
-* 1: Application does not demonstrate strong use of TDD
 
 ### 4. Breaking Logic into Components
-
 * 4: Application effectively breaks logical components apart with clear intent and usage
-* 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
-* 2: Application has some logical components but divisions of responsibility are inconsistent or unclear and/or there is a "God" object taking too much responsibility
-* 1: Application logic shows poor decomposition with too much logic mashed together
 
 
 ### Justin Pease
@@ -205,7 +194,7 @@ Score: 3
 
 ### David Stinnette
 
-* Project GitHub URL:
+* Project GitHub URL: https://github.com/dastinnette/Enigma
 * Instructor Notes:
 
 Decided our time would be better spent addressing how to get the algorithm figured out.
@@ -259,7 +248,7 @@ installed on their computers.
 
 ### Rebekah Sosa
 
-* Project GitHub URL:
+* Project GitHub URL:https://github.com/rebekahsosa/enigma
 * Instructor Notes:
 
 ### 1. Overall Functionality
@@ -345,36 +334,26 @@ Score: 3
 
 ### Max Millington
 
-* Project GitHub URL:
-* Instructor Notes:
+* Project GitHub URL:https://github.com/MaxMillington/Enigma-Project
+* Instructor Notes: Assessed by Mike
+Used fake file 21 tests all pass. File names did not match spec. Does not decrypt. One file to decrypt and encrypt. Would like to have seen better separation of files.
+
 
 ### 1. Overall Functionality
 
-* 4: Application follows the complete spec and can crack a 100-character message in under 1 second
-* 3: Application encrypts, decrypts, and cracks files as described
-* 2: Application is missing one of the three operations
 * 1: Application is missing two operations or crashes during normal usage
 
 ### 2. Fundamental Ruby & Style
 
-* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 * 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
-* 2:  Application runs but the code has many long methods (>8 lines) and needs significant refactoring
-* 1:  Application generates syntax error or crashes during execution
 
 ### 3. Test-Driven Development
 
-* 4: Application is broken into components which are well tested in both isolation and integration
 * 3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
-* 2: Application tests some components but has many gaps in coverage.
-* 1: Application does not demonstrate strong use of TDD
 
 ### 4. Breaking Logic into Components
 
-* 4: Application effectively breaks logical components apart with clear intent and usage
-* 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
-* 2: Application has some logical components but divisions of responsibility are inconsistent or unclear and/or there is a "God" object taking too much responsibility
-* 1: Application logic shows poor decomposition with too much logic mashed together
+* 3.5: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 
 ### Rachel Parri
@@ -535,36 +514,26 @@ as the File I/O handling. Did not start on Cracker, decryptor was 95 percent rea
 
 ### Adam Caron
 
-* Project GitHub URL:
-* Instructor Notes:
+* Project GitHub URL: https://github.com/adamcaron/enigma
+* Instructor Notes: Assessed by Mike.
+Does not run. Incomplete.
 
 ### 1. Overall Functionality
 
-* 4: Application follows the complete spec and can crack a 100-character message in under 1 second
-* 3: Application encrypts, decrypts, and cracks files as described
-* 2: Application is missing one of the three operations
 * 1: Application is missing two operations or crashes during normal usage
 
 ### 2. Fundamental Ruby & Style
 
-* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
-* 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
-* 2:  Application runs but the code has many long methods (>8 lines) and needs significant refactoring
 * 1:  Application generates syntax error or crashes during execution
 
 ### 3. Test-Driven Development
 
-* 4: Application is broken into components which are well tested in both isolation and integration
-* 3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
-* 2: Application tests some components but has many gaps in coverage.
 * 1: Application does not demonstrate strong use of TDD
 
 ### 4. Breaking Logic into Components
 
-* 4: Application effectively breaks logical components apart with clear intent and usage
-* 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 * 2: Application has some logical components but divisions of responsibility are inconsistent or unclear and/or there is a "God" object taking too much responsibility
-* 1: Application logic shows poor decomposition with too much logic mashed together
+
 
 
 ### Drew Conly
@@ -642,35 +611,27 @@ Encrypts, decrypts, cracks. Great use of inheritance. Great separation of logic 
 ### Michael Dorrance
 
 * Project GitHub URL:https://github.com/mdorrance/enigma
-* Instructor Notes:
+* Instructor Notes: Assessed by Mike. Encrypts, Decrypts, 2 failing tests for cracked functionality that wasn't implemented, 2 failing
+tests due to last minute move of files. Key generator, file stuff in encrypt.rb. 46 total tests.
 
 ### 1. Overall Functionality
 
-* 4: Application follows the complete spec and can crack a 100-character message in under 1 second
-* 3: Application encrypts, decrypts, and cracks files as described
 * 2: Application is missing one of the three operations
-* 1: Application is missing two operations or crashes during normal usage
+
 
 ### 2. Fundamental Ruby & Style
 
-* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 * 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
-* 2:  Application runs but the code has many long methods (>8 lines) and needs significant refactoring
-* 1:  Application generates syntax error or crashes during execution
 
 ### 3. Test-Driven Development
 
-* 4: Application is broken into components which are well tested in both isolation and integration
 * 3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
-* 2: Application tests some components but has many gaps in coverage.
-* 1: Application does not demonstrate strong use of TDD
 
 ### 4. Breaking Logic into Components
 
-* 4: Application effectively breaks logical components apart with clear intent and usage
-* 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
-* 2: Application has some logical components but divisions of responsibility are inconsistent or unclear and/or there is a "God" object taking too much responsibility
-* 1: Application logic shows poor decomposition with too much logic mashed together
+
+* 2.5: Application has some logical components but divisions of responsibility are inconsistent or unclear and/or there is a "God" object taking too much responsibility
+
 
 
 ### Mike Reeves
@@ -719,35 +680,26 @@ Score: 3
 
 ### Jerrod Junker
 
-* Project GitHub URL:
-* Instructor Notes:
+* Project GitHub URL: https://github.com/Unsafepond/Enigma-refactor
+* Instructor Notes: Assessed by Mike
+Encrypted works. Decrypted works kind of, has to enter in key. . Only one class. Used hashes to encrypt. Can
 
 ### 1. Overall Functionality
 
-* 4: Application follows the complete spec and can crack a 100-character message in under 1 second
-* 3: Application encrypts, decrypts, and cracks files as described
 * 2: Application is missing one of the three operations
-* 1: Application is missing two operations or crashes during normal usage
+
 
 ### 2. Fundamental Ruby & Style
 
-* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
-* 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
 * 2:  Application runs but the code has many long methods (>8 lines) and needs significant refactoring
-* 1:  Application generates syntax error or crashes during execution
+
 
 ### 3. Test-Driven Development
 
-* 4: Application is broken into components which are well tested in both isolation and integration
-* 3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
-* 2: Application tests some components but has many gaps in coverage.
 * 1: Application does not demonstrate strong use of TDD
 
 ### 4. Breaking Logic into Components
 
-* 4: Application effectively breaks logical components apart with clear intent and usage
-* 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
-* 2: Application has some logical components but divisions of responsibility are inconsistent or unclear and/or there is a "God" object taking too much responsibility
 * 1: Application logic shows poor decomposition with too much logic mashed together
 
 ### Jason Wright
