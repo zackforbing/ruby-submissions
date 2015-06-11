@@ -1,6 +1,8 @@
-### Rachel Parri
+## 1505 Chisel Evaluations
+## Students
 
-Evaluated by Mike Dao
+
+### Rachel Parri
 
 * Project GitHub URL: 
 * Fundamental Ruby & Style
@@ -19,9 +21,6 @@ Evaluated by Mike Dao
 * Notes:
 * Program was non functional, issues with data types. Components were built out, such as chunker, header
 and paragraph parser. 
-
-
-
 
 ### Mitch Ashby
 
@@ -274,3 +273,50 @@ Evaluated by Mike Dao
    
 * Notes:
 
+### Mike R
+ * Ruby Style: 3
+ * TDD: 4
+ * Functionality: 4
+ * Components: 4 - breaking up pieces and structure is quite strong; some places could benefit from some more concise syntax, but overall shape is good
+
+### Adam Caron
+ * Ruby Style: 4 - super concise, easy to follow. Only small gripe is a few unnecessary uses of temp local vars
+ * TDD: 3 - Quite good, maybe could find a few more smaller cases to test and use tests to guide breaking logic into smaller chunks
+ * Functionality: 3 - Mostly good, missing links
+ * Components: 3+ - Quite good at the class level; could be a little more extensively factored at the method level
+
+### David
+  * Ruby Style: 3 - Dont always need to use explicit returns; could use less intermediate local vars; watch out for setting up unused ivars since it gives a misleading expectation of what the code is going to do
+  * TDD: 3 - good coverage, good distribution of tests, a few methods are not represented
+  * Functionality: 2+
+  * Components: 3+ - pieces and organization is good; it's simple and easy to follow; would have liked to see how we handled some of the more complicated tags like links
+
+### Jai
+  * Ruby Style - 3; some bumps with style and syntax; project organization could get better
+  * TDD - 2+; Testing itself is solid, coverage is actually ok; gap is in using tests to identify weaknesses in the program and verify their behavior
+  * Functionality: 2
+  * Components: 2 -- we're starting to have some components extracted and designed; the problem is they don't quite fit together in the necessary way
+
+### Alex
+  * Ruby Style: 3 - Getting things done. Next level is to start focusing more on naming, method return interfaces, and on overall application structure/shape
+  * TDD: 4
+  * Functionality: 3
+  * Components: 3 - Doing good of identifying components and dividing the responsibilities; we could make the connections a little smoother and more reuseable
+
+### Max M
+  * Ruby Style: 3 - naming is biggest issue; also think about avoid ivars and counters
+  * TDD: 3 - Solid and ample; next step is using the tests more as a design tool -- especially via unit testing more small methods.
+  * Functionality 3
+  * Components: 3 - It's good at the class level -- things we need are in place; could be better at the method levels
+
+### Jerrod
+  * Ruby Style: 2 - missing lots of method abstractions, lots of repetition
+  * TDD: 1 - no tests
+  * Functionality: 2 - some of it works
+  * Components: 2 - using some components, but little to no refactoring at the method level
+
+### Justin H
+ * Ruby Style: 3
+ * TDD: 4
+ * Functionality: 3
+ * Components: 3 - pretty good at class level, some places where it leaks at method level
