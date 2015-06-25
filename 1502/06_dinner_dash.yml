@@ -110,23 +110,3 @@ Jack, Michelle, Patrick:
   Workflow:
     * Score: 3
     * 79 commits
-
-Josh Cass, Justin Holmes, Rob Cornell
-  Repo: https://github.com/RMCornell/dinner_dash.git
-  Feature Completeness: 4
-  Views: 3
-  Controllers: 3.5
-  Models: 4
-  Testing: 4
-  Usability: 4
-  Workflow: 4
-
-Dmitry Vizersky, Lev Kravinsky, Rick Bacci
-  Repo: https://github.com/kravinskylev/dinner_dash
-  Feature Completeness: ~3
-  Views: 2 - could benefit from more partials and organization here
-  Controllers: 3 - controllers are pretty tidy
-  Models: 3 - models are well organized and sufficient, but not incredibly sophisticated
-  Testing: 3 - test coverage is quite thorough, especially at the feature level; would like to see more unit testing, but this is still probabl the strongest part of the app
-  Usability: 1 - app needs a lot of work on interface
-  Workflow: 2 - sounds like a lot of communication issues along the way
