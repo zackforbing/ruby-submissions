@@ -334,7 +334,7 @@ The output from rake sanitation:all shows…
 
 Team: Marla Brizel & Sebastian Abondano
 
-Github Repo:
+Github Repo: https://github.com/marlabrizel/sales_engine
 
 Assessed By:
 
