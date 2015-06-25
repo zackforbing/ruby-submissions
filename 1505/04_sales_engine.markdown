@@ -287,7 +287,7 @@ The output from rake sanitation:all shows…
 
 Team: Mike Reeves & Alex Tideman
 
-Github Repo:
+Github Repo: https://github.com/michael-reeves/sales_engine
 
 Assessed By:
 
