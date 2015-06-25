@@ -61,7 +61,7 @@ Dave, Kristina, Minnie, Tracy:
   Workflow:
     * Score: 4
     * Many commits
-    * "Good workflow"
+    * Good workflow
 
 Jack, Michelle, Patrick:
   Repo: https://github.com/patrickmedaugh/dinner_dash
@@ -81,7 +81,7 @@ Jack, Michelle, Patrick:
     * Use partials to ensure consistency, less work, less clutter, etc
     * Use the number helpers to fix the money stuff
       * rendering pennies instead of dollars
-      * manually entering '$'
+      * manually entering $
       * losing the cents from the dollar amount
       * Try using the snippet at https://github.com/JoshCheek/playgrounds#view-helpers
   Controllers:
@@ -110,3 +110,23 @@ Jack, Michelle, Patrick:
   Workflow:
     * Score: 3
     * 79 commits
+
+Josh Cass, Justin Holmes, Rob Cornell
+  Repo: https://github.com/RMCornell/dinner_dash.git
+  Feature Completeness: 4
+  Views: 3
+  Controllers: 3.5
+  Models: 4
+  Testing: 4
+  Usability: 4
+  Workflow: 4
+
+Dmitry Vizersky, Lev Kravinsky, Rick Bacci
+  Repo: https://github.com/kravinskylev/dinner_dash
+  Feature Completeness: ~3
+  Views: 2 - could benefit from more partials and organization here
+  Controllers: 3 - controllers are pretty tidy
+  Models: 3 - models are well organized and sufficient, but not incredibly sophisticated
+  Testing: 3 - test coverage is quite thorough, especially at the feature level; would like to see more unit testing, but this is still probabl the strongest part of the app
+  Usability: 1 - app needs a lot of work on interface
+  Workflow: 2 - sounds like a lot of communication issues along the way
