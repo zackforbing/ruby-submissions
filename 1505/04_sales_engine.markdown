@@ -146,7 +146,7 @@ The output from rake sanitation:all shows…
 
 Team: David Shim & Lovisa Svallingson
 
-Github Repo:
+Github Repo: https://github.com/applegrain/sales_engine
 
 Assessed By:
 
