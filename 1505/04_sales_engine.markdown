@@ -3,7 +3,7 @@
 
 Team: Mitch Ashby & Drew Conly
 
-Github Repo:
+Github Repo: https://github.com/mitchashby16/SalesEngine
 
 Assessed By:
 
