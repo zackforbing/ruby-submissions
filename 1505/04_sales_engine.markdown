@@ -3,7 +3,7 @@
 
 Team: Mitch Ashby & Drew Conly
 
-Github Repo: https://github.com/mitchashby16/SalesEngine
+Github Repo:
 
 Assessed By:
 
@@ -146,7 +146,7 @@ The output from rake sanitation:all shows…
 
 Team: David Shim & Lovisa Svallingson
 
-Github Repo: https://github.com/applegrain/sales_engine
+Github Repo:
 
 Assessed By:
 
@@ -191,9 +191,9 @@ The output from rake sanitation:all shows…
 1: More than ten complaints
 
 
-Team: David Stinnette & Max Millington
+Team: Max Millington
 
-Github Repo:
+Github Repo: https://github.com/MaxMillington/sales_engine
 
 Assessed By:
 
@@ -287,7 +287,7 @@ The output from rake sanitation:all shows…
 
 Team: Mike Reeves & Alex Tideman
 
-Github Repo: https://github.com/michael-reeves/sales_engine
+Github Repo:
 
 Assessed By:
 
@@ -334,7 +334,7 @@ The output from rake sanitation:all shows…
 
 Team: Marla Brizel & Sebastian Abondano
 
-Github Repo: https://github.com/marlabrizel/sales_engine
+Github Repo:
 
 Assessed By:
 
