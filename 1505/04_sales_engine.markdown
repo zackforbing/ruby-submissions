@@ -2,9 +2,14 @@
 
 
 Team: Mitch Ashby & Drew Conly
+
 Github Repo:
+
 Assessed By:
+
 Assessment Notes:
+
+
 1. Functional Expectations
 4: Application fulfills all base expectations and two extensions
 3: Application fulfills all base expectations as tested by the spec harness
@@ -44,10 +49,15 @@ The output from rake sanitation:all shows…
 1: More than ten complaints
 
 
+
 Team: Jason Wright & Adam Caron
+
 Github Repo:
+
 Assessed By:
+
 Assessment Notes:
+
 1. Functional Expectations
 4: Application fulfills all base expectations and two extensions
 3: Application fulfills all base expectations as tested by the spec harness
@@ -88,9 +98,13 @@ The output from rake sanitation:all shows…
 
 
 Team: Michael Dorrance & Jerrod Paul Junker
+
 Github Repo:
+
 Assessed By:
+
 Assessment Notes:
+
 1. Functional Expectations
 4: Application fulfills all base expectations and two extensions
 3: Application fulfills all base expectations as tested by the spec harness
@@ -131,9 +145,13 @@ The output from rake sanitation:all shows…
 
 
 Team: David Shim & Lovisa Svallingson
+
 Github Repo:
+
 Assessed By:
+
 Assessment Notes:
+
 1. Functional Expectations
 4: Application fulfills all base expectations and two extensions
 3: Application fulfills all base expectations as tested by the spec harness
@@ -174,9 +192,13 @@ The output from rake sanitation:all shows…
 
 
 Team: David Stinnette & Max Millington
+
 Github Repo:
+
 Assessed By:
+
 Assessment Notes:
+
 1. Functional Expectations
 4: Application fulfills all base expectations and two extensions
 3: Application fulfills all base expectations as tested by the spec harness
@@ -217,9 +239,13 @@ The output from rake sanitation:all shows…
 
 
 Team: Jai Misra & Justin Holzmann
+
 Github Repo:
+
 Assessed By:
+
 Assessment Notes:
+
 1. Functional Expectations
 4: Application fulfills all base expectations and two extensions
 3: Application fulfills all base expectations as tested by the spec harness
@@ -260,9 +286,13 @@ The output from rake sanitation:all shows…
 
 
 Team: Mike Reeves & Alex Tideman
+
 Github Repo:
+
 Assessed By:
+
 Assessment Notes:
+
 1. Functional Expectations
 4: Application fulfills all base expectations and two extensions
 3: Application fulfills all base expectations as tested by the spec harness
@@ -303,9 +333,13 @@ The output from rake sanitation:all shows…
 
 
 Team: Marla Brizel & Sebastian Abondano
+
 Github Repo:
+
 Assessed By:
+
 Assessment Notes:
+
 1. Functional Expectations
 4: Application fulfills all base expectations and two extensions
 3: Application fulfills all base expectations as tested by the spec harness
@@ -346,9 +380,13 @@ The output from rake sanitation:all shows…
 
 
 Team: Samson Brock
+
 Github Repo:
+
 Assessed By:
+
 Assessment Notes:
+
 1. Functional Expectations
 4: Application fulfills all base expectations and two extensions
 3: Application fulfills all base expectations as tested by the spec harness
