@@ -61,7 +61,7 @@ Dave, Kristina, Minnie, Tracy:
   Workflow:
     * Score: 4
     * Many commits
-    * "Good workflow"
+    * Good workflow
 
 Jack, Michelle, Patrick:
   Repo: https://github.com/patrickmedaugh/dinner_dash
@@ -81,7 +81,7 @@ Jack, Michelle, Patrick:
     * Use partials to ensure consistency, less work, less clutter, etc
     * Use the number helpers to fix the money stuff
       * rendering pennies instead of dollars
-      * manually entering '$'
+      * manually entering $
       * losing the cents from the dollar amount
       * Try using the snippet at https://github.com/JoshCheek/playgrounds#view-helpers
   Controllers:
