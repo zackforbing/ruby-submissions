@@ -49,3 +49,8 @@
   * Code Quality - 2.5
   * User Experience - 2
 * Max Tedford, Jamie Kawahara, Lev Kravinsky
+  * Feature Completion - 4
+  * Project Organization - 4
+  * Test-Driven Development - 4
+  * Code Quality - 3.5
+  * User Experience - 2
