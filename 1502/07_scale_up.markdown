@@ -56,7 +56,7 @@
 * Thomas Leskin
   * Deployed to Heroku: Y
   * Uses Newrelic: Y
-  * What is the average performance and traffic? 3
+  * What is the average performance and traffic? 4
   * Required number of records seeded? Y
   * Load Testing Script 4
   * Performance Optimization Techniques 3
