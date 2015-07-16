@@ -45,6 +45,6 @@ Github Repo: https://github.com/philmphoenix/robodoku
 Assessed By:
 
 ## Ryan Asensio
-Github Repo:
+Github Repo: https://github.com/rasensio1/Robodoku
 
 Assessed By:
