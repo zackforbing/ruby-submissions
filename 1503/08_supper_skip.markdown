@@ -43,4 +43,9 @@
   * Code Quality - 3
   * User Experience - 2
 * Drew Reynolds, Erik Butcher, Rob Cornell, Josh Cass
+  * Feature Completion - 2
+  * Project Organization - 4
+  * Test-Driven Development - 4
+  * Code Quality - 2.5
+  * User Experience - 2
 * Max Tedford, Jamie Kawahara, Lev Kravinsky
