@@ -37,5 +37,10 @@
 * Brett Grigsby, Rick Bacci, David Maurer
 * Jack Yeh, Vanessa Gomez, Margarett Ly
 * Andrew Fink, Justin Holmes, Whitney Heimstra
+  1. Feature Completion - 4
+  2. Project Organization - 4
+  3. Test-Driven Development - 4
+  4. Code Quality - 3
+  5. User Experience - 2
 * Drew Reynolds, Erik Butcher, Rob Cornell, Josh Cass
 * Max Tedford, Jamie Kawahara, Lev Kravinsky
