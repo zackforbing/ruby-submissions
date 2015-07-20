@@ -29,7 +29,7 @@
 
 ## Mary Beth Burch
 
-* GitHub URL:
+* GitHub URL: https://github.com/mbburch/chisel
 
 ### Notes
 
