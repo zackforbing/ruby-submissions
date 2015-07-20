@@ -81,7 +81,7 @@
 
 ## Regis Boudinot
 
-* GitHub URL:
+* GitHub URL: [chisel](https://github.com/selfup/chisel)
 
 ### Notes
 
