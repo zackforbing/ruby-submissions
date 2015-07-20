@@ -51,13 +51,16 @@
 
 ### Notes
 
+* Some good progress
+* Shows understanding of tests and implementation
+* Didn't get to integrating the components together
+
 ### Scores
 
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Functionality:
-* Breaking Logic into Components:
-
+* Fundamental Ruby & Style: 2
+* Test-Driven Development: 2
+* Functionality: 1
+* Breaking Logic into Components: 3
 
 ## Justin Pease
 
