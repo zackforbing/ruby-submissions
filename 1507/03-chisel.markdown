@@ -42,7 +42,7 @@
 
 ## Tyler Komoroske
 
-* GitHub URL:
+* GitHub URL: https://github.com/tjkomor/chisel
 
 ### Notes
 
