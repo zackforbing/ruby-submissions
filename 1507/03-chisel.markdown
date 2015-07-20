@@ -7,12 +7,17 @@
 
 ### Notes
 
+* Some tests and implementation, but doesn't run/pass
+* Went into some "puts driven development"
+* Ended up with some good parts but overall the project
+isn't where it needs to be
+
 ### Scores
 
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Functionality:
-* Breaking Logic into Components:
+* Fundamental Ruby & Style: 2
+* Test-Driven Development: 1
+* Functionality: 1
+* Breaking Logic into Components: 2
 
 ## Bret Doucette
 
