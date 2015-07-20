@@ -104,13 +104,17 @@
 
 ### Notes
 
+* Showing good progress since last module
+* Like that there are tests
+* Want to see more tests, push deeper, combine components
+* Experiment with a bit more refactoring
+
 ### Scores
 
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Functionality:
-* Breaking Logic into Components:
-
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 2
+* Functionality: 3
+* Breaking Logic into Components: 3
 
 # Chisel Evals with Mike
 
