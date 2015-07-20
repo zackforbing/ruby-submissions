@@ -1,0 +1,61 @@
+submissions:
+  Marla, Lovisa, Mike:
+    repository:
+    setup_notes:
+    instructor_evaluation: Rachel
+      notes:
+      rubric:
+        Functional Expectations:
+        Test-Driven Development:
+        Encapsulation / Components:
+        Fundamental Ruby & Style:
+        Sinatra / Web and Business Logic:
+        View Layer:
+  Mitch, David, Jason:
+    repository:
+    setup_notes:
+    instructor_evaluation: Rachel
+      notes:
+      rubric:
+        Functional Expectations:
+        Test-Driven Development:
+        Encapsulation / Components:
+        Fundamental Ruby & Style:
+        Sinatra / Web and Business Logic:
+        View Layer:
+  Adam, Alex, Michael, Samson:
+    repository:
+    setup_notes:
+    instructor_evaluation: Josh M.
+      notes:
+      rubric:
+        Functional Expectations:
+        Test-Driven Development:
+        Encapsulation / Components:
+        Fundamental Ruby & Style:
+        Sinatra / Web and Business Logic:
+        View Layer:
+  Erik Butcher, Lev Kravinsky, Whitney Hiemstra:
+    repository:
+    setup_notes:
+    instructor_evaluation:
+      notes:
+      rubric:
+        Functional Expectations:
+        Test-Driven Development:
+        Encapsulation / Components:
+        Fundamental Ruby & Style:
+        Sinatra / Web and Business Logic:
+        View Layer:
+  Sebastian, Drew, Max, Jai:
+    repository:
+    setup_notes:
+    instructor_evaluation:
+      notes:
+      rubric:
+        Functional Expectations:
+        Test-Driven Development:
+        Encapsulation / Components:
+        Fundamental Ruby & Style:
+        Sinatra / Web and Business Logic:
+        View Layer:
