@@ -38,13 +38,26 @@ Score:
 
 GitHub URL: https://github.com/russelleh/binary_search_tree
 
-Assessed By:
+Assessed By: Jeff
 
 Assessment Notes:
 
+* 26 tests all passing
+* Good flow to the tests
+* Some testing of edge cases but would like to see more
+* Missing import from file, does it from CLI instead
+* Can call methods from the CLI which is neat
+* Output to CLI instead of file
+* Delete has a bug but is mostly there
+* Implementation is clear despite nested conditions
+
 Score:
 
-
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation: 3
+* Fundamental Ruby & Style: 3
+* Enumerable: 3
 
 ## Name: Matt Hecker
 
