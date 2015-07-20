@@ -4,12 +4,26 @@
 
 GitHub URL: https://github.com/Egogre/binary_search_tree
 
-Assessed By:
+Assessed By: Mike
 
-Assessment Notes
+Assessment Notes:
+
+* Works. 
+* Pretty well tested
+* Two extensions
+* Some long methods, some opportunities to refactor some intense logic.
 
 Score:
 
+Functional Expectations: 4
+
+Test Driven Development: 3
+
+Encapsulation: 3
+
+Fundamental Ruby and Style: 3
+
+Enumerable and Collections: 3
 
 
 ## Name: Matt Ewell
@@ -17,6 +31,23 @@ Score:
 GitHub URL: https://github.com/plato721/bst
 
 Assessed By: Jeff
+
+Assessment Notes:
+
+* 48 tests, some skipped
+* Good job breaking up tests into components/files
+* Generally good progression of tests, but a few miss "the crescendo"
+* Like the Ruby / Enumerable in the tests themselves
+* Like the use of modules
+* Really, really good project
+
+Scores:
+
+* Functional Expectations: 4
+* Test-Driven Development: 4
+* Encapsulation: 4
+* Fundamental Ruby & Style: 4
+* Enumerable: 3
 
 ## Name: Russell Harms
 
@@ -69,45 +100,70 @@ Score:
 
 GitHub URL: https://github.com/MowAlon/binary_search_tree.git
 
-Assessed By:
+Assessed By: Jeff
 
 Assessment Notes:
 
-Score:
-
-
-
-## Name: Jerrod Paul Junker
-
-GitHub URL:
-
-Assessed By:
-
-Assessment Notes:
+* 21 tests all pass
+* Good test progression
+* Like that your broke out a Writer
+* Find space to refactor/centralize similar algorithms
 
 Score:
 
-
+* Functional Expectations: 4
+* Test-Driven Development: 3
+* Encapsulation: 3
+* Fundamental Ruby & Style: 3
+* Enumerable: 3
 
 
 ## Name: Justin Holzmann
 
+
 GitHub URL: https://github.com/philmphoenix/binary_search_tree
 
-Assessed By:
+Assessed By: Mike
 
 Assessment Notes:
 
+* Does not work.
+* Has basic BST functionality.
+
+
 Score:
 
+Functional Expectations: 1
+
+Test Driven Development: 2
+
+Encapsulation: 3
+
+Fundamental Ruby and Style: 3
+
+Enumerable and Collections: 3
 
 
 ## Name: Ryan Asensio
 
 GitHub URL: https://github.com/rasensio1/Binary_search_tree
 
-Assessed By:
+Assessed By: Mike
 
 Assessment Notes:
 
+* Program works
+* One extension - Max Depth
+* Clean code, some opportunities for refactoring, splitting out to separate methods.
+
 Score:
+
+Functional Expectations: 3.5
+
+TDD: 3 
+
+Encapsulation: 3 
+
+Fundamental Ruby and Style 3.5
+
+Enumerable and Collections: 3.

@@ -16,7 +16,7 @@
 
 ## Bret Doucette
 
-* GitHub URL:
+* GitHub URL: https://github.com/bad6e/Chisel_Project
 
 ### Notes
 
@@ -29,7 +29,7 @@
 
 ## Mary Beth Burch
 
-* GitHub URL:
+* GitHub URL: https://github.com/mbburch/chisel
 
 ### Notes
 
@@ -42,7 +42,7 @@
 
 ## Tyler Komoroske
 
-* GitHub URL:
+* GitHub URL: https://github.com/tjkomor/chisel
 
 ### Notes
 
@@ -53,18 +53,6 @@
 * Functionality:
 * Breaking Logic into Components:
 
-## Alexander Naistadt
-
-* GitHub URL:
-
-### Notes
-
-### Scores
-
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Functionality:
-* Breaking Logic into Components:
 
 ## Justin Pease
 
@@ -81,7 +69,7 @@
 
 ## Regis Boudinot
 
-* GitHub URL:
+* GitHub URL: [chisel](https://github.com/selfup/chisel)
 
 ### Notes
 
@@ -94,20 +82,7 @@
 
 ## Rachel Parri
 
-* GitHub URL:
-
-### Notes
-
-### Scores
-
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Functionality:
-* Breaking Logic into Components:
-
-## Jeff Ruane
-
-* GitHub URL:
+* GitHub URL: https://github.com/Erachelparri/chisel
 
 ### Notes
 
@@ -136,7 +111,8 @@
 
 ## Rose Kohn
 
-* GitHub URL:
+* GitHub URL: https://github.com/roseak/Chisel
+
 
 ### Notes
 
@@ -149,7 +125,7 @@
 
 ## Jeff Ruane
 
-* GitHub URL:
+* GitHub URL: https://github.com/jbrr/chisel
 
 ### Notes
 
@@ -162,7 +138,7 @@
 
 ## Chad Minnerath
 
-* GitHub URL:
+* GitHub URL: https://github.com/cminnerath/chisel
 
 ### Notes
 
@@ -175,7 +151,7 @@
 
 ## David Stinette
 
-* GitHub URL:
+* GitHub URL: https://github.com/dastinnette/Chisel
 
 ### Notes
 
@@ -188,7 +164,7 @@
 
 ## Adam Jensen
 
-* GitHub URL:
+* GitHub URL: https://github.com/adamki/chisel
 
 ### Notes
 
@@ -214,7 +190,7 @@
 
 ## Michael Wong
 
-* GitHub URL:
+* GitHub URL: https://github.com/Kealii/Chisel.git
 
 ### Notes
 
@@ -227,7 +203,7 @@
 
 ## Rebekah Sosa
 
-* GitHub URL:
+* GitHub URL: https://github.com/rebekahsosa/chisel
 
 ### Notes
 
@@ -240,7 +216,7 @@
 
 ## Travis Haby
 
-* GitHub URL:
+* GitHub URL: https://github.com/travishaby/chisel.git
 
 ### Notes
 
