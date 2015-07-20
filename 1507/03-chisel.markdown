@@ -29,7 +29,7 @@
 
 ## Mary Beth Burch
 
-* GitHub URL: https://github.com/mbburch/chisel
+* GitHub URL:
 
 ### Notes
 
@@ -42,7 +42,7 @@
 
 ## Tyler Komoroske
 
-* GitHub URL:
+* GitHub URL: https://github.com/tjkomor/chisel
 
 ### Notes
 
@@ -124,7 +124,7 @@
 
 ## Jeff Ruane
 
-* GitHub URL: https://github.com/jbrr/chisel
+* GitHub URL:
 
 ### Notes
 
@@ -137,7 +137,7 @@
 
 ## Chad Minnerath
 
-* GitHub URL:
+* GitHub URL: https://github.com/cminnerath/chisel
 
 ### Notes
 
