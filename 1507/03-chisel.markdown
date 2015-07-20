@@ -53,18 +53,6 @@
 * Functionality:
 * Breaking Logic into Components:
 
-## Alexander Naistadt
-
-* GitHub URL:
-
-### Notes
-
-### Scores
-
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Functionality:
-* Breaking Logic into Components:
 
 ## Justin Pease
 
@@ -95,19 +83,6 @@
 ## Rachel Parri
 
 * GitHub URL: https://github.com/Erachelparri/chisel
-
-### Notes
-
-### Scores
-
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Functionality:
-* Breaking Logic into Components:
-
-## Jeff Ruane
-
-* GitHub URL:
 
 ### Notes
 
