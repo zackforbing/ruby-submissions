@@ -20,12 +20,18 @@
 
 ### Notes
 
+* Good functionality
+* Good starting direction for tests; push them further
+* Implementation is good but some spots would benefit from refactoring
+* Make sure you don't rely too much on mentors
+* Look for opportunities to test edge cases and integrations
+
 ### Scores
 
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Functionality:
-* Breaking Logic into Components:
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 2
+* Functionality: 3
+* Breaking Logic into Components: 3
 
 ## Mary Beth Burch
 
@@ -33,12 +39,17 @@
 
 ### Notes
 
+* Good small components
+* Good happy-path tests, need to define the edges a bit more
+* Like that you iterated on the implementation
+* Overall good progress!
+
 ### Scores
 
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Functionality:
-* Breaking Logic into Components:
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Functionality: 3
+* Breaking Logic into Components: 3
 
 ## Tyler Komoroske
 
@@ -46,13 +57,16 @@
 
 ### Notes
 
+* Some good progress
+* Shows understanding of tests and implementation
+* Didn't get to integrating the components together
+
 ### Scores
 
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Functionality:
-* Breaking Logic into Components:
-
+* Fundamental Ruby & Style: 2
+* Test-Driven Development: 2
+* Functionality: 1
+* Breaking Logic into Components: 3
 
 ## Justin Pease
 
@@ -60,12 +74,17 @@
 
 ### Notes
 
+* Overall shows good progress
+* Like that there are several classes
+* Look for common "words" that should be pulled out into a class
+* Work a little more on the "workflow" of running tests, organizing files
+
 ### Scores
 
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Functionality:
-* Breaking Logic into Components:
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 2
+* Functionality: 3
+* Breaking Logic into Components: 3
 
 ## Regis Boudinot
 
@@ -73,12 +92,17 @@
 
 ### Notes
 
+* Overall good progress
+* Some gaps / further room to grow in the testing
+* Like that it works!
+* Implementations are ok but need some refactoring
+
 ### Scores
 
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Functionality:
-* Breaking Logic into Components:
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 2
+* Functionality: 3
+* Breaking Logic into Components: 3
 
 ## Rachel Parri
 
@@ -86,13 +110,17 @@
 
 ### Notes
 
+* Showing good progress since last module
+* Like that there are tests
+* Want to see more tests, push deeper, combine components
+* Experiment with a bit more refactoring
+
 ### Scores
 
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Functionality:
-* Breaking Logic into Components:
-
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 2
+* Functionality: 3
+* Breaking Logic into Components: 3
 
 # Chisel Evals with Mike
 
@@ -277,4 +305,3 @@
 * Test-Driven Development: 3 
 * Functionality: 3
 * Breaking Logic into Components: 3
-
