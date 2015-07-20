@@ -16,7 +16,7 @@
 
 ## Bret Doucette
 
-* GitHub URL:
+* GitHub URL: https://github.com/bad6e/Chisel_Project
 
 ### Notes
 
