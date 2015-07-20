@@ -175,7 +175,7 @@
 
 ## David Stinette
 
-* GitHub URL:
+* GitHub URL: https://github.com/dastinnette/Chisel
 
 ### Notes
 
