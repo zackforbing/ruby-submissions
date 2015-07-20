@@ -214,7 +214,7 @@
 
 ## Michael Wong
 
-* GitHub URL:
+* GitHub URL: https://github.com/Kealii/Chisel.git
 
 ### Notes
 
