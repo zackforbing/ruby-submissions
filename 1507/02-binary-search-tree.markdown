@@ -1,3 +1,5 @@
+# Binary Search Tree 
+
 ## Name: George Hudson
 
 GitHub URL:
