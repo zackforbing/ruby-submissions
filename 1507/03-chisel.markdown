@@ -29,7 +29,7 @@
 
 ## Mary Beth Burch
 
-* GitHub URL:
+* GitHub URL: https://github.com/mbburch/chisel
 
 ### Notes
 
@@ -111,7 +111,8 @@
 
 ## Rose Kohn
 
-* GitHub URL:
+* GitHub URL: https://github.com/roseak/Chisel
+
 
 ### Notes
 
@@ -124,7 +125,7 @@
 
 ## Jeff Ruane
 
-* GitHub URL:
+* GitHub URL: https://github.com/jbrr/chisel
 
 ### Notes
 
