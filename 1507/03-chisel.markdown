@@ -177,7 +177,7 @@
 
 ## Christ Cenatiempo
 
-* GitHub URL:
+* GitHub URL: https://github.com/ChrisCenatie/chisel
 
 ### Notes
 
