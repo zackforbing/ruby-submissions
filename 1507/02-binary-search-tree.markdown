@@ -75,7 +75,7 @@ Score:
 
 ## Name: Justin Holzmann
 
-GitHub URL:
+GitHub URL: https://github.com/philmphoenix/binary_search_tree
 
 Assessed By:
 
