@@ -33,12 +33,17 @@
 
 ### Notes
 
+* Good small components
+* Good happy-path tests, need to define the edges a bit more
+* Like that you iterated on the implementation
+* Overall good progress!
+
 ### Scores
 
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Functionality:
-* Breaking Logic into Components:
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Functionality: 3
+* Breaking Logic into Components: 3
 
 ## Tyler Komoroske
 
@@ -222,8 +227,7 @@
 
 ### Scores
 
-* Fundamental Ruby & Style: 
+* Fundamental Ruby & Style:
 * Test-Driven Development:
 * Functionality:
 * Breaking Logic into Components:
-
