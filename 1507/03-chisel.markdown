@@ -136,7 +136,7 @@
 
 ## Rose Kohn
 
-* GitHub URL:
+* GitHub URL: https://github.com/roseak/Chisel
 
 ### Notes
 
