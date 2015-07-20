@@ -94,7 +94,7 @@
 
 ## Rachel Parri
 
-* GitHub URL:
+* GitHub URL: https://github.com/Erachelparri/chisel
 
 ### Notes
 
