@@ -86,12 +86,17 @@
 
 ### Notes
 
+* Overall good progress
+* Some gaps / further room to grow in the testing
+* Like that it works!
+* Implementations are ok but need some refactoring
+
 ### Scores
 
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Functionality:
-* Breaking Logic into Components:
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 2
+* Functionality: 3
+* Breaking Logic into Components: 3
 
 ## Rachel Parri
 
