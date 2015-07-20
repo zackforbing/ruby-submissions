@@ -26,7 +26,7 @@ Score:
 
 ## Name: Russell Harms
 
-GitHub URL:
+GitHub URL: https://github.com/russelleh/binary_search_tree
 
 Assessed By:
 
