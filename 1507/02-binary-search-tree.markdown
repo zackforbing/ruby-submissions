@@ -2,7 +2,7 @@
 
 ## Name: George Hudson
 
-GitHub URL:
+GitHub URL: https://github.com/Egogre/binary_search_tree
 
 Assessed By:
 
