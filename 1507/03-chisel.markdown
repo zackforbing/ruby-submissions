@@ -240,7 +240,7 @@
 
 ## Travis Haby
 
-* GitHub URL:
+* GitHub URL: https://github.com/travishaby/chisel.git
 
 ### Notes
 
