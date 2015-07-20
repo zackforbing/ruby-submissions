@@ -98,7 +98,7 @@
 
 ## Mimi Schatz
 
-* GitHub URL:
+* GitHub URL: https://github.com/mcschatz/chisel
 
 ### Notes
 
