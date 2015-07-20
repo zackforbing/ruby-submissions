@@ -42,7 +42,7 @@
 
 ## Tyler Komoroske
 
-* GitHub URL: https://github.com/tjkomor/chisel
+* GitHub URL:
 
 ### Notes
 
@@ -149,7 +149,7 @@
 
 ## Jeff Ruane
 
-* GitHub URL:
+* GitHub URL: https://github.com/jbrr/chisel
 
 ### Notes
 
