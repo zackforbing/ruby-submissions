@@ -68,12 +68,17 @@
 
 ### Notes
 
+* Overall shows good progress
+* Like that there are several classes
+* Look for common "words" that should be pulled out into a class
+* Work a little more on the "workflow" of running tests, organizing files
+
 ### Scores
 
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Functionality:
-* Breaking Logic into Components:
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 2
+* Functionality: 3
+* Breaking Logic into Components: 3
 
 ## Regis Boudinot
 
