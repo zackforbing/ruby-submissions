@@ -69,13 +69,22 @@ Score:
 
 GitHub URL: https://github.com/MowAlon/binary_search_tree.git
 
-Assessed By:
+Assessed By: Jeff
 
 Assessment Notes:
 
+* 21 tests all pass
+* Good test progression
+* Like that your broke out a Writer
+* Find space to refactor/centralize similar algorithms
+
 Score:
 
-
+* Functional Expectations: 4
+* Test-Driven Development: 3
+* Encapsulation: 3
+* Fundamental Ruby & Style: 3
+* Enumerable: 3
 
 ## Name: Jerrod Paul Junker
 
