@@ -20,12 +20,18 @@
 
 ### Notes
 
+* Good functionality
+* Good starting direction for tests; push them further
+* Implementation is good but some spots would benefit from refactoring
+* Make sure you don't rely too much on mentors
+* Look for opportunities to test edge cases and integrations
+
 ### Scores
 
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Functionality:
-* Breaking Logic into Components:
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 2
+* Functionality: 3
+* Breaking Logic into Components: 3
 
 ## Mary Beth Burch
 
