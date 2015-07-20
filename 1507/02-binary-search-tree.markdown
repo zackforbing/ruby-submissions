@@ -18,6 +18,23 @@ GitHub URL: https://github.com/plato721/bst
 
 Assessed By: Jeff
 
+Assessment Notes:
+
+* 48 tests, some skipped
+* Good job breaking up tests into components/files
+* Generally good progression of tests, but a few miss "the crescendo"
+* Like the Ruby / Enumerable in the tests themselves
+* Like the use of modules
+* Really, really good project
+
+Scores:
+
+* Functional Expectations: 4
+* Test-Driven Development: 4
+* Encapsulation: 4
+* Fundamental Ruby & Style: 4
+* Enumerable: 3
+
 ## Name: Russell Harms
 
 GitHub URL: https://github.com/russelleh/binary_search_tree
