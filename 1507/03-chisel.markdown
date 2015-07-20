@@ -111,7 +111,7 @@
 
 ## Rose Kohn
 
-* GitHub URL: https://github.com/roseak/Chisel
+* GitHub URL:
 
 ### Notes
 
@@ -163,7 +163,7 @@
 
 ## Adam Jensen
 
-* GitHub URL:
+* GitHub URL: https://github.com/adamki/chisel
 
 ### Notes
 
