@@ -38,7 +38,7 @@ Score:
 
 ## Name: Matt Hecker
 
-GitHub URL:
+GitHub URL: https://github.com/HoffsMH/binary_search_tree
 
 Assessed By:
 
