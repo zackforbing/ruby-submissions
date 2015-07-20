@@ -14,7 +14,7 @@ Score:
 
 ## Name: Matt Ewell
 
-GitHub URL:
+GitHub URL: https://github.com/plato721/bst
 
 Assessed By:
 
