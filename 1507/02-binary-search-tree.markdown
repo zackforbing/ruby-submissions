@@ -50,7 +50,7 @@ Score:
 
 ## Name: Alon Waisman
 
-GitHub URL:
+GitHub URL: https://github.com/MowAlon/binary_search_tree.git
 
 Assessed By:
 
