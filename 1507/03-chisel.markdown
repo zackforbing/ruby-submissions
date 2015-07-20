@@ -227,7 +227,7 @@
 
 ## Rebekah Sosa
 
-* GitHub URL:
+* GitHub URL: https://github.com/rebekahsosa/chisel
 
 ### Notes
 
