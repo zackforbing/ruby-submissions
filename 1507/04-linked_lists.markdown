@@ -60,7 +60,7 @@
 
 ### Rachel Parri
 
-* GitHub URL:
+* GitHub URL: https://github.com/Erachelparri/Linked-Lists.git
 
 #### Notes
 
