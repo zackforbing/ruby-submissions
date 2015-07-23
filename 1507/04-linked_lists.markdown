@@ -133,7 +133,7 @@
 
 ### Michael Wong
 
-* GitHub URL:
+* GitHub URL: https://github.com/Kealii/LinkedLists.git
 
 #### Notes
 
