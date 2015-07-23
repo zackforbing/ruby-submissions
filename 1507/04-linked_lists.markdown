@@ -245,7 +245,7 @@
 
 ### Jerrod Paul Junker
 
-* GitHub URL:
+* GitHub URL: https://github.com/Unsafepond/Linked-list
 
 #### Notes
 
