@@ -189,7 +189,7 @@
 
 ### Jeff Ruane
 
-* GitHub URL:
+* GitHub URL: https://github.com/jbrr/linked_list
 
 #### Notes
 
