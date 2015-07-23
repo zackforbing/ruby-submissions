@@ -17,7 +17,7 @@
 
 ### Russell Harms
 
-* GitHub URL:
+* GitHub URL: https://github.com/russelleh/enigma
 
 #### Notes
 
