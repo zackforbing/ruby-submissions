@@ -102,7 +102,7 @@
 
 ### Rose Kohn
 
-* GitHub URL:
+* GitHub URL: https://github.com/roseak/linked_list
 
 #### Notes
 
