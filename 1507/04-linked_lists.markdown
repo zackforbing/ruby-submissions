@@ -295,10 +295,18 @@
 
 #### Notes
 
+* 30 tests, all pass
+* All base features in place, knew what I was doing
+* Much simpler than BST
+* Tests are trending to a good place, need a bit more with the edge cases and
+some are hard to follow
+* Implementation has some good code reuse, other spots where it's missing
+* Missed some features because JC was slow in pushing the spec changes
+
 #### Scores
 
-* Functional Expectations:
-* Test-Driven Development:
-* Encapsulation:
-* Fundamental Ruby & Style:
-* Looping / Recursion:
+* Functional Expectations: 3
+* Test-Driven Development: 2
+* Encapsulation: 3
+* Fundamental Ruby & Style: 3
+* Looping / Recursion: 3
