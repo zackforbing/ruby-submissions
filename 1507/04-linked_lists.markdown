@@ -203,7 +203,7 @@
 
 ### David Stinnette
 
-* GitHub URL:
+* GitHub URL: https://github.com/dastinnette/LinkedLists
 
 #### Notes
 
