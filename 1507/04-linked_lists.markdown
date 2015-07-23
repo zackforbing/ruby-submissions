@@ -231,7 +231,7 @@
 
 ### Adam Jensen
 
-* GitHub URL:
+* GitHub URL: https://github.com/adamki/linked-lists
 
 #### Notes
 
