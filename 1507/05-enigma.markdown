@@ -45,12 +45,19 @@
 
 #### Notes
 
+* Not as problematic as BST. Assignment had a more detailed description.
+* 34 tests with 2 skips
+* Tests document the core functionality
+* Implementation is well broken down and easy to follow
+* Let's talk about constants one day ... but the idea is great
+* Crack is very good
+
 #### Scores
 
-* Functionality:
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
+* Functionality: 4
+* Fundamental Ruby & Style: 4
+* Test-Driven Development: 3
+* Breaking Logic into Components: 4
 
 ### Matt Ewell
 
@@ -81,14 +88,14 @@
 
 #### Scores
 
-* Functionality: 4 
+* Functionality: 4
 * Fundamental Ruby & Style: 3.5
-* Test-Driven Development: 4 
+* Test-Driven Development: 4
 * Breaking Logic into Components: 4
 
 ### Justin Holzmann
 
-* GitHub URL: 
+* GitHub URL:
 
 #### Notes
 
@@ -101,7 +108,7 @@
 #### Scores
 
 * Functionality: 2
-* Fundamental Ruby & Style: 3 
+* Fundamental Ruby & Style: 3
 * Test-Driven Development: 3
 * Breaking Logic into Components: 3
 
@@ -121,7 +128,7 @@
 
 #### Scores
 
-* Functionality: 4 
+* Functionality: 4
 * Fundamental Ruby & Style: 2
 * Test-Driven Development: 3
-* Breaking Logic into Components: 2.5 
+* Breaking Logic into Components: 2.5
