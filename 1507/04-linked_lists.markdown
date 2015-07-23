@@ -238,13 +238,18 @@
 
 #### Notes
 
+* 27 tests, all passing
+* Wrote a pile of junk, then deleted and rewrote cohesively
+* Tests are really good
+* Implementation could use more encapsulation / reuse of internal code
+
 #### Scores
 
-* Functional Expectations:
-* Test-Driven Development:
-* Encapsulation:
-* Fundamental Ruby & Style:
-* Looping / Recursion:
+* Functional Expectations: 3
+* Test-Driven Development: 4
+* Encapsulation: 2
+* Fundamental Ruby & Style: 3
+* Looping / Recursion: 3
 
 ### Rebekah Sosa
 
