@@ -74,25 +74,36 @@
 
 #### Notes
 
+* 36 tests 94.91% coverage
+* good full integration tests
+* cracker works not brute force encodes nearly instantly
+* some opportunities for refactoring, overall good code, great separation of responsibilities
+
 #### Scores
 
-* Functionality:
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
+* Functionality: 4 
+* Fundamental Ruby & Style: 3.5
+* Test-Driven Development: 4 
+* Breaking Logic into Components: 4
 
 ### Justin Holzmann
 
-* GitHub URL:
+* GitHub URL: 
 
 #### Notes
 
+* encrypts and decrypts
+* crack does not work
+* needs better unit testing
+* believe the crack sent program into an infinite loop
+
+
 #### Scores
 
-* Functionality:
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
+* Functionality: 2
+* Fundamental Ruby & Style: 3 
+* Test-Driven Development: 3
+* Breaking Logic into Components: 3
 
 ### Ryan Asensio
 
@@ -100,9 +111,17 @@
 
 #### Notes
 
+* Program encrypts
+* program cracks
+* program cracks in under a second
+* good integration tests
+* messy god object with main
+* file IO could have been broken out
+
+
 #### Scores
 
-* Functionality:
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
+* Functionality: 4 
+* Fundamental Ruby & Style: 2
+* Test-Driven Development: 3
+* Breaking Logic into Components: 2.5 
