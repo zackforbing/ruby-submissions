@@ -219,13 +219,18 @@
 
 #### Notes
 
+* Got through all the expectations
+* 24 tests all passing
+* Test coverage is pretty good, some spots to stretch the edges
+* Implementation is strong, could use a bit of refactoring
+
 #### Scores
 
-* Functional Expectations:
-* Test-Driven Development:
-* Encapsulation:
-* Fundamental Ruby & Style:
-* Looping / Recursion:
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation: 3
+* Fundamental Ruby & Style: 3
+* Looping / Recursion: 3
 
 ### David Stinnette
 
