@@ -137,13 +137,21 @@
 
 #### Notes
 
+* Seemed conceptually easy but hard to get started
+* Didn't quite get remove by value working
+* 42 tests with two issues around remove by value
+* Tests show really good spiraling of complexity
+* Implementation takes iterative approach
+* Implementation is clear but some spots could use refactoring/simplification
+* Make sure to reuse functionality that's already built
+
 #### Scores
 
-* Functional Expectations:
-* Test-Driven Development:
-* Encapsulation:
-* Fundamental Ruby & Style:
-* Looping / Recursion:
+* Functional Expectations: 3
+* Test-Driven Development: 4
+* Encapsulation: 2
+* Fundamental Ruby & Style: 3
+* Looping / Recursion: 3
 
 ### Nicole Hall
 
