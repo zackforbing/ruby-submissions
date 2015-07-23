@@ -276,13 +276,18 @@
 
 #### Notes
 
+* Struggled early, but later parts made more sense without help
+* Good tests needs some edge case work
+* Good functionality
+* Some spots for better refactoring/encapsulation
+
 #### Scores
 
-* Functional Expectations:
-* Test-Driven Development:
-* Encapsulation:
-* Fundamental Ruby & Style:
-* Looping / Recursion:
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation: 3
+* Fundamental Ruby & Style: 3
+* Looping / Recursion: 3
 
 ### Jerrod Paul Junker
 
