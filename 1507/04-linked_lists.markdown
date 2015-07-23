@@ -257,13 +257,18 @@
 
 #### Notes
 
+* I needed a lot of pairing and support
+* Ended up with two versions
+* Test suite shows a good progression
+* Some features missing but good progress
+
 #### Scores
 
-* Functional Expectations:
-* Test-Driven Development:
-* Encapsulation:
-* Fundamental Ruby & Style:
-* Looping / Recursion:
+* Functional Expectations: 1
+* Test-Driven Development: 3
+* Encapsulation: 3
+* Fundamental Ruby & Style: 3
+* Looping / Recursion: 3
 
 ### Adam Jensen
 
