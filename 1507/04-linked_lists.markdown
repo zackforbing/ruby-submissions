@@ -4,11 +4,8 @@
 
 ### Mimi Schatz
 
-<<<<<<< HEAD
+
 * GitHub URL:  https://github.com/mcschatz/linked_list
-=======
-* GitHub URL: https://github.com/mcschatz/linked_list
->>>>>>> 53b5216da0bddb50702784b396ee453605b67250
 
 #### Notes
 
