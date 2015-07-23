@@ -32,7 +32,7 @@
 
 ### Bret Doucette
 
-* GitHub URL:
+* GitHub URL: https://github.com/bad6e/linkedlist
 
 #### Notes
 
