@@ -116,7 +116,7 @@
 
 ### Chris Cenatiempo
 
-* GitHub URL:
+* GitHub URL: https://github.com/ChrisCenatie/linked_lists
 
 #### Notes
 
