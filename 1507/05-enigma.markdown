@@ -4,7 +4,7 @@
 
 ### Matt Hecker
 
-* GitHub URL:
+* GitHub URL: https://github.com/HoffsMH/enigma
 
 #### Notes
 
