@@ -88,7 +88,7 @@
 
 ### Regis Boudinot
 
-* GitHub URL:
+* GitHub URL: [linked_list](https://github.com/selfup/linked_list)
 
 #### Notes
 
