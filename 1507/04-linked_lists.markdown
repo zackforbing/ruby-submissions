@@ -199,13 +199,19 @@
 
 #### Notes
 
+* 16 tests all pass
+* Got through all functionality
+* Good effort on testing, include edge cases for the more difficult parts
+* Consistent iteration use
+* Some parts are a bit difficult to mentally parse
+
 #### Scores
 
-* Functional Expectations:
-* Test-Driven Development:
-* Encapsulation:
-* Fundamental Ruby & Style:
-* Looping / Recursion:
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation: 2
+* Fundamental Ruby & Style: 3
+* Looping / Recursion: 3
 
 ### Jeff Ruane
 
