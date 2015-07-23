@@ -159,13 +159,19 @@
 
 #### Notes
 
+* 23 tests, all pass
+* All methods work
+* Tried for 2-3 tests per feature
+* Tests are clear and make sense
+* Implementation is solid but using Enumerable is a bit of a reach
+
 #### Scores
 
-* Functional Expectations:
-* Test-Driven Development:
-* Encapsulation:
-* Fundamental Ruby & Style:
-* Looping / Recursion:
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation: 2
+* Fundamental Ruby & Style: 3
+* Looping / Recursion: 3
 
 ### Mary Beth Burch
 
