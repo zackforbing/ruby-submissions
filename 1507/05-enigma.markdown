@@ -8,12 +8,18 @@
 
 #### Notes
 
+* 38 tests, 36 pass
+* Need to beef up tests to demonstrate functionality and test out edge cases
+* Good job breaking up components
+* Some Ruby implementation needs refactoring
+* Crack ran into some issues
+
 #### Scores
 
-* Functionality:
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
+* Functionality: 2
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 2
+* Breaking Logic into Components: 3
 
 ### Russell Harms
 
