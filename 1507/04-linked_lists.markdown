@@ -18,7 +18,7 @@
 
 ### Travis Haby
 
-* GitHub URL:
+* GitHub URL: https://github.com/travishaby/linkedlist.git
 
 #### Notes
 
