@@ -65,12 +65,20 @@
 
 #### Notes
 
+* Didn't plan well enough, was making it too complicated
+* 95 tests, about 13 broken
+* Implementation has lots of neat pieces, but the stitching together is
+somewhat rough -- maybe trying to do things too right the first time
+* Like the direction of the testing. Make sure to run all tests from root
+and run them all together frequently
+* Make sure to run command-line scripts and tests from project root
+
 #### Scores
 
-* Functionality:
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
+* Functionality: 2
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Breaking Logic into Components: 3
 
 
 ## With Mike
