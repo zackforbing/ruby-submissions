@@ -179,13 +179,19 @@
 
 #### Notes
 
+* 30 tests, two skips, the rest pass
+* Got through all base features
+* Good tests and some attention to the edge cases
+* Implementation looks solid
+* Some good reuse of functionality
+
 #### Scores
 
-* Functional Expectations:
-* Test-Driven Development:
-* Encapsulation:
-* Fundamental Ruby & Style:
-* Looping / Recursion:
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation: 3
+* Fundamental Ruby & Style: 3
+* Looping / Recursion: 3
 
 ### Chad Minnerath
 
