@@ -27,12 +27,17 @@
 
 #### Notes
 
+* Solid encrypt/decrypt, didn't get crack
+* Good overall testing, room to stretch the boundaries
+* Be careful with the project spec about interaction expectations
+* Implementation code looks solid
+
 #### Scores
 
-* Functionality:
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
+* Functionality: 2
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Breaking Logic into Components: 3
 
 ### Alon Waisman
 
