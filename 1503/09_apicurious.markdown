@@ -174,8 +174,8 @@ Production: https://warm-hamlet-6420.herokuapp.com
 
 ### Justin Holmes
 
-Github: https://github.com/Justin-Holmes/APIcurious
-Production: https://nameless-falls-2332.herokuapp.com/<br>
+Github: https://github.com/Justin-Holmes/APIcurious<br>
+Production: https://nameless-falls-2332.herokuapp.com/
 
 * **Notes**: 92.38 percent test coverage missing some test coverage, namely logout, favorite, user exists. Good stub to test logging in. No user model test, though most of that functionality is covered in the login test.
 * **Server-Side Applicaiton and APIs**: 4 - Project wraps/isolates external API, tests API interaction without actual connectivity dependencies.
