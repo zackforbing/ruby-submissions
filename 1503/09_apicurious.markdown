@@ -211,3 +211,26 @@ Github: https://github.com/morganmiller/github-rebuild<br> Production: https://g
 * **Test-Driven Development**: 2.5 - The code demonstrates high test coverage (>60%), but does not adequately balance feature and unit tests.
 * **Features**: 2.8 - Most features were met.
 * **Interface**: 2.5 - The application shows effort in the interface, but the result is not effective.
+
+### Jack Yeh
+
+Some good experiments around connecting directly to the external API with a hand-rolled client,
+but otherwise features were not met. Good level of testing for the API connection
+methods we are implementing with the custom client.
+
+#### Server-Side Application and APIs
+
+* 3 - Project wraps/isolates external API but has some gaps or external connections in its testing
+
+#### Test-Driven Development
+
+* 3 - The code demonstrates high test coverage (>70%), tests at feature and unit levels, but relies on external services
+
+#### Features
+
+* 1 - Major features are missing and/or the application is not deployed to production
+
+#### Interface
+
+* 1 - The application is confusing or difficult to use
+
