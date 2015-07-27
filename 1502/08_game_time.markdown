@@ -107,10 +107,17 @@
 
 ### Notes
 
+* Game is basically playable, missing shape rotation but lines can be cleared
+and the game can be lost.
+* Got into OOP late
+* 26 tests that pass, though the execution is a little haphazard
+* Realized that board should have been a class, kept digging the ditch deeper
+* Try pulling magic data out to a config object
+
 ### Scores
 
-* Functional Expectations:
-* Test-Driven Development:
-* Breaking Logic Into Components:
-* Fundamental JS and Style:
-* Code Sanitation:
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Breaking Logic Into Components: 3
+* Fundamental JS and Style: 3
+* Code Sanitation: 3
