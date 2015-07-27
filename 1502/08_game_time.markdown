@@ -30,7 +30,7 @@
 
 ## Tracy Caruso and David Daniel
 
-* GitHub URL:
+* GitHub URL: https://github.com/haveanicedavid/tetris
 
 ### Notes
 
