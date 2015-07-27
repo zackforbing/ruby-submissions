@@ -58,7 +58,7 @@
 
 ## Michelle Golle and Tom Leskin
 
-* GitHub URL:
+* GitHub URL: https://github.com/MichelleGolle/duck-hunt
 
 ### Notes
 
