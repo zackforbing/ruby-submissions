@@ -174,8 +174,7 @@ Production: https://warm-hamlet-6420.herokuapp.com
 
 ### Justin Holmes
 
-Github: https://github.com/Justin-Holmes/APIcurious<br>
-Production: https://nameless-falls-2332.herokuapp.com/
+Github: https://github.com/Justin-Holmes/APIcurious<br>Production: https://nameless-falls-2332.herokuapp.com/
 
 * **Notes**: 92.38 percent test coverage missing some test coverage, namely logout, favorite, user exists. Good stub to test logging in. No user model test, though most of that functionality is covered in the login test.
 * **Server-Side Applicaiton and APIs**: 4 - Project wraps/isolates external API, tests API interaction without actual connectivity dependencies.
@@ -205,6 +204,9 @@ Github: https://github.com/morganmiller/github-rebuild<br> Production: https://g
 * **Interface**: 4 - The application is a logical and easy to use implementation of the target application.
 
 ### Andrew Fink
+
+Github: https://github.com/adfink/oauth-workshop.git<br>
+Production: https://whispering-brushlands-9480.herokuapp.com
 
 * **Notes**: Could use more testing. Marked lack of tests, though vcr was used.
 * **Server-Side Applicaiton and APIs**: 4 - Project wraps/isolates external API, tests API interaction without actual connectivity dependencies.
