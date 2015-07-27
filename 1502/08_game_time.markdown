@@ -80,7 +80,7 @@
 
 ## Minnie Lee and Patrick Medaugh
 
-* GitHub URL:
+* GitHub URL: https://github.com/patrickmedaugh/Tron-lightcycles
 
 ### Notes
 
