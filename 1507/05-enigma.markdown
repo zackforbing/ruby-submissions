@@ -122,7 +122,7 @@ and run them all together frequently
 
 ### Ryan Asensio
 
-* GitHub URL:
+* GitHub URL: https://github.com/rasensio1/Enigma
 
 #### Notes
 
