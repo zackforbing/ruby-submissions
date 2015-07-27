@@ -2,7 +2,7 @@
 
 ## Tess Griffin and Eric Dowty
 
-* GitHub URL:
+* GitHub URL: https://github.com/eric-dowty/JavaScript-2048
 
 ### Notes
 
