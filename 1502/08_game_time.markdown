@@ -44,7 +44,7 @@
 
 ## Mihir Parikh and Kyle Henson
 
-* GitHub URL:
+* GitHub URL: https://github.com/mihir787/breakOut
 
 ### Notes
 
