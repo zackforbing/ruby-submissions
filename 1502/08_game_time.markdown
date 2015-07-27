@@ -2,7 +2,7 @@
 
 ## Tess Griffin and Eric Dowty
 
-* GitHub URL:
+* GitHub URL: https://github.com/eric-dowty/JavaScript-2048
 
 ### Notes
 
@@ -30,7 +30,7 @@
 
 ## Tracy Caruso and David Daniel
 
-* GitHub URL:
+* GitHub URL: https://github.com/haveanicedavid/tetris
 
 ### Notes
 
@@ -44,7 +44,7 @@
 
 ## Mihir Parikh and Kyle Henson
 
-* GitHub URL:
+* GitHub URL: https://github.com/mihir787/breakOut
 
 ### Notes
 
@@ -58,7 +58,7 @@
 
 ## Michelle Golle and Tom Leskin
 
-* GitHub URL:
+* GitHub URL: https://github.com/MichelleGolle/duck-hunt
 
 ### Notes
 
@@ -80,7 +80,7 @@
 
 ## Minnie Lee and Patrick Medaugh
 
-* GitHub URL:
+* GitHub URL: https://github.com/patrickmedaugh/Tron-lightcycles
 
 ### Notes
 
