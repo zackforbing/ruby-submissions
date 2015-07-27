@@ -62,13 +62,21 @@
 
 ### Notes
 
+* Game is decently playable. Some unpredictability of the speed unless you refresh.
+* You can shoot ducks
+* Used Canvas for moving the duck around
+* 15 tests that all pass
+* Decided to improve code rather than build more features
+* JS implementation looks pretty clean
+* Look for opportunities to push functionality out of your "god object" into the children -- out from index.js into other files.
+
 ### Scores
 
-* Functional Expectations:
-* Test-Driven Development:
-* Breaking Logic Into Components:
-* Fundamental JS and Style:
-* Code Sanitation:
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Breaking Logic Into Components: 3
+* Fundamental JS and Style: 3
+* Code Sanitation: 4
 
 ## Minnie Lee and Patrick Medaugh
 
