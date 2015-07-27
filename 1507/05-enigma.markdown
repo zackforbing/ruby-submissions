@@ -41,7 +41,7 @@
 
 ### Alon Waisman
 
-* GitHub URL:
+* GitHub URL: https://github.com/MowAlon/Enigma.git
 
 #### Notes
 
