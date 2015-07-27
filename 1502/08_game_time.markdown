@@ -6,13 +6,17 @@
 
 ### Notes
 
+* Good use of test-driven development
+* Multiple modes of game play
+* No use of prototype methods
+
 ### Scores
 
-* Functional Expectations:
-* Test-Driven Development:
-* Breaking Logic Into Components:
-* Fundamental JS and Style:
-* Code Sanitation:
+* Functional Expectations: 3
+* Test-Driven Development: 4
+* Breaking Logic Into Components: 4
+* Fundamental JS and Style: 3
+* Code Sanitation: 1
 
 ## Lori Culberson and Fred Block
 
@@ -20,13 +24,16 @@
 
 ### Notes
 
+* Game play had strange edge cases that didn't work
+* Poorly named methods that did not do what their names would have you believe
+
 ### Scores
 
-* Functional Expectations:
-* Test-Driven Development:
-* Breaking Logic Into Components:
-* Fundamental JS and Style:
-* Code Sanitation:
+* Functional Expectations: 2
+* Test-Driven Development: 2
+* Breaking Logic Into Components: 2
+* Fundamental JS and Style: 2
+* Code Sanitation: 2.5
 
 ## Tracy Caruso and David Daniel
 
@@ -34,13 +41,16 @@
 
 ### Notes
 
+* Multiple levels of difficulty
+* Well-organized code
+
 ### Scores
 
-* Functional Expectations:
-* Test-Driven Development:
-* Breaking Logic Into Components:
-* Fundamental JS and Style:
-* Code Sanitation:
+* Functional Expectations: 4
+* Test-Driven Development: 3
+* Breaking Logic Into Components: 3.5
+* Fundamental JS and Style: 4
+* Code Sanitation: 3.5
 
 ## Mihir Parikh and Kyle Henson
 
@@ -48,13 +58,15 @@
 
 ### Notes
 
+* Tight coupling of presentation and business logic
+
 ### Scores
 
-* Functional Expectations:
-* Test-Driven Development:
-* Breaking Logic Into Components:
-* Fundamental JS and Style:
-* Code Sanitation:
+* Functional Expectations: 3
+* Test-Driven Development: 2
+* Breaking Logic Into Components: 2
+* Fundamental JS and Style: 3
+* Code Sanitation: 2
 
 ## Michelle Golle and Tom Leskin
 
