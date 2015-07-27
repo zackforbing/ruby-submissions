@@ -103,7 +103,7 @@
 
 ## Kristina Brown, Andrew Carmer, Kenny Chen
 
-* GitHub URL:
+* GitHub URL: https://github.com/kristinabrown/tetris/
 
 ### Notes
 
