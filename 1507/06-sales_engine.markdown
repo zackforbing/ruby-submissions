@@ -4,7 +4,7 @@
 
 ### Matt Hecker
 
-* GitHub URL:
+* GitHub URL: https://github.com/HoffsMH/sales_engine
 
 #### Notes
 
@@ -12,7 +12,7 @@
 
 ### Russell Harms
 
-* GitHub URL:
+* GitHub URL: https://github.com/russelleh/sales_engine
 
 #### Notes
 
@@ -20,7 +20,7 @@
 
 ### Alon Waisman
 
-* GitHub URL:
+* GitHub URL: https://github.com/MowAlon/sales_engine.git
 
 #### Notes
 
@@ -54,7 +54,7 @@
 
 ### Ryan Asensio
 
-* GitHub URL:
+* GitHub URL: https://github.com/rasensio1/sales_engine
 
 #### Notes
 

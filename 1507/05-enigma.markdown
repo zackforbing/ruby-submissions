@@ -229,12 +229,28 @@ is fine
 
 #### Notes
 
+* some successes, some struggles -- encrypt and decrypt work pretty well
+* would both like to spend more time refactoring, share functionality, reduce
+duplication
+* crack works sometimes -- only with our sample key
+* struggled through File I/O but eventually got it figured out
+* want to work on testing File I/O
+* progress was fast early then stalled in the middle around File I/O
+* had challenges with Git and working across machines, tricky to work at home
+when split apart. Would like to do a student-led session about workflow.
+* 46 tests all pass
+* when writing tests be careful not to "echo" the implementation -- try to always
+use literal values instead of doing calculations in the test
+* put test support files in `/test/fixtures` or `/test/support`
+* implementation has lots of good parts but some gaps in clarity, maybe helped
+with a little rethinking of variable/method names and how the words become paragraphs
+
 #### Scores
 
-* Functionality:
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
+* Functionality: 2
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Breaking Logic into Components: 3
 
 
 ## With Josh Cheek
