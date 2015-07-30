@@ -67,8 +67,8 @@ Production: https://tranquil-headland-2951.herokuapp.com/api/v1/
 
 ### Vanessa Gomez
 
-Github:
-Production:
+Github: https://github.com/vanegomez/rales_engine
+Production: https://ralesenginepro.herokuapp.com
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
