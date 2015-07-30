@@ -11,46 +11,31 @@ Project Description: https://github.com/turingschool/curriculum/blob/master/sour
 
 ### Rails and ActiveRecord Style
 
-* 4 - Project makes great use of ActiveRecord relationships and queries, including
-some advanced query functionality such as `joins` or `includes`
-* 3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but
-drops to ruby enumerables for some query methods
-* 2 - Project has some gaps in AR usage, including numerous business methods
-that rely on ruby enumerables to find the appropriate data
-* 1 - Project struggles to establish a coherent AR schema, including missing
-relationships or dysfunctional queries
+* 4 - Project makes great use of ActiveRecord relationships andqueries, including some advanced query functionality such as `joins` or `includes`
+* 3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but drops to ruby enumerables for some query methods
+* 2 - Project has some gaps in AR usage, including numerous business methods that rely on ruby enumerables to find the appropriate data
+* 1 - Project struggles to establish a coherent AR schema, including missing relationships or dysfunctional queries
 
 ### Ruby Style and Code Quality
 
-* 4 - Project demonstrates excellent Ruby style. Logic is pushed down the stack
-and various POROs or Serializers are used to assist with complicated logic
-* 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated
-controllers
+* 4 - Project demonstrates excellent Ruby style. Logic is pushed down the stack and various POROs or Serializers are used to assist with complicated logic
+* 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
 * 2 - Project struggles to design useful Objects or push logic down the stack
 * 1 - Project struggles with basic ruby method and class design
 
 ### API Design
 
-* 4 - Project exemplifies API design idioms, with consistent and coherent
-response structures, Serializers to format JSON data, and effective request
-format handling
-* 3 - Project uses strong and consistent data formats throughout, while relying
-mostly on standard Rails JSON features
-* 2 - Project has inconsistencies or gaps in how its JSON data is organized
-or formatted
-* 1 - Project's API is not fully functional or has significant confusion around
-request formats
+* 4 - Project exemplifies API design idioms, with consistent and coherent response structures, Serializers to format JSON data, and effective request format handling
+* 3 - Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+* 2 - Project has inconsistencies or gaps in how its JSON data is organized or formatted
+* 1 - Project's API is not fully functional or has significant confusion around request formats
 
 ### Test Driven Design
 
-* 4 - Project has exceptional test coverage at various application levels,
-including coverage for edge cases and complicated logic methods
-* 3 - Project has solid test coverage at multiple levels of the application,
-but skips some edge cases or complicated methods
-* 2 - Project focuses tests on only a single layer of the stack, or has large
-gaps in the coverage
-* 1 - Project has test failures, significant gaps in coverage, or a general
-paucity of tests
+* 4 - Project has exceptional test coverage at various application levels, including coverage for edge cases and complicated logic methods
+* 3 - Project has solid test coverage at multiple levels of the application, but skips some edge cases or complicated methods
+* 2 - Project focuses tests on only a single layer of the stack, or has large gaps in the coverage
+* 1 - Project has test failures, significant gaps in coverage, or a general paucity of tests
 
 ## Evaluations
 
@@ -158,11 +143,11 @@ Production: https://ancient-oasis-9609.herokuapp.com/
 Github: https://github.com/brettgrigsby/rails_engine<br>
 Production: https://secure-beach-8502.herokuapp.com/
 
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
+* **Completion**: 3 - Project completes all requirements according to the spec harness
+* **Rails and ActiveRecord Style**: 3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but drops to ruby enumerables for some query methods
+* **Ruby Style and Code Quality**: 2 - Project struggles to design useful Objects or push logic down the stack
+* **API Design**: 3 - Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+* **Test Driven Design**: 2 - Project focuses tests on only a single layer of the stack, or has large gaps in the coverage
 
 ### Margarett Ly
 
