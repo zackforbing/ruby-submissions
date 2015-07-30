@@ -78,8 +78,8 @@ Production:
 
 ### Drew Reynolds
 
-Github:
-Production:
+Github: https://github.com/NYDrewReynolds/rales_engine
+Production: https://drew-rales-engine.herokuapp.com
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
