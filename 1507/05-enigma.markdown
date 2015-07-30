@@ -169,7 +169,7 @@ SimpleCov was confusing
 
 ### Nicole Hall and Adam Jensen
 
-* GitHub URL:
+* GitHub URL: https://github.com/NicoleHall/Enigma-Project
 
 #### Notes
 
@@ -186,16 +186,25 @@ SimpleCov was confusing
 
 #### Notes
 
+* started with a pretty tangled web, restarted, realized there'd be some dependencies
+and tangles
+* Had encrypt and decrypt done by Sunday, but then reworked
+* Good tests overall, leave some areas to be filled in at the edges
+* Implementation is pretty good with a few fragments that are "above your level" -- a little SO help
+* Some crafty bits pulled from intro tutorials, but good paying attention
+* Need the output messages when we run encrypt/decrypt/crack, but functionality
+is fine
+
 #### Scores
 
-* Functionality:
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
+* Functionality: 3
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Breaking Logic into Components: 3
 
 ### Bret Doucette and Rachel Parri
 
-* GitHub URL:
+* GitHub URL: https://github.com/bad6e/Enigma
 
 #### Notes
 
@@ -250,7 +259,7 @@ SimpleCov was confusing
 
 ### Chris Cenatiempo and Justin Pease
 
-* GitHub URL:
+* GitHub URL: https://github.com/Jpease1020/Enigma
 
 #### Notes
 
