@@ -56,8 +56,8 @@ paucity of tests
 
 ### Chelsea Worrel
 
-Github:
-Production:
+Github: https://github.com/chelseaworrel/rales_engine
+Production: https://tranquil-headland-2951.herokuapp.com/api/v1/
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -67,8 +67,8 @@ Production:
 
 ### Vanessa Gomez
 
-Github:
-Production:
+Github: https://github.com/vanegomez/rales_engine
+Production: https://ralesenginepro.herokuapp.com
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -78,8 +78,8 @@ Production:
 
 ### Drew Reynolds
 
-Github:
-Production:
+Github: https://github.com/NYDrewReynolds/rales_engine
+Production: https://drew-rales-engine.herokuapp.com
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -111,8 +111,8 @@ Production:
 
 ### Rick Bacci
 
-Github:
-Production:
+Github: https://github.com/RickBacci/rails_engine
+Production: https://rails-engine-175.herokuapp.com/
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -133,8 +133,8 @@ Production:
 
 ### Max Tedford
 
-Github:
-Production:
+Github: https://github.com/maxtedford/rales_engine
+Production: https://providing-api.herokuapp.com
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -188,8 +188,8 @@ Production:
 
 ### Jamie Kawahara
 
-Github:
-Production:
+Github: https://github.com/androidgrl/Rails-Engine
+Production: https://rales-engine.herokuapp.com
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -243,8 +243,8 @@ Production:
 
 ### Andrew Fink
 
-Github:
-Production:
+Github: https://github.com/adfink/engine
+Production: https://gentle-caverns-9232.herokuapp.com/
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:

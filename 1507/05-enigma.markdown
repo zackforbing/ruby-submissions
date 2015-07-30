@@ -147,7 +147,7 @@ and run them all together frequently
 
 ### Rose Kohn and Rebekah Sosa
 
-* GitHub URL:
+* GitHub URL: https://github.com/rebekahsosa/enigma
 
 #### Notes
 
@@ -173,7 +173,7 @@ and run them all together frequently
 
 ### Travis Haby and Tyler Komoroske
 
-* GitHub URL:
+* GitHub URL: https://github.com/travishaby/enigma.git
 
 #### Notes
 
@@ -199,7 +199,7 @@ and run them all together frequently
 
 ###  Mary Beth Burch and David Stinnette
 
-* GitHub URL:
+* GitHub URL: https://github.com/dastinnette/EnigmaPlus
 
 #### Notes
 
@@ -215,7 +215,7 @@ and run them all together frequently
 
 ### Chad Minnerath and Michael Wong
 
-* GitHub URL:
+* GitHub URL: https://github.com/Kealii/Enigma
 
 #### Notes
 
@@ -228,7 +228,7 @@ and run them all together frequently
 
 ### Jeff Ruane and Jerrod Paul Junker
 
-* GitHub URL:
+* GitHub URL: https://github.com/Unsafepond/Enigma-new
 
 #### Notes
 
@@ -254,7 +254,7 @@ and run them all together frequently
 
 ### Mimi Schatz and Regis Boudinot
 
-* GitHub URL:
+* GitHub URL: https://github.com/selfup/enigma
 
 #### Notes
 
