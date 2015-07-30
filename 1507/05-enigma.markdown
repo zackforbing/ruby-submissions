@@ -239,7 +239,7 @@ and run them all together frequently
 
 ### Jeff Ruane and Jerrod Paul Junker
 
-* GitHub URL:
+* GitHub URL: https://github.com/Unsafepond/Enigma-new
 
 #### Notes
 
