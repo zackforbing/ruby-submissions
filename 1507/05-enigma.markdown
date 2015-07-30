@@ -265,7 +265,7 @@ and run them all together frequently
 
 ### Mimi Schatz and Regis Boudinot
 
-* GitHub URL:
+* GitHub URL: https://github.com/selfup/enigma
 
 #### Notes
 
