@@ -243,8 +243,8 @@ Production:
 
 ### Andrew Fink
 
-Github:
-Production:
+Github: https://github.com/adfink/engine
+Production: https://gentle-caverns-9232.herokuapp.com/
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
