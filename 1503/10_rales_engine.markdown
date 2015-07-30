@@ -177,8 +177,8 @@ Production:
 
 ### Josh Cass
 
-Github:
-Production:
+Github: https://github.com/joshcass/rales_engine
+Production: http://ralesengine.herokuapp.com
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
