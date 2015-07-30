@@ -154,11 +154,11 @@ Production: https://secure-beach-8502.herokuapp.com/
 Github: https://github.com/aoili/rales_engine<br>
 Production: https://radiant-plateau-5764.herokuapp.com
 
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
+* **Completion**: 2 - Project completes most requirements but fails 4 or fewer spec harness tests
+* **Rails and ActiveRecord Style**: 3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but drops to ruby enumerables for some query methods
+* **Ruby Style and Code Quality**: 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
+* **API Design**: 3 - Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+* **Test Driven Design**: 2 - Project focuses tests on only a single layer of the stack, or has large gaps in the coverage
 
 ### Josh Cass
 
