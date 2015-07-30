@@ -226,7 +226,7 @@ and run them all together frequently
 
 ### Chad Minnerath and Michael Wong
 
-* GitHub URL:
+* GitHub URL: https://github.com/Kealii/Enigma
 
 #### Notes
 
