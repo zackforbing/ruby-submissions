@@ -67,8 +67,8 @@ Production:
 
 ### Vanessa Gomez
 
-Github:
-Production:
+Github: https://github.com/vanegomez/rales_engine
+Production: https://ralesenginepro.herokuapp.com
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
