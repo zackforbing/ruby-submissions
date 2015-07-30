@@ -169,7 +169,7 @@ SimpleCov was confusing
 
 ### Nicole Hall and Adam Jensen
 
-* GitHub URL:
+* GitHub URL: https://github.com/NicoleHall/Enigma-Project
 
 #### Notes
 
