@@ -56,7 +56,7 @@ paucity of tests
 
 ### Chelsea Worrel
 
-Github: https://github.com/chelseaworrel/rales_engine
+Github: https://github.com/chelseaworrel/rales_engine<br>
 Production: https://tranquil-headland-2951.herokuapp.com/api/v1/
 
 * **Completion**:
@@ -67,7 +67,7 @@ Production: https://tranquil-headland-2951.herokuapp.com/api/v1/
 
 ### Vanessa Gomez
 
-Github: https://github.com/vanegomez/rales_engine
+Github: https://github.com/vanegomez/rales_engine<br>
 Production: https://ralesenginepro.herokuapp.com
 
 * **Completion**:
@@ -78,7 +78,7 @@ Production: https://ralesenginepro.herokuapp.com
 
 ### Drew Reynolds
 
-Github: https://github.com/NYDrewReynolds/rales_engine
+Github: https://github.com/NYDrewReynolds/rales_engine<br>
 Production: https://drew-rales-engine.herokuapp.com
 
 * **Completion**:
@@ -111,7 +111,7 @@ Production:
 
 ### Rick Bacci
 
-Github: https://github.com/RickBacci/rails_engine
+Github: https://github.com/RickBacci/rails_engine<br>
 Production: https://rails-engine-175.herokuapp.com/
 
 * **Completion**:
@@ -133,7 +133,7 @@ Production:
 
 ### Max Tedford
 
-Github: https://github.com/maxtedford/rales_engine
+Github: https://github.com/maxtedford/rales_engine<br>
 Production: https://providing-api.herokuapp.com
 
 * **Completion**:
@@ -155,8 +155,8 @@ Production:
 
 ### Brett Grigsby
 
-Github:
-Production:
+Github: https://github.com/brettgrigsby/rails_engine<br>
+Production: https://secure-beach-8502.herokuapp.com/
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -188,7 +188,7 @@ Production:
 
 ### Jamie Kawahara
 
-Github: https://github.com/androidgrl/Rails-Engine
+Github: https://github.com/androidgrl/Rails-Engine<br>
 Production: https://rales-engine.herokuapp.com
 
 * **Completion**:
@@ -243,7 +243,7 @@ Production:
 
 ### Andrew Fink
 
-Github: https://github.com/adfink/engine
+Github: https://github.com/adfink/engine<br>
 Production: https://gentle-caverns-9232.herokuapp.com/
 
 * **Completion**:
