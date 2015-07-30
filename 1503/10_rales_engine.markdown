@@ -11,7 +11,7 @@ Project Description: https://github.com/turingschool/curriculum/blob/master/sour
 
 ### Rails and ActiveRecord Style
 
-* 4 - Project makes great use of ActiveRecord relationships andqueries, including some advanced query functionality such as `joins` or `includes`
+* 4 - Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` or `includes`
 * 3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but drops to ruby enumerables for some query methods
 * 2 - Project has some gaps in AR usage, including numerous business methods that rely on ruby enumerables to find the appropriate data
 * 1 - Project struggles to establish a coherent AR schema, including missing relationships or dysfunctional queries
@@ -99,11 +99,11 @@ Production:
 Github: https://github.com/RickBacci/rails_engine<br>
 Production: https://rails-engine-175.herokuapp.com/
 
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
+* **Completion**: 1 - Project fails more than 4 spec harness tests
+* **Rails and ActiveRecord Style**:  3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but drops to ruby enumerables for some query methods
+* **Ruby Style and Code Quality**: 2 - Project struggles to design useful Objects or push logic down the stack
+* **API Design**: 3 - Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+* **Test Driven Design**: 4 - Project has exceptional test coverage at various application levels, including coverage for edge cases and complicated logic methods
 
 ### Dave Mauer
 
