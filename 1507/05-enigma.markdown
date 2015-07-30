@@ -143,17 +143,6 @@ and run them all together frequently
 
 # Enigma Evaluations - Foxtrot
 
-* GitHub URL: https://github.com/rasensio1/Enigma
-
-#### Notes
-
-#### Scores
-
-* Functionality: 4
-* Fundamental Ruby & Style: 2
-* Test-Driven Development: 3
-* Breaking Logic into Components: 2.5
-
 ## With Jeff
 
 ### Rose Kohn and Rebekah Sosa
