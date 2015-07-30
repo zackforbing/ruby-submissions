@@ -132,11 +132,11 @@ Production: https://providing-api.herokuapp.com
 Github: https://github.com/sallymacnicholas/rales_engine<br>
 Production: https://ancient-oasis-9609.herokuapp.com/
 
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
+* **Completion**: 3 - Project completes all requirements according to the spec harness
+* **Rails and ActiveRecord Style**: 3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but drops to ruby enumerables for some query methods
+* **Ruby Style and Code Quality**: 2 - Project struggles to design useful Objects or push logic down the stack
+* **API Design**: 3 - Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+* **Test Driven Design**: 2 - Project focuses tests on only a single layer of the stack, or has large gaps in the coverage
 
 ### Brett Grigsby
 
