@@ -208,12 +208,20 @@ is fine
 
 #### Notes
 
+* Rakefile runs all the tests
+* 66 tests all passing
+* Seeing good decomposition from the tests
+* Testing is overall good progress, some gaps, some repetition, some unnecessary tests
+* Lots of good parts in the implementation, some rough spots,
+* some naming weaknesses make the code difficult to understand
+* Some repetition in classes despite good decomposition
+
 #### Scores
 
-* Functionality:
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
+* Functionality: 4
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Breaking Logic into Components: 3
 
 ###  Mary Beth Burch and David Stinnette
 
