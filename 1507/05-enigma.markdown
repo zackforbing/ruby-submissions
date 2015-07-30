@@ -197,7 +197,7 @@ and run them all together frequently
 
 ### Bret Doucette and Rachel Parri
 
-* GitHub URL:
+* GitHub URL: https://github.com/bad6e/Enigma
 
 #### Notes
 
