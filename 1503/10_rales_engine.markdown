@@ -89,8 +89,8 @@ Production: https://drew-rales-engine.herokuapp.com
 
 ### Lev Kravinsky
 
-Github:
-Production:
+Github: https://github.com/levthedev/rales-engine<br>
+Production: https://railsengine.herokuapp.com
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -122,8 +122,8 @@ Production: https://rails-engine-175.herokuapp.com/
 
 ### Dave Mauer
 
-Github: https://github.com/davemaurer/rails_engine
-Production: http:glacial-waters-5604.herokuapp.com
+Github: https://github.com/davemaurer/rails_engine<br>
+Production: http://glacial-waters-5604.herokuapp.com
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -144,8 +144,8 @@ Production: https://providing-api.herokuapp.com
 
 ### Sally MacNicholas
 
-Github:
-Production:
+Github: https://github.com/sallymacnicholas/rales_engine<br>
+Production: https://ancient-oasis-9609.herokuapp.com/
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -164,10 +164,10 @@ Production: https://secure-beach-8502.herokuapp.com/
 * **API Design**:
 * **Test Driven Design**:
 
-### Margarett
+### Margarett Ly
 
-Github:
-Production:
+Github: https://github.com/aoili/rales_engine<br>
+Production: https://radiant-plateau-5764.herokuapp.com
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -177,7 +177,7 @@ Production:
 
 ### Josh Cass
 
-Github: https://github.com/joshcass/rales_engine
+Github: https://github.com/joshcass/rales_engine<br>
 Production: http://ralesengine.herokuapp.com
 
 * **Completion**:
@@ -210,8 +210,8 @@ Production:
 
 ### Justin Holmes
 
-Github:
-Production:
+Github: https://github.com/Justin-Holmes/rails_engine<br>
+Production: https://murmuring-headland-1708.herokuapp.com/
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -221,7 +221,7 @@ Production:
 
 ### Whitney Hiemstra
 
-Github: https://github.com/whithub/rales_engine
+Github: https://github.com/whithub/rales_engine<br>
 Production: https://pacific-springs-6468.herokuapp.com
 
 * **Completion**:
@@ -232,8 +232,8 @@ Production: https://pacific-springs-6468.herokuapp.com
 
 ### Morgan Miller
 
-Github:
-Production:
+Github: https://github.com/morganmiller/rales-engine<br>
+Production: https://rales--engine.herokuapp.com/api/v1
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -254,7 +254,7 @@ Production: https://gentle-caverns-9232.herokuapp.com/
 
 ### Jack Yeh
 
-Github: https://github.com/jxandery/rails-engine
+Github: https://github.com/jxandery/rails-engine<br>
 Production: https://git.heroku.com/radiant-stream-8534.git
 
 * **Completion**:
