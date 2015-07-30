@@ -55,8 +55,6 @@ Production: https://tranquil-headland-2951.herokuapp.com/api/v1/
 Github: https://github.com/vanegomez/rales_engine<br>
 Production: https://ralesenginepro.herokuapp.com
 
-"Well rounded project with no half-baked features"
-
 * **Completion**: 3 - Project completes all requirements according to the spec harness
 * **Rails and ActiveRecord Style**: 3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but
 * **Ruby Style and Code Quality**: 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
@@ -93,8 +91,6 @@ drops to ruby enumerables for some query methods
 
 Github:
 Production:
-
-"More features need completion and tests, but the basic concepts were well grasped"
 
 * **Completion**: 2 - Project completes most requirements but fails 4 or fewer spec harness tests
 * **Rails and ActiveRecord Style**: 2.5 - Project has some gaps in AR usage, including numerous business methods that rely on ruby enumerables to find the appropriate data
