@@ -89,8 +89,8 @@ Production: https://drew-rales-engine.herokuapp.com
 
 ### Lev Kravinsky
 
-Github:
-Production:
+Github: github.com/levthedev/rales-engine
+Production: railsengine.herokuapp.com
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
