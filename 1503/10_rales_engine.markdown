@@ -254,8 +254,8 @@ Production: https://gentle-caverns-9232.herokuapp.com/
 
 ### Jack Yeh
 
-Github:
-Production:
+Github: https://github.com/jxandery/rails-engine
+Production: https://git.heroku.com/radiant-stream-8534.git
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
