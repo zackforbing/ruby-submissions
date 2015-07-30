@@ -133,8 +133,8 @@ Production:
 
 ### Max Tedford
 
-Github:
-Production:
+Github: https://github.com/maxtedford/rales_engine
+Production: https://providing-api.herokuapp.com
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
