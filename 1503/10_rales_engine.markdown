@@ -232,8 +232,8 @@ Production:
 
 ### Morgan Miller
 
-Github:
-Production:
+Github: https://github.com/morganmiller/rales-engine
+Production: https://rales--engine.herokuapp.com/api/v1
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
