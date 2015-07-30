@@ -221,8 +221,8 @@ Production: https://murmuring-headland-1708.herokuapp.com/
 
 ### Whitney Hiemstra
 
-Github:
-Production:
+Github: https://github.com/whithub/rales_engine
+Production: https://pacific-springs-6468.herokuapp.com
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
