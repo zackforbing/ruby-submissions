@@ -89,8 +89,8 @@ Production: https://drew-rales-engine.herokuapp.com
 
 ### Lev Kravinsky
 
-Github: github.com/levthedev/rales-engine
-Production: railsengine.herokuapp.com
+Github:
+Production:
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -122,8 +122,8 @@ Production: https://rails-engine-175.herokuapp.com/
 
 ### Dave Mauer
 
-Github:
-Production:
+Github: https://github.com/davemaurer/rails_engine
+Production: http:glacial-waters-5604.herokuapp.com
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -144,8 +144,8 @@ Production: https://providing-api.herokuapp.com
 
 ### Sally MacNicholas
 
-Github: https://github.com/sallymacnicholas/rales_engine
-Production: https://ancient-oasis-9609.herokuapp.com/
+Github:
+Production:
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -166,8 +166,8 @@ Production: https://secure-beach-8502.herokuapp.com/
 
 ### Margarett
 
-Github: https://github.com/aoili/rales_engine
-Production: https://radiant-plateau-5764.herokuapp.com
+Github:
+Production:
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -210,8 +210,8 @@ Production:
 
 ### Justin Holmes
 
-Github: https://github.com/Justin-Holmes/rails_engine
-Production: https://murmuring-headland-1708.herokuapp.com/
+Github:
+Production:
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -232,8 +232,8 @@ Production: https://pacific-springs-6468.herokuapp.com
 
 ### Morgan Miller
 
-Github: https://github.com/morganmiller/rales-engine
-Production: https://rales--engine.herokuapp.com/api/v1
+Github:
+Production:
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
