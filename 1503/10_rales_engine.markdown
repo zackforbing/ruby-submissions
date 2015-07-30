@@ -56,8 +56,8 @@ paucity of tests
 
 ### Chelsea Worrel
 
-Github:
-Production:
+Github: https://github.com/chelseaworrel/rales_engine
+Production: https://tranquil-headland-2951.herokuapp.com/api/v1/
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
