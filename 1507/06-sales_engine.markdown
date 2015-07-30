@@ -38,7 +38,7 @@
 
 ### George Hudson
 
-* GitHub URL:
+* GitHub URL: https://github.com/Egogre/turing_sales_engine
 
 #### Notes
 
