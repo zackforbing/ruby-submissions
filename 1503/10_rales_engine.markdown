@@ -121,11 +121,11 @@ Production: http://glacial-waters-5604.herokuapp.com
 Github: https://github.com/maxtedford/rales_engine<br>
 Production: https://providing-api.herokuapp.com
 
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
+* **Completion**: 2 - Project completes most requirements but fails 4 or fewer spec harness tests
+* **Rails and ActiveRecord Style**: 4 - Project makes great use of ActiveRecord relationships andqueries, including some advanced query functionality such as `joins` or `includes`
+* **Ruby Style and Code Quality**: 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
+* **API Design**: 2 - Project has inconsistencies or gaps in how its JSON data is organized or formatted
+* **Test Driven Design**: 2 - Project focuses tests on only a single layer of the stack, or has large gaps in the coverage
 
 ### Sally MacNicholas
 
