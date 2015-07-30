@@ -114,8 +114,6 @@ Production: https://rails-engine-175.herokuapp.com/
 Github: https://github.com/davemaurer/rails_engine<br>
 Production: http://glacial-waters-5604.herokuapp.com
 
-"Impressive Heroku deployment and thoroughness of controller tests"
-
 * **Completion**: 2.5 - Project completes most requirements but fails 4 or fewer spec harness tests
 * **Rails and ActiveRecord Style**: 3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but drops to ruby enumerables for some query methods
 * **Ruby Style and Code Quality**: 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated controllers controllers
@@ -184,8 +182,6 @@ mostly on standard Rails JSON features
 Github: https://github.com/androidgrl/Rails-Engine<br>
 Production: https://rales-engine.herokuapp.com
 
-"Very nice ActiveRecord queries with minimal use of Ruby."
-
 * **Completion**: 3 - Project completes all requirements according to the spec harness
 * **Rails and ActiveRecord Style**: 4 - Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` or `includes`
 * **Ruby Style and Code Quality**: 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
@@ -207,8 +203,6 @@ Production: https://rcralesengine.herokuapp.com
 
 Github: https://github.com/Justin-Holmes/rails_engine<br>
 Production: https://murmuring-headland-1708.herokuapp.com/
-
-"Completion level of the spec harness is very impressive"
 
 * **Completion**: 3 - Project completes all requirements according to the spec harness
 * **Rails and ActiveRecord Style**: 3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but drops to ruby enumerables for some query methods
@@ -237,8 +231,6 @@ but skips some edge cases or complicated methods
 Github: https://github.com/morganmiller/rales-engine<br>
 Production: https://rales--engine.herokuapp.com/api/v1
 
-"Very impressive test suite. It’s clear you put the time in to make it worthwhile."
-
 * **Completion**: 3 - Project completes all requirements according to the spec harness
 * **Rails and ActiveRecord Style**: 3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but drops to ruby enumerables for some query methods
 * **Ruby Style and Code Quality**: 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
@@ -250,8 +242,6 @@ Production: https://rales--engine.herokuapp.com/api/v1
 Github: https://github.com/adfink/engine<br>
 Production: https://gentle-caverns-9232.herokuapp.com/
 
-"This is a satisfactory v1 of the Rales Engine API"
-
 * **Completion**: 3 - Project completes all requirements according to the spec harness
 * **Rails and ActiveRecord Style**: 3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but
 * **Ruby Style and Code Quality**: 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
@@ -262,8 +252,6 @@ Production: https://gentle-caverns-9232.herokuapp.com/
 
 Github: https://github.com/jxandery/rails-engine<br>
 Production: https://git.heroku.com/radiant-stream-8534.git
-
-"Though not completed, the logic is well modularized"
 
 * **Completion**: 2 - Project completes most requirements but fails 4 or fewer spec harness tests
 * **Rails and ActiveRecord Style**: 2.5 - Project has some gaps in AR usage, including numerous business methods that rely on ruby enumerables to find the appropriate data
