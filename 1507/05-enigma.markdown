@@ -158,7 +158,7 @@ and run them all together frequently
 
 ### Rose Kohn and Rebekah Sosa
 
-* GitHub URL:
+* GitHub URL: https://github.com/rebekahsosa/enigma
 
 #### Notes
 
