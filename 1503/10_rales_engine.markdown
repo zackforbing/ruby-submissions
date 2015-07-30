@@ -70,11 +70,13 @@ Production: https://tranquil-headland-2951.herokuapp.com/api/v1/
 Github: https://github.com/vanegomez/rales_engine
 Production: https://ralesenginepro.herokuapp.com
 
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
+"Well rounded project with no half-baked features"
+
+* **Completion**: 3 - Project completes all requirements according to the spec harness
+* **Rails and ActiveRecord Style**: 3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but
+* **Ruby Style and Code Quality**: 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
+* **API Design**: 3.5 - Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+* **Test Driven Design**: 2 - Project focuses tests on only a single layer of the stack, or has large gaps in the coverage
 
 ### Drew Reynolds
 
@@ -103,11 +105,13 @@ Production:
 Github:
 Production:
 
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
+"More features need completion and tests, but the basic concepts were well grasped"
+
+* **Completion**: 2 - Project completes most requirements but fails 4 or fewer spec harness tests
+* **Rails and ActiveRecord Style**: 2.5 - Project has some gaps in AR usage, including numerous business methods that rely on ruby enumerables to find the appropriate data
+* **Ruby Style and Code Quality**: 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
+* **API Design**: 3 - Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+* **Test Driven Design**: 1 - Project has test failures, significant gaps in coverage, or a general paucity of tests
 
 ### Rick Bacci
 
@@ -125,11 +129,13 @@ Production: https://rails-engine-175.herokuapp.com/
 Github:
 Production:
 
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
+"Impressive Heroku deployment and thoroughness of controller tests"
+
+* **Completion**: 2.5 - Project completes most requirements but fails 4 or fewer spec harness tests
+* **Rails and ActiveRecord Style**: 3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but drops to ruby enumerables for some query methods
+* **Ruby Style and Code Quality**: 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated controllers controllers
+* **API Design**: 3 - Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+* **Test Driven Design**: 3 - Project has solid test coverage at multiple levels of the application, but skips some edge cases or complicated methods
 
 ### Max Tedford
 
@@ -191,11 +197,13 @@ Production:
 Github: https://github.com/androidgrl/Rails-Engine
 Production: https://rales-engine.herokuapp.com
 
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
+"Very nice ActiveRecord queries with minimal use of Ruby."
+
+* **Completion**: 3 - Project completes all requirements according to the spec harness
+* **Rails and ActiveRecord Style**: 4 - Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` or `includes`
+* **Ruby Style and Code Quality**: 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
+* **API Design**: 3 - Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+* **Test Driven Design**: 2.5 - Project focuses tests on only a single layer of the stack, or has large gaps in the coverage
 
 ### Robert Cornell
 
@@ -213,11 +221,13 @@ Production:
 Github:
 Production:
 
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
+"Completion level of the spec harness is very impressive"
+
+* **Completion**: 3 - Project completes all requirements according to the spec harness
+* **Rails and ActiveRecord Style**: 3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but drops to ruby enumerables for some query methods
+* **Ruby Style and Code Quality**: 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
+* **API Design**: 3 - Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+* **Test Driven Design**: 3 - Project has solid test coverage at multiple levels of the application, but skips some edge cases or complicated methods
 
 ### Whitney Hiemstra
 
@@ -235,30 +245,36 @@ Production:
 Github:
 Production:
 
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
+"Very impressive test suite. It’s clear you put the time in to make it worthwhile."
+
+* **Completion**: 3 - Project completes all requirements according to the spec harness
+* **Rails and ActiveRecord Style**: 3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but drops to ruby enumerables for some query methods
+* **Ruby Style and Code Quality**: 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
+* **API Design**: 3 - Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+* **Test Driven Design**: 4 - Project has exceptional test coverage at various application levels, including coverage for edge cases and complicated logic methods
 
 ### Andrew Fink
 
 Github: https://github.com/adfink/engine
 Production: https://gentle-caverns-9232.herokuapp.com/
 
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
+"This is a satisfactory v1 of the Rales Engine API"
+
+* **Completion**: 3 - Project completes all requirements according to the spec harness
+* **Rails and ActiveRecord Style**: 3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but
+* **Ruby Style and Code Quality**: 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
+* **API Design**: 3 - Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+* **Test Driven Design**: 2 - Project focuses tests on only a single layer of the stack, or has large gaps in the coverage
 
 ### Jack Yeh
 
 Github:
 Production:
 
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
+"Though not completed, the logic is well modularized"
+
+* **Completion**: 2 - Project completes most requirements but fails 4 or fewer spec harness tests
+* **Rails and ActiveRecord Style**: 2.5 - Project has some gaps in AR usage, including numerous business methods that rely on ruby enumerables to find the appropriate data
+* **Ruby Style and Code Quality**: 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
+* **API Design**: 3 - Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+* **Test Driven Design**: 3 - Project has solid test coverage at multiple levels of the application, but skips some edge cases or complicated methods
