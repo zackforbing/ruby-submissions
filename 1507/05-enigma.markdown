@@ -143,17 +143,6 @@ and run them all together frequently
 
 # Enigma Evaluations - Foxtrot
 
-* GitHub URL: https://github.com/rasensio1/Enigma
-
-#### Notes
-
-#### Scores
-
-* Functionality: 4
-* Fundamental Ruby & Style: 2
-* Test-Driven Development: 3
-* Breaking Logic into Components: 2.5
-
 ## With Jeff
 
 ### Rose Kohn and Rebekah Sosa
@@ -162,12 +151,21 @@ and run them all together frequently
 
 #### Notes
 
+* weaknesses: naming of variables, should we use modules, maybe more tests,
+SimpleCov was confusing
+* strengths: it works
+* 50 tests all pass
+* Good decomposition
+* Like the enumerable work and implementation
+* All functionality looks good
+* Like that you experimented with modules
+
 #### Scores
 
-* Functionality:
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
+* Functionality: 4
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Breaking Logic into Components: 4
 
 ### Nicole Hall and Adam Jensen
 
