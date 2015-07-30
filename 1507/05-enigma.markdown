@@ -169,19 +169,6 @@ and run them all together frequently
 * Test-Driven Development:
 * Breaking Logic into Components:
 
-### Nicole Hall and Adam Jensen
-
-* GitHub URL:
-
-#### Notes
-
-#### Scores
-
-* Functionality:
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
-
 ### Travis Haby and Tyler Komoroske
 
 * GitHub URL: https://github.com/travishaby/enigma.git
@@ -233,9 +220,19 @@ and run them all together frequently
 #### Scores
 
 * Functionality:
+  * Score: 3
+  * Encrypts / decrypts / cracks
 * Fundamental Ruby & Style:
+  * Score: 3
+  * Don't do the work in initialize
 * Test-Driven Development:
+  * Score: 3
+  * Can't run all tests
+  * Have to edit the code to run tests
+  * Tests have good names
 * Breaking Logic into Components:
+  * Score: 2
+  * Move difficult bits up the stack (ARGV, file reading / writing, printing)
 
 ### Jeff Ruane and Jerrod Paul Junker
 
@@ -246,9 +243,19 @@ and run them all together frequently
 #### Scores
 
 * Functionality:
+  * Score: 2
+  * No cracking
 * Fundamental Ruby & Style:
+  * Score: 3+
+  * Like the "function objects" ie decryptor
+  * The binary was nice
 * Test-Driven Development:
+  * Score: 3
+  * When something is difficult to test, identify what is making it difficult and push that higher in the callstack
+    (ie stdin/stdout are provided by the test / binary, and then we can give it a version that records what was printed
+    and provides the input that the tests want to give it)
 * Breaking Logic into Components:
+  * Score: 3+
 
 ### Chris Cenatiempo and Justin Pease
 
@@ -259,9 +266,18 @@ and run them all together frequently
 #### Scores
 
 * Functionality:
+  * Score: 4
+  * Does all the things (might be nice to get error messages on missing inputs)
 * Fundamental Ruby & Style:
+  * Score: 3
+  * A few indentation issues
 * Test-Driven Development:
+  * Score: 4
+  * Nice using mrspec!
 * Breaking Logic into Components:
+  * Score: 3
+  * Pretty good abstractions
+  * You probably don't need that many classes ;)
 
 ### Mimi Schatz and Regis Boudinot
 
@@ -272,6 +288,54 @@ and run them all together frequently
 #### Scores
 
 * Functionality:
+  * Score: 4
 * Fundamental Ruby & Style:
+  * Score: 3
 * Test-Driven Development:
+  * Score: 3-
 * Breaking Logic into Components:
+  * Score: 2
+  * Use the interface before it exists, so that you can discover what it should be.
+    This will lead to elegance.
+  * Prefer interfaces where there is no way for the object to be used wrong
+    (ie don't let other objects coordinate the methods of this object)
+  * If the object is a verb (crack, encrypt, decrypt -- vs key, date, etc),
+    choose interfaces like "here are your inputs, give me the output",
+    this omits "state" (instance variables) and thus will lead to the above suggestions.
+    eg `Crack.new(encrypted_message).crack` ...or, given the "functions" style we talked about
+    during modules yesterday: `Crack.call(encrypted_message)`
+
+
+### Nicole Hall and Adam Jensen
+
+* GitHub URL: https://github.com/NicoleHall/Enigma-Project
+
+#### Notes
+
+#### Scores
+
+* Functionality:
+  * Score 3
+  * Does encrypting, decrypting, cracking in under 1 second
+  * Does not print the correct key
+* Fundamental Ruby & Style:
+  * Score 3
+  * Watch whitespace
+* Test-Driven Development:
+  * Score 2
+  * Tests don't pass
+* Breaking Logic into Components:
+  * Score 3
+  * When testing is difficult
+    1. Identify that it is painful
+    2. What is making it difficult, eg our notes:
+
+       ```
+       The painful things
+         reading / writing / printing / global vars (ARGV)
+       The solution
+         Push the painful things up the callstack
+         (the method that called it has to deal with it)
+       ```
+    3. Remove the painful thing by pushing it up the callstack.
+       Thus, the calling environment has to deal with it.
