@@ -184,7 +184,7 @@ and run them all together frequently
 
 ### Travis Haby and Tyler Komoroske
 
-* GitHub URL:
+* GitHub URL: https://github.com/travishaby/enigma.git
 
 #### Notes
 
