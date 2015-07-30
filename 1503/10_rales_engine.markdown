@@ -210,8 +210,8 @@ Production:
 
 ### Justin Holmes
 
-Github:
-Production:
+Github: https://github.com/Justin-Holmes/rails_engine
+Production: https://murmuring-headland-1708.herokuapp.com/
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
