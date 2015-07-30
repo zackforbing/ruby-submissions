@@ -184,14 +184,14 @@ Production: https://rales-engine.herokuapp.com
 
 ### Robert Cornell
 
-Github:
-Production:
+Github: https://github.com/RMCornell/ralesengine<br>
+Production: https://rcralesengine.herokuapp.com
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
 * **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
+* **API Design**: 3 - Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+* **Test Driven Design**: 2 - Project focuses tests on only a single layer of the stack, or has large gaps in the coverage
 
 ### Justin Holmes
 
