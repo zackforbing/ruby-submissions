@@ -252,7 +252,7 @@ and run them all together frequently
 
 ### Chris Cenatiempo and Justin Pease
 
-* GitHub URL:
+* GitHub URL: https://github.com/Jpease1020/Enigma
 
 #### Notes
 
