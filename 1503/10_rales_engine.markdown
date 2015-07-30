@@ -111,8 +111,8 @@ Production:
 
 ### Rick Bacci
 
-Github:
-Production:
+Github: https://github.com/RickBacci/rails_engine
+Production: https://rails-engine-175.herokuapp.com/
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
