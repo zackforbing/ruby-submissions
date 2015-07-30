@@ -188,8 +188,8 @@ Production:
 
 ### Jamie Kawahara
 
-Github:
-Production:
+Github: https://github.com/androidgrl/Rails-Engine
+Production: https://rales-engine.herokuapp.com
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
