@@ -144,8 +144,8 @@ Production: https://providing-api.herokuapp.com
 
 ### Sally MacNicholas
 
-Github:
-Production:
+Github: https://github.com/sallymacnicholas/rales_engine
+Production: https://ancient-oasis-9609.herokuapp.com/
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
