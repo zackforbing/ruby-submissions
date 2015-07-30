@@ -140,3 +140,138 @@ and run them all together frequently
 * Fundamental Ruby & Style: 2
 * Test-Driven Development: 3
 * Breaking Logic into Components: 2.5
+
+# Enigma Evaluations - Foxtrot
+
+* GitHub URL: https://github.com/rasensio1/Enigma
+
+#### Notes
+
+#### Scores
+
+* Functionality: 4
+* Fundamental Ruby & Style: 2
+* Test-Driven Development: 3
+* Breaking Logic into Components: 2.5
+
+## With Jeff
+
+### Rose Kohn and Rebekah Sosa
+
+* GitHub URL:
+
+#### Notes
+
+#### Scores
+
+* Functionality:
+* Fundamental Ruby & Style:
+* Test-Driven Development:
+* Breaking Logic into Components:
+
+### Nicole Hall and Adam Jensen
+
+* GitHub URL:
+
+#### Notes
+
+#### Scores
+
+* Functionality:
+* Fundamental Ruby & Style:
+* Test-Driven Development:
+* Breaking Logic into Components:
+
+### Travis Haby and Tyler Komoroske
+
+* GitHub URL:
+
+#### Notes
+
+#### Scores
+
+* Functionality:
+* Fundamental Ruby & Style:
+* Test-Driven Development:
+* Breaking Logic into Components:
+
+### Bret Doucette and Rachel Parri
+
+* GitHub URL:
+
+#### Notes
+
+#### Scores
+
+* Functionality:
+* Fundamental Ruby & Style:
+* Test-Driven Development:
+* Breaking Logic into Components:
+
+###  Mary Beth Burch and David Stinnette
+
+* GitHub URL:
+
+#### Notes
+
+#### Scores
+
+* Functionality:
+* Fundamental Ruby & Style:
+* Test-Driven Development:
+* Breaking Logic into Components:
+
+
+## With Josh Cheek
+
+### Chad Minnerath and Michael Wong
+
+* GitHub URL:
+
+#### Notes
+
+#### Scores
+
+* Functionality:
+* Fundamental Ruby & Style:
+* Test-Driven Development:
+* Breaking Logic into Components:
+
+### Jeff Ruane and Jerrod Paul Junker
+
+* GitHub URL:
+
+#### Notes
+
+#### Scores
+
+* Functionality:
+* Fundamental Ruby & Style:
+* Test-Driven Development:
+* Breaking Logic into Components:
+
+### Chris Cenatiempo and Justin Pease
+
+* GitHub URL:
+
+#### Notes
+
+#### Scores
+
+* Functionality:
+* Fundamental Ruby & Style:
+* Test-Driven Development:
+* Breaking Logic into Components:
+
+### Mimi Schatz and Regis Boudinot
+
+* GitHub URL:
+
+#### Notes
+
+#### Scores
+
+* Functionality:
+* Fundamental Ruby & Style:
+* Test-Driven Development:
+* Breaking Logic into Components:
