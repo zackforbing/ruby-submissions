@@ -166,8 +166,8 @@ Production:
 
 ### Margarett
 
-Github:
-Production:
+Github: https://github.com/aoili/rales_engine
+Production: https://radiant-plateau-5764.herokuapp.com
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
