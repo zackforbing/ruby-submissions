@@ -44,11 +44,11 @@ Project Description: https://github.com/turingschool/curriculum/blob/master/sour
 Github: https://github.com/chelseaworrel/rales_engine<br>
 Production: https://tranquil-headland-2951.herokuapp.com/api/v1/
 
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
+* **Completion**: 2 - Project completes most requirements but fails 4 or fewer spec harness tests
+* **Rails and ActiveRecord Style**: 2 - Project has some gaps in AR usage, including numerous business methods that rely on ruby enumerables to find the appropriate data
+* **Ruby Style and Code Quality**: 2 - Project struggles to design useful Objects or push logic down the stack
+* **API Design**: 3 - Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+* **Test Driven Design**: 2 - Project focuses tests on only a single layer of the stack, or has large gaps in the coverage
 
 ### Vanessa Gomez
 
