@@ -54,7 +54,7 @@
 
 ### Ryan Asensio
 
-* GitHub URL:
+* GitHub URL: https://github.com/rasensio1/sales_engine
 
 #### Notes
 
