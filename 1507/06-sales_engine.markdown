@@ -20,7 +20,7 @@
 
 ### Alon Waisman
 
-* GitHub URL:
+* GitHub URL: https://github.com/MowAlon/sales_engine.git
 
 #### Notes
 
