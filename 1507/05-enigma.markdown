@@ -210,7 +210,7 @@ and run them all together frequently
 
 ###  Mary Beth Burch and David Stinnette
 
-* GitHub URL:
+* GitHub URL: https://github.com/dastinnette/EnigmaPlus
 
 #### Notes
 
