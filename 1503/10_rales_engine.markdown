@@ -81,22 +81,26 @@ Production:
 Github: https://github.com/NYDrewReynolds/rales_engine
 Production: https://drew-rales-engine.herokuapp.com
 
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
+* **Completion**: 1 - Project fails more than 4 spec harness tests
+* **Rails and ActiveRecord Style**: 3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but
+drops to ruby enumerables for some query methods
+* **Ruby Style and Code Quality**: * 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated
+controllers
+* **API Design**: 3 - Project uses strong and consistent data formats throughout, while relying
+mostly on standard Rails JSON features
+* **Test Driven Design**: 1 - Project has test failures, significant gaps in coverage, or a general paucity of tests
 
 ### Lev Kravinsky
 
 Github:
 Production:
 
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
+* **Completion**: 2 - Project completes most requirements but fails 4 or fewer spec harness tests
+* **Rails and ActiveRecord Style**: 3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but
+drops to ruby enumerables for some query methods
+* **Ruby Style and Code Quality**: * 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated
+* **API Design**: 3 - Project uses strong and consistent data formats throughout, while relying
+* **Test Driven Design**: 1 - Project has test failures, significant gaps in coverage, or a general paucity of tests
 
 ### Erik Butcher
 
@@ -180,11 +184,13 @@ Production:
 Github:
 Production:
 
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
+* **Completion**: 2 - Project completes most requirements but fails 4 or fewer spec harness tests
+* **Rails and ActiveRecord Style**: 3 - Project makes good use of ActiveRecord to fulfill Business Reqs, but drops to ruby enumerables for some query methods
+* **Ruby Style and Code Quality**: 3 - Project uses idiomatic Ruby with a handful of larger methods or bloated controllers
+3 - Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features
+* **API Design**: * 3 - Project uses strong and consistent data formats throughout, while relying
+mostly on standard Rails JSON features
+* **Test Driven Design**: 1 - Project's API is not fully functional or has significant confusion around request formats
 
 ### Jamie Kawahara
 
@@ -224,11 +230,16 @@ Production:
 Github:
 Production:
 
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
+* **Completion**: 1 - Project has test failures, significant gaps in coverage, or a general paucity of tests
+* **Rails and ActiveRecord Style**: 2 - Project has some gaps in AR usage, including numerous business methods
+that rely on ruby enumerables to find the appropriate data
+* **Ruby Style and Code Quality**: * 4 - Project demonstrates excellent Ruby style. Logic is pushed down the stack
+and various POROs or Serializers are used to assist with complicated logic
+* **API Design**: 4 - Project exemplifies API design idioms, with consistent and coherent
+response structures, Serializers to format JSON data, and effective request
+format handling
+* **Test Driven Design**: 3 - Project has solid test coverage at multiple levels of the application,
+but skips some edge cases or complicated methods
 
 ### Morgan Miller
 
