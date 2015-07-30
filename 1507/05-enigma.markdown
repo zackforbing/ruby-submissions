@@ -143,17 +143,6 @@ and run them all together frequently
 
 # Enigma Evaluations - Foxtrot
 
-* GitHub URL: https://github.com/rasensio1/Enigma
-
-#### Notes
-
-#### Scores
-
-* Functionality: 4
-* Fundamental Ruby & Style: 2
-* Test-Driven Development: 3
-* Breaking Logic into Components: 2.5
-
 ## With Jeff
 
 ### Rose Kohn and Rebekah Sosa
@@ -162,12 +151,21 @@ and run them all together frequently
 
 #### Notes
 
+* weaknesses: naming of variables, should we use modules, maybe more tests,
+SimpleCov was confusing
+* strengths: it works
+* 50 tests all pass
+* Good decomposition
+* Like the enumerable work and implementation
+* All functionality looks good
+* Like that you experimented with modules
+
 #### Scores
 
-* Functionality:
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
+* Functionality: 4
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Breaking Logic into Components: 4
 
 ### Travis Haby and Tyler Komoroske
 
@@ -175,38 +173,71 @@ and run them all together frequently
 
 #### Notes
 
+* started with a pretty tangled web, restarted, realized there'd be some dependencies
+and tangles
+* Had encrypt and decrypt done by Sunday, but then reworked
+* Good tests overall, leave some areas to be filled in at the edges
+* Implementation is pretty good with a few fragments that are "above your level" -- a little SO help
+* Some crafty bits pulled from intro tutorials, but good paying attention
+* Need the output messages when we run encrypt/decrypt/crack, but functionality
+is fine
+
 #### Scores
 
-* Functionality:
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
+* Functionality: 3
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Breaking Logic into Components: 3
 
 ### Bret Doucette and Rachel Parri
 
-* GitHub URL:
+* GitHub URL: https://github.com/bad6e/Enigma
 
 #### Notes
 
+* Rakefile runs all the tests
+* 66 tests all passing
+* Seeing good decomposition from the tests
+* Testing is overall good progress, some gaps, some repetition, some unnecessary tests
+* Lots of good parts in the implementation, some rough spots,
+* some naming weaknesses make the code difficult to understand
+* Some repetition in classes despite good decomposition
+
 #### Scores
 
-* Functionality:
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
+* Functionality: 4
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Breaking Logic into Components: 3
 
 ###  Mary Beth Burch and David Stinnette
 
-* GitHub URL:
+* GitHub URL: https://github.com/dastinnette/EnigmaPlus
 
 #### Notes
 
+* some successes, some struggles -- encrypt and decrypt work pretty well
+* would both like to spend more time refactoring, share functionality, reduce
+duplication
+* crack works sometimes -- only with our sample key
+* struggled through File I/O but eventually got it figured out
+* want to work on testing File I/O
+* progress was fast early then stalled in the middle around File I/O
+* had challenges with Git and working across machines, tricky to work at home
+when split apart. Would like to do a student-led session about workflow.
+* 46 tests all pass
+* when writing tests be careful not to "echo" the implementation -- try to always
+use literal values instead of doing calculations in the test
+* put test support files in `/test/fixtures` or `/test/support`
+* implementation has lots of good parts but some gaps in clarity, maybe helped
+with a little rethinking of variable/method names and how the words become paragraphs
+
 #### Scores
 
-* Functionality:
-* Fundamental Ruby & Style:
-* Test-Driven Development:
-* Breaking Logic into Components:
+* Functionality: 2
+* Fundamental Ruby & Style: 3
+* Test-Driven Development: 3
+* Breaking Logic into Components: 3
 
 
 ## With Josh Cheek
@@ -259,7 +290,7 @@ and run them all together frequently
 
 ### Chris Cenatiempo and Justin Pease
 
-* GitHub URL:
+* GitHub URL: https://github.com/Jpease1020/Enigma
 
 #### Notes
 
