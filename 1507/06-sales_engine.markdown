@@ -46,7 +46,7 @@
 
 ### Justin Holzmann
 
-* GitHub URL:
+* GitHub URL: https://github.com/philmphoenix/sales_engine_2.0
 
 #### Notes
 
