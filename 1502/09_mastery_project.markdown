@@ -52,7 +52,7 @@
 
 ### Evaluations
 
-#### Fred Block
+#### Synthesis
 
 Team Members: Fred Block
 
