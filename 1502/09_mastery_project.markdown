@@ -73,3 +73,106 @@ Team Members: Kristina Brown, Eric Dowty, Andrew Carmer
 * **Code Quality**: 2 - Project demonstrates some gaps in code quality and/or application of MVC principles.
 * **User Experience**: 3 - Project exhibits a production-ready user experience.
 * **Performance**: 4 - Project pages load on average under 300 milliseconds.
+
+## Lori, ~~Minnie~~, Tracy
+
+### Feature Delivery
+
+**1. Completion**
+
+* 3: Developer completed all the user stories and requirements set by the client.
+
+Completed stated goal to pull real-time flight options in a timely manner
+
+**2. Organization**
+
+* 3: Developer used a project management tool to keep their project organized.
+
+Default to 3 didn't really talk about it or focus on it.
+
+### Technical Quality
+
+**1. Test-Driven Development**
+
+* 3: Project shows adequate testing (90% - 95% coverage).
+
+Pretty good testing on rails level, including connections to external APIs
+
+**2. Code Quality**
+
+* 3: Project demonstrates solid code quality and MVC principles.
+
+Good:
+
+* use of ruby service objects to abstract job of interacting with external APIs
+* Pretty effective at applying angular organization patterns for Services in UI layer
+* ruby layer testing seems ok
+
+Bad:
+
+* General sloppyness around code "tidyness" -- comments hanging around, unused files and templates,
+trailing whitespace, exposed API keys, etc etc
+* Angular side feels a little brittle in terms of ability to move things around; points to
+somewhat weak understanding of what each piece is doing in that portion of the application
+
+### Product Experience
+
+**1. User Experience**
+
+* 3: Project exhibits a production-ready user experience.
+
+UX is solid; flow is very simple so we only have a couple pages. Would be helpful
+to have more things clearly labeled in the UI especially when viewing flight results.
+
+Also all the type is enormous.
+
+**2. Performance**
+
+* 3: Project pages load on average under 400 milliseconds.
+
+## David Daniel
+
+* ambitious project spec
+* Intended to make a websocket game using canvas 
+* got sick during the project; lost time to that and to job interview assignments
+
+Main issue seems to be inability to complete functioning small iteration before
+tackling additional problems.
+
+Ended up partially attacking a lot of fairly difficult portions (game logic, infinite boards,
+websocket/real-time updating, drag and drop, canvas rendering, etc). Would have been better
+to focus on smaller portions and get them done.
+
+Additionally might have helped to focus on completing the bigger picture without as many
+details (e.g., get some crude version of the game working but without implementing all scrabble
+rules and restrictions.)
+
+### Feature Delivery
+
+**1. Completion**
+
+* 1: Developer completed the user stories and requirements partially.
+
+**2. Organization**
+
+* 2: Developer used a project management tool but didn't update the progress frequently.
+
+### Technical Quality
+
+**1. Test-Driven Development**
+
+* 3: Project shows adequate testing (90% - 95% coverage).
+
+**2. Code Quality**
+
+* 3: Project demonstrates solid code quality and MVC principles.
+
+### Product Experience
+
+**1. User Experience**
+
+* 1: Project exhibits inattention to the user experience.
+
+**2. Performance**
+
+N/A
