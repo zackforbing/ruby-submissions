@@ -20,7 +20,7 @@
 
 ## Lori Culberson and Fred Block
 
-* GitHub URL:
+* GitHub URL: https://github.com/loriculberson/blackJack
 
 ### Notes
 
