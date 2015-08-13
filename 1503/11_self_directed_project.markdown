@@ -314,7 +314,7 @@ give us a place to do more unit testing
 * **Test-Driven Development**: 4
 * **Code Quality**: 3
 * **User Experience**: 2 - Project exhibits some gaps in the UX.
-* **Performance**: 1 - Project pages load on average over 500 milliseconds.
+* **Performance**: 2 - Project pages load on average over 500 milliseconds.
 
 #### Morgan Miller
 
