@@ -77,8 +77,8 @@ Production: http://collaborave.herokuapp.com
 
 * **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
 * **Organization**: 3 - Developer used a project management tool to keep their project organized.
-* **Test-Driven Development**:
-* **Code Quality**:
+* **Test-Driven Development**: 2 - 88.41% (Includes Omniauth not being tested which we don't care about, but it does not include the API controller that should be tested)
+* **Code Quality**: 3 (API controller has more logic than it should. Using non-RESTful actions in the API controller)
 * **User Experience**: 4 - Project exhibits a production-ready and polished UX.
 * **Performance**: 4 - Project pages load on average under 300 milliseconds.
 
@@ -89,8 +89,8 @@ Production: https://cuperu.herokuapp.com/
 
 * **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
 * **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
-* **Test-Driven Development**:
-* **Code Quality**:
+* **Test-Driven Development**: 3
+* **Code Quality**: 3.5 - Try to avoid repetition of variables and split out logic to a place that it can be shared in multiple places, use methods to better express concepts*
 * **User Experience**: 2 - Project exhibits some gaps in the UX.
 * **Performance**: 4 - Project pages load on average under 300 milliseconds.
 
@@ -137,8 +137,8 @@ Production: https://road-tripper.herokuapp.com
 
 * **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
 * **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
-* **Test-Driven Development**:
-* **Code Quality**:
+* **Test-Driven Development**: 3
+* **Code Quality**: 3
 * **User Experience**: 4 - Project exhibits a production-ready and polished UX.
 * **Performance**: 4 - Project pages load on average under 300 milliseconds.
 
@@ -161,8 +161,8 @@ Production: https://pantry-raid.herokuapp.com
 
 * **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
 * **Organization**: 3 - Developer used a project management tool to keep their project organized.
-* **Test-Driven Development**:
-* **Code Quality**:
+* **Test-Driven Development**: 3 - (Surprisingly, tested OmniAuth in User model. FormMonster was not tested -- not sure it should be?? )
+* **Code Quality**: 3 - (Use more ActiveRecord for filtering data instead of Ruby)
 * **User Experience**: 3 - Project exhibits a production-ready user experience.
 * **Performance**: 2 - Project pages load on average under 500 milliseconds.
 
@@ -185,8 +185,8 @@ Production:
 
 * **Completion**:
 * **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
+* **Test-Driven Development**: 3 - (Some sad paths not tested and Omniauth tests are missing but all core functionality is tested)
+* **Code Quality**: 4 (Could split out HTTP requests into service objects instead of the model, but the controllers and methods are very clean.)
 * **User Experience**:
 * **Performance**:
 
@@ -197,8 +197,8 @@ Production:
 
 * **Completion**:
 * **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
+* **Test-Driven Development**: 3 - 91.5% (Omniauth not tested)
+* **Code Quality**: 3 - Good use of Service object and Background workers. Could refactor Service usage duplication, using a presenter in the controller, and using ActiveRecord to limit records loaded into memory.
 * **User Experience**:
 * **Performance**:
 
