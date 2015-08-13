@@ -60,15 +60,15 @@ Production:
 
 #### Vanessa Gomez
 
-Github:
-Production:
+Github: https://github.com/vanegomez/kindtripper<br>
+Production: https://kindtripper.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 3 - Developer used a project management tool to keep their project organized.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 4 - Project exhibits a production-ready and polished UX.
+* **Performance**: 4 - Project pages load on average under 300 milliseconds.
 
 #### Drew Reynolds
 
