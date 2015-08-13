@@ -84,15 +84,15 @@ Production: http://collaborave.herokuapp.com
 
 #### Lev Kravinsky
 
-Github:
-Production:
+Github: https://github.com/levthedev/CUPeru | https://github.com/levthedev/CUPeru-API<br>
+Production: https://cuperu.herokuapp.com/
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 2 - Project exhibits some gaps in the UX.
+* **Performance**: 4 - Project pages load on average under 300 milliseconds.
 
 #### Erik Butcher
 
