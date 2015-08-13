@@ -46,18 +46,6 @@
 
 ### Evaluations
 
-#### Chelsea Worrel
-
-Github:
-Production:
-
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
-
 #### Vanessa Gomez
 
 Github: https://github.com/vanegomez/kindtripper<br>
