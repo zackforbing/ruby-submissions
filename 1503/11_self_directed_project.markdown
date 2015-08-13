@@ -39,10 +39,10 @@
 
 #### Performance
 
-* 4 _ Project pages load on average under 300 milliseconds.
-* 3 _ Project pages load on average under 400 milliseconds.
-* 2 _ Project pages load on average under 500 milliseconds.
-* 1 _ Project pages load on average over 500 milliseconds.
+* 4 - Project pages load on average under 300 milliseconds.
+* 3 - Project pages load on average under 400 milliseconds.
+* 2 - Project pages load on average under 500 milliseconds.
+* 1 - Project pages load on average over 500 milliseconds.
 
 ### Evaluations
 
@@ -60,39 +60,39 @@ Production:
 
 #### Vanessa Gomez
 
-Github:
-Production:
+Github: https://github.com/vanegomez/kindtripper<br>
+Production: https://kindtripper.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 3 - Developer used a project management tool to keep their project organized.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 4 - Project exhibits a production-ready and polished UX.
+* **Performance**: 4 - Project pages load on average under 300 milliseconds.
 
 #### Drew Reynolds
 
-Github:
-Production:
+Github: http://github.com/NYDrewReynolds/collaborave<br>
+Production: http://collaborave.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 3 - Developer used a project management tool to keep their project organized.
 * **Test-Driven Development**: 2 - 88.41% (Includes Omniauth not being tested which we don't care about, but it does not include the API controller that should be tested)
 * **Code Quality**: 3 (API controller has more logic than it should. Using non-RESTful actions in the API controller)
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 4 - Project exhibits a production-ready and polished UX.
+* **Performance**: 4 - Project pages load on average under 300 milliseconds.
 
 #### Lev Kravinsky
 
-Github:
-Production:
+Github: https://github.com/levthedev/CUPeru | https://github.com/levthedev/CUPeru-API<br>
+Production: https://cuperu.herokuapp.com/
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**: 3
-* **Code Quality**: 3.5 - Try to avoid repetition of variables and split out logic to a place that it can be shared in multiple places, use methods to better express concepts
-* **User Experience**:
-* **Performance**:
+* **Code Quality**: 3.5 - Try to avoid repetition of variables and split out logic to a place that it can be shared in multiple places, use methods to better express concepts*
+* **User Experience**: 2 - Project exhibits some gaps in the UX.
+* **Performance**: 4 - Project pages load on average under 300 milliseconds.
 
 #### Erik Butcher
 
@@ -108,8 +108,8 @@ Production:
 
 #### Rick Bacci
 
-Github:
-Production:
+Github: https://github.com/RickBacci/foobr<br>
+Production: https://foobr.herokuapp.com
 
 * **Completion**:
 * **Organization**:
@@ -120,63 +120,63 @@ Production:
 
 #### Dave Mauer
 
-Github:
-Production:
+Github: https://github.com/davemaurer/beer_bank<br>
+Production: http://beerbank.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 3 - Developer completed all the user stories and requirements set by the client.
+* **Organization**: 2 - Developer used a project management tool but didn't update the progress frequently.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 2 - Project exhibits some gaps in the UX.
+* **Performance**:  3 - Project pages load on average under 400 milliseconds.
 
 #### Max Tedford
 
-Github:
-Production:
+Github: https://github.com/maxtedford/road_tripper<br>
+Production: https://road-tripper.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**: 3
 * **Code Quality**: 3
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 4 - Project exhibits a production-ready and polished UX.
+* **Performance**: 4 - Project pages load on average under 300 milliseconds.
 
 #### Sally MacNicholas
 
-Github:
-Production:
+Github: https://github.com/sallymacnicholas/fitbot<br>
+Production: http://protected-tor-9723.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 2 - Developer used a project management tool but didn't update the progress frequently.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 4 - Project exhibits a production-ready and polished UX.
+* **Performance**: 1 - Project pages load on average over 500 milliseconds.
 
 #### Brett Grigsby
 
-Github:
-Production:
+Github: https://github.com/brettgrigsby/pantry_raid<br>
+Production: https://pantry-raid.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 3 - Developer used a project management tool to keep their project organized.
 * **Test-Driven Development**: 3 - (Surprisingly, tested OmniAuth in User model. FormMonster was not tested -- not sure it should be?? )
 * **Code Quality**: 3 - (Use more ActiveRecord for filtering data instead of Ruby)
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 3 - Project exhibits a production-ready user experience.
+* **Performance**: 2 - Project pages load on average under 500 milliseconds.
 
 #### Margarett Ly
 
-Github:
-Production:
+Github: https://github.com/aoili/drank<br>
+Production: https://dranks.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 2 - Developer completed most of the user stories and requirements set by the client.
+* **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 3 - Project exhibits a production-ready user experience.
+* **Performance**: 1 - Project pages load on average over 500 milliseconds.
 
 #### Josh Cass
 
@@ -204,51 +204,51 @@ Production:
 
 #### Robert Cornell
 
-Github:
-Production:
+Github: https://github.com/RMCornell/one_feed<br>
+Production: https://one-feed.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 3 - Developer completed all the user stories and requirements set by the client.
+* **Organization**: 3 - Developer used a project management tool to keep their project organized.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 2 - Project exhibits some gaps in the UX.
+* **Performance**: 3 - Project pages load on average under 400 milliseconds.
 
 #### Justin Holmes
 
-Github:
-Production:
+Github: https://github.com/Justin-Holmes/Spoterize<br>
+Production: https://the-real-spotifize.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 4 - Project exhibits a production-ready and polished UX.
+* **Performance**: 2.5 - Project pages load on average under 500 milliseconds.
 
 #### Whitney Hiemstra
 
-Github:
-Production:
+Github: https://github.com/whithub/music_story<br>
+Production: http://music-story.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 2 - Project exhibits some gaps in the UX.
+* **Performance**: 1 - Project pages load on average over 500 milliseconds.
 
 #### Morgan Miller
 
-Github:
-Production:
+Github: https://github.com/morganmiller/whats-in-a-word<br>
+Production: https://whatsinaword.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 3 - Developer used a project management tool to keep their project organized.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 4 - Project exhibits a production-ready and polished UX.
+* **Performance**: 2 - Project pages load on average under 500 milliseconds.
 
 #### Andrew Fink
 
