@@ -72,15 +72,15 @@ Production:
 
 #### Drew Reynolds
 
-Github:
-Production:
+Github: http://github.com/NYDrewReynolds/collaborave<br>
+Production: http://collaborave.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 3 - Developer used a project management tool to keep their project organized.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 4 - Project exhibits a production-ready and polished UX.
+* **Performance**: 4 - Project pages load on average under 300 milliseconds.
 
 #### Lev Kravinsky
 
@@ -228,15 +228,15 @@ Production:
 
 #### Whitney Hiemstra
 
-Github:
-Production:
+Github: https://github.com/whithub/music_story<br>
+Production: http://music-story.herokuapp.com/
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 2 - Project exhibits some gaps in the UX.
+* **Performance**: 1 - Project pages load on average over 500 milliseconds.
 
 #### Morgan Miller
 
