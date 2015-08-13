@@ -39,7 +39,7 @@ Project Description: https://github.com/turingschool/curriculum/blob/master/sour
 * 2 - Project focuses tests on only a single layer of the stack, or has large gaps in the coverage
 * 1 - Project has test failures, significant gaps in coverage, or a general paucity of tests
 
-## Evaluations
+### Evaluations
 
 #### Chelsea Worrel
 
