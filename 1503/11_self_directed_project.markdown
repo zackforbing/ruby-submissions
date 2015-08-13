@@ -39,10 +39,10 @@
 
 #### Performance
 
-* 4 _ Project pages load on average under 300 milliseconds.
-* 3 _ Project pages load on average under 400 milliseconds.
-* 2 _ Project pages load on average under 500 milliseconds.
-* 1 _ Project pages load on average over 500 milliseconds.
+* 4 - Project pages load on average under 300 milliseconds.
+* 3 - Project pages load on average under 400 milliseconds.
+* 2 - Project pages load on average under 500 milliseconds.
+* 1 - Project pages load on average over 500 milliseconds.
 
 ### Evaluations
 
@@ -144,15 +144,15 @@ Production:
 
 #### Sally MacNicholas
 
-Github:
-Production:
+Github: https://github.com/sallymacnicholas/fitbot
+Production: http://protected-tor-9723.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 2 - Developer used a project management tool but didn't update the progress frequently.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 4 - Project exhibits a production-ready and polished UX.
+* **Performance**: 1 - Project pages load on average over 500 milliseconds.
 
 #### Brett Grigsby
 
