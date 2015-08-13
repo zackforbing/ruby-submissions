@@ -192,15 +192,15 @@ Production:
 
 #### Jamie Kawahara
 
-Github:
-Production:
+Github: https://github.com/androidgrl/turing-world-of-things<br>
+Production: https://spark-3d.herokuapp.com/
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**: 3 - 91.5% (Omniauth not tested)
 * **Code Quality**: 3 - Good use of Service object and Background workers. Could refactor Service usage duplication, using a presenter in the controller, and using ActiveRecord to limit records loaded into memory.
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 3 - Project exhibits a production-ready user experience.
+* **Performance**: 3 - Project pages load on average under 400 milliseconds.
 
 #### Robert Cornell
 
