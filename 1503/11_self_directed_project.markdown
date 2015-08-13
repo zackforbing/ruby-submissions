@@ -214,7 +214,7 @@ Production: https://dranks.herokuapp.com
 
 * **Completion**: 2 - Developer completed most of the user stories and requirements set by the client.
 * **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
-* **Test-Driven Development**: 2
+* **Test-Driven Development**: 3
 * **Code Quality**: 3
 * **User Experience**: 3 - Project exhibits a production-ready user experience.
 * **Performance**: 1 - Project pages load on average over 500 milliseconds.
@@ -231,8 +231,6 @@ level (method design etc), but the relationships between components
 could be more clearly defined
 * Testing is pretty good and I like that we address the external connections
 using Omniauth test mode and stubs
-* Unfortunate that some tests are failing and there seems to be a bit of
-spillover / unexpected failures in the test suite
 * Data modeling is interesting and makes reasonable use of the standard rails
 tooling; given the relative static-ness of the data it might be interesting
 to think about alternative modeling / storage systems
