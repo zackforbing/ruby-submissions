@@ -120,15 +120,15 @@ Production:
 
 #### Dave Mauer
 
-Github:
-Production:
+Github: https://github.com/davemaurer/beer_bank<br>
+Production: http://beerbank.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 3 - Developer completed all the user stories and requirements set by the client.
+* **Organization**: 2 - Developer used a project management tool but didn't update the progress frequently.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 2 - Project exhibits some gaps in the UX.
+* **Performance**:  3 - Project pages load on average under 400 milliseconds.
 
 #### Max Tedford
 
@@ -144,7 +144,7 @@ Production:
 
 #### Sally MacNicholas
 
-Github: https://github.com/sallymacnicholas/fitbot
+Github: https://github.com/sallymacnicholas/fitbot<br>
 Production: http://protected-tor-9723.herokuapp.com
 
 * **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
