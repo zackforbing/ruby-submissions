@@ -96,15 +96,15 @@ Production: https://cuperu.herokuapp.com/
 
 #### Erik Butcher
 
-Github:
-Production:
+Github: https://github.com/with-a-k/trouble-center<br>
+Production: http://trouble-center.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 2 - Developer completed most of the user stories and requirements set by the client.
+* **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 2.5 - Project exhibits some gaps in the UX.
+* **Performance**: 4 - Project pages load on average under 300 milliseconds.
 
 #### Rick Bacci
 
