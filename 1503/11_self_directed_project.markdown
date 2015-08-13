@@ -108,8 +108,8 @@ Production:
 
 #### Rick Bacci
 
-Github:
-Production:
+Github: https://github.com/RickBacci/foobr<br>
+Production: https://foobr.herokuapp.com
 
 * **Completion**:
 * **Organization**:
@@ -216,15 +216,15 @@ Production: https://one-feed.herokuapp.com
 
 #### Justin Holmes
 
-Github:
-Production:
+Github: https://github.com/Justin-Holmes/Spoterize<br>
+Production: https://the-real-spotifize.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 4 - Project exhibits a production-ready and polished UX.
+* **Performance**: 2.5 - Project pages load on average under 500 milliseconds.
 
 #### Whitney Hiemstra
 
