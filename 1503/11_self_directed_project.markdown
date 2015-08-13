@@ -112,12 +112,12 @@ by some issue or malfunction
 * Need to be more reactive or adaptive when running into issues so that we
 can find a way around rather than getting bogged down on a single issue
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 2 - Developer completed most of the user stories and requirements set by the client.
+* **Organization**: 3 - Developer used a project management tool to keep their project organized.
 * **Test-Driven Development**: 2
 * **Code Quality**: 2
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 3 - Project exhibits a production-ready user experience.
+* **Performance**: 2 - Project pages load on average under 500 milliseconds.
 
 #### Dave Mauer
 
