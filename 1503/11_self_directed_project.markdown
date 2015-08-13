@@ -363,8 +363,47 @@ Production: https://the-real-spotifize.herokuapp.com
 
 * **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
 * **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
-* **Test-Driven Development**: 4 - Project shows exceptional use of testing at different layers (above 95% coverage)
-* **Code Quality**:    4 - Project demonstrates exceptionally well factored code
+* **Test-Driven Development**:
+
+  4 - Project shows exceptional use of testing at different layers (above 95% coverage)
+
+  ```
+  Currently, the helper methods in the Rails helper are being defined on Object.
+  If we place them into a module, we can selectively include them into the tests that need them.
+
+  We can also use RSpec configuration to include them into any test that is tagged with `type: :feature`
+  ```
+
+  If we then add a method `user_uid`, we can give relevant information about what the uid of `'123456'` means,
+  and why that one is special. We could also do this for `'9999'`, thus the numbers are understood in terms of
+  what they mean (why we chose that number over some other number), rather than just some magical number that
+  doesn't inherently mean anything.
+
+  Thus we can make these changes
+
+  ```
+  - let(:user) { User.create(uid: '123456', token: '1111') }
+  + let(:user) { User.create(uid: user_uid, token: '1111') }
+  ```
+
+  And give insight into why `'9999'` is the `uid` we're expecting here:
+
+  ```
+  it 'can create a user' do
+    u = User.find_or_create_from_oauth(stub_omniauth_new_user)
+
+    expect(u.uid).to eq('9999')
+    expect(u.token).to eq('1111')
+    expect(u.uid).to_not eq(user.uid)
+  end
+  ```
+* **Code Quality**:
+
+  4 - Project demonstrates exceptionally well factored code
+
+  I had more, but the humans just gave me a decanter, and the day has been long and is over,
+  and I don't think my brain can do much else today.
+  So, we'll just have to be content with what I've got here. :)
 * **User Experience**: 4 - Project exhibits a production-ready and polished UX.
 * **Performance**: 2.5 - Project pages load on average under 500 milliseconds.
 

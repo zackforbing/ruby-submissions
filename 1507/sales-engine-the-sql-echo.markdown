@@ -271,12 +271,12 @@ Score: 3+
 
   If several repositories whind up sharing methods, but they aren't shared across all repositories,
   then you could extract those methods into another module like `FirstNameMethods`,
-  and including that one into the classes that actually have this functionality.
 * Whenever you're always reaching through one object to get to the other,
   that's a good indicator that you only want the other one.
   So `repository.engine` would imply that you should pass the engine instead of the repository.
-  For a hard-liner opinion on this, check out the ?? (can't remember the name but they use phrases like
-  "you can talk to yourself, you can talk to your friends, but you can't talk to your friends friends")
+  For a hard-liner opinion on this, check out the [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter),
+  which is something like "you can talk to yourself, you can talk to your friends, but you can't talk to your friends friends".
+
 
 4: Application is expertly divided into logical components each with a clear, single responsibility
 3: Application effectively breaks logical components apart but breaks the principle of SRP
