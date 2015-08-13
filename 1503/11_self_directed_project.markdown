@@ -229,7 +229,7 @@ Production:
 #### Whitney Hiemstra
 
 Github: https://github.com/whithub/music_story<br>
-Production: http://music-story.herokuapp.com/
+Production: http://music-story.herokuapp.com
 
 * **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
 * **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
@@ -240,15 +240,15 @@ Production: http://music-story.herokuapp.com/
 
 #### Morgan Miller
 
-Github:
-Production:
+Github: https://github.com/morganmiller/whats-in-a-word<br>
+Production: https://whatsinaword.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 3 - Developer used a project management tool to keep their project organized.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 4 - Project exhibits a production-ready and polished UX.
+* **Performance**: 2 - Project pages load on average under 500 milliseconds.
 
 #### Andrew Fink
 
