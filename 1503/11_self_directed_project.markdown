@@ -132,15 +132,15 @@ Production: http://beerbank.herokuapp.com
 
 #### Max Tedford
 
-Github:
-Production:
+Github: https://github.com/maxtedford/road_tripper<br>
+Production: https://road-tripper.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 4 - Project exhibits a production-ready and polished UX.
+* **Performance**: 4 - Project pages load on average under 300 milliseconds.
 
 #### Sally MacNicholas
 
