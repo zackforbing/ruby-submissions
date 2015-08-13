@@ -180,20 +180,20 @@ Production: https://dranks.herokuapp.com
 
 #### Josh Cass
 
-Github:
-Production:
+Github: https://github.com/joshcass/sitr<br>
+Production: http://sitr.link
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**: 3 - (Some sad paths not tested and Omniauth tests are missing but all core functionality is tested)
 * **Code Quality**: 4 (Could split out HTTP requests into service objects instead of the model, but the controllers and methods are very clean.)
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 4 - Project exhibits a production-ready and polished UX.
+* **Performance**: 3 - Project pages load on average under 400 milliseconds.
 
 #### Jamie Kawahara
 
 Github: https://github.com/androidgrl/turing-world-of-things<br>
-Production: https://spark-3d.herokuapp.com/
+Production: https://spark-3d.herokuapp.com
 
 * **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
 * **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
