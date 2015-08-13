@@ -168,15 +168,15 @@ Production:
 
 #### Margarett Ly
 
-Github:
-Production:
+Github: https://github.com/aoili/drank<br>
+Production: https://dranks.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 2 - Developer completed most of the user stories and requirements set by the client.
+* **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 3 - Project exhibits a production-ready user experience.
+* **Performance**: 1 - Project pages load on average over 500 milliseconds.
 
 #### Josh Cass
 
@@ -204,15 +204,15 @@ Production:
 
 #### Robert Cornell
 
-Github:
-Production:
+Github: https://github.com/RMCornell/one_feed<br>
+Production: https://one-feed.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 3 - Developer completed all the user stories and requirements set by the client.
+* **Organization**: 3 - Developer used a project management tool to keep their project organized.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 2 - Project exhibits some gaps in the UX.
+* **Performance**: 3 - Project pages load on average under 400 milliseconds.
 
 #### Justin Holmes
 
