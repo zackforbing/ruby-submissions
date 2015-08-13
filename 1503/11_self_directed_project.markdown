@@ -252,15 +252,15 @@ Production: https://whatsinaword.herokuapp.com
 
 #### Andrew Fink
 
-Github:
-Production:
+Github: https://github.com/adfink/tribehire<br>
+Production: https://thawing-mesa-2346.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 2 - Developer completed most of the user stories and requirements set by the client.
+* **Organization**: 1 - Developer failed to use a project management tool to track its progress.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 2.5 - Project exhibits some gaps in the UX.
+* **Performance**: 2 - Project pages load on average under 500 milliseconds.
 
 #### Jack Yeh
 
