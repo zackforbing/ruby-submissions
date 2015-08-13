@@ -156,15 +156,15 @@ Production: http://protected-tor-9723.herokuapp.com
 
 #### Brett Grigsby
 
-Github:
-Production:
+Github: https://github.com/brettgrigsby/pantry_raid<br>
+Production: https://pantry-raid.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 3 - Developer used a project management tool to keep their project organized.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **User Experience**: 3 - Project exhibits a production-ready user experience.
+* **Performance**: 2 - Project pages load on average under 500 milliseconds.
 
 #### Margarett Ly
 
