@@ -255,8 +255,8 @@ Production: https://one-feed.herokuapp.com
 
 * **Completion**: 3 - Developer completed all the user stories and requirements set by the client.
 * **Organization**: 3 - Developer used a project management tool to keep their project organized.
-* **Test-Driven Development**:
-* **Code Quality**:
+* **Test-Driven Development**: 2
+* **Code Quality**: 2
 * **User Experience**: 2 - Project exhibits some gaps in the UX.
 * **Performance**: 3 - Project pages load on average under 400 milliseconds.
 
