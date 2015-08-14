@@ -55,8 +55,8 @@ following criteria:
 
 ### Marla Brizel, Mitch Ashby, Drew Conly
 
-* Feature Completeness: 3.5 (All core features plus extension)
-* Views: 3 (some logic leaking through and JS in views)
+* Feature Completeness: 3.5
+* Views: 3
 * Controllers: 3
 * Models: 4
 * Testing: 3.5
