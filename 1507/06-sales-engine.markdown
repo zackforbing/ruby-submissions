@@ -380,3 +380,96 @@ The output from rake sanitation:all shows…
 3: Five or fewer complaints
 2: Six to ten complaints
 1: More than ten complaints
+
+
+### Students: Rebekah Sosa & Rachel Parri
+
+#### GitHub URL: https://github.com/rebekahsosa/SalesEngine
+
+#### Notes:
+
+* 10 Sanitation Violations
+* No rake task to run all tests
+* Spec - harness 14 failures
+* Uses a finder module to abstract out find by id/date methods
+* 104 tests 
+* Sales Engine tests do not pass.
+* Missing unit tests.
+* Many methods do not have corresponding tests.
+
+## Scores:
+
+* Functional Expectations: 2 
+* Test-Driven Development: 1
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby and Style: 3 
+* Enumerable and Collections: 3
+* Code Sanitation: 2
+
+
+### Students: Bret Doucette & Mimi Schatz
+
+#### GitHub URL: http://github.com/mcschatz/sales_engine
+
+#### Notes:
+
+* 98 percent test coverage, 179 assertions.
+* Spec harness runs in 4 minutes, 2.9 seconds
+* 1 violation sanitation
+* sales_engine_test - empty
+* empty test
+* Good handling of edge cases in code and in tests
+* Better unit tests needed
+
+#### Scores
+
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 3
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 3
+* Code Sanitation: 4
+
+### Students: Tyler Komoroske & Jeff Ruane
+
+#### GitHub URL: http://github.com/tjkomor/sales_engine
+
+#### Notes:
+
+* 162 tests
+* Spec Harness runs 3 minutes 38 seconds
+* No tests for loaders
+* good use of enumerables
+* some missing unit tests
+* good use of memoizations
+* 4 sanitation complaints
+* overall clean
+* some repetition of code
+
+#### Scores
+
+* Functional Expectations: 3 
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 4 
+* Fundamental Ruby & Style: 3
+* Enumerable & Collections: 4
+* Code Sanitation: 3
+
+### Students: Rose Kohn & David Stinnette
+
+#### GitHub URL: http://github.com/roseak/sales_engine
+
+#### Notes:
+
+* 143 tests, 262 assertions
+* 97.73% coverage
+* No sanitation complaints
+* 2 minutes and 42 seconds
+#### Scores
+
+* Functional Expectations: 3
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 3  
+* Fundamental Ruby & Style: 4
+* Enumerable & Collections: 4
+* Code Sanitation: 4
