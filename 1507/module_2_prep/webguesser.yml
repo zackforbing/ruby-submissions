@@ -9,8 +9,8 @@ submissions:
     repo:
     notes:
   Mary Beth Burch:
-    repo:
-    notes:
+    repo: https://github.com/mbburch/web_guesser
+    notes: color extension done, would like to finish other two.
   Alon Waisman:
     repo: https://github.com/MowAlon/web_guesser
     notes: The SECRET NUMBER is 42
