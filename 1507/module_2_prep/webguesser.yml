@@ -4,7 +4,7 @@ submissions:
     notes:
   Travis Haby:
     repo:
-    notes:
+    notes: 
   Rose Kohn:
     repo:
     notes:
@@ -32,9 +32,9 @@ submissions:
   Regis Boudinot:
     repo:
     notes:
-  Adam Jensen:
-    repo:
-    notes:
+  Adam Jensen: 
+    repo: https://github.com/adamki/webguesser
+    notes: Don't Panic.
   Jeff Ruane:
     repo:
     notes:
