@@ -54,8 +54,8 @@ submissions:
     repo:
     notes:
   David Stinnette:
-    repo:
-    notes:
+    repo: https://github.com/dastinnette/web_guesser
+    notes: Note the tasteful use of "hotpink"
   Justin Holzmann:
     repo: https://github.com/philmphoenix/web_guesser
     notes: Implemented all extensions
