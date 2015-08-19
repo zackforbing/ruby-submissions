@@ -15,8 +15,8 @@ submissions:
     repo: https://github.com/MowAlon/web_guesser
     notes: The SECRET NUMBER is 42
   Chris Cenatiempo:
-    repo:
-    notes:
+    repo:https://github.com/ChrisCenatie/web_guesser
+    notes: Added color extension and working on the other two extensions
   Mimi Schatz:
     repo:
     notes:
