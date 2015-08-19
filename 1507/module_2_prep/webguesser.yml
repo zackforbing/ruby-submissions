@@ -6,7 +6,7 @@ submissions:
     repo: https://github.com/travishaby/web_guesser.git
     notes: Got it working with colors, as well as limiting the number of allowed guesses to five. Also tried to add an array that tracks previous guesses which works but annoyingly starts off with nil and keeps the nil value as one of the guesses...will try to fix if I have more time.
   Rose Kohn:
-    repo:
+    repo: https://github.com/roseak/web_guesser
     notes:
   Mary Beth Burch:
     repo: https://github.com/mbburch/web_guesser
