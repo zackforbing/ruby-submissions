@@ -3,8 +3,8 @@ submissions:
     repo: https://github.com/bad6e/Task_Manager
     notes: First Attempt
   Travis Haby:
-    repo:
-    notes:
+    repo: https://github.com/travishaby/task_manager
+    notes: First creation. Links to show tasks arent working but tasks can be accessed via URL...not sure why, something wrong with the controller code? Was thinking the `tasks/:id` part wasnt working like it should be?
   Rose Kohn:
     repo:
     notes:
