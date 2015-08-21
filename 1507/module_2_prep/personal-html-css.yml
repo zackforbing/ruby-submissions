@@ -54,8 +54,8 @@ submissions:
     repo:
     url:
   David Stinnette:
-    repo:
-    url:
+    repo: https://github.com/dastinnette/dastinnette.github.io
+    url: http://dastinnette.github.io/
   Justin Holzmann:
     repo: https://github.com/philmphoenix/philmphoenix.github.io
     url:  philmphoenix.github.io
