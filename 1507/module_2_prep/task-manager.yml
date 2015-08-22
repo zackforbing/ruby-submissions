@@ -5,9 +5,9 @@ submissions:
   Travis Haby:
     repo: https://github.com/travishaby/task_manager
     notes: First creation. Links to show tasks arent working but tasks can be accessed via URL...not sure why, something wrong with the controller code? Was thinking the `tasks/:id` part wasnt working like it should be?
-  Rose Kohn:
-    repo:
-    notes:
+  Rose Kohn: 
+    repo:https://github.com/roseak/task_manager
+    notes: for all the cookies
   Mary Beth Burch:
     repo: https://github.com/mbburch/task_manager
     notes:
