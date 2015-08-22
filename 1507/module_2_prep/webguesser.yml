@@ -24,7 +24,7 @@ submissions:
     repo:https://github.com/rasensio1/webguesser
     notes:
   Michael Wong:
-    repo:
+   repo:
     notes:
   Matt Ewell:
     repo: https://github.com/plato721/web_guesser
@@ -61,4 +61,4 @@ submissions:
     notes: Implemented all extensions
   Rebekah Sosa:
     repo: https://github.com/rebekahsosa/web_guesser
-    
+
