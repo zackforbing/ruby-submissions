@@ -90,3 +90,34 @@ __Comments__
 Tests have excellent coverage of edge cases for model tests. Tests are clear and easy to understand. Feature tests could cover more user interface.
 JS code is clean and easy to read. Callbacks could be extracted into separate functions. Responsibilities of each function are clear and intuitive.
 Excellent code quality, code is very clear, concise, and clean across the board. I like your use of rails helper methods and gems. App is very easy for users to navigate and the interface is very intuitive.
+
+
+__Reviewer:__ Whitney Hiemstra
+
+__Student:__ Max Tedford
+
+Github repo: https://github.com/maxtedford/revenge_of_idea_box
+
+* Features (1-4)
+* 3
+* User Interface (1-4)
+* 4
+* Testing (1-4)
+* 3
+* Rails Style (1-4)
+* 4
+* Ruby Style (1-4)
+* 4
+* JS Style (1-4)
+* 4 (I'm new to JS, but to me it looked great!)
+
+__Comments__
+
+Liked: 
+- Liked how your files and code were well-organized -- JS code was all in one file, but very easy to read and understand.
+- Liked your use of respond_with and ajax calls -- site was responsive and quick.
+
+
+Improvements:
+- Would have liked to see a before_action in controller -- replacing all the Idea.find(params[:id])
+
