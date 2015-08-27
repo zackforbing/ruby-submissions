@@ -91,53 +91,24 @@ Tests have excellent coverage of edge cases for model tests. Tests are clear and
 JS code is clean and easy to read. Callbacks could be extracted into separate functions. Responsibilities of each function are clear and intuitive.
 Excellent code quality, code is very clear, concise, and clean across the board. I like your use of rails helper methods and gems. App is very easy for users to navigate and the interface is very intuitive.
 
+__Reviewer: Brett Grigsby__
 
-__Reviewer:__ Whitney Hiemstra
+__Student: Josh Cass__
 
-__Student:__ Max Tedford
+Github repo: [idea box 2.0](https://github.com/joshcass/idea_box_2)
 
-Github repo: https://github.com/maxtedford/revenge_of_idea_box
-
-* Features (1-4)
-* 3
-* User Interface (1-4)
-* 4
-* Testing (1-4)
-* 3
-* Rails Style (1-4)
-* 4
-* Ruby Style (1-4)
-* 4
-* JS Style (1-4)
-* 4 (I'm new to JS, but to me it looked great!)
+* Features - 4
+* User Interface - 4
+* Testing - 3
+* Rails Style - 4
+* Ruby Style - 4
+* JS Style - 4
 
 __Comments__
 
-Liked: 
-- Liked how your files and code were well-organized -- JS code was all in one file, but very easy to read and understand.
-- Liked your use of respond_with and ajax calls -- site was responsive and quick.
+* Really awesome use of blur event to cover your ass.
 
+* Good restful practices by updating the quality with the same action as the
+other attributes
 
-Improvements:
-- Would have liked to see a before_action in controller -- replacing all the Idea.find(params[:id])
-
-
-__Reviewer:__ Josh Cass 
-
-__Student:__ Brett Grigsby
-
-Github repo: https://github.com/brettgrigsby/idea_box_2.0
-
-* Features 3
-* User Interface 4
-* Testing 3
-* Rails Style 4
-* Ruby Style 4
-* JS Style 3
-
-__Comments__
-
-Love the artisanal handcrafted styling without a framework.
-
-Rendered random text as http responses. Status code would have been more helpful.
-
+* A state machine may have been overkill for a project of this scope
