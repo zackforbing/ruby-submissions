@@ -44,3 +44,18 @@ Liked that you specified the title and body for the keyup filter
 
 Would have been nice to figure out respond_with rather than respond_to
 Index action creates an @ideas variable AND an @idea variable
+
+
+__Reviewer:__Sally MacNicholas
+ 
+__Student:__Vane Gomez
+ 
+* Features: 1
+* User Interface: 3
+* Testing: 1
+* Rails Style: 3
+* Ruby Style: 3
+* JS Style: 3
+ 
+ __Comments__
+JS looked great! Nice partials! Could have finished more features.
