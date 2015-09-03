@@ -102,14 +102,14 @@ Production: http://farmers-market-pivot.herokuapp.com
 
 #### Samson, David, Jason
 
-GitHub:
-Production:
+GitHub: https://github.com/imwithsam/the_pivot<br>
+Production: http://ochotickets.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4: Team completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4: Team used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
+* **User Experience**: 4: Project exhibits a production-ready and polished UX.
 
 #### Rick, Erik, Drew
 
