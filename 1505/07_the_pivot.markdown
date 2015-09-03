@@ -58,14 +58,14 @@ Production: http://codestarter.herokuapp.com
 
 #### Tyler, Jai, Mike, Michael
 
-GitHub:
-Production:
+GitHub: http://mrjaimisra/the_pivot<br>
+Production: http://imagine-take2.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 3: Team completed all the user stories and requirements set by the client.
+* **Organization**: 4: Team used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
+* **User Experience**: 4: Project exhibits a production-ready and polished UX.
 
 #### Jack, Adam, Dave
 
