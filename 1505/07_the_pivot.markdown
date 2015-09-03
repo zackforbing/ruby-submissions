@@ -63,8 +63,8 @@ Production: http://imagine-take2.herokuapp.com
 
 * **Completion**: 3: Team completed all the user stories and requirements set by the client.
 * **Organization**: 4: Team used a project management tool and updated their progress in real-time.
-* **Test-Driven Development**:
-* **Code Quality**:
+* **Test-Driven Development**: 4: Coverage was good, showed understanding at all levels.
+* **Code Quality**: 3.5: Code was better factored than most, controllers were mostly skinny, wouldn't call it "Exceptional" though.
 * **User Experience**: 4: Project exhibits a production-ready and polished UX.
 
 #### Jack, Adam, Dave
