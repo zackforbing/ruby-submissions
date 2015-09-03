@@ -118,6 +118,6 @@ Production: https://technically-employed.herokuapp.com
 
 * **Completion**: 1: Team completed the user stories and requirements partially.
 * **Organization**: 4: Team used a project management tool and updated their progress in real-time.
-* **Test-Driven Development**:
-* **Code Quality**:
+* **Test-Driven Development**: 3: Project shows adequate testing (90% - 95% coverage).
+* **Code Quality**: 2.5: With so many missing features, there were definitely missing code monsters which would have been what made the code hairy.
 * **User Experience**: 2: Project exhibits some gaps in the UX.
