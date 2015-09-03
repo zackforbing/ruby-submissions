@@ -80,14 +80,14 @@ Production: http://way-out-there.herokuapp.com
 
 #### Sebastian, Max, Alex
 
-GitHub:
-Production:
+GitHub: http://github.com/MaxMillington/the_pivot<br>
+Production: http://collectors-world.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 3: Team completed all the user stories and requirements set by the client.
+* **Organization**: 4: Team used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
+* **User Experience**: 3: Project exhibits a production-ready user experience.
 
 #### Michael, Rob, Mitch
 
