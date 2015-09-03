@@ -113,11 +113,11 @@ Production: http://ochotickets.herokuapp.com
 
 #### Rick, Erik, Drew
 
-GitHub:
-Production:
+GitHub: https://github.com/Drew242/the_pivot<br>
+Production: https://technically-employed.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 1: Team completed the user stories and requirements partially.
+* **Organization**: 4: Team used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
+* **User Experience**: 2: Project exhibits some gaps in the UX.
