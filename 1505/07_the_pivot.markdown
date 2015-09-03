@@ -58,7 +58,7 @@ Production: http://codestarter.herokuapp.com
 
 #### Tyler, Jai, Mike, Michael
 
-GitHub: http://mrjaimisra/the_pivot<br>
+GitHub: http://github.com/mrjaimisra/the_pivot<br>
 Production: http://imagine-take2.herokuapp.com
 
 * **Completion**: 3: Team completed all the user stories and requirements set by the client.
@@ -69,14 +69,14 @@ Production: http://imagine-take2.herokuapp.com
 
 #### Jack, Adam, Dave
 
-GitHub:
-Production:
+GitHub: http://github.com/adamcaron/the_pivot<br>
+Production: http://way-out-there.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 1: Team completed the user stories and requirements partially.
+* **Organization**: 2: Team used a project management tool but didn't update the progress frequently.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
+* **User Experience**: 2: Project exhibits some gaps in the UX.
 
 #### Sebastian, Max, Alex
 
