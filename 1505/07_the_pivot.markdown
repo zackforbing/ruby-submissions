@@ -47,14 +47,14 @@ Technical Quality
 
 #### Marla, Lovisa, Dmitry
 
-GitHub:
-Production:
+GitHub: http://github.com/marlabrizel/the_pivot<br>
+Production: http://codestarter.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 2: Team completed most of the user stories and requirements set by the client.
+* **Organization**: 4: Team used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
+* **User Experience**: 4: Project exhibits a production-ready and polished UX.
 
 #### Tyler, Jai, Mike, Michael
 
