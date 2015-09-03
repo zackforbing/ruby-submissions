@@ -91,14 +91,14 @@ Production: http://collectors-world.herokuapp.com
 
 #### Michael, Rob, Mitch
 
-GitHub:
-Production:
+GitHub: http://github.com/mitchashby16/the_pivot<br>
+Production: http://farmers-market-pivot.herokuapp.com
 
-* **Completion**:
-* **Organization**:
+* **Completion**: 4: Team completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4: Team used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**:
 * **Code Quality**:
-* **User Experience**:
+* **User Experience**: 4: Project exhibits a production-ready and polished UX.
 
 #### Samson, David, Jason
 
