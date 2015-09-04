@@ -85,8 +85,8 @@ Production: http://collectors-world.herokuapp.com
 
 * **Completion**: 3: Team completed all the user stories and requirements set by the client.
 * **Organization**: 4: Team used a project management tool and updated their progress in real-time.
-* **Test-Driven Development**:
-* **Code Quality**:
+* **Test-Driven Development**: 4: Code coverage was fine in SimpleCov, there were clearly tests that didn't actually excercise the edge cases. It's an iffy 4, but I do still feel like they understand the concepts expected.
+* **Code Quality**: 3: Emails being sent from user model, models too fat overall, controllers has more logic than I would have liked. Overall quality was pretty good, but I wouldn't call it exceptionally well factored.
 * **User Experience**: 3: Project exhibits a production-ready user experience.
 
 #### Michael, Rob, Mitch
