@@ -52,8 +52,8 @@ Production: http://codestarter.herokuapp.com
 
 * **Completion**: 2: Team completed most of the user stories and requirements set by the client.
 * **Organization**: 4: Team used a project management tool and updated their progress in real-time.
-* **Test-Driven Development**:
-* **Code Quality**:
+* **Test-Driven Development**: 4: Code coverage was good on both unit and integration level
+* **Code Quality**: 3: Quality was high overall, but still had more logic in the controller than I would have liked
 * **User Experience**: 4: Project exhibits a production-ready and polished UX.
 
 #### Tyler, Jai, Mike, Michael
