@@ -74,8 +74,8 @@ Production: http://way-out-there.herokuapp.com
 
 * **Completion**: 1: Team completed the user stories and requirements partially.
 * **Organization**: 2: Team used a project management tool but didn't update the progress frequently.
-* **Test-Driven Development**:
-* **Code Quality**:
+* **Test-Driven Development**: 1: Code coverage was below 70%
+* **Code Quality**: 3: What code was there was excellent, but it was clear that there were large gaps due to the missing stories. Their cart in particular had almost no code. I wouldn't feel comfortable giving a higher grade with so many potential code monsters left unexplored.
 * **User Experience**: 2: Project exhibits some gaps in the UX.
 
 #### Sebastian, Max, Alex
