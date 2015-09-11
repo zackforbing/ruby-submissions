@@ -58,14 +58,14 @@ Production: http://tweet-retreat.herokuapp.com
 
 #### Sebastian Abondano
 
-GitHub:
-Production:
+GitHub: https://github.com/sabondano/api_curious<br>
+Production: https://immense-thicket-5283.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 4: Developer delivered all planned features plus 2 extensions.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **User Experience**: 4: The application is a logical and easy to use implementation of the target application.
 
 #### David Shim
 
