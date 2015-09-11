@@ -80,14 +80,14 @@ Production: https://bit-hub.herokuapp.com
 
 #### Max Millington
 
-GitHub:
-Production:
+GitHub: http://github.com/maxmillington/instagram-api<br>
+Production: https://quiet-depths-3397.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 4: Developer delivered all planned features plus 2 extensions.
+* **Organization**: 3: Developer used a project management tool to keep their project organized.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 4: The application is a logical and easy to use implementation of the target application.
 
 #### Alex Tideman
 
