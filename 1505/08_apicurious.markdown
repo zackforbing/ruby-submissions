@@ -23,9 +23,9 @@
 ##### Test-Driven Development
 
 * 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
-* 3: Project demonstrates high test coverage (>80%), tests at feature and unit levels, but relies on external services
-* 2: Project demonstrates high test coverage (>70%), but does not adequately balance feature and unit tests
-* 1: Project does not have 70% test coverage
+* 3: Project demonstrates high test coverage (>80%), tests at feature and unit levels, but relies on external services.
+* 2: Project demonstrates high test coverage (>70%), but does not adequately balance feature and unit tests.
+* 1: Project does not have 70% test coverage.
 
 ##### Code Quality
 
@@ -38,10 +38,10 @@
 
 ##### User Experience
 
-* 4: The application is a logical and easy to use implementation of the target application
-* 3: The application covers many interactions of the target application, but has a few holes in lesser-used functionality
-* 2: The application shows effort in the interface, but the result is not effective
-* 1: The application is confusing or difficult to use
+* 4: The application is a logical and easy to use implementation of the target application.
+* 3: The application covers many interactions of the target application, but has a few holes in lesser-used functionality.
+* 2: The application shows effort in the interface, but the result is not effective.
+* 1: The application is confusing or difficult to use.
 
 ### Evaluations
 
@@ -91,14 +91,14 @@ Production: https://quiet-depths-3397.herokuapp.com
 
 #### Alex Tideman
 
-GitHub:
-Production:
+GitHub: http://github.com/alex-tideman/flashbulb<br>
+Production: https://flashbulbz.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 4: Developer delivered all planned features plus 2 extensions.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 4: The application is a logical and easy to use implementation of the target application.
 
 #### Lovisa Svallingson
 
