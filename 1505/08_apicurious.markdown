@@ -113,25 +113,25 @@ Production: http://otherhub.herokuapp.com
 
 #### Jai Misra
 
-GitHub:
-Production:
+GitHub: https://github.com/mrjaimisra/apicurious_scloud<br>
+Production: http://ghostcloud.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 4: Developer delivered all planned features plus 2 extensions.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 1: Project does not have 70% test coverage.
+* **Code Quality**: 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
+* **User Experience**: 4: The application is a logical and easy to use implementation of the target application.
 
 #### Adam Caron
 
-GitHub:
-Production:
+GitHub: http://github.com/adamcaron/api-curious<br>
+Production: http://api-curious.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 3: Developer delivered all planned features.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **User Experience**: 4: The application is a logical and easy to use implementation of the target application.
 
 #### Drew Conly
 
