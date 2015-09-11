@@ -50,11 +50,11 @@
 GitHub: http://www.github.com/marlabrizel/tweeter<br>
 Production: http://tweet-retreat.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 4: Developer delivered all planned features plus 2 extensions.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **User Experience**: 2.5: The application shows effort in the interface, but the result is not effective
 
 #### Sebastian Abondano
 
