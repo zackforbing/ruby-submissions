@@ -157,14 +157,14 @@ Production: http://instapic-ashby.herokuapp.com
 
 #### Samson Brock
 
-GitHub:
-Production:
+GitHub: http://github.com/imwithsam/yo_twit_face<br>
+Production: https://youtwitface.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 4: Developer delivered all planned features plus 2 extensions.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 3: The application covers many interactions of the target application, but has a few holes in lesser-used functionality.
 
 #### Michael Dorrance
 
