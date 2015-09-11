@@ -102,14 +102,14 @@ Production: https://flashbulbz.herokuapp.com
 
 #### Lovisa Svallingson
 
-GitHub:
-Production:
+GitHub: http://github.com/applegrain/APIcurious<br>
+Production: http://otherhub.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 4: Developer delivered all planned features plus 2 extensions.
+* **Organization**: 3: Developer used a project management tool to keep their project organized.
+* **Test-Driven Development**: 2.5: Project demonstrates high test coverage (>70%), but does not adequately balance feature and unit tests.
+* **Code Quality**: 3.5: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 4: The application is a logical and easy to use implementation of the target application.
 
 #### Jai Misra
 
