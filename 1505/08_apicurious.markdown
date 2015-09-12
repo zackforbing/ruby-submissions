@@ -23,9 +23,9 @@
 ##### Test-Driven Development
 
 * 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
-* 3: Project demonstrates high test coverage (>80%), tests at feature and unit levels, but relies on external services
-* 2: Project demonstrates high test coverage (>70%), but does not adequately balance feature and unit tests
-* 1: Project does not have 70% test coverage
+* 3: Project demonstrates high test coverage (>80%), tests at feature and unit levels, but relies on external services.
+* 2: Project demonstrates high test coverage (>70%), but does not adequately balance feature and unit tests.
+* 1: Project does not have 70% test coverage.
 
 ##### Code Quality
 
@@ -38,10 +38,10 @@
 
 ##### User Experience
 
-* 4: The application is a logical and easy to use implementation of the target application
-* 3: The application covers many interactions of the target application, but has a few holes in lesser-used functionality
-* 2: The application shows effort in the interface, but the result is not effective
-* 1: The application is confusing or difficult to use
+* 4: The application is a logical and easy to use implementation of the target application.
+* 3: The application covers many interactions of the target application, but has a few holes in lesser-used functionality.
+* 2: The application shows effort in the interface, but the result is not effective.
+* 1: The application is confusing or difficult to use.
 
 ### Evaluations
 
@@ -50,121 +50,121 @@
 GitHub: http://www.github.com/marlabrizel/tweeter<br>
 Production: http://tweet-retreat.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 4: Developer delivered all planned features plus 2 extensions.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **User Experience**: 2.5: The application shows effort in the interface, but the result is not effective
 
 #### Sebastian Abondano
 
-GitHub:
-Production:
+GitHub: https://github.com/sabondano/api_curious<br>
+Production: https://immense-thicket-5283.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 4: Developer delivered all planned features plus 2 extensions.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **User Experience**: 4: The application is a logical and easy to use implementation of the target application.
 
 #### David Shim
 
-GitHub:
-Production:
+GitHub: https://github.com/dsshim/bithub<br>
+Production: https://bit-hub.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 3.5: Developer delivered all planned features.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
+* **Code Quality**: 2.5: Project demonstrates some gaps in code quality and/or application of MVC principles.
+* **User Experience**: 3: The application covers many interactions of the target application, but has a few holes in lesser-used functionality.
 
 #### Max Millington
 
-GitHub:
-Production:
+GitHub: http://github.com/maxmillington/instagram-api<br>
+Production: https://quiet-depths-3397.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 4: Developer delivered all planned features plus 2 extensions.
+* **Organization**: 3: Developer used a project management tool to keep their project organized.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 4: The application is a logical and easy to use implementation of the target application.
 
 #### Alex Tideman
 
-GitHub:
-Production:
+GitHub: http://github.com/alex-tideman/flashbulb<br>
+Production: https://flashbulbz.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 4: Developer delivered all planned features plus 2 extensions.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 4: The application is a logical and easy to use implementation of the target application.
 
 #### Lovisa Svallingson
 
-GitHub:
-Production:
+GitHub: http://github.com/applegrain/APIcurious<br>
+Production: http://otherhub.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 4: Developer delivered all planned features plus 2 extensions.
+* **Organization**: 3: Developer used a project management tool to keep their project organized.
+* **Test-Driven Development**: 2.5: Project demonstrates high test coverage (>70%), but does not adequately balance feature and unit tests.
+* **Code Quality**: 3.5: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 4: The application is a logical and easy to use implementation of the target application.
 
 #### Jai Misra
 
-GitHub:
-Production:
+GitHub: https://github.com/mrjaimisra/apicurious_scloud<br>
+Production: http://ghostcloud.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 4: Developer delivered all planned features plus 2 extensions.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 1: Project does not have 70% test coverage.
+* **Code Quality**: 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
+* **User Experience**: 4: The application is a logical and easy to use implementation of the target application.
 
 #### Adam Caron
 
-GitHub:
-Production:
+GitHub: http://github.com/adamcaron/api-curious<br>
+Production: http://api-curious.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 3: Developer delivered all planned features.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **User Experience**: 4: The application is a logical and easy to use implementation of the target application.
 
 #### Drew Conly
 
-GitHub:
-Production:
+GitHub: http://github.com/drew242/instapic<br>
+Production: https://api-rture.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 3: Developer delivered all planned features.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **User Experience**: 3.5: The application covers many interactions of the target application, but has a few holes in lesser-used functionality.
 
 #### Mitch Ashby
 
-GitHub:
-Production:
+GitHub: http://github.com/mitchashby16/instapic<br>
+Production: http://instapic-ashby.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 4: Developer delivered all planned features plus 2 extensions.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
+* **Code Quality**: 3.5: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 3.5: The application covers many interactions of the target application, but has a few holes in lesser-used functionality.
 
 #### Samson Brock
 
-GitHub:
-Production:
+GitHub: http://github.com/imwithsam/yo_twit_face<br>
+Production: https://youtwitface.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 4: Developer delivered all planned features plus 2 extensions.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 3: The application covers many interactions of the target application, but has a few holes in lesser-used functionality.
 
 #### Mike Reeves
 
