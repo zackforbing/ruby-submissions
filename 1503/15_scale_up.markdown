@@ -62,3 +62,93 @@ DB has required number of records.
 * 1 - Application lacks creativity in optimizing performance.
 
 #### 5. Additional Features
+
+## Justin
+
+__Repository:__ https://github.com/Justin-Holmes/scale-up
+
+__Instructor:__ Horace
+
+* __Production Deployment & Performance Monitoring__ 4
+* __Load Testing / User Scripting__ 3
+* __Database Load__ yes
+* __Optimization Techniques__ 3
+* __Features - Pagination__ yes
+
+### Vanessa
+
+__Repository:__ https://github.com/vanegomez/scale-up
+
+__Instructor:__ Horace
+
+* __Production Deployment & Performance Monitoring__ 3+
+* __Load Testing / User Scripting__ 3
+* __Database Load__ yes
+* __Optimization Techniques__ 3
+* __Features - Pagination__ yes
+
+Very solid over all, achieves strong response time using simple
+but solid techniques include pagination and some view caching.
+
+Next step would be to zero in on a few of the remaining slow
+queries, especially around the category / loan request
+queries.
+
+### Whitney
+
+__Repository:__ https://github.com/whithub/keevah.git
+
+__Instructor:__ Horace
+
+* Good results - response time is snappy and throughput is solid
+* good mix of caching and DB optimization; pagination saves us on
+index pages
+* Like seeing use of the cache within models and controllers as well
+as in the views; next step is to keep thinking critcally about
+how these different caches are getting layered or nested
+
+* __Production Deployment & Performance Monitoring__ 3
+* __Load Testing / User Scripting__ 4
+* __Database Load__ yes
+* __Optimization Techniques__ 3
+* __Features - Pagination__ yes
+
+## Drew Reynolds
+
+__Repository:__ https://github.com/NYDrewReynolds/scale-up
+
+__Instructor:__ Horace
+
+* Got most of the pieces in place -- pagination, DB seeding, etc
+* Load Script is ~ 75% ; missing a few more actions
+* App is running inconsistently; sometimes perf is looking fine
+but then periodic lockups / memory errors
+* Initial hiccups with seeding process seem to have delayed overall
+project progression
+
+* __Production Deployment & Performance Monitoring__ 3
+* __Load Testing / User Scripting__ 2
+* __Database Load__ yes
+* __Optimization Techniques__ 2
+* __Features - Pagination__ yes
+
+## Max
+
+__Repository:__ https://github.com/maxtedford/scale_up
+
+__Instructor:__ Horace
+
+
+* Good average perf/throughput (150/200ms , 200-300 rpm range)
+* Load script is thorough and covers our bases
+* uses good balance of view caching and basic query optimization
+thanks to pagination
+* Next steps would be to investigate more of the problematic
+queries, especially around categories, and also leverage
+caching more at the data layer
+
+* __Production Deployment & Performance Monitoring__ 3
+* __Load Testing / User Scripting__ 3
+* __Database Load__ yes
+* __Optimization Techniques__ 3
+* __Features - Pagination__ yes
