@@ -1,15 +1,73 @@
-## Template - Student Name
+## Template - Sally MacNicholas
 
-__Repository:__
+__Repository:__github.com/sallymacnicholas/scale_up
 
-__Instructor:__
+__Instructor:__ Andrew
 
 
-* __Production Deployment & Performance Monitoring__ (1-4)
-* __Load Testing / User Scripting__ (1-4)
-* __Database Load__ (1-4)
-* __Optimization Techniques__ (1-4)
-* __Features - Pagination__ yes/no
+* __Production Deployment & Performance Monitoring - 2
+* __Load Testing / User Scripting - 3
+* __Database Load - 3
+* __Optimization Techniques - 2
+* __Features - Pagination__ yes
+
+## Template - Brett Grigsby
+
+__Repository:__github.com/brettgrigsby/scale_up
+
+__Instructor:__Andrew
+
+
+* __Production Deployment & Performance Monitoring__ 3.5 ~ 170 ms 600+ rpm
+* __Load Testing / User Scripting__ 2 one script didn't do what it was supposed to.
+* __Database Load__ 3
+* __Optimization Techniques__ 3
+* __Features - Pagination__ yes
+
+
+## Template - Morgan Miller
+
+__Repository:__ github.com/morganmiller/scale-up
+
+__Instructor:__Andrew
+
+Probably a little generous with these scores. Production wasn't working. Minor optimizations only. Load Script wasn't working because production wasn't working.
+
+* __Production Deployment & Performance Monitoring__ 1
+* __Load Testing / User Scripting__ 2
+* __Database Load__ 2
+* __Optimization Techniques__ 2
+* __Features - Pagination__ yes
+
+
+## Template - Josh Cass
+
+__Repository:__ github.com/joshcass/scale_up
+
+__Instructor:__ Andrew
+
+
+* __Production Deployment & Performance Monitoring__ 4
+* __Load Testing / User Scripting__ 3
+* __Database Load__ 4
+* __Optimization Techniques__ 4
+* __Features - Pagination__ yes
+
+
+## Template - Margarett Ly
+
+__Repository:__github.com/aoli/scale_up
+
+__Instructor:__Andrew
+
+
+* __Production Deployment & Performance Monitoring__ 1.5
+* __Load Testing / User Scripting__ 1
+* __Database Load__ 2 - would have been a 3 if in production
+* __Optimization Techniques__ 1
+* __Features - Pagination__ yes
+
+
 
 ## Detailed Rubric
 
@@ -17,10 +75,10 @@ __Instructor:__
 
 * 4: Average response time below 100ms with 600+ RPM
 * 3: Average response time below 200ms with 400+ RPM
-* 2: Average resposne time below 400ms with 300+ RPM
+* 2: Average response time below 400ms with 300+ RPM
 * 1: Average response time above 400ms, or unable to handle 300 RPM
 
-#### 2. Load Testing / User Scripting
+#### 2. Load Testing / User Scriptinga
 
 * 4: Load testing script exercises all required endpoints and adds 2 or more of its own
 * 3: Load testing script exercises all required endpoints
