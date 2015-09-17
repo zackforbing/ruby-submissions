@@ -211,13 +211,15 @@ GitHub: http://github.com/rmcornell/rales
 
 #### Dave Maurer
 
-GitHub:
+GitHub: www.github.com/davemaurer/rales_engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+was really proud of test coverage. Said he did and felt a lot better about the project this time around.
+
+* **Completion**: 2 - 4 failures, 4 erros.
+* **Test-Driven Development**: 4 - 100 % coverage. Really good work
+* **Code Quality**: 3 - could have had a little more refactoring in favorite_customer and not enough to go on becasue of lack of completeedness.
+* **API Design**: 4
+* **Queries**: 3
 
 #### Jack Yeh
 
