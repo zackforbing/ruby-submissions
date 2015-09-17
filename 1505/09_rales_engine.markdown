@@ -243,13 +243,15 @@ GitHub:
 
 #### Michael Merrill
 
-GitHub:
+GitHub: github.com/michaelkm/rales_engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+Good testing, but had a few errors. Might be due to working with the .yml fixtures. Good use of active record queries but jumped into a few ruby enumerables.
+
+* **Completion**: 3
+* **Test-Driven Development**: 4
+* **Code Quality**: 3
+* **API Design**: 4
+* **Queries**: 3
 
 #### Dmitry Vizersk
 
