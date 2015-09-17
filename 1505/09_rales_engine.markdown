@@ -181,7 +181,7 @@ GitHub: http://github.com/michael-reeves/rales_engine
 
 GitHub: www.github.com/rickbacci/rales_engine2
 
-active record queries were very good. Didn't see much ruby in queries. Code quality was good and code was well refactored. TDD was at bottom rung of a 3 but seemed to test well not in crunch time. Api was set up ok. 
+active record queries were very good. Didn't see much ruby in queries. Code quality was good and code was well refactored. TDD was at bottom rung of a 3 but seemed to test well not in crunch time. Api was set up ok.
 
 * **Completion**: 3 - 5 failures
 * **Test-Driven Development**: 4
@@ -231,13 +231,13 @@ GitHub:
 
 #### Tyler Graham
 
-GitHub:
+GitHub: http://github.com/tgraham777/rales_engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 4: Project completes all base requirements according to the spec harness.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.
 
 #### Michael Merrill
 
