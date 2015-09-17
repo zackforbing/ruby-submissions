@@ -1,4 +1,4 @@
-## Apicurious
+## Rales Engine
 
 ### Eval Template
 
@@ -55,15 +55,15 @@ GitHub:
 
 #### Sebastian Abondano
 
-GitHub: www.github.com/sabondano/rales_engine
+GitHub: http://www.github.com/sabondano/rales_engine
 
 100% completed. 100% test coverage. Added a serializer. Code could have been refactored a little more. A few larger methods. A few spots with ruby in queries.    
 
-* **Completion**: 4
-* **Test-Driven Development**: 4
-* **Code Quality**: 3
-* **API Design**: 4
-* **Queries**: 3
+* **Completion**: 4: Project completes all base requirements according to the spec harness.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
 
 #### David Shim
 
@@ -87,16 +87,15 @@ GitHub: http://github.com/maxmillington/rails_engine
 
 #### Alex Tideman
 
-GitHub: www.github.com/Alex-Tideman/rales_engine
+GitHub: http://www.github.com/Alex-Tideman/rales_engine
 
-great looking code. 100% test coverage. 100% complete. Only 1 ruby method in queries.
+Great looking code. 100% test coverage. 100% complete. Only 1 ruby method in queries.
 
-
-* **Completion**: 4
-* **Test-Driven Development**: 4
-* **Code Quality**: 4
-* **API Design**: 4
-* **Queries**: 4
+* **Completion**: 4: Project completes all base requirements according to the spec harness.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.
 
 #### Lovisa Svallingson
 
@@ -110,13 +109,13 @@ GitHub:
 
 #### Jai Misra
 
-GitHub:
+GitHub: None Presented
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 0
+* **Test-Driven Development**: 0
+* **Code Quality**: 0
+* **API Design**: 0
+* **Queries**: 0
 
 #### Adam Caron
 
@@ -140,13 +139,13 @@ GitHub:
 
 #### Mitch Ashby
 
-GitHub:
+GitHub: http://github.com/mitchashby16/rales-engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.
 
 #### Samson Brock
 
@@ -170,13 +169,13 @@ GitHub:
 
 #### Mike Reeves
 
-GitHub:
+GitHub: http://github.com/michael-reeves/rales_engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.
 
 #### Rick Bacci
 
