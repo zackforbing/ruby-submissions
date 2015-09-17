@@ -166,123 +166,123 @@ Production: https://youtwitface.herokuapp.com
 * **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
 * **User Experience**: 3: The application covers many interactions of the target application, but has a few holes in lesser-used functionality.
 
-#### Michael Dorrance
-
-GitHub:
-Production:
-
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-
 #### Mike Reeves
 
-GitHub:
-Production:
+GitHub: github.com/michael-reeves/octo_kitty
+Production: octo-kitty.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 3
+* **Organization**: 4
+* **Test-Driven Development**: 4
+* **Code Quality**: 4
+* **User Experience**: 4
 
 #### Jason Wright
 
 GitHub:
 Production:
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 0
+* **Organization**: 0
+* **Test-Driven Development**: 0
+* **Code Quality**: 0
+* **User Experience**: 0
 
 #### Rick Bacci
 
-GitHub:
-Production:
+GitHub: github.com/rickbacci/twitter_clone
+Production: twhatever-175.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 3
+* **Organization**: 4
+* **Test-Driven Development**: 3
+* **Code Quality**: 4
+* **User Experience**: 3
 
 #### Erik Butcher
 
-GitHub:
-Production:
+GitHub: github.com/with-a-k/git-gud
+Production: git-gud.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 3
+* **Organization**: 4
+* **Test-Driven Development**: 4
+* **Code Quality**: 3
+* **User Experience**: 2.5
 
 #### Rob Cornell
 
-GitHub:
-Production:
+GitHub: github.com/RMCornell/alchemy
+Production: apicurious-tumblr.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 2
+* **Organization**: 4
+* **Test-Driven Development**: 3 || used an external service so coverage was lower than 80% but the things not tested were used by devise
+* **Code Quality**: 3
+* **User Experience**: 3.5 -> 3
 
 #### Dave Maurer
 
-GitHub:
-Production:
+GitHub: github.com/davemauer/githubber
+Production: git-hubber.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 2
+* **Organization**: 4
+* **Test-Driven Development**: 2
+* **Code Quality**: 3
+* **User Experience**: 2.5
 
 #### Jack Yeh
 
-GitHub:
-Production:
+GitHub: github.com/jxandery/learning-rails-exercism
+Production: learning-rails-exercism.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 3.5
+* **Organization**: 4
+* **Test-Driven Development**: 4
+* **Code Quality**: 4
+* **User Experience**: 4
 
 #### Tyler Graham
 
-GitHub:
-Production:
+GitHub: github.com/tgraham777/git-it-and-quit-it
+Production: git-it-and-quit-it.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 2
+* **Organization**: 4
+* **Test-Driven Development**: 2
+* **Code Quality**: 3
+* **User Experience**: 3
 
 #### Michael Merrill
 
-GitHub:
-Production:
+GitHub: github.com/michaelkm/gramgram
+Production: gramgram.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 3
+* **Organization**: 1
+* **Test-Driven Development**: 1
+* **Code Quality**: 2
+* **User Experience**: 3
 
 #### Dmitry Vizersk
 
-GitHub:
-Production:
+GitHub: github.com/dmitry1007/instabam
+Production: surfiando.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 3
+* **Organization**: 4
+* **Test-Driven Development**: 4
+* **Code Quality**: 4
+* **User Experience**: 4
+
+#### Mike Dorrance
+
+GitHub: github.com/mdorrance/instaclone
+Production: sharefeed.herokuapp.com
+
+* **Completion**: 4
+* **Organization**: 4
+* **Test-Driven Development**: 4
+* **Code Quality**: 4
+* **User Experience**: 3
