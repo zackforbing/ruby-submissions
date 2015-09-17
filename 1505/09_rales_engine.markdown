@@ -57,13 +57,15 @@ GitHub:
 
 #### Sebastian Abondano
 
-GitHub:
+GitHub: www.github.com/sabondano/rales_engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+100% completed. 100% test coverage. Added a serializer. Code could have been refactored a little more. A few larger methods. A few spots with ruby in queries.    
+
+* **Completion**: 4
+* **Test-Driven Development**: 4
+* **Code Quality**: 3
+* **API Design**: 4
+* **Queries**: 3
 
 #### David Shim
 
@@ -87,13 +89,16 @@ GitHub:
 
 #### Alex Tideman
 
-GitHub:
+GitHub: www.github.com/Alex-Tideman/rales_engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+great looking code. 100% test coverage. 100% complete. Only 1 ruby method in queries.
+
+
+* **Completion**: 4
+* **Test-Driven Development**: 4
+* **Code Quality**: 4
+* **API Design**: 4
+* **Queries**: 4
 
 #### Lovisa Svallingson
 
