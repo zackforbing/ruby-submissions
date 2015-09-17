@@ -45,13 +45,13 @@
 
 #### Marla Brizel
 
-GitHub:
+GitHub: https://github.com/marlabrizel/rales-engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 4: Project completes all base requirements according to the spec harness.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
 #### Sebastian Abondano
 
@@ -65,13 +65,13 @@ GitHub:
 
 #### David Shim
 
-GitHub:
+GitHub: https://github.com/dsshim/rales_engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 4: Project completes all base requirements according to the spec harness.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
 
 #### Max Millington
 
@@ -95,13 +95,13 @@ GitHub:
 
 #### Lovisa Svallingson
 
-GitHub:
+GitHub: github.com/applegrain/rales-engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 4: Project completes all base requirements according to the spec harness.
+* **Test-Driven Development**: 3: Project demonstrates high test coverage (>80%) and tests at the controller and unit levels. - BI tests are fragile. Testing just the response code and doesn't test the data given back.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods. -A few BI methods are hairy. Multiple ruby enumerables, but other queries look good.
 
 #### Jai Misra
 
@@ -125,13 +125,13 @@ GitHub:
 
 #### Drew Conly
 
-GitHub:
+GitHub: https://github.com/Drew242/rails_engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 2: Project completes most requirements but fails 10 to 6 spec harness tests. - 7 failures and 3 errors
+* **Test-Driven Development**: 3: Project demonstrates high test coverage (>80%) and tests at the controller and unit levels. - What he had was tested.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+* **Queries**: 2: Project has some gaps in ActiveRecord usage, including numerous business methods that rely on ruby enumerables to find the appropriate data. - Business intelligence isn't implemented. Based the score on this rather then the code implemented. Code implemented is clean.
 
 #### Mitch Ashby
 
@@ -155,13 +155,13 @@ GitHub:
 
 #### Michael Dorrance
 
-GitHub:
+GitHub: https://github.com/mdorrance/Rails_Engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 4: Project completes all base requirements according to the spec harness.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
 #### Mike Reeves
 
@@ -215,13 +215,13 @@ GitHub:
 
 #### Jack Yeh
 
-GitHub:
+GitHub: https://github.com/jxandery/rails-engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+* **Queries**: 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
 
 #### Tyler Graham
 
@@ -245,10 +245,10 @@ GitHub:
 
 #### Dmitry Vizersk
 
-GitHub:
+GitHub: https://github.com/Dmitry1007/rails_engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+* **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
