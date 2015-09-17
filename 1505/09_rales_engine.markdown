@@ -109,17 +109,17 @@ GitHub:
 
 #### Jai Misra
 
-GitHub: None Presented
+GitHub: http://www.github.com/mrjaimisra/rails_engine
 
-* **Completion**: 0
-* **Test-Driven Development**: 0
-* **Code Quality**: 0
-* **API Design**: 0
-* **Queries**: 0
+* **Completion**: 2: Project completes most requirements but fails 10 to 6 spec harness tests.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
+* **API Design**: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+* **Queries**: 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
 
 #### Adam Caron
 
-GitHub: www.github.com/adamcaron/rales_engine
+GitHub: http://www.github.com/adamcaron/rales_engine
 
 * **Completion**: 3
 * **Test-Driven Development**: 4
