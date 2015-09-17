@@ -55,15 +55,15 @@ GitHub:
 
 #### Sebastian Abondano
 
-GitHub: www.github.com/sabondano/rales_engine
+GitHub: http://www.github.com/sabondano/rales_engine
 
 100% completed. 100% test coverage. Added a serializer. Code could have been refactored a little more. A few larger methods. A few spots with ruby in queries.    
 
-* **Completion**: 4
-* **Test-Driven Development**: 4
-* **Code Quality**: 3
-* **API Design**: 4
-* **Queries**: 3
+* **Completion**: 4: Project completes all base requirements according to the spec harness.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
 
 #### David Shim
 
@@ -87,16 +87,15 @@ GitHub: http://github.com/maxmillington/rails_engine
 
 #### Alex Tideman
 
-GitHub: www.github.com/Alex-Tideman/rales_engine
+GitHub: http://www.github.com/Alex-Tideman/rales_engine
 
-great looking code. 100% test coverage. 100% complete. Only 1 ruby method in queries.
+Great looking code. 100% test coverage. 100% complete. Only 1 ruby method in queries.
 
-
-* **Completion**: 4
-* **Test-Driven Development**: 4
-* **Code Quality**: 4
-* **API Design**: 4
-* **Queries**: 4
+* **Completion**: 4: Project completes all base requirements according to the spec harness.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.
 
 #### Lovisa Svallingson
 
