@@ -120,13 +120,13 @@ GitHub:
 
 #### Adam Caron
 
-GitHub:
+GitHub: www.github.com/adamcaron/rales_engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 3
+* **Test-Driven Development**: 4
+* **Code Quality**: 3
+* **API Design**: 4
+* **Queries**: 3
 
 #### Drew Conly
 
@@ -150,13 +150,13 @@ GitHub:
 
 #### Samson Brock
 
-GitHub:
+GitHub: github.com/imwithsam/rales_engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 2.5 - Code was good and well refactored. Everall good project but 4 failures 2 erros
+* **Test-Driven Development**: 4
+* **Code Quality**: 3
+* **API Design**: 4
+* **Queries**: 2
 
 #### Michael Dorrance
 
@@ -180,13 +180,15 @@ GitHub:
 
 #### Rick Bacci
 
-GitHub:
+GitHub: www.github.com/rickbacci/rales_engine2
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+active record queries were very good. Didn't see much ruby in queries. Code quality was good and code was well refactored. TDD was at bottom rung of a 3 but seemed to test well not in crunch time. Api was set up ok. 
+
+* **Completion**: 3 - 5 failures
+* **Test-Driven Development**: 4
+* **Code Quality**:  3
+* **API Design**: 3
+* **Queries**: 4
 
 #### Erik Butcher
 
