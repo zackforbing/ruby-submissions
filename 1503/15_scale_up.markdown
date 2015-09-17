@@ -4,6 +4,9 @@ __Repository:__github.com/sallymacnicholas/scale_up
 
 __Instructor:__ Andrew
 
+* app was up on heroku and was using new relic.
+* Didn't do much besides cacheing. Had two Active record optimizations.
+
 
 * __Production Deployment & Performance Monitoring - 2
 * __Load Testing / User Scripting - 3
@@ -17,9 +20,12 @@ __Repository:__github.com/brettgrigsby/scale_up
 
 __Instructor:__Andrew
 
+* ~ 170 ms 600+ rpm
+* Issue with script method not doing what it was supposed to.
+* Overall good work.
 
-* __Production Deployment & Performance Monitoring__ 3.5 ~ 170 ms 600+ rpm
-* __Load Testing / User Scripting__ 2 one script didn't do what it was supposed to.
+* __Production Deployment & Performance Monitoring__ 3.5
+* __Load Testing / User Scripting__ 2
 * __Database Load__ 3
 * __Optimization Techniques__ 3
 * __Features - Pagination__ yes
