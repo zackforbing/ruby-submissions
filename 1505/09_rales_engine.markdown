@@ -185,13 +185,13 @@ GitHub:
 
 #### Erik Butcher
 
-GitHub:
+GitHub: https://github.com/with-a-k/rale-sale
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 4: Project completes all base requirements according to the spec harness.
+* **Test-Driven Development**: 2: Project demonstrates high test coverage (>70%) but does not adequately balance controller and unit tests.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
 
 #### Rob Cornell
 
