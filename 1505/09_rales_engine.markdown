@@ -109,17 +109,17 @@ GitHub:
 
 #### Jai Misra
 
-GitHub: None Presented
+GitHub: http://www.github.com/mrjaimisra/rails_engine
 
-* **Completion**: 0
-* **Test-Driven Development**: 0
-* **Code Quality**: 0
-* **API Design**: 0
-* **Queries**: 0
+* **Completion**: 2: Project completes most requirements but fails 10 to 6 spec harness tests.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
+* **API Design**: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+* **Queries**: 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
 
 #### Adam Caron
 
-GitHub: www.github.com/adamcaron/rales_engine
+GitHub: http://www.github.com/adamcaron/rales_engine
 
 * **Completion**: 3
 * **Test-Driven Development**: 4
@@ -233,13 +233,13 @@ GitHub:
 
 #### Tyler Graham
 
-GitHub:
+GitHub: http://github.com/tgraham777/rales_engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 4: Project completes all base requirements according to the spec harness.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.
 
 #### Michael Merrill
 
