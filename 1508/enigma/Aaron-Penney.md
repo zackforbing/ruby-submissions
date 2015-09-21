@@ -1,19 +1,12 @@
 Names: Aaron Careaga Penny Garrett
 
-Github: github.com//enigma
+Github: github.com/acareaga/enigma
 
-Notes:
+Notes: tests could be more robust. Example - used a lot of refute or assert instead of assert_equal when appropriate. This was due to some random nature of some of the elements. Could have focused on some more edge cases and different scenarios.
 
 Evaluated By:
 
-Scores:
-
-### 1. Overall Functionality
-
-* 4: Application follows the complete spec and can crack a 100-character message in under 1 second
-* 3: Application encrypts, decrypts, and cracks files as described
-* 2: Application is missing one of the three operations
-* 1: Application is missing two operations or crashes during normal usage
+Scores: 4, 3, 2, 3
 
 ### 2. Fundamental Ruby & Style
 
