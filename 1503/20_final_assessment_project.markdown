@@ -173,6 +173,8 @@ __Evaluation:__
 5. User Interface 3
 6. Javascript (if applicable) N/A
 
+### Morgan
+
 __Student: Morgan Miller
 
 __Instructor: Mike
@@ -199,6 +201,7 @@ __Evaluation:__
 5. User Interface (1-4) 4
 6. Javascript (if applicable) (1-4) 4
 
+### Josh
 
 __Student: Cass
 
@@ -225,3 +228,62 @@ __Evaluation:__
 4. Testing (1-4) 3
 5. User Interface (1-4) 4
 6. Javascript (if applicable) (1-4) 3
+
+### Margarett
+
+__Student:__ Margarett Ly
+
+__Instructor:__ Horace
+
+__Repo:__ https://github.com/margie101/goober
+
+__Production URL:__ https://secret-temple-4587.herokuapp.com/
+
+__Notes:__
+
+* Like the testing -- love seeing good coverage of various UI effects
+from data changes
+* Data modeling is interesting and effective -- figuring out how to
+break the problem into a schema; using 1 table for various user types;
+figuring out user <-> ride relationships
+* Rails view layer still somewhat verbose; possibly could find
+some spots to use partials and/or helper methods to tidy this up
+
+__Evaluation:__
+
+1. Satisfactory Progress 3
+2. Ruby Syntax & Style 3
+3. Rails Style & API 3
+4. Testing 4
+5. User Interface 3
+6. Javascript (if applicable) N/A
+
+### Vanessa
+
+__Student:__ Vanessa
+
+__Instructor:__ Horace
+
+__Repo:__ https://github.com/vanegomez/goober
+
+__Production URL:__ http://goober-pro.herokuapp.com/
+
+__Notes:__
+
+* Testing is strong -- good mix of small granular tests and larger,
+more sweeping tests
+* Nice approach to the data modeling - splitting riders and drivers into
+separate tables and managing that complexity
+* Some room for improvement around managing data lifecycle (e.g and cost
+  calculations) as we're going through various app states
+* Pace still needs to be a little quicker -- didn't quite finish final
+  iteration
+
+__Evaluation:__
+
+1. Satisfactory Progress 2
+2. Ruby Syntax & Style 3
+3. Rails Style & API 3
+4. Testing 3
+5. User Interface 4
+6. Javascript (if applicable) N/A
