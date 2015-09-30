@@ -198,3 +198,30 @@ __Evaluation:__
 4. Testing (1-4) 4
 5. User Interface (1-4) 4
 6. Javascript (if applicable) (1-4) 4
+
+
+__Student: Cass
+
+__Instructor: Mike
+
+__Repo: github.com/joshcass/goober
+
+__Production URL: gooober.herokuapp.com
+
+__Notes:__
+
+* Clean front page
+* ETA extension
+* Estimated Cost
+* live updating
+* 45 tests, 104 assertions 95 percent coverage
+* used a state machine to model trip SUPER COOL.
+
+__Evaluation:__
+
+1. Satisfactory Progress (1-4) 4
+2. Ruby Syntax & Style (1-4) 4
+3. Rails Style & API (1-4) 4
+4. Testing (1-4) 3
+5. User Interface (1-4) 4
+6. Javascript (if applicable) (1-4) 3
