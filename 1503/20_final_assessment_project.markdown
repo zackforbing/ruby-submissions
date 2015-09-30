@@ -172,3 +172,29 @@ __Evaluation:__
 4. Testing 3
 5. User Interface 3
 6. Javascript (if applicable) N/A
+
+__Student: Morgan Miller
+
+__Instructor: Mike
+
+__Repo: github.com/morganmiller/goober
+
+__Production URL: goo-ber.herokuapp.com
+
+__Notes:__
+
+* Nice logo.
+* Bootstrapped - clean
+* Live Updating and ETA supporting features were completed.
+* Project fully completed.
+* 27 tests, 98.33 percent coverage
+* Used React!
+
+__Evaluation:__
+
+1. Satisfactory Progress (1-4) 4
+2. Ruby Syntax & Style (1-4) 3
+3. Rails Style & API (1-4) 4
+4. Testing (1-4) 4
+5. User Interface (1-4) 4
+6. Javascript (if applicable) (1-4) 4
