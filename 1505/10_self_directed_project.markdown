@@ -243,7 +243,7 @@ Production: http://ontarget.herokuapp.com
 Github: http://github.com/with-a-k/roundaroute<br>
 Production: http://roundaroute.herokuapp.com
 
-* **Completion**: Bare minimum of what was set out to be done. Skirting the line of 2 and 3. 3 - Developer completed all the user stories and requirements set by the client.
+* **Completion**: 2 - Developer completed most of the user stories and requirements set by the client.
 * **Organization**: 3 - Developer used a project management tool to keep their project organized.
 * **Test-Driven Development**: 3 - Project shows adequate testing (90% - 95% coverage).
 * **Code Quality**: 3 - Project demonstrates solid code quality and MVC principles.
