@@ -72,15 +72,15 @@ Production:
 
 #### Sebastian Abondano
 
-Github:
-Production:
+Github: github.com/sabondando/episode_hunt
+Production: protected-inlet-4900.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: * 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: * 4 - Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: * 3 - Project shows adequate testing (90% - 95% coverage). - Had 98% coverage but only had one model test. Good testing overall.
+* **Code Quality**: * 3 - Project demonstrates solid code quality and MVC principles.
+* **User Experience**: * 4 - Project exhibits a production-ready and polished UX.
+* **Performance**: * 4 - Project pages load on average under 300 milliseconds.
 
 #### David Shim
 
@@ -123,24 +123,24 @@ Production:
 Github:
 Production:
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: * 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: * 3 - Developer used a project management tool to keep their project organized.
+* **Test-Driven Development**: N/A JavaScript porject. Didnt attempt testing. 
+* **Code Quality**: * 4 - Project demonstrates exceptionally well factored code. - Node app. MVC not applicable
+* **User Experience**: * 4 - Project exhibits a production-ready and polished UX.
+* **Performance**: * ?? 4 - Project pages load on average under 300 milliseconds. Node app. React - did not install performance monitoring tool
 
 #### Jai Misra
 
-Github:
-Production:
+Github: github.com/mrjaimisra/artsup
+Production: artsup.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: * 2 - Developer completed most of the user stories and requirements set by the client.
+* **Organization**: * 4 - Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: * 1 - Project lacks sufficient testing (under 85% coverage).
+* **Code Quality**:* 3 - Project demonstrates solid code quality and MVC principles.
+* **User Experience**: * 2 - Project exhibits some gaps in the UX.
+* **Performance**: Skylight Not installed. 
 
 #### Adam Caron
 
@@ -192,15 +192,15 @@ Production:
 
 #### Michael Dorrance
 
-Github:
-Production:
+Github: github.com/mdorrance/adventurrin
+Production: https://adventurrin.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: * 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: * 4 - Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: * 3 - Project shows adequate testing (90% - 95% coverage).
+* **Code Quality**: * 3 - Project demonstrates solid code quality and MVC principles.
+* **User Experience**: * 4 - Project exhibits a production-ready and polished UX.
+* **Performance**: The api calls are the long waits in this app. UX was compensated with a nice loading page to make sure that the user is aware somethign is happening. On the controllable side times were better and faster. * 2 - Project pages load on average under 500 milliseconds.
 
 #### Mike Reeves
 
@@ -240,15 +240,15 @@ Production:
 
 #### Erik Butcher
 
-Github:
-Production:
+Github: github.com/with-a-k/roundaroute
+Production: roundaroute.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: Bare minimum of what was set out to be done. Skirting the line of 2 and 3. * 3 - Developer completed all the user stories and requirements set by the client.
+* **Organization**: * 3 - Developer used a project management tool to keep their project organized.
+* **Test-Driven Development**: * 3 - Project shows adequate testing (90% - 95% coverage).
+* **Code Quality**: * 3 - Project demonstrates solid code quality and MVC principles.
+* **User Experience**: * 2 - Project exhibits some gaps in the UX.
+* **Performance**: Not installed. 
 
 #### Rob Cornell
 
@@ -300,15 +300,15 @@ Production:
 
 #### Michael Merrill
 
-Github:
-Production:
+Github: github.com/michaelkm/ion
+Production: ionapp.io
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: * 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: * 3 - Developer used a project management tool to keep their project organized.
+* **Test-Driven Development**: * 3 - Project shows adequate testing (90% - 95% coverage).
+* **Code Quality**: * 4 - Project demonstrates exceptionally well factored code.
+* **User Experience**: * 4 - Project exhibits a production-ready and polished UX.
+* **Performance**:Skylight not installed - heroku logs show fast load times. 
 
 #### Dmitry Vizersky
 
