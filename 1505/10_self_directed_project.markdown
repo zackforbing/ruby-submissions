@@ -192,20 +192,8 @@ Production: http://adventurrin.herokuapp.com
 
 #### Mike Reeves
 
-Github:
-Production:
-
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
-
-#### Jason Wright
-
-Github:
-Production:
+Github: **NONE PRESENTED**<br>
+Production: **NONE PRESENTED**
 
 * **Completion**:
 * **Organization**:
@@ -276,7 +264,7 @@ Production: http://group-tindering.herokuapp.com
 
 #### Tyler Graham
 
-Github: https://github.com/tgraham777/stock_watcher
+Github: https://github.com/tgraham777/stock_watcher<br>
 Production: http://stock-watcher.herokuapp.com
 
 * **Completion**: 3 - Developer completed all the user stories and requirements set by the client.
@@ -300,7 +288,7 @@ Production: http://ionapp.io
 
 #### Dmitry Vizersky
 
-Github: (Private Bitbucket respository)
+Github: (Private Bitbucket respository)<br>
 Production: http://surf-engine.herokuapp.com
 
 * **Completion**: 3 - Developer completed all the user stories and requirements set by the client.
