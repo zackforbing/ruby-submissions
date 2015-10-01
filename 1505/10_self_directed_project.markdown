@@ -60,15 +60,15 @@ Production:
 
 #### Marla Brizel
 
-Github:
-Production:
+Github: https://github.com/marlabrizel/runcast
+Production: http://runcast.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4 - Project shows exceptional use of testing at different layers (above 95% coverage).
+* **Code Quality**: 3 - Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 3 - Project exhibits a production-ready user experience.
+* **Performance**: 4 - Project pages load on average under 300 milliseconds.
 
 #### Sebastian Abondano
 
@@ -96,27 +96,27 @@ Production:
 
 #### Max Millington
 
-Github:
-Production:
+Github: https://github.com/MaxMillington/meal-finder
+Production: http://mealfinder.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 3 - Project shows adequate testing (90% - 95% coverage).
+* **Code Quality**: 3 - Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 3 - Project exhibits a production-ready user experience.
+* **Performance**: 4 - Project pages load on average under 300 milliseconds.
 
 #### Alex Tideman
 
 Github:
-Production:
+Production: https://be-effortful.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 3 - Developer used a project management tool to keep their project organized.
+* **Test-Driven Development**: 4 - Project shows exceptional use of testing at different layers (above 95% coverage).
+* **Code Quality**: 3 - Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 3 - Project exhibits a production-ready user experience.
+* **Performance**: 4 - Project pages load on average under 300 milliseconds.
 
 #### Lovisa Svallingson
 
@@ -183,12 +183,12 @@ Production:
 Github:
 Production:
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 3 - Developer completed all the user stories and requirements set by the client.
+* **Organization**: 3 - Developer used a project management tool to keep their project organized.
+* **Test-Driven Development**: 4 - Project shows exceptional use of testing at different layers (above 95% coverage).
+* **Code Quality**: 3 - Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 3 - Project exhibits a production-ready user experience.
+* **Performance**: 3 - Project pages load on average under 400 milliseconds.
 
 #### Michael Dorrance
 
@@ -228,8 +228,8 @@ Production:
 
 #### Rick Bacci
 
-Github:
-Production:
+Github: https://github.com/RickBacci/ontarget
+Production: https://ontarget.herokuapp.com/projects
 
 * **Completion**:
 * **Organization**:
@@ -288,15 +288,15 @@ Production:
 
 #### Tyler Graham
 
-Github:
-Production:
+Github: https://github.com/tgraham777/stock_watcher
+Production: http://stock-watcher.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 3 - Developer completed all the user stories and requirements set by the client.
+* **Organization**: 3 - Developer used a project management tool to keep their project organized.
+* **Test-Driven Development**: 4 - Project shows exceptional use of testing at different layers (above 95% coverage).
+* **Code Quality**: 3 - Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 3 - Project exhibits a production-ready user experience.
+* **Performance**: 3 - Project pages load on average under 400 milliseconds.
 
 #### Michael Merrill
 
@@ -312,12 +312,12 @@ Production:
 
 #### Dmitry Vizersky
 
-Github:
-Production:
+Github: (Bitbucket)
+Production: http://surf-engine.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 3 - Developer completed all the user stories and requirements set by the client.
+* **Organization**: 4 - Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4 - Project shows exceptional use of testing at different layers (above 95% coverage).
+* **Code Quality**: 3 - Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 3 - Project exhibits a production-ready user experience.
+* **Performance**: 4 - Project pages load on average under 300 milliseconds.
