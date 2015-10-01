@@ -96,7 +96,7 @@ Production: http://mealfinder.herokuapp.com
 
 #### Alex Tideman
 
-Github:
+Github: https://github.com/Alex-Tideman/effortful<br>
 Production: https://be-effortful.herokuapp.com
 
 * **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
@@ -168,8 +168,8 @@ Production: http://mood-music-ashby.herokuapp.com
 
 #### Samson Brock
 
-Github:
-Production:
+Github: https://github.com/imwithsam/walk_this_way<br>
+Production: http://walk-this-way.herokuapp.com
 
 * **Completion**: 3 - Developer completed all the user stories and requirements set by the client.
 * **Organization**: 3 - Developer used a project management tool to keep their project organized.
@@ -300,7 +300,7 @@ Production: http://ionapp.io
 
 #### Dmitry Vizersky
 
-Github: (Bitbucket)
+Github: (Private Bitbucket respository)
 Production: http://surf-engine.herokuapp.com
 
 * **Completion**: 3 - Developer completed all the user stories and requirements set by the client.
