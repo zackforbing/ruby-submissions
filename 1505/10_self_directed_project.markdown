@@ -46,18 +46,6 @@
 
 ### Evaluations
 
-#### Vanessa Gomez
-
-Github:
-Production:
-
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
-
 #### Marla Brizel
 
 Github:
