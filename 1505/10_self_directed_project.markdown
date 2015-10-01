@@ -108,8 +108,8 @@ Production:
 
 #### Lovisa Svallingson
 
-Github:
-Production:
+Github: http://github.com/applegrain/PDC<br>
+Production: http://public-data-compiler.herokuapp.com
 
 * **Completion**: 4 - Developer completed all the user stories and requirements set by the client in timely manner.
 * **Organization**: 3 - Developer used a project management tool to keep their project organized.
