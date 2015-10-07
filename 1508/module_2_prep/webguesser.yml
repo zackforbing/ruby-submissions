@@ -26,8 +26,8 @@ submissions:
     repo: https://github.com/rossedfort/web_guesser
     url:
   Marlo Major:
-    repo:
-    url:
+    repo: web_guesser
+    url:https://github.com/marlomajor/web_guesser
   Jill Donohue:
     repo:
     url:
