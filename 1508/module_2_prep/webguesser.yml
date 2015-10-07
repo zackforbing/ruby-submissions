@@ -50,8 +50,8 @@ submissions:
     repo: Web-Guesser
     url: https://github.com/MattRooney/Web-Guesser
   Edgar Duran:
-    repo:
-    url:
+    repo: web_guesser
+    url: https://github.com/edgarduran/web_guesser
   Emily Dowdle:
     repo: https://github.com/emilydowdle/web_guesser
     url:
