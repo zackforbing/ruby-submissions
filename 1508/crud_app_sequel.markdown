@@ -1,0 +1,47 @@
+submissions:
+  Tyler Komoroske:
+    repo: 
+  Chad Minnerath:
+    repo: 
+  Nicole Hall:
+    repo: 
+  Torie Warren:
+    repo: 
+  Jhun de Andres:
+    repo:  
+  Pat Wey:
+    repo: 
+  Aaron Careaga:
+    repo: 
+  Ross Edfort:
+    repo: 
+  Marlo Major:
+    repo:
+  Jill Donohue:
+    repo:
+  Amber Crawford:
+    repo: 
+  Ryan Johnson:
+    repo: 
+  Sekhar Paladugu:
+    repo: 
+  Jason Pilz:
+    repo: 
+  Matt Stjernholm:
+    repo: 
+  Matt Rooney:
+    repo: 
+  Edgar Duran:
+    repo:
+  Emily Dowdle:
+    repo: 
+  Charissa Lawrence:
+    repo: 
+  Robbie Lane:
+    repo: 
+  Shannon Paige:
+    repo:
+  John Slota:
+    repo: 
+  Rebekah Sosa:
+    repo:  
