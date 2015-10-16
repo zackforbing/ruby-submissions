@@ -18,7 +18,7 @@ submissions:
     repo:https://github.com/ChrisCenatie/mastermind
     notes: HankHankHank
   Mimi Schatz:
-    repo:
+    repo: https://github.com/mcschatz/mastermind/blob/master/mastermind.rb
     notes:
   Ryan Asensio:
     repo:https://github.com/rasensio1/mastermind
