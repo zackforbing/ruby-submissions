@@ -12,8 +12,8 @@ submissions:
     repo: https://github.com/mbburch/mastermind
     notes:
   Alon Waisman:
-    repo:
-    notes:
+    repo: git@github.com:MowAlon/mastermind.git
+    notes: not done, but functional with what's there
   Chris Cenatiempo:
     repo:https://github.com/ChrisCenatie/mastermind
     notes: HankHankHank
