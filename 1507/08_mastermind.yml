@@ -32,8 +32,8 @@ submissions:
   Regis Boudinot:
     repo:
     notes:
-  Adam Jensen:https://github.com/adamki/mastermind-challenge
-    repo:
+  Adam Jensen:
+    repo:https://github.com/adamki/mastermind-challenge
     notes:
   Jeff Ruane:
     repo:
