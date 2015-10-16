@@ -23,9 +23,9 @@ submissions:
   Ryan Asensio:
     repo:https://github.com/rasensio1/mastermind
     notes: Boom
-  Michael Wong:
-    repo:
-    notes:
+  Michael Wong: 
+    repo: https://github.com/Kealii/mastermind
+    notes: Works except for telling you how many you have right already.
   Matt Ewell:
     repo: https://github.com/plato721/mastermind.git
     notes:
