@@ -51,8 +51,8 @@ submissions:
     repo: https://github.com/MattRooney/task-manager
     url:
   Edgar Duran:
-    repo:
-    url:
+    repo:task-manager
+    url:https://github.com/edgarduran/task-manager
   Emily Dowdle:
     repo: https://github.com/emilydowdle/task_manager
     url:
