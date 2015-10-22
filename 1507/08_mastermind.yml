@@ -1,12 +1,12 @@
 submissions:
   Bret Doucette:
-    repo:
-    notes:
+    repo: https://github.com/bad6e/mastermind
+    notes: Had it working with only one guess - in the process of tearing it apart into separate files 
   Travis Haby:
     repo: https://github.com/travishaby/mastermind
     notes: works if you guess the right answer. position count works correctly, but number of correct characters isnt working correctly. edge cases for improper forms of input are not accounted for
   Rose Kohn:
-    repo:
+    repo:https://github.com/roseak/mastermind
     notes:
   Mary Beth Burch:
     repo: https://github.com/mbburch/mastermind
@@ -30,7 +30,7 @@ submissions:
     repo: https://github.com/plato721/mastermind.git
     notes:
   Regis Boudinot:
-    repo:
+    repo: https://github.com/selfup/mastermind
     notes:
   Adam Jensen:
     repo:https://github.com/adamki/mastermind-challenge
@@ -48,11 +48,11 @@ submissions:
     repo:
     notes:
   Jerrod Paul Junker:
-    repo:
+    repo: https://github.com/Unsafepond/Mastermind/tree/master/Documents/Turing/3module/classwork/mastermind
     notes:
   David Stinnette:
-    repo:
-    notes:
+    repo: https://github.com/dastinnette/mastermind
+    notes: It ain't pretty, but it was fun. Apparently I need to relearn how to Ruby good.
   Justin Holzmann:
     repo: https://github.com/jphoenix86/mastermind
     notes:
