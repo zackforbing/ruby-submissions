@@ -51,8 +51,8 @@ submissions:
     repo:
     notes:
   David Stinnette:
-    repo:
-    notes:
+    repo: https://github.com/dastinnette/mastermind
+    notes: It ain't pretty, but it was fun. Apparently I need to relearn how to Ruby good.
   Justin Holzmann:
     repo: https://github.com/jphoenix86/mastermind
     notes:
