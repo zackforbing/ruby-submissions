@@ -6,7 +6,7 @@ submissions:
     repo: https://github.com/travishaby/mastermind
     notes: works if you guess the right answer. position count works correctly, but number of correct characters isnt working correctly. edge cases for improper forms of input are not accounted for
   Rose Kohn:
-    repo:
+    repo:https://github.com/roseak/mastermind
     notes:
   Mary Beth Burch:
     repo: https://github.com/mbburch/mastermind
