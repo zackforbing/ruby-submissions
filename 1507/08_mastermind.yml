@@ -1,7 +1,7 @@
 submissions:
   Bret Doucette:
-    repo:
-    notes:
+    repo: https://github.com/bad6e/mastermind
+    notes: Had it working with only one guess - in the process of tearing it apart into separate files 
   Travis Haby:
     repo: https://github.com/travishaby/mastermind
     notes: works if you guess the right answer. position count works correctly, but number of correct characters isnt working correctly. edge cases for improper forms of input are not accounted for
