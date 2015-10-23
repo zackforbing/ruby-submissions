@@ -93,7 +93,9 @@ Scores:
 
 Group: Michael & Jerrod & Travis
 
-Assessed By:
+Assessed By: Josh M
+
+Demo: No
 
 GitHub:
 
@@ -101,20 +103,26 @@ Production Link:
 
 Notes:
 
+* While the scores below seem to imply a weak project, the scores were a result of taking risks and challenging skill level. The team's skills are better as a result and this should be taken into account during portfolio reviews.
+* Pushing boundries of comfort level with jQuery. Attempting things more complicated than the other projects I assessed.
+* Styling could use more work.
+* jQuery cart is a good start but the interface needs polish. Some prices are using dollars and others are using cents. Email sent is not complete.
+* Good code quality and use of POROs
+
 Scores:
 
-* Feature Completeness
-* Views
-* Controllers
-* Models
-* Testing
-* Usability
-* Workflow
-
+* Completion: 2
+* Organization: 4
+* Progress: 3
+* Test-Driven Development: 2
+* Code Quality: 3
+* User Experience: 2
 
 Group: Justin & Matt & Stanley
 
-Assessed By:
+Assessed By: Josh M
+
+Demo: Yes
 
 GitHub:
 
@@ -122,54 +130,64 @@ Production Link:
 
 Notes:
 
+* Solid project with good code quality.
+* Implemented OAuth with Github
+* Solid testing with the exception of OAuth related requests
+
 Scores:
 
-* Feature Completeness
-* Views
-* Controllers
-* Models
-* Testing
-* Usability
-* Workflow
+* Completion: 4
+* Organization: 4
+* Progress: 3
+* Test-Driven Development: 3
+* Code Quality: 3
+* User Experience: 3
 
 
 Group: Ryan & Jason & Alon
 
-Assessed By:
-
+Assessed By: Josh M.
+Demo: Maybe
 GitHub:
-
 Production Link:
 
 Notes:
 
+* Implemented custom watermarks for each store.
+* Added ability to download multiple photos by zipping them
+* Overall solid project. Didn't put much effort into the front end. It used the same styles from the previous project.
+
 Scores:
 
-* Feature Completeness
-* Views
-* Controllers
-* Models
-* Testing
-* Usability
-* Workflow
+### Feature Delivery
 
+* Completion:  4
+* Organization: 4
+* Progress: 4
+* Test-Driven Development: 3+
+* Code Quality: 3
+* User Experience: 2
 
 Group: David & George & Chris
 
-Assessed By:
-
+Assessed By: Josh M
+Demo: Maybe
 GitHub:
-
 Production Link:
 
 Notes:
 
+* 155 tests with Great test coverage. Only 1 line not tested and it was a call to Twilio.
+* Nice use of POROs.
+* Controllers were really clean
+* Twilio integration
+* Some nice use of jQuery
+
 Scores:
 
-* Feature Completeness
-* Views
-* Controllers
-* Models
-* Testing
-* Usability
-* Workflow
+* Completion: 3
+* Organization: 3
+* Progress: 3
+* Test-Driven Development: 4
+* Code Quality: 3
+* User Experience: 3
