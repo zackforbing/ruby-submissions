@@ -71,16 +71,16 @@ submissions:
 submissions:
    Aaron, Pat, Tyler:
      repository:
-     setup_notes:
+     setup_notes: one issue with sending payloads at first. Problem solved id should be identifier.
      instructor_evaluation:
-       notes:
+       notes: One issue - mentioned above - Views are clean and contain no logic. Server(controller) is really clean. Great use of poros. Error page can be more specific to the issue.
       rubric:
-        Functional Expectations:
-        TestDriven Development:
-        Encapsulation / Components:
-        Fundamental Ruby & Style:
-        Sinatra / Web and Business Logic:
-        View Layer:
+        Functional Expectations: 3
+        TestDriven Development: 3
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style: 4
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3
 
 submissions:
    Chad, Matt, John:
