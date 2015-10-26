@@ -84,28 +84,28 @@ submissions:
 
 submissions:
    Chad, Matt, John:
-     repository:
+     repository: www.github.com/mattrooney/traffic-spy
      setup_notes:
      instructor_evaluation:
-       notes:
+       notes: Controller has more logic than desirable. Particularly "get "/sources/:identifier/events/:event_name"". Logic could have been separated more with POROS. Too many instance vairables in the controller, but no logic in views. Needs to utilize more active record. Too much ruby enumerables.
       rubric:
-        Functional Expectations:
-        TestDriven Development:
-        Encapsulation / Components:
-        Fundamental Ruby & Style:
-        Sinatra / Web and Business Logic:
-        View Layer:
+        Functional Expectations: 3
+        TestDriven Development: 2
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3
 
 submissions:
    Matt, Ryan:
-     repository:
-     setup_notes:
+     repository: www.github.com/rjohnson4444/traffic-spy-skeleton
+     setup_notes: issue with error page because of merge conflict. Fixed.
      instructor_evaluation:
-       notes:
+       notes: Overall good work. Server(controller) could be a little skinnier but made good use of POROs. Testing was good too, make sure to test all AR models for validations. Continue to TDD. Be careful of nameing variables. Be a little more robust with feature tests - click through some functionality. Great use of scoping feature tests. 
       rubric:
-        Functional Expectations:
-        TestDriven Development:
-        Encapsulation / Components:
-        Fundamental Ruby & Style:
-        Sinatra / Web and Business Logic:
-        View Layer:
+        Functional Expectations: 3
+        TestDriven Development: 3
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style: 4
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3
