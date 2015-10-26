@@ -56,17 +56,17 @@ submissions:
 
 submissions:
    Ross, Nicole, Sekhar:
-     repository:
+     repository: git@github.com:rossedfort/src_traffic_spy.git
      setup_notes:
      instructor_evaluation:
-       notes:
+       notes: Some views are instantiating new objects within them. Need to pull out logic down the stack. Only on one page - so score is still 3 but should be aware it's not good practice. Scores for views and business logic are threes, but were close to twos because of the business logic in views.
       rubric:
-        Functional Expectations:
-        TestDriven Development:
-        Encapsulation / Components:
-        Fundamental Ruby & Style:
-        Sinatra / Web and Business Logic:
-        View Layer:
+        Functional Expectations: 3
+        TestDriven Development: 3
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3
 
 submissions:
    Aaron, Pat, Tyler:
