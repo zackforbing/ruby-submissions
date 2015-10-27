@@ -5,26 +5,26 @@ submissions:
      instructor_evaluation:
        notes:
       rubric:
-        Functional Expectations:
-        TestDriven Development:
-        Encapsulation / Components:
-        Fundamental Ruby & Style:
-        Sinatra / Web and Business Logic:
-        View Layer:
+        Functional Expectations: 3
+        TestDriven Development: 3.5
+        Encapsulation / Components: 2.5
+        Fundamental Ruby & Style: 2.5
+        Sinatra / Web and Business Logic: 3
+        View Layer: 3
 
 submissions:
    Amber, Jill, Jason:
      repository:
      setup_notes:
      instructor_evaluation:
-       notes:
+       notes: "full functionality + two extensions; good use of parser objects; good separation of web and business logic; would like to see fewer instance variables sent to views"
       rubric:
-        Functional Expectations:
-        TestDriven Development:
-        Encapsulation / Components:
-        Fundamental Ruby & Style:
-        Sinatra / Web and Business Logic:
-        View Layer:
+        Functional Expectations: 4
+        TestDriven Development: 3
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3.5
+        View Layer: 3.5
 
 submissions:
    Emily Marlo, Charissa:
@@ -33,26 +33,26 @@ submissions:
      instructor_evaluation:
        notes:
       rubric:
-        Functional Expectations:
-        TestDriven Development:
-        Encapsulation / Components:
-        Fundamental Ruby & Style:
-        Sinatra / Web and Business Logic:
-        View Layer:
+        Functional Expectations: 2
+        TestDriven Development: 2
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 2.5
+        Sinatra / Web and Business Logic: 3
+        View Layer: 2.5
 
 submissions:
    Robbie, Torie:
      repository:
      setup_notes:
      instructor_evaluation:
-       notes:
+       notes: 'json + http basic auth extensions; all base functionality but something weird happening with event breakdown by hour;'
       rubric:
-        Functional Expectations:
-        TestDriven Development:
-        Encapsulation / Components:
-        Fundamental Ruby & Style:
-        Sinatra / Web and Business Logic:
-        View Layer:
+        Functional Expectations: 3.5
+        TestDriven Development: 3.5
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3.5
+        View Layer: 3.5
 
 submissions:
    Ross, Nicole, Sekhar:
