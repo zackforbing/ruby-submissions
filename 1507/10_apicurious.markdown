@@ -135,14 +135,14 @@ Production: http://gitflexions.herokuapp.com
 
 #### Alon Waisman
 
-GitHub:
-Production:
+GitHub: https://github.com/MowAlon/twitter_bootleg<br>
+Production: https://mowalons-twitter-bootleg.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 4: Developer delivered all planned features plus 2 extensions.
+* **Organization**: 2: Developer used a project management tool but didn't update the progress frequently.
+* **Test-Driven Development**: 3: Project demonstrates high test coverage (>80%), tests at feature and unit levels, but relies on external services.
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **User Experience**: 3.5: The application covers many interactions of the target application, but has a few holes in lesser-used functionality.
 
 #### Jerrod Paul Junker
 
@@ -157,14 +157,14 @@ Production:
 
 #### Mimi Schatz
 
-GitHub:
-Production:
+GitHub: https://github.com/mcschatz/chatterboxes<br>
+Production: http://chatterboxes.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 4: Developer delivered all planned features plus 2 extensions.
+* **Organization**: 1: Developer failed to use a project management tool to track its progress.
+* **Test-Driven Development**: 3: Project demonstrates high test coverage (>80%), tests at feature and unit levels, but relies on external services.
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **User Experience**: 2: The application shows effort in the interface, but the result is not effective.
 
 #### George Hudson
 
