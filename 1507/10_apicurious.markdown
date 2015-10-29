@@ -102,25 +102,25 @@ Production:
 
 #### Ryan Asensio
 
-GitHub:
-Production:
+GitHub: https://github.com/rasensio1/github-mock<br>
+Production: http://gitsum21.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 3: Developer delivered all planned features.
+* **Organization**: 1: Developer failed to use a project management tool to track its progress.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 3: The application covers many interactions of the target application, but has a few holes in lesser-used functionality.
 
 #### Michael Wong
 
-GitHub:
-Production:
+GitHub: https://github.com/Kealii/API-Curious<br>
+Production: http://api-curious-wong.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 3: Developer delivered all planned features.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 3: Project demonstrates high test coverage (>80%), tests at feature and unit levels, but relies on external services.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 3: The application covers many interactions of the target application, but has a few holes in lesser-used functionality.
 
 #### Matt Ewell
 
