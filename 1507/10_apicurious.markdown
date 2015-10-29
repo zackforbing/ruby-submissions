@@ -124,14 +124,14 @@ Production: http://api-curious-wong.herokuapp.com
 
 #### Matt Ewell
 
-GitHub:
-Production:
+GitHub: https://github.com/plato721/api-curious<br>
+Production: http://gitflexions.herokuapp.com
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 3: Developer delivered all planned features.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
+* **Code Quality**: 2.5: Project demonstrates some gaps in code quality and/or application of MVC principles.
+* **User Experience**: 3.5: The application covers many interactions of the target application, but has a few holes in lesser-used functionality.
 
 #### Alon Waisman
 
