@@ -50,11 +50,11 @@
 GitHub: https://github.com/jbrr/apicurious<br>
 Production: https://jbrr-apicurious.herokuapp.com/
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 3: Developer delivered all planned features.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **User Experience**: 3: The application covers many interactions of the target application, but has a few holes in lesser-used functionality.
 
 #### Rose Kohn
 
