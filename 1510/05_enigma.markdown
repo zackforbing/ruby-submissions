@@ -155,4 +155,56 @@ __Scores:__
 3. TDD __(1 - 4)__3
 4. Breaking Logic Into Components __(1 - 4)__4
 
+## Steve
 
+__Instructor:__ Horace
+
+__Repository:__ https://github.com/stevepentler/enigma
+
+__Comments:__
+
+* base functionality for decrypt and encrypt is solid; not quite there on cracking
+* Follows prescribed interface pretty closely
+* Good number of tests that seem to be organized fairly evenly according to objects/
+responsibility
+* Overall ruby structure is getting pretty solid
+* Enumerables still need a little work -- watch especially for map / reduce
+patterns when you see repeated array modifications
+* method extraction is good; watch for naming to generally represent
+the value that the method generates
+
+__Scores:__
+
+1. Overall Functionality __2__
+2. Fundamental Ruby & Style __3__
+3. TDD __3__
+4. Breaking Logic Into Components __3__
+5. Enumerable & Collections __3__
+
+## Lenny
+
+__Instructor:__ Horace
+
+__Repository:__ https://github.com/TheObtuseAutodidact/enigma
+
+__Comments:__
+
+* Base functionality is all there and seems solid
+* 28 tests; seem to be spread across various objects; probably
+could use a few more, but overall volume is ok
+* Lots of opportunities remain to use some more sophisticated enumerables
+* Watch especially for the map pattern (make empty array, then iteratively
+push onto the array)
+* In general we can trim a lot of the methods by relying on enumerables to
+generate new values rather than having to reassign variables at each step
+* Some of the methods are getting long and could use some extraction
+* Watch out for "magic numbers" hanging out -- would like to keep putting
+semantic names on these
+
+__Scores:__
+
+1. Overall Functionality __3__
+2. Fundamental Ruby & Style __3__
+3. TDD __3__
+4. Breaking Logic Into Components __3__
+5. Enumerable & Collections __3__
