@@ -1,7 +1,7 @@
 submissions:
   Tyler Komoroske:
-    repo: 
-    checkpoint 1 sha:
+    repo: https://github.com/tjkomor/contact_manager
+    checkpoint 1 sha: 27084ed8e1da700a386f4441b36079cc4dc79c40
     checkpoint 2 sha:
     checkpoint 3 sha:
   Chad Minnerath:
@@ -10,8 +10,8 @@ submissions:
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Nicole Hall:
-    repo:
-    checkpoint 1 sha:
+    repo: https://github.com/NicoleHall/Contact-Manager
+    checkpoint 1 sha: 890e3ac
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Torie Joy-Warren:
@@ -25,13 +25,13 @@ submissions:
     checkpoint 2 sha:
     checkpoint 3 sha:  
   Pat Wey:
-    repo:
-    checkpoint 1 sha:
+    repo: https://github.com/patwey/contact_manager
+    checkpoint 1 sha: 4cfd56c3a5b6c54a79634612163a95704bdb2825
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Aaron Careaga:
-    repo:
-    checkpoint 1 sha:
+    repo: https://github.com/acareaga/contact-manager
+    checkpoint 1 sha: 88a26a7ced219a807546e30f75efbd040afaa165
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Ross Edfort:
@@ -50,8 +50,8 @@ submissions:
     checkpoint 2 sha:
     checkpoint 3 sha:
   Amber Crawford:
-    repo:
-    checkpoint 1 sha:
+    repo: https://github.com/amcrawford/contact-manager
+    checkpoint 1 sha:b223f89997e04cb30b97cd7a23581c1f7d9ab1f1
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Ryan Johnson:
@@ -65,28 +65,28 @@ submissions:
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Jason Pilz:
-    repo:
-    checkpoint 1 sha:
+    repo: https://github.com/jasonpilz/ContactManager.git
+    checkpoint 1 sha: ae5b012b904f4c2044e09988aa9979ffbd5d05a1
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Matt Stjernholm:
-    repo:
-    checkpoint 1 sha:
+    repo: https://github.com/matt-stj/contact_manager
+    checkpoint 1 sha: a8c814a
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Matt Rooney:
-    repo:
-    checkpoint 1 sha:
+    repo: https://github.com/MattRooney/contact-manager
+    checkpoint 1 sha: ac89e978ff714d9ae8b1036830bc7ecc6df9e6c2
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Edgar Duran:
     repo:
-    checkpoint 1 sha:
+    checkpoint 1 sha: 
     checkpoint 2 sha:
     checkpoint 3 sha:
   Emily Dowdle:
-    repo:
-    checkpoint 1 sha:
+    repo: https://github.com/emilydowdle/contact_manager
+    checkpoint 1 sha: 7cd78ee1366f1f5d78758cf1fc25d194d1cc5404
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Charissa Lawrence:
@@ -94,10 +94,10 @@ submissions:
     checkpoint 1 sha:
     checkpoint 2 sha:
     checkpoint 3 sha: 
-  Robbie Lane:
-    repo:
-    checkpoint 1 sha:
-    checkpoint 2 sha:
+  Robbie Lane: 
+    repo: https://github.com/robbielane/contact_manager
+    checkpoint 1 sha: bea8f0235d6699e1a5c2861bff0023c65b747f5a
+    checkpoint 2 sha: c2fc827e0259b7d4f1622d7f2bf5f698ebedeaf1
     checkpoint 3 sha: 
   Shannon Paige:
     repo:
