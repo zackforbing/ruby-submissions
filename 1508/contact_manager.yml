@@ -105,7 +105,7 @@ submissions:
     checkpoint 2 sha:
     checkpoint 3 sha: 
   John Slota:
-    repo:
-    checkpoint 1 sha:
+    repo:https://github.com/slotaj/contact_manager
+    checkpoint 1 sha: 0dd62b802f207f713b1c7eccc7cfd9cf5509ba26
     checkpoint 2 sha:
     checkpoint 3 sha: 
