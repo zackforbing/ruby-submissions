@@ -35,8 +35,8 @@ submissions:
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Ross Edfort:
-    repo:
-    checkpoint 1 sha:
+    repo: https://github.com/rossedfort/contact_manager
+    checkpoint 1 sha: 4421c8d9d05c01b7ac53950ae90e3c77c382e08c
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Marlo Major:
