@@ -30,8 +30,8 @@ submissions:
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Aaron Careaga:
-    repo:
-    checkpoint 1 sha:
+    repo: https://github.com/acareaga/contact-manager
+    checkpoint 1 sha: 88a26a7ced219a807546e30f75efbd040afaa165
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Ross Edfort:
