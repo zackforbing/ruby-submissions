@@ -60,8 +60,8 @@ submissions:
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Sekhar Paladugu:
-    repo:
-    checkpoint 1 sha:
+    repo: https://github.com/sekharp/contact-manager.git
+    checkpoint 1 sha: c5c5a5e3a2f6f93de619c12e8070edb69b4f0d22
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Jason Pilz:
