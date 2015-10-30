@@ -15,8 +15,8 @@ submissions:
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Torie Joy-Warren:
-    repo:
-    checkpoint 1 sha:
+    repo: https://github.com/toriejw/contact-manager
+    checkpoint 1 sha: 8a1ddf8cede1547fdee75af0c7a627b296ade573
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Jhun de Andres:
