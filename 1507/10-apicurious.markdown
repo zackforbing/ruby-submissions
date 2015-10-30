@@ -168,112 +168,66 @@ Production: http://chatterboxes.herokuapp.com
 * **Code Quality**: 4: Project demonstrates exceptionally well factored code.
 * **User Experience**: 2: The application shows effort in the interface, but the result is not effective.
 
-#### George Hudson
+#### George
 
-GitHub:
-Production:
-
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Features:** 2
+* **Interface:** 3
+* **Test-Driven Development: 4
+* **Server-Side Application and APIs: 3
 
 #### Chris Cenatiempo
 
-GitHub:
-Production:
-
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Features:** 3
+* **Interface:** 4
+* **Test-Driven Development:** 3
+* **Server-Side Application and APIs:** 3
 
 #### Adam Jensen
 
-GitHub:
-Production:
-
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Features:** 3
+* **Interface:** 4+
+* **Test-Driven Development:** 3
+* **Server-Side Application and APIs:** 3
 
 #### Regis Boudinot
 
-GitHub:
-Production:
-
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Features:** 3
+* **Interface:** 3
+* **Test-Driven Development:** 4
+* **Server-Side Application and APIs:** 4
 
 #### Bret Doucette
 
-GitHub:
-Production:
-
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Features:** 4
+* **Interface:** 4
+* **Test-Driven Development:** 4
+* **Server-Side Application and APIs:** 3
 
 #### Matt Hecker
 
-GitHub:
-Production:
-
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Features:** 4
+* **Interface:** 4
+* **Test-Driven Development:** 4
+* **Server-Side Application and APIs:** 3
 
 #### Justin Holzmann
 
-GitHub:
-Production:
-
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-
-#### David Stinnette
-
-GitHub:
-Production:
-
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Features:** 4
+* **Interface:** 3
+* **Test-Driven Development:** 4
+* **Server-Side Application and APIs:** 4
 
 #### Jason Wright
 
-GitHub:
-Production:
-
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Features:** 3
+* **Interface:** 4
+* **Test-Driven Development:** 3
+* **Server-Side Application and APIs:** 3
 
 #### Stanley Siudzinski
 
-GitHub:
-Production:
+* **Features:** 4
+* **Interface:** 4
+* **Test-Driven Development:** 4
+* **Server-Side Application and APIs:** 3
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
