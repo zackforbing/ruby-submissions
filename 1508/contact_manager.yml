@@ -50,8 +50,8 @@ submissions:
     checkpoint 2 sha:
     checkpoint 3 sha:
   Amber Crawford:
-    repo:
-    checkpoint 1 sha:
+    repo: https://github.com/amcrawford/contact-manager
+    checkpoint 1 sha:b223f89997e04cb30b97cd7a23581c1f7d9ab1f1
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Ryan Johnson:
