@@ -98,7 +98,7 @@ submissions:
     repo: https://github.com/robbielane/contact_manager
     checkpoint 1 sha: bea8f0235d6699e1a5c2861bff0023c65b747f5a
     checkpoint 2 sha: c2fc827e0259b7d4f1622d7f2bf5f698ebedeaf1
-    checkpoint 3 sha: 
+    checkpoint 3 sha: 2cd69a0de81ae52750c6b8829f1296841e3b9069
   Shannon Paige:
     repo: https://github.com/ShannonPaige/contact_manager
     checkpoint 1 sha: 953172bc2f0c369cb67f0b51bb556c6d7972a2f1
