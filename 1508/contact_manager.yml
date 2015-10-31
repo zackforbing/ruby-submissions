@@ -20,8 +20,8 @@ submissions:
     checkpoint 2 sha:
     checkpoint 3 sha: 
   Jhun de Andres:
-    repo:
-    checkpoint 1 sha:
+    repo:https://github.com/joshuajhun/contact-manager-
+    checkpoint 1 sha:commit dc59ec0c5ebaaaa239f00350fb567c95531d5783
     checkpoint 2 sha:
     checkpoint 3 sha:  
   Pat Wey:
