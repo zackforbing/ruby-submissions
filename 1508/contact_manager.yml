@@ -67,7 +67,7 @@ submissions:
   Jason Pilz:
     repo: https://github.com/jasonpilz/ContactManager.git
     checkpoint 1 sha: ae5b012b904f4c2044e09988aa9979ffbd5d05a1
-    checkpoint 2 sha:
+    checkpoint 2 sha: 15b0f74cae9b63740624ae0614dd58d2f47cf8e5
     checkpoint 3 sha: 
   Matt Stjernholm:
     repo: https://github.com/matt-stj/contact_manager
