@@ -102,7 +102,7 @@ submissions:
   Shannon Paige:
     repo: https://github.com/ShannonPaige/contact_manager
     checkpoint 1 sha: 953172bc2f0c369cb67f0b51bb556c6d7972a2f1
-    checkpoint 2 sha:
+    checkpoint 2 sha: 51869d162712feaafc7fee280b3df18dab157433
     checkpoint 3 sha: 
   John Slota:
     repo:https://github.com/slotaj/contact_manager
