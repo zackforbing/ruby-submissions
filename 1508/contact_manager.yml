@@ -72,7 +72,7 @@ submissions:
   Matt Stjernholm:
     repo: https://github.com/matt-stj/contact_manager
     checkpoint 1 sha: a8c814a
-    checkpoint 2 sha:
+    checkpoint 2 sha: a76cb7b
     checkpoint 3 sha: 
   Matt Rooney:
     repo: https://github.com/MattRooney/contact-manager
