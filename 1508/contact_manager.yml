@@ -40,8 +40,8 @@ submissions:
     checkpoint 2 sha: 3721e97eec65c4a6b008cc62952c7e345c932fd6
     checkpoint 3 sha: 
   Marlo Major:
-    repo:
-    checkpoint 1 sha:
+    repo: http://github.com/marlomajor/contact_manager
+    checkpoint 1 sha: 42d42c271396545c7a563ee8374a87f7b34086bf
     checkpoint 2 sha:
     checkpoint 3 sha:
   Jill Donohue:
