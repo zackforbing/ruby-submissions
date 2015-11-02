@@ -56,8 +56,8 @@ submissions:
     checkpoint 3 sha: 
   Ryan Johnson:
     repo:
-    checkpoint 1 sha:
-    checkpoint 2 sha:
+    checkpoint 1 sha: 9d06e41
+    checkpoint 2 sha: 35f6a33
     checkpoint 3 sha: 
   Sekhar Paladugu:
     repo: https://github.com/sekharp/contact-manager.git
