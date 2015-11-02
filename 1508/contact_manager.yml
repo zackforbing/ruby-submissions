@@ -82,7 +82,7 @@ submissions:
   Edgar Duran:
     repo:https://github.com/edgarduran/contact_manager
     checkpoint 1 sha: 96caea8271d4cbd4526b046c98937543e2dc442f
-    checkpoint 2 sha:
+    checkpoint 2 sha: 08f3cf34dfe3a0a4c6890091db69ca49e2d5e6f0
     checkpoint 3 sha:
   Emily Dowdle:
     repo: https://github.com/emilydowdle/contact_manager
