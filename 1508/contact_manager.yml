@@ -45,9 +45,9 @@ submissions:
     checkpoint 2 sha:
     checkpoint 3 sha:
   Jill Donohue:
-    repo:
-    checkpoint 1 sha:
-    checkpoint 2 sha:
+    repo: https://github.com/jillmd501/Contact-Manager
+    checkpoint 1 sha: c61b2efb6122cbee9ec28deefa4094026f0e4408
+    checkpoint 2 sha: 4fa9732ac362c3390d3ea904bf6335a3717c18c5
     checkpoint 3 sha:
   Amber Crawford:
     repo: https://github.com/amcrawford/contact-manager
