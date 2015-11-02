@@ -62,7 +62,7 @@ submissions:
   Sekhar Paladugu:
     repo: https://github.com/sekharp/contact-manager.git
     checkpoint 1 sha: c5c5a5e3a2f6f93de619c12e8070edb69b4f0d22
-    checkpoint 2 sha: 2a9058a54cab42aa9efc6ef843b8358bcbdf6754
+    checkpoint 2 sha: 90a9b24564d875b9115d52aad50305d495389424
     checkpoint 3 sha: 
   Jason Pilz:
     repo: https://github.com/jasonpilz/ContactManager.git
