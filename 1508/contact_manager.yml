@@ -78,7 +78,7 @@ submissions:
     repo: https://github.com/MattRooney/contact-manager
     checkpoint 1 sha: ac89e978ff714d9ae8b1036830bc7ecc6df9e6c2
     checkpoint 2 sha:
-    checkpoint 3 sha: 
+    checkpoint 3 sha: 9f68282dd677070f3fb2c9b2910fc3d1e48e9463
   Edgar Duran:
     repo:https://github.com/edgarduran/contact_manager
     checkpoint 1 sha: 96caea8271d4cbd4526b046c98937543e2dc442f
