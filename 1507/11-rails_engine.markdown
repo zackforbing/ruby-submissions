@@ -55,11 +55,11 @@ Production:
 GitHub:
 Production:
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 4: Project completes all base requirements according to the spec harness.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+* **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
 #### Russell Harms
 
@@ -77,11 +77,11 @@ Production:
 GitHub:
 Production:
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 4: Project completes all base requirements according to the spec harness.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+* **Queries**: 3+: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
 
 #### Travis Haby
 
@@ -104,27 +104,28 @@ Production:
 * **Code Quality**:
 * **API Design**:
 * **Queries**:
+
 #### Michael Wong
 
 GitHub:
 Production:
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 4: Project completes all base requirements according to the spec harness.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
 
 #### Matt Ewell
 
 GitHub:
 Production:
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 3+: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
 
 #### Alon Waisman
 
@@ -175,22 +176,22 @@ Production:
 GitHub:
 Production:
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 2: Project completes most requirements but fails 10 to 6 spec harness tests.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **API Design**: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+* **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
 #### Adam Jensen
 
 GitHub:
 Production:
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
+* **Test-Driven Development**: 2: Project demonstrates high test coverage (>70%) but does not adequately balance controller and unit tests. (85% but lacking robustness)
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
 #### Regis Boudinot
 
@@ -208,22 +209,22 @@ Production:
 GitHub:
 Production:
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+* **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
 #### Matt Hecker
 
 GitHub:
 Production:
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **API Design**: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+* **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
 #### Justin Holzmann
 
@@ -241,11 +242,11 @@ Production:
 GitHub:
 Production:
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+* **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
 #### Stanley Siudzinski
 
