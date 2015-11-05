@@ -95,14 +95,14 @@ GitHub: https://github.com/travishaby/rails-engine
 
 #### Ryan Asensio
 
-GitHub:
-Production:
+GitHub: https://github.com/rasensio1/rails_engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 4: Project completes all base requirements according to the spec harness.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 3.5: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
+
 #### Michael Wong
 
 GitHub:
@@ -137,14 +137,13 @@ GitHub: https://github.com/MowAlon/rails_engine
 
 #### Jerrod Paul Junker
 
-GitHub:
-Production:
+GitHub: https://github.com/Unsafepond/rails-engine-api
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 1: Project fails more than 10 spec harness tests.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+* **Queries**: 2: Project has some gaps in ActiveRecord usage, including numerous business methods that rely on ruby enumerables to find the appropriate data.
 
 #### Mimi Schatz
 
