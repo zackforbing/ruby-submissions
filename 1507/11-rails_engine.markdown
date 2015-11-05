@@ -127,14 +127,13 @@ Production:
 
 #### Alon Waisman
 
-GitHub:
-Production:
+GitHub: https://github.com/MowAlon/rails_engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 4: Project completes all base requirements according to the spec harness.
+* **Test-Driven Development**: 3.5: Project demonstrates high test coverage (>80%) and tests at the controller and unit levels.
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
 
 #### Jerrod Paul Junker
 
@@ -158,7 +157,7 @@ Production:
 * **API Design**:
 * **Queries**:
 
-#### George
+#### George Hudson
 
 GitHub:
 Production:
