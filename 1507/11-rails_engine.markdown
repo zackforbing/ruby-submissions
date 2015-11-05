@@ -61,13 +61,13 @@ GitHub:
 
 #### Russell Harms
 
-GitHub:
+GitHub: https://github.com/russelleh/railsengine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
+* **Test-Driven Development**: 3: Project demonstrates high test coverage (>80%) and tests at the controller and unit levels.
+* **Code Quality**: 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
 #### Mary Beth Burch
 
