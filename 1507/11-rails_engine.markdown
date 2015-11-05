@@ -42,7 +42,6 @@
 #### Jeff Ruane
 
 GitHub:
-Production:
 
 * **Completion**:
 * **Test-Driven Development**:
@@ -53,7 +52,6 @@ Production:
 #### Rose Kohn
 
 GitHub:
-Production:
 
 * **Completion**:
 * **Test-Driven Development**:
@@ -64,7 +62,6 @@ Production:
 #### Russell Harms
 
 GitHub:
-Production:
 
 * **Completion**:
 * **Test-Driven Development**:
@@ -75,7 +72,6 @@ Production:
 #### Mary Beth Burch
 
 GitHub:
-Production:
 
 * **Completion**:
 * **Test-Driven Development**:
@@ -106,7 +102,6 @@ GitHub: https://github.com/rasensio1/rails_engine
 #### Michael Wong
 
 GitHub:
-Production:
 
 * **Completion**:
 * **Test-Driven Development**:
@@ -117,7 +112,6 @@ Production:
 #### Matt Ewell
 
 GitHub:
-Production:
 
 * **Completion**:
 * **Test-Driven Development**:
@@ -168,7 +162,6 @@ GitHub: https://github.com/Egogre/rails_engine
 #### Chris Cenatiempo
 
 GitHub:
-Production:
 
 * **Completion**:
 * **Test-Driven Development**:
@@ -179,7 +172,6 @@ Production:
 #### Adam Jensen
 
 GitHub:
-Production:
 
 * **Completion**:
 * **Test-Driven Development**:
@@ -200,7 +192,6 @@ GitHub: https://github.com/selfup/rails-engine
 #### Bret Doucette
 
 GitHub:
-Production:
 
 * **Completion**:
 * **Test-Driven Development**:
@@ -211,7 +202,6 @@ Production:
 #### Matt Hecker
 
 GitHub:
-Production:
 
 * **Completion**:
 * **Test-Driven Development**:
@@ -232,7 +222,6 @@ GitHub: https://github.com/jphoenix86/rails_engine
 #### Jason Wright
 
 GitHub:
-Production:
 
 * **Completion**:
 * **Test-Driven Development**:
