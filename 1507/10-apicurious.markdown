@@ -146,16 +146,14 @@ Production: https://mowalons-twitter-bootleg.herokuapp.com
 
 #### Jerrod Paul Junker
 
-PENDING
+GitHub: https://github.com/Unsafepond/API-curious<br>
+Production: https://notwitter-api-curious.herokuapp.com
 
-GitHub:
-Production:
-
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
+* **Completion**: 4: Developer delivered all planned features plus 2 extensions.
+* **Organization**: 1: Developer failed to use a project management tool to track its progress.
+* **Test-Driven Development**: 1: Project does not have 70% test coverage.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 1.5: The application is confusing or difficult to use.
 
 #### Mimi Schatz
 
@@ -230,4 +228,3 @@ Production: http://chatterboxes.herokuapp.com
 * **Interface:** 4
 * **Test-Driven Development:** 4
 * **Server-Side Application and APIs:** 3
-
