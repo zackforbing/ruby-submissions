@@ -222,14 +222,13 @@ Production:
 
 #### Justin Holzmann
 
-GitHub:
-Production:
+GitHub: https://github.com/jphoenix86/rails_engine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 4: Project completes all base requirements according to the spec harness.
+* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+* **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
 
 #### Jason Wright
 
@@ -244,11 +243,10 @@ Production:
 
 #### Stanley Siudzinski
 
-GitHub:
-Production:
+GitHub: https://github.com/SSgoldwater/railsengine
 
-* **Completion**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **API Design**:
-* **Queries**:
+* **Completion**: 1: Project fails more than 10 spec harness tests.
+* **Test-Driven Development**: 1: Project does not have 70% test coverage.
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **API Design**: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+* **Queries**: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
