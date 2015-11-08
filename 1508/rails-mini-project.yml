@@ -26,18 +26,15 @@ submissions:
   Marlo Major:
     repo:
     Heroku url: 
-  Jill Donohue:
-    repo:
-    Heroku url: 
   Amber Crawford:
     repo:
     Heroku url:  
   Ryan Johnson:
     repo:
     Heroku url:  
-  Sekhar Paladugu:
-    repo:
-    Heroku url:  
+  Sekhar Paladugu & Jill Donohue:
+    repo: https://github.com/sekharp/ideabox
+    Heroku url: https://quiet-escarpment-7744.herokuapp.com/login
   Jason Pilz:
     repo:
     Heroku url:  
