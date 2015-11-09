@@ -29,7 +29,7 @@ __Notes:__
 just needs to combine them to bring performance up, or time down.
 
 
-1. __Production Deployment and Performance Monitoring:__ (1 - 4): 1
+1. __Production Deployment and Performance Monitoring:__ (1 - 4): 2+
 2. __Load Testing / User Scripting:__ (1 - 4): 3
 3. __Database Load:__ (1 - 4) 3
 4. __Performance Optimization Techniques:__ (1 - 4) 2
@@ -80,18 +80,46 @@ Custom pages.
 4. __Performance Optimization Techniques:__ (1 - 4): 2-
 5. __Additional Features:__ (1 - 4): 1
 
-### Template
+### David Shim
 
-__Instructor:__
+__Instructor:__ Mike
 
-__Repo:__
+__Repo:__ http://github.com/dsshim/keevah
 
 __Notes:__
 
-1. __Production Deployment and Performance Monitoring:__ (1 - 4)
-2. __Load Testing / User Scripting:__ (1 - 4)
-3. __Database Load:__ (1 - 4)
-4. __Performance Optimization Techniques:__ (1 - 4)
-5. __Additional Features:__ (1 - 4)
+* at almost 600 rpm, 95 ms.
+* load script and one extra endpoint
+* Fixed related projects.
+* Cached categories.
+* Cached all static pages.
+* There were some additional "optimizations" that actually slowed performance
+and then removed.
+
+1. __Production Deployment and Performance Monitoring:__ (1 - 4): 4
+2. __Load Testing / User Scripting:__ (1 - 4): 3+
+3. __Database Load:__ (1 - 4): 3
+4. __Performance Optimization Techniques:__ (1 - 4): 4
+5. __Additional Features:__ (1 - 4): 4
 
 
+### Alex Tideman
+
+__Instructor:__Mike
+
+__Repo:__ http://github.com/alex-tideman/keevah
+
+__Notes:__
+
+* 225ms at 300 rpm
+* related projects was cached
+* good use of database queries
+* could have cached database counts, and looked for opportunities to create
+and cache static pages
+
+
+1. __Production Deployment and Performance Monitoring:__ (1 - 4) 3
+2. __Load Testing / User Scripting:__ (1 - 4): 3
+3. __Database Load:__ (1 - 4): 3
+4. __Performance Optimization Techniques:__ (1 - 4): 3
+5. __Additional Features:__ (1 - 4) 4
