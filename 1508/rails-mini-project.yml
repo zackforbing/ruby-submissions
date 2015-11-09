@@ -8,9 +8,6 @@ submissions:
   Nicole Hall:
     repo:
     Heroku url:  
-  Torie Joy-Warren:
-    repo:
-    Heroku url:  
   Jhun de Andres:
     repo:
     Heroku url:  
@@ -30,8 +27,8 @@ submissions:
     repo:
     Heroku url:  
   Ryan Johnson:
-    repo:
-    Heroku url:  
+    repo: https://github.com/toriejw/gif-generator
+    Heroku url: https://immense-savannah-4332.herokuapp.com/
   Sekhar Paladugu & Jill Donohue:
     repo: https://github.com/sekharp/ideabox
     Heroku url: https://quiet-escarpment-7744.herokuapp.com/login
