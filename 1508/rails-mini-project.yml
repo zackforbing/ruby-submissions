@@ -35,12 +35,9 @@ submissions:
   Sekhar Paladugu & Jill Donohue:
     repo: https://github.com/sekharp/ideabox
     Heroku url: https://quiet-escarpment-7744.herokuapp.com/login
-  Jason Pilz:
-    repo:
-    Heroku url:  
-  Matt Stjernholm:
-    repo:
-    Heroku url:  
+  Jason Pilz & Matt Stjernholm:
+    repo: https://github.com/jasonpilz/GifGenerator
+    Heroku url:  https://stormy-ravine-2256.herokuapp.com/
   Matt Rooney:
     repo:
     Heroku url:  
