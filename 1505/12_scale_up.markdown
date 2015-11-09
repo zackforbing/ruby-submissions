@@ -123,3 +123,108 @@ and cache static pages
 3. __Database Load:__ (1 - 4): 3
 4. __Performance Optimization Techniques:__ (1 - 4): 3
 5. __Additional Features:__ (1 - 4) 4
+
+### Jai
+
+__Instructor:__ Horace
+
+__Repo:__ https://github.com/mrjaimisra/keevah
+
+* Good improvements over baseline -- got app into runnable state
+* Overall resp time still in the 400 - 500 ms range
+* Load script is covering all the pages we need
+* Seeing some mix of caching and a little bit of query tinkering;
+still left a few "problem" actions with large remaining optimizations
+that could be done
+
+1. __Production Deployment and Performance Monitoring:__ 2
+2. __Load Testing / User Scripting:__ 3
+3. __Database Load:__ 3
+4. __Performance Optimization Techniques:__ 2
+5. __Additional Features:__ 3
+
+### Adam
+
+__Instructor:__ Horace
+
+__Repo:__ https://github.com/adamcaron/scale-up
+
+* Developed some tools and techniques
+* Good mix of optimization techniques; some markup caching; some
+data caching to help out with slow pagination counts
+* Would have been cool to see this same technique extended to the category
+pages, which would probably have made a large difference in overall app
+performance
+
+1. __Production Deployment and Performance Monitoring:__ 3
+2. __Load Testing / User Scripting:__ 3
+3. __Database Load:__ 3
+4. __Performance Optimization Techniques:__ 3
+5. __Additional Features:__ 3
+
+### Max
+
+__Instructor:__ Horace
+
+__Repo:__ https://github.com/MaxMillington/scale-up
+
+* Overall perf is quite solid even with a few lower-hanging items
+still on the table; did a good job alleviating the expensive COUNT
+queries involved in the pagination
+* Good combo of caching techniques -- data cache and counter cache column
+to alleviate large table counts; some refactoring to avoid expensive
+ruby iteration
+* Fragment caching is used liberally throughout, although may be proving
+overly effective since we're only hitting certain pages of loan requests
+* Would have been interesting to see the load script distributing load more
+widely across pages; talked about ways to mirror load to realistic production
+traffic
+
+1. __Production Deployment and Performance Monitoring:__ 3
+2. __Load Testing / User Scripting:__ 3
+3. __Database Load:__ 3
+4. __Performance Optimization Techniques:__ 4
+5. __Additional Features:__ 3
+
+### Sam
+
+__Instructor:__ Horace
+
+__Repo:__ https://github.com/imwithsam/scale_up
+
+* Overall perf is quite solid; lots of throughput coming through
+* Good to see that the "tricky" / "slow" pages are actually filtering
+to the bottom of the list showing that we optimized them pretty effectively
+* Got a good mix of some AR tricks, some fragment caching, and a bit of data
+caching
+* Pagination is implemented and load script seems to be thoroughly exercising
+various endpoints
+
+1. __Production Deployment and Performance Monitoring:__ 3
+2. __Load Testing / User Scripting:__ 3
+3. __Database Load:__ 3
+4. __Performance Optimization Techniques:__ 3
+5. __Additional Features:__ 3
+
+### Dmitry
+
+__Instructor:__ Horace
+
+__Repo:__ https://github.com/Dmitry1007/keevah
+
+* Getting comfortable with various techniques at a basic level -- some
+view caching, removing slow queries, fixing N+1's, etc
+* Would like to see some more targeted caching around important
+app data
+* Would like to see more diligent attention to preserving existing
+functionality (e.g. related loan requests - how can we keep these coming
+from the same category; pagination -- how can we cache the counts on categories
+and loan request so we don't have to `COUNT(*)` from big tables each time)
+* Overall perf and throughput is in a good range
+
+1. __Production Deployment and Performance Monitoring:__ 3
+2. __Load Testing / User Scripting:__ 3
+3. __Database Load:__ 3
+4. __Performance Optimization Techniques:__ 3
+5. __Additional Features:__ 3
+
