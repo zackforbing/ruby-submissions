@@ -248,7 +248,7 @@ Scores:
 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 
-Group: Daniel Winer and Brennan Holtzclaw
+Group: Daniel Winter and Brennan Holtzclaw
 
 Assessed By: Mike
 
@@ -260,6 +260,22 @@ Notes:
 * some opportunities to refactor for clarity
 * very light testing, needs to cover common edge cases, did not drive development.
 * extraneous files in repo
+  
+1. Overall Functionality
+
+3: Application implements four iterations
+
+2. Fundamental Ruby & Style
+
+3: Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+
+3. Test-Driven Development
+
+1: Application does not demonstrate strong use of TDD
+
+4. Breaking Logic into Components
+
+3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 ## JP & Steve O
 
