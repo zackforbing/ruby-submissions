@@ -1,19 +1,3 @@
-## Template
-
-__Instructor:__
-
-__Repository:__
-
-__Comments:__
-
-__Scores:__
-
-1. Functional Expectations __(1 - 4)__
-2. TDD __(1 - 4)__
-3. Ruby Style & Fundamentals __(1 - 4)__
-4. Encapsulation / Breaking Logic Into Components __(1 - 4)__
-5. Enumerable & Collections __(1 - 4)__
-
 ## Hector
 
 __Instructor:__ Horace
@@ -134,3 +118,115 @@ __Scores:__
 3. Ruby Style & Fundamentals __4__
 4. Encapsulation / Breaking Logic Into Components __4__
 5. Enumerable & Collections __3__
+
+## Steve Olsen
+
+__Instructor:__ Jeff
+
+__Repository:__
+
+__Comments:__
+
+* 55 examples all pass
+* Test and implementation in one file each, consider breaking up
+* Tests have a good arc of difficulty but sometimes I lose the plot of what's happening
+* Implementation is clean and shows good knowledge of Ruby, but in spots is trying to be too clever
+
+__Scores:__
+
+1. Functional Expectations __3__
+2. TDD __3__
+3. Ruby Style & Fundamentals __4__
+4. Encapsulation / Breaking Logic Into Components __3__
+5. Enumerable & Collections __4__
+
+## Aaron Greenspan
+
+__Instructor:__ Jeff
+
+__Repository:__
+
+__Comments:__
+
+* 78 tests, all pass
+* Tests are well constructed and form a worthwhile progression/story
+* Implementation of normal lookup is good, easy to read
+* Implementation of reverse search is neat
+
+__Scores:__
+
+1. Functional Expectations __4__
+2. TDD __4__
+3. Ruby Style & Fundamentals __4__
+4. Encapsulation / Breaking Logic Into Components __3__
+5. Enumerable & Collections __4__
+
+## Beth Sebian
+
+__Instructor:__ Jeff
+
+__Repository:__
+
+__Comments:__
+
+* Passes spec harness
+* Passes 26 internal tests
+* Don't load all the data in tests
+* Some tests know too much about the implementation -- separate thinking like you separate logic from implementation
+* Implementation shows good technical understanding
+* Ease back from ternaries :)
+
+__Scores:__
+
+1. Functional Expectations __3__
+2. TDD __3__
+3. Ruby Style & Fundamentals __3__
+4. Encapsulation / Breaking Logic Into Components __3__
+5. Enumerable & Collections __3__
+
+## Dan Winter
+
+__Instructor:__ Jeff
+
+__Repository:__
+
+__Comments:__
+
+* Passes spec harness
+* One implementation is normal, one caches all the child words for speed
+* 12 internal tests
+* Some tests need to broken apart
+* Overall testing takes big leaps and needs to take more steps
+* Implementation needs some refactoring for style, but clarity is ok
+* Look for opportunities to create abstractions with both methods and classes
+* Able to match on the internal fragments
+
+__Scores:__
+
+1. Functional Expectations __4__
+2. TDD __3__
+3. Ruby Style & Fundamentals __4__
+4. Encapsulation / Breaking Logic Into Components __3__
+5. Enumerable & Collections __3__
+
+## Beth Secor
+
+__Instructor:__ Jeff
+
+__Repository:__
+
+__Comments:__
+
+* Spec harness passes
+* 32 internal tests all passing
+* Good Ruby knowledge and implementation
+* Look for opportunities to extract functionality out into classes/methods/etc
+* Looks good
+
+__Scores:__
+
+1. Functional Expectations __3__
+2. TDD __3__
+3. Ruby Style & Fundamentals __4__
+4. Encapsulation / Breaking Logic Into Components __3__
+5. Enumerable & Collections __4__
