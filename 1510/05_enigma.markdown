@@ -1,19 +1,3 @@
-## Template
-
-__Instructor:__
-
-__Repository:__
-
-__Comments:__
-
-__Scores:__
-
-1. Overall Functionality __(1 - 4)__
-2. Fundamental Ruby & Style __(1 - 4)__
-3. TDD __(1 - 4)__
-4. Breaking Logic Into Components __(1 - 4)__
-5. Enumerable & Collections __(1 - 4)__
-
 ## Alexis Navarrete
 
 __Instructor:__ Mike
@@ -208,3 +192,38 @@ __Scores:__
 3. TDD __3__
 4. Breaking Logic Into Components __3__
 5. Enumerable & Collections __3__
+
+## Penney Garrett
+
+__Instructor:__ Jeff
+
+__Repository:__
+
+__Comments:__
+
+* 45 tests, all pass
+* Watch out for relying on the current date in tests
+* Good tests on the Encrypt side, also Decrypt
+* Implementation code is clean and easy to understand
+* Overall really good
+
+__Scores:__
+
+1. Overall Functionality: 4
+2. Fundamental Ruby & Style: 4
+3. TDD 4
+4. Breaking Logic Into Components: 3
+5. Enumerable & Collections: 3
+
+## Emily Blanchard
+
+__Instructor:__ Jeff
+
+__Repository:__
+
+__Comments:__
+
+* 13 tests, they pass
+* Implementation works after following a Cheek tutorial/video
+* Learned a lot from help/support
+* Use next week's project to judge whether Headcount will be worthwhile or whether to go for more of a tutorial/remediation approach
