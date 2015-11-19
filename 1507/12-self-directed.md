@@ -123,31 +123,31 @@ Notes: Some functionality was missing. Improved UX since last checkin. Used a sp
 
 #### Travis Haby & Mimi Schatz
 
-Github:
-Notes:
+Github: N/A <br>
+Notes: Good implementation. Good error catching for parsed files.
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* **Code Quality**: 3.5: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 3: Project exhibits a production-ready user experience.
+* **Performance**: 4: Project pages load on average under 300 milliseconds.
 
 #### Mary Beth Burch & George Hudson
 
-Github:
-Notes:
+Github: N/A <br>
+Notes: Good use of JavaScript. Polling data to update views. Clean abstractions.
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **User Experience**: 3.5: Project exhibits a production-ready user experience.
+* **Performance**: 4: Project pages load on average under 300 milliseconds.
 
 #### Jeff Ruane & Chris Cenatiempo
 
-Github: N/A
+Github: N/A <br>
 Notes: They learned Angular for this project to increase the technical difficulty.
 
 * **Completion**: 4: Developer completed all the user stories and requirements set by the client in timely manner.
