@@ -2,12 +2,6 @@
 
 You'll be graded on each of the criteria below with a score of (1) well below expectations, (2) below expectations, (3) as expected, (4) better than expected.
 
-* **Completion**: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
-* **Test-Driven Development**: 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
-* **Code Quality**: 3.5: Project demonstrates solid code quality and MVC principles.
-* **API Design**: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
-* **Queries**: 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
-
 ### Feature Delivery
 
 **1. Completion**
@@ -72,15 +66,16 @@ Notes: Really good effort. App looks quite polished. They surpassed expectations
 
 #### Russell Harms
 
-Github:
-Notes:
+Github: https://bitbybit-1507.herokuapp.com <br>
+Production: https://github.com/russelleh/bitbybit <br>
+Notes: Some bugs needed to be ironed out.
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 2: Developer completed most of the user stories and requirements set by the client.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* **Code Quality**: 3.5: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 4: Project exhibits a production-ready and polished UX.
+* **Performance**: 3: Project pages load on average under 400 milliseconds.
 
 #### Rose Kohn
 
