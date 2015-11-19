@@ -146,15 +146,15 @@ Notes:
 
 #### Jeff Ruane & Chris Cenatiempo
 
-Github:
-Notes:
+Github: N/A
+Notes: They learned Angular for this project to increase the technical difficulty.
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **User Experience**: 3.5: Project exhibits a production-ready user experience.
+* **Performance**: 3: Project pages load on average under 400 milliseconds.
 
 #### Ryan Asensio
 
