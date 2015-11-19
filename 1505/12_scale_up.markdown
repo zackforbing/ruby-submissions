@@ -228,3 +228,61 @@ and loan request so we don't have to `COUNT(*)` from big tables each time)
 4. __Performance Optimization Techniques:__ 3
 5. __Additional Features:__ 3
 
+### Marla
+
+__Instructor:__ Tess
+
+__Repo:__ https://github.com/marlabrizel/scale-up
+
+__Notes:__ Great use of puma on production. Got as much out of the free Heroku instance as you could. 
+
+1. __Production Deployment and Performance Monitoring:__ 4
+2. __Load Testing / User Scripting:__ 3
+3. __Database Load:__ 3
+4. __Performance Optimization Techniques:__ 4
+5. __Additional Features:__ 4
+
+### Sebastian
+
+__Instructor:__ Tess
+
+__Repo:__ https://github.com/sabondano/keevah
+
+__Notes:__ 
+
+* Overall a solid project. 
+* Hits all of the required endpoints
+* Because of pagination, would rather see random pages being hit instead of just the first one. 
+
+1. __Production Deployment and Performance Monitoring:__ 4
+2. __Load Testing / User Scripting:__ 3
+3. __Database Load:__ 3
+4. __Performance Optimization Techniques:__ 3
+5. __Additional Features:__ 3
+
+
+### Lovisa
+
+__Instructor:__ Tess
+
+__Repo:__ https://github.com/applegrain/scale-up
+
+1. __Production Deployment and Performance Monitoring:__ 3
+2. __Load Testing / User Scripting:__ 4
+3. __Database Load:__ 3
+4. __Performance Optimization Techniques:__ 3
+5. __Additional Features:__ 3
+
+### Ricky
+
+__Instructor:__ Tess
+
+__Repo:__ https://github.com/RickBacci/keevah
+
+* Would have loved to see for browse if other than the first page was hit due to pagination
+
+1. __Production Deployment and Performance Monitoring:__ 3
+2. __Load Testing / User Scripting:__ 3
+3. __Database Load:__ 3
+4. __Performance Optimization Techniques:__ 3
+5. __Additional Features:__ 3
