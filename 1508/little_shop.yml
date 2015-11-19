@@ -1,0 +1,13 @@
+Jhun, Ryan, Charissa:
+  repository:
+  setup_notes:
+  instructor_evaluation:
+    notes: "bugs / inconsistent behavior through user and admin experience, check duplicated headers/footers, like to see PORO to handle order creation (push logic down the stack), remove admin logic from regular controllers, mostly good test coverage -- a little lite on model tests, check robustness of tests to ensure tests catch bugs/missing features"
+    rubric:
+      Feature Completeness: 1.5
+      Views: 3
+      Controllers: 3
+      Models: 3
+      Testing: 3
+      Usability: 1.5
+      Workflow: 4
