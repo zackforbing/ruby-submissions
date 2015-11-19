@@ -155,19 +155,19 @@ Notes: They learned Angular for this project to increase the technical difficult
 #### Ryan Asensio
 
 Github:
-Notes:
+Notes: Solid project. Shows really good effort into splitting things into small classes. Controllers were mostly well factored. A couple small pieces of logic that could have been moved into classes. Good understanding of Rails architecture and how to use APIs along with AJAX.
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 3: Project shows adequate testing (90% - 95% coverage).
+* **Code Quality**: 4: Project demonstrates exceptionally well factored code.
+* **User Experience**: 3: Project exhibits a production-ready user experience.
+* **Performance**: 4: Project pages load on average under 300 milliseconds.
 
 #### Jerrod Paul Junker
 
 Github:
-Notes:
+Notes: No show
 
 * **Completion**:
 * **Organization**:
@@ -179,71 +179,71 @@ Notes:
 #### Adam Jensen
 
 Github:
-Notes:
+Notes: No show
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 1: Developer completed the user stories and requirements partially.
+* **Organization**: 2: Developer used a project management tool but didn't update the progress frequently.
+* **Test-Driven Development**: 1: Project lacks sufficient testing (under 85% coverage).
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 2: Project exhibits some gaps in the UX.
+* **Performance**: 3: Project pages load on average under 400 milliseconds.
 
 #### Regis Boudinot
 
 Github:
-Notes:
+Notes: Sacrificed some UX for the challenge of working with hardware. IMO it was worth the trade off. Project demonstrates understanding of the learning goals expected.
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 3: Developer used a project management tool to keep their project organized.
+* **Test-Driven Development**: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 2: Project exhibits some gaps in the UX.
+* **Performance**: 3: Project pages load on average under 400 milliseconds.
 
 #### Bret Doucette
 
 Github:
-Notes:
+Notes: 100% test coverage at multiple layers.
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 2: Developer used a project management tool but didn't update the progress frequently.
+* **Test-Driven Development**: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 4: Project exhibits a production-ready and polished UX.
+* **Performance**: 3: Project pages load on average under 400 milliseconds.
 
 #### Justin Holzmann
 
 Github:
 Notes:
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 3: Project exhibits a production-ready user experience.
+* **Performance**: 4: Project pages load on average under 300 milliseconds.
 
 #### Jason Wright
 
 Github:
-Notes:
+Notes: Errors out if not using HTTPS. If only using one service(twitter), the following functionality doesn't work.
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 2: Developer completed most of the user stories and requirements set by the client.
+* **Organization**: 2: Developer used a project management tool but didn't update the progress frequently.
+* **Test-Driven Development**: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 2: Project exhibits some gaps in the UX.
+* **Performance**: 4: Project pages load on average under 300 milliseconds.
 
 #### Stanley Siudzinski
 
 Github:
-Notes:
+Notes: Bugs in production but worked locally. If they get fixed, bump completion to 4. Really strong project even though there's a 2.
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 2: Developer completed most of the user stories and requirements set by the client.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 3: Project exhibits a production-ready user experience.
+* **Performance**: 3: Project pages load on average under 400 milliseconds.
