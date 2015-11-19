@@ -110,15 +110,16 @@ Notes: Impressive solution of tough problems. Calculated nearby meetings by hand
 
 #### Michael Wong
 
-Github:
-Notes:
+Github: https://github.com/Kealii/next_stop <br>
+Production: http://nextstop-1507.herokuapp.com/ <br>
+Notes: Some functionality was missing. Improved UX since last checkin. Used a spinner to improve UX when load times were significant.
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 2.5: Developer completed most of the user stories and requirements set by the client.
+* **Organization**: 3: Developer used a project management tool to keep their project organized.
+* **Test-Driven Development**: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* **Code Quality**: 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
+* **User Experience**: 3: Project exhibits a production-ready user experience.
+* **Performance**: 3: Project pages load on average under 400 milliseconds.
 
 #### Travis Haby & Mimi Schatz
 
