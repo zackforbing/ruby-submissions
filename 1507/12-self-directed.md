@@ -60,15 +60,15 @@ You'll be graded on each of the criteria below with a score of (1) well below ex
 
 #### Matt Hecker & Alon Waisman
 
-Github:
-Notes:
+Github: N/A <br>
+Notes: Really good effort. App looks quite polished. They surpassed expectations.
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* **Code Quality**: 3.5: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 4: Project exhibits a production-ready and polished UX.
+* **Performance**: 3: Project pages load on average under 400 milliseconds.
 
 #### Russell Harms
 
@@ -84,15 +84,16 @@ Notes:
 
 #### Rose Kohn
 
-Github:
-Notes:
+Github: https://github.com/roseak/podlist <br>
+Production: http://podlist.herokuapp.com/ <br>
+Notes: Really polished. Good UX. Good use of JavaScript.
 
-* **Completion**:
-* **Organization**:
-* **Test-Driven Development**:
-* **Code Quality**:
-* **User Experience**:
-* **Performance**:
+* **Completion**: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+* **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
+* **Test-Driven Development**: 3: Project shows adequate testing (90% - 95% coverage).
+* **Code Quality**: 3.5: Project demonstrates solid code quality and MVC principles.
+* **User Experience**: 4: Project exhibits a production-ready and polished UX.
+* **Performance**: 3: Project pages load on average under 400 milliseconds.
 
 #### Matt Ewell
 
