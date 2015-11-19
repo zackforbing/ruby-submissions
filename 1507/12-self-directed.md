@@ -241,7 +241,7 @@ Notes: Errors out if not using HTTPS. If only using one service(twitter), the fo
 Github:
 Notes: Bugs in production but worked locally. If they get fixed, bump completion to 4. Really strong project even though there's a 2.
 
-* **Completion**: 2: Developer completed most of the user stories and requirements set by the client.
+* **Completion**: 4
 * **Organization**: 4: Developer used a project management tool and updated their progress in real-time.
 * **Test-Driven Development**: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
 * **Code Quality**: 3: Project demonstrates solid code quality and MVC principles.
