@@ -1,6 +1,6 @@
 notes: look into updating status
 
-### 1. Feature Completeness - 2 
+### 1. Feature Completeness - 3
 
 * 4: All features are correctly implemented along with two extensions
 * 3: All features defined in the assignment are correctly implemented
