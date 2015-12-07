@@ -1,15 +1,27 @@
-## Template - <Student Name>
+## Heidi
 
-**Instructor:**
+**Instructor:** Horace
 
-**Repo URL:**
+**Repo URL:** https://github.com/hhoopes/night_writer
 
 **Notes:**
 
-1. Overall Functionality (1 - 4)
-2. Fundamental Ruby & Style (1 - 4)
-3. TDD (1 - 4)
-4. Breaking Logic into Components (1 - 4)
+* Good job breaking down and tackling the algorithm
+* Effectively uses a character map to allow both forward and backward
+translations
+* Uses dedicated classes for each type of transformation
+* Didn't get too far into testing so that will be a good thing to work
+on for the next project
+* Good use of a dedicate file class to manage the I/O portions; would be
+nice to see the interface match between the 2 translation classes
+* Overall translation algorithm is efficient and to the point; next step
+will be relying more heavily on ruby built-in enumerables to make it even more
+concise and readable
+
+1. Overall Functionality 2
+2. Fundamental Ruby & Style 3
+3. TDD 2
+4. Breaking Logic into Components 3
 
 ## Evaluation Rubric
 

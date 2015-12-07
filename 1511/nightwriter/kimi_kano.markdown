@@ -1,15 +1,23 @@
-## Template - <Student Name>
+## Kimi
 
-**Instructor:**
+**Instructor:** Horace
 
-**Repo URL:**
+**Repo URL:** https://github.com/ksk5280/night_writer
 
 **Notes:**
 
-1. Overall Functionality (1 - 4)
-2. Fundamental Ruby & Style (1 - 4)
-3. TDD (1 - 4)
-4. Breaking Logic into Components (1 - 4)
+* Good implementation of the algorithm
+* Great job using pseudocode to outline the problem and track your progress
+* Approach to managing swapping between numbers and characters is great
+* Test cases are pretty numerous and show good gradual escalation of complexity
+* Next things to focus on are a) naming and getting really precise and descriptive
+names for methods and variables b) sharing the workload across more objects in
+a more meaningful way
+
+1. Overall Functionality 3
+2. Fundamental Ruby & Style 3
+3. TDD 4
+4. Breaking Logic into Components 2
 
 ## Evaluation Rubric
 

@@ -1,15 +1,23 @@
-## Template - <Student Name>
+## Scott
 
-**Instructor:**
+**Instructor:** Horace
 
-**Repo URL:**
+**Repo URL:** https://github.com/scottfirestone/night_writer
 
 **Notes:**
 
-1. Overall Functionality (1 - 4)
-2. Fundamental Ruby & Style (1 - 4)
-3. TDD (1 - 4)
-4. Breaking Logic into Components (1 - 4)
+* Solid pass at the base functionality -- doing pretty well with formulating the
+algorithm and expressing it
+* I like that we are able to express a straightforward implementation, even
+if it's somewhat repetitive to start
+* Next things to focus on in upcoming projects are **a)** testing **b)** extracting
+more small methods from our main algorithm and eventually moving collections of those
+methods into their own classes
+
+1. Overall Functionality 2
+2. Fundamental Ruby & Style 3
+3. TDD 1
+4. Breaking Logic into Components 2
 
 ## Evaluation Rubric
 

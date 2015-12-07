@@ -1,15 +1,24 @@
-## Template - <Student Name>
+## Julian
 
-**Instructor:**
+**Instructor:** Horace
 
-**Repo URL:**
+**Repo URL:** https://github.com/julsfelic/night_writer_reader
 
 **Notes:**
 
-1. Overall Functionality (1 - 4)
-2. Fundamental Ruby & Style (1 - 4)
-3. TDD (1 - 4)
-4. Breaking Logic into Components (1 - 4)
+* Designing method interfaces in a way that makes them easy to test incrementally
+* Strong functionality, handling some extensions and edge cases effectively
+* Good instinct toward defining terminology and using it consistently throughout the codebase;
+keep thinking about exactly *which* terms we are choosing and how they confer meaning
+* Biggest area for improvement is continuing to break apart the large "algorithmic" methods
+into smaller pieces
+* In particular this gives us the chance to apply meaningful names to those pieces in
+a way that communicates the structure of the algorithm
+
+1. Overall Functionality 3
+2. Fundamental Ruby & Style 3
+3. TDD 4
+4. Breaking Logic into Components 3
 
 ## Evaluation Rubric
 
