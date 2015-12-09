@@ -7,6 +7,7 @@ In the user interface quality manifests as "genius", "plausible", and "swill" (2
 By default, an idea's quality is "swill" (2 points)
 
 5 points total.
+
 **Points:**
 
 Viewing ideas
@@ -16,6 +17,7 @@ Idea bodies longer than 100 characters should be truncated to the nearest word. 
 Ideas should appear in descending chronological order (with the most recently created idea at the top). (3 points)
 
 10 points total.
+
 **Points:**
 
 Adding a new idea
@@ -29,6 +31,7 @@ The page should not reload. (3 points, mandatory for specification adherence)
 The idea should be committed to the database. It should still be present upon reloading the page. (2 points, mandatory for specification adherence)
 
 15 points total
+
 **Points:**
 
 Deleting an existing idea
@@ -41,6 +44,7 @@ The page should not reload when an idea is deleted. (5 points, mandatory for spe
 The idea should be removed from the database. It should not re-appear on next page load. (3 points, mandatory for specification adherence)
 
 15 points total.
+
 **Points:**
 
 Changing the quality of an idea
@@ -51,6 +55,7 @@ Clicking thumbs down on the idea should decrease its quality one notch ("genius"
 Incrementing a "genius" idea or decrementing a "swill" idea should have no effect. (4 points)
 
 15 points total.
+
 **Points:**
 
 Editing an existing idea
@@ -62,6 +67,7 @@ The user should have the option to "Save" their edits, and clicking this should 
 If the user reloads the page, their edits will be reflected. (4 points, mandatory for specification adherence)
 
 20 points total.
+
 **Points:**
 
 Idea Filtering and Searching
@@ -71,6 +77,7 @@ As a user types in the search box, the list of ideas should filter in real time 
 Clearing the search box should restore all the ideas to the list. (6 points)
 
 15 points total.
+
 **Points:**
 
 Extentsions
@@ -80,6 +87,7 @@ Inline idea editing
 When a user clicks the title or idea of an idea in the list, that text should become an editable text field, pre-populated with the existing idea title or body. The user should be able to "commit" their changes by pressing "Enter/Return" or by clicking outside of the text field.
 
 10 additional points.
+
 **Points:**
 
 Tagging
@@ -87,6 +95,7 @@ Tagging
 Add an optional third text field upon idea creation for "Tags". Tags should be a comma-separated list of short text tags, and should be processed on the server such that any existing tags are re-used, and any new ones are created. Once there are tags to display, a list of existing tags should appear at the top of the idea list. Clicking one of these tags should show only ideas that include it. When viewing ideas filtered by tag, be sure to include a link to take the user back to "All Ideas". This filtering could be implemented either as a separate page or via javascript within the same interface.
 
 20 additional points.
+
 **Points:**
 
 Sorting
@@ -94,6 +103,7 @@ Sorting
 When viewing the ideas list, the user should have the option to sort ideas by Quality. The default sort should be descending ("genius" → "plausible" → "swill"), and clicking the sort a second time should reverse it. The Idea list should be sorted client-side without reloading the page.
 
 10 additional points.
+
 **Points:**
 
 Instructor Evaluation Points
