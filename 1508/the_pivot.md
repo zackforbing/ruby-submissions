@@ -31,7 +31,7 @@ GitHub: github.com/sekharp/the_pivot
 
 Production Link: ganesha-loans.herokuapp.com  
 
-Notes: Good project delivered. Very painful load times, but no crashes. Used waffle as project management tool. Kept user experience as a 3 even though it was painful to user because the UI was well constructed. Delivery was as expected but nothing above and beyond. 
+Notes: Good project delivered. Very painful load times, but no crashes. Used waffle as project management tool. Kept user experience as a 3 even though it was painful to user because the UI was well constructed. Delivery was as expected but nothing above and beyond.
 
 #### Scores
 
@@ -50,19 +50,19 @@ Notes: Good project delivered. Very painful load times, but no crashes. Used waf
 
 Assessed By: Andrew and Josh M.
 
-GitHub:
+GitHub: github.com/edgarduran/the_pivot
 
-Production Link:
+Production Link: borrow-my-carro.herokuapp.com  
 
-Notes:
+Notes: Design looked really good. Some minor UI issues. Car didn't show in category when added by "store". Paperclip didn't work correctly. Multi-tenancy looked good. Base expectations mostly there.
 
 #### Scores
 
 ##### Product and Feature Delivery
 
-* Completion:
-* Organization:
-* User Experience:
+* Completion: 2.5
+* Organization: 3
+* User Experience: 3
 
 ##### Technical Quality
 
@@ -73,19 +73,19 @@ Notes:
 
 Assessed By: Andrew and Josh M.
 
-GitHub:
+GitHub: github.com/emilydowdle/the_pivot
 
-Production Link:
+Production Link: pivotproduce.herokuapp.com
 
-Notes:
+Notes: UI was really intuitive and looked good, but the seed file was not implimented to the extent required so it could have been painful if it was. Some items didn't link to muti-tenant url structure. Adding store appeared to be successful, but didn't work on the side of the user made as an admin
 
 #### Scores
 
 ##### Product and Feature Delivery
 
-* Completion:
-* Organization:
-* User Experience:
+* Completion: 2.5 ** talk to josh
+* Organization: 4
+* User Experience: 3
 
 ##### Technical Quality
 
@@ -119,19 +119,19 @@ Notes:
 
 Assessed By: Andrew and Josh M.
 
-GitHub:
+GitHub: github.com/jillmd501/the_pivot
 
-Production Link:
+Production Link: stalk-photos.herokuapp.com
 
-Notes:
+Notes: Not seeded with appropriate amounts of data. UI was otherwise generally good. There were issues with images overlapping buttons and other content which was apparently due to the person styling on a computer set up with different display preferences. App crashed when trying to load image from category page. Could not update user profile photo either.  
 
 #### Scores
 
 ##### Product and Feature Delivery
 
-* Completion:
-* Organization:
-* User Experience:
+* Completion: 2.5
+* Organization: 4
+* User Experience: 3
 
 ##### Technical Quality
 
