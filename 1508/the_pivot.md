@@ -2,19 +2,19 @@
 
 Assessed By: Andrew and Josh M.
 
-GitHub:
+GitHub: github.com/tjkomor/bidding_wars
 
-Production Link:
+Production Link: collectors-corner.herokuapp.com
 
-Notes:
+Notes: App crashed when trying to add an additional admin to a store. And app crashed when trying to view user show page as admin. Some other minor impelimentation errors in editing user profile like changing the password.
 
 #### Scores
 
 ##### Product and Feature Delivery
 
-* Completion:
-* Organization:
-* User Experience:
+* Completion: 2.5
+* Organization: 4
+* User Experience: 3
 
 ##### Technical Quality
 
@@ -27,19 +27,19 @@ Notes:
 
 Assessed By: Andrew and Josh M.
 
-GitHub:
+GitHub: github.com/sekharp/the_pivot
 
-Production Link:
+Production Link: ganesha-loans.herokuapp.com  
 
-Notes:
+Notes: Good project delivered. Very painful load times, but no crashes. Used waffle as project management tool. Kept user experience as a 3 even though it was painful to user because the UI was well constructed. Delivery was as expected but nothing above and beyond. 
 
 #### Scores
 
 ##### Product and Feature Delivery
 
-* Completion:
-* Organization:
-* User Experience:
+* Completion: 3
+* Organization: 4
+* User Experience: 3
 
 ##### Technical Quality
 
