@@ -24,7 +24,7 @@
 
 #### Beth Secor
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/bethsecor/ruby_challenge_one_file_IO
 
 #### Greg Armstrong
 
