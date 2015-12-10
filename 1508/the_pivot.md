@@ -18,8 +18,8 @@ Notes:
 
 ##### Technical Quality
 
-* Test-Driven Development:
-* Code Quality:
+* Test-Driven Development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* Code Quality: 3: Project demonstrates solid code quality and MVC principles.
 
 
 
