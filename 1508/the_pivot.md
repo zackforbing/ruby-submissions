@@ -18,8 +18,8 @@ Notes: App crashed when trying to add an additional admin to a store. And app cr
 
 ##### Technical Quality
 
-* Test-Driven Development:
-* Code Quality:
+* Test-Driven Development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* Code Quality: 3: Project demonstrates solid code quality and MVC principles.
 
 
 
@@ -147,6 +147,10 @@ GitHub:
 Production Link:
 
 Notes:
+  * Some gaps in testing. Some code is executing but not providing or testing the actual business value.
+  * Most are solid and when adjusting during the to make them more robust they still passed.
+  * Took good risks and went above and beyond expectations without the code quality suffering.
+
 
 #### Scores
 
@@ -158,5 +162,5 @@ Notes:
 
 ##### Technical Quality
 
-* Test-Driven Development:
-* Code Quality:
+* Test-Driven Development: 3: Project shows adequate testing (90% - 95% coverage).
+* Code Quality: 3+: Project demonstrates solid code quality and MVC principles.
