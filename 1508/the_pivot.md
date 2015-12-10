@@ -102,13 +102,15 @@ Production Link:
 
 Notes:
 
+Good UI experience, but had issue with crashes on small parts of app. Also when you inactivated a renter's profile you could still go to their property page.
+
 #### Scores
 
 ##### Product and Feature Delivery
 
-* Completion:
-* Organization:
-* User Experience:
+* Completion: 3
+* Organization: 4
+* User Experience: 3
 
 ##### Technical Quality
 
@@ -142,11 +144,15 @@ Notes: Not seeded with appropriate amounts of data. UI was otherwise generally g
 
 Assessed By: Andrew and Josh M.
 
-GitHub:
+GitHub: github.com/robbielane/ticketly
 
-Production Link:
+Production Link: ticketly.herokuapp.com
 
 Notes:
+
+  Good UI. Some really great additional features. App failed to update ticket status. Also a minor error in Platform Admin functionality. 
+
+
   * Some gaps in testing. Some code is executing but not providing or testing the actual business value.
   * Most are solid and when adjusting during the to make them more robust they still passed.
   * Took good risks and went above and beyond expectations without the code quality suffering.
@@ -156,9 +162,9 @@ Notes:
 
 ##### Product and Feature Delivery
 
-* Completion:
-* Organization:
-* User Experience:
+* Completion: 3
+* Organization: 4
+* User Experience: 3
 
 ##### Technical Quality
 
