@@ -20,11 +20,11 @@
 
 #### Dan Winter
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/danjwinter/tswift_lyrics
 
 #### Beth Secor
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/bethsecor/ruby_challenge_one_file_IO
 
 #### Greg Armstrong
 
@@ -68,4 +68,4 @@
 
 #### Toni Rib
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/ToniRib/code_challenges/tree/master/csv_manipulation
