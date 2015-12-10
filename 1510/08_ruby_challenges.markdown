@@ -20,7 +20,7 @@
 
 #### Dan Winter
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/danjwinter/tswift_lyrics
 
 #### Beth Secor
 
