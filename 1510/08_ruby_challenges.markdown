@@ -52,7 +52,7 @@
 
 #### Penney Garrett
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/PenneyGadget/code_challenges/tree/master/csv_manipulation
 
 #### Steve Pentler
 
