@@ -28,7 +28,7 @@
 
 #### Greg Armstrong
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/GregoryArmstrong/swift_stats
 
 #### Hector Huertas
 
