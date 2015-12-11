@@ -6,13 +6,13 @@ GitHub: github.com/tjkomor/bidding_wars
 
 Production Link: collectors-corner.herokuapp.com
 
-Notes: App crashed when trying to add an additional admin to a store. And app crashed when trying to view user show page as admin. Some other minor impelimentation errors in editing user profile like changing the password.
+Notes: App crashed when trying to add an additional admin to a store. And app crashed when trying to view user show page as admin. Some other minor implementation errors in editing user profile like changing the password.
 
 #### Scores
 
 ##### Product and Feature Delivery
 
-* Completion: 2.5
+* Completion: 3
 * Organization: 4
 * User Experience: 3
 
@@ -131,7 +131,7 @@ Notes: Not seeded with appropriate amounts of data. UI was otherwise generally g
 
 ##### Product and Feature Delivery
 
-* Completion: 2.5
+* Completion: 3
 * Organization: 4
 * User Experience: 3
 
@@ -150,7 +150,7 @@ Production Link: ticketly.herokuapp.com
 
 Notes:
 
-  Good UI. Some really great additional features. App failed to update ticket status. Also a minor error in Platform Admin functionality. 
+  Good UI. Some really great additional features. App failed to update ticket status. Also a minor error in Platform Admin functionality.
 
 
   * Some gaps in testing. Some code is executing but not providing or testing the actual business value.
