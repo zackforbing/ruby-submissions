@@ -40,7 +40,7 @@
 
 #### Jordan Lawler
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/Jlawlzz/swift-sifter
 
 #### Joseph Perry
 
