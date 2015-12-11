@@ -32,7 +32,7 @@
 
 #### Hector Huertas
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/hectorhuertas/csv_manipulation_challenge
 
 #### James Crockett
 
