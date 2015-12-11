@@ -4,7 +4,7 @@
 
 #### Aaron Greenspan
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/afg419/swift_stats
 
 #### Beth Sebian
 
