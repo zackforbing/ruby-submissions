@@ -56,7 +56,7 @@
 
 #### Steve Pentler
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/stevepentler/Taylor-Swift-Has-Bad-Lyrics
 
 #### Steven Olson
 
