@@ -60,7 +60,7 @@
 
 #### Steven Olson
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/SteveOscar/ruby_challenges
 
 #### Taylor Moore
 
