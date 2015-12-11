@@ -36,7 +36,7 @@
 
 #### James Crockett
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/jecrockett/swift_lyrics
 
 #### Jordan Lawler
 
