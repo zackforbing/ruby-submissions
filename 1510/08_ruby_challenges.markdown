@@ -12,7 +12,7 @@
 
 #### Brant Wellman
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/brantwellman/Turing-Swift-Lyrics-Counter
 
 #### Brenna Martenson
 
