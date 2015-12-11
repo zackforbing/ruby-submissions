@@ -44,7 +44,7 @@
 
 #### Joseph Perry
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/jwperry/swift_stats
 
 #### Lenny Myerson
 
