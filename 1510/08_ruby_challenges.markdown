@@ -16,7 +16,7 @@
 
 #### Brenna Martenson
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/martensonbj/code_challenges.git
 
 #### Dan Winter
 
