@@ -1,45 +1,33 @@
 ## Student Name
 
-**Instructor:**
+**Instructor:** Jeff
 
 **Repo URL:**
 
 ### Notes
 
-## Rubric
+* 38 tests all pass
+* Tests have a good progression, some exploration of edge cases, and some good testing of internals -- just segment them off into their own section
+* Try not to use instance variables unless you absolutely need to
+* Look for opportunities to use Enum methods to simplify your looping/stopping
+* MergeSort does use pretty good set methods and feels like Ruby, but there are
+probably areas to simplify/clarify what's happening
 
-This rubric works like so: In order to get a given score,
-you must satisfy not only its description,
-but also the requirements of all the scores beneath it.
-ie if you did not satisfy the requirements of 2,
-then you are not eligible for a 3, even if you satisfied it.
+## Rubric
 
 ### Functional Expectations
 
-* 4: All three sort classes work as expected with 2 or more extensions.
 * 3: All three sort classes work as expected
-* 2: Two sort classes work as expected
-* 1: Zero or one sort classes work as expected
 
 ### Testing
 
 * 4: Tests are clearly written with names that accurately describe the behavior. Edge cases
 such as empty arrays, reversed arrays, etc are also tested.
-* 3: Tests cover functionality and demonstrate some escalation of complexity across the examples.
-* 2: Sorting suites pass all the examples
-* 1: All tests pass and can be ran together with a single command
 
 ### Ruby Style
 
-* 4: Any given chunk of code can be understood at a single level of abstraction
 * 3: Code is a readable and effective implementation of the algorithm. Has fewer than 4 "what on earth is this?" lines of code.
-* 2: Code runs effectively but has large issues with readbility (long methods, confusing
-method or variable names, etc)
-* 1: There are syntax errors or crashes during execution
 
 ### Organization
 
 * 4: Version control maintains the codebase
-* 3: Each sorter class has it's own file in the proper directory and it's own test in the test directory
-* 2: A file/directory structure provides basic organization via lib/ and spec/ or /test
-* 1: Components work together properly
