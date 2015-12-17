@@ -43,8 +43,8 @@ Notes: Good project delivered. Very painful load times, but no crashes. Used waf
 
 ##### Technical Quality
 
-* Test-Driven Development:
-* Code Quality:
+* Test-Driven Development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* Code Quality: 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
 
 ### Group: Marlo Major & Torie Warren & David Stinnette & Edgar Duran
 
@@ -66,8 +66,8 @@ Notes: Design looked really good. Some minor UI issues. Car didn't show in categ
 
 ##### Technical Quality
 
-* Test-Driven Development:
-* Code Quality:
+* Test-Driven Development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* Code Quality: 3: Project demonstrates solid code quality and MVC principles.
 
 ### Group: Justin Pease & Emily Dowdle & Jason Pilz & John Slota
 
@@ -77,7 +77,9 @@ GitHub: github.com/emilydowdle/the_pivot
 
 Production Link: pivotproduce.herokuapp.com
 
-Notes: UI was really intuitive and looked good, but the seed file was not implimented to the extent required so it could have been painful if it was. Some items didn't link to muti-tenant url structure. Adding store appeared to be successful, but didn't work on the side of the user made as an admin
+Notes: 96% coverage and really good feature tests. Could use more model tests. Really good use of POROs. Over use of helpers in controllers, should be moved to helpers directory. Nice attempt at moving that logic out of the views though.
+
+UI was really intuitive and looked good, but the seed file was not implimented to the extent required so it could have been painful if it was. Some items didn't link to muti-tenant url structure. Adding store appeared to be successful, but didn't work on the side of the user made as an admin
 
 #### Scores
 
@@ -89,8 +91,8 @@ Notes: UI was really intuitive and looked good, but the seed file was not implim
 
 ##### Technical Quality
 
-* Test-Driven Development:
-* Code Quality:
+* Test-Driven Development: 3+: Project shows adequate testing (90% - 95% coverage).
+* Code Quality: 3+: Project demonstrates solid code quality and MVC principles.
 
 ### Group: Matt Stjernholm & Nicole Hall & Michael Wong & Shannon Paige
 
@@ -114,8 +116,8 @@ Good UI experience, but had issue with crashes on small parts of app. Also when 
 
 ##### Technical Quality
 
-* Test-Driven Development:
-* Code Quality:
+* Test-Driven Development: 3: Project shows adequate testing (90% - 95% coverage).
+* Code Quality: 3: Project demonstrates solid code quality and MVC principles.x
 
 ### Group: Jill Donohue & Ross Edfort & Jerrod Paul Junker
 
@@ -137,8 +139,8 @@ Notes: Not seeded with appropriate amounts of data. UI was otherwise generally g
 
 ##### Technical Quality
 
-* Test-Driven Development:
-* Code Quality:
+* Test-Driven Development: 3: Project shows adequate testing (90% - 95% coverage).
+* Code Quality: 3: Project demonstrates solid code quality and MVC principles.
 
 ### Group: Robbie Lane & Aaron Careaga & Jhun de Andres & Adam Jensen
 
