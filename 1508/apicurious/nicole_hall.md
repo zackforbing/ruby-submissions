@@ -9,16 +9,18 @@ https://thawing-citadel-1666.herokuapp.com/
 
 Notes:
 
+Did not implement favorites. UI was not effective and poorly designed. Testing coverage was there but tests were minimal and not very robust. Logic followed MVC model and service was setup well. 
+
 ### Feature Delivery
 
-**1. Completion**
+**1. Completion** - 2
 
 * 4: Developer delivered all planned features plus 2 extensions.
 * 3: Developer delivered all planned features.
 * 2: Developer reduced functionality to meet the deadline.
 * 1: Developer missed major features and/or the application is not deployed to production.
 
-**2. Organization**
+**2. Organization** - 4
 
 * 4: Developer used a project management tool and updated their progress in real-time.
 * 3: Developer used a project management tool to keep their project organized.
@@ -27,14 +29,14 @@ Notes:
 
 ### Technical Quality
 
-**1. Test-Driven Development**
+**1. Test-Driven Development** - 3 - coverage was over 90% but there were only 3 total tests
 
 * 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
 * 3: Project demonstrates high test coverage (>80%), tests at feature and unit levels, but relies on external services
 * 2: Project demonstrates high test coverage (>70%), but does not adequately balance feature and unit tests
 * 1: Project does not have 70% test coverage
 
-**2. Code Quality**
+**2. Code Quality** - 3
 
 * 4: Project demonstrates exceptionally well factored code.
 * 3: Project demonstrates solid code quality and MVC principles.
@@ -43,7 +45,7 @@ Notes:
 
 ### Product Experience
 
-**1. User Experience**
+**1. User Experience** - 2
 
 * 4: The application is a logical and easy to use implementation of the target application
 * 3: The application covers many interactions of the target application, but has a few holes in lesser-used functionality

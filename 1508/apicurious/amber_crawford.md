@@ -3,22 +3,26 @@
 You'll be graded on each of the criteria below with a score of (1) well below
 expectations, (2) below expectations, (3) as expected, (4) better than expected.
 
-github.com/nicolehall/twittertoo
+github.com/amcrawford/thought-post
 
-https://thawing-citadel-1666.herokuapp.com/
+thought-post.herokuapp.com
 
 Notes:
 
+Good project. Good UI - the home page and user timeline should have been swapped and would have allowed the student to get a 4. Test coverage could have been better, but overall good. 
+
+Production works well.
+
 ### Feature Delivery
 
-**1. Completion**
+**1. Completion** - 3
 
 * 4: Developer delivered all planned features plus 2 extensions.
 * 3: Developer delivered all planned features.
 * 2: Developer reduced functionality to meet the deadline.
 * 1: Developer missed major features and/or the application is not deployed to production.
 
-**2. Organization**
+**2. Organization** - 3
 
 * 4: Developer used a project management tool and updated their progress in real-time.
 * 3: Developer used a project management tool to keep their project organized.
@@ -27,14 +31,14 @@ Notes:
 
 ### Technical Quality
 
-**1. Test-Driven Development**
+**1. Test-Driven Development** - 3
 
 * 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
 * 3: Project demonstrates high test coverage (>80%), tests at feature and unit levels, but relies on external services
 * 2: Project demonstrates high test coverage (>70%), but does not adequately balance feature and unit tests
 * 1: Project does not have 70% test coverage
 
-**2. Code Quality**
+**2. Code Quality** - 4
 
 * 4: Project demonstrates exceptionally well factored code.
 * 3: Project demonstrates solid code quality and MVC principles.
@@ -43,7 +47,7 @@ Notes:
 
 ### Product Experience
 
-**1. User Experience**
+**1. User Experience** - 3
 
 * 4: The application is a logical and easy to use implementation of the target application
 * 3: The application covers many interactions of the target application, but has a few holes in lesser-used functionality
