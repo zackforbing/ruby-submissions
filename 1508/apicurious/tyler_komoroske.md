@@ -9,39 +9,32 @@ Notes:
 
 **1. Completion**
 
-* 4: Developer delivered all planned features plus 2 extensions.
 * 3: Developer delivered all planned features.
-* 2: Developer reduced functionality to meet the deadline.
-* 1: Developer missed major features and/or the application is not deployed to production.
+
+**Notes**: Needs to catch error for empty box. Needs to handle login behavior for http and https.
 
 **2. Organization**
 
 * 4: Developer used a project management tool and updated their progress in real-time.
-* 3: Developer used a project management tool to keep their project organized.
-* 2: Developer used a project management tool but didn't update the progress frequently.
-* 1: Developer failed to use a project management tool to track its progress.
 
 ### Technical Quality
 
 **1. Test-Driven Development**
 
 * 4: Project demonstrates high test coverage (>90%), tests at the feature and unit levels, and does not rely on external * services.
-* 3: Project demonstrates high test coverage (>80%), tests at feature and unit levels, but relies on external services
-* 2: Project demonstrates high test coverage (>70%), but does not adequately balance feature and unit tests
-* 1: Project does not have 70% test coverage
+
+**Notes**: Test the sad path in posting tweet needed.
 
 **2. Code Quality**
 
-* 4: Project demonstrates exceptionally well factored code.
 * 3: Project demonstrates solid code quality and MVC principles.
-* 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
-* 1: Project demonstrates poor factoring and/or understanding of MVC.
+
+**Notes**: Some refactoring on the user creation method needed. Use of unnecessary argument in service method in application controller. Could have improved view abstraction using partials.
 
 ### Product Experience
 
 **1. User Experience**
 
-* 4: The application is a logical and easy to use implementation of the target application
-* 3: The application covers many interactions of the target application, but has a few holes in lesser-used functionality
-* 2: The application shows effort in the interface, but the result is not effective
-* 1: The application is confusing or difficult to use
+* 1.5: The application is confusing or difficult to use
+
+**Notes**: Improve focus on UX and design. Lack of hierarchy and spacing on content make it difficult to understand.
