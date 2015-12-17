@@ -4,7 +4,7 @@
 
 #### Aaron Greenspan
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/afg419/swift_stats
 
 #### Beth Sebian
 
@@ -12,39 +12,39 @@
 
 #### Brant Wellman
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/brantwellman/Turing-Swift-Lyrics-Counter
 
 #### Brenna Martenson
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/martensonbj/code_challenges.git
 
 #### Dan Winter
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/danjwinter/tswift_lyrics
 
 #### Beth Secor
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/bethsecor/ruby_challenge_one_file_IO
 
 #### Greg Armstrong
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/GregoryArmstrong/swift_stats
 
 #### Hector Huertas
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/hectorhuertas/csv_manipulation_challenge
 
 #### James Crockett
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/jecrockett/swift_lyrics
 
 #### Jordan Lawler
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/Jlawlzz/swift-sifter
 
 #### Joseph Perry
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/jwperry/swift_stats
 
 #### Lenny Myerson
 
@@ -52,15 +52,15 @@
 
 #### Penney Garrett
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/PenneyGadget/code_challenges/tree/master/csv_manipulation
 
 #### Steve Pentler
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/stevepentler/Taylor-Swift-Has-Bad-Lyrics
 
 #### Steven Olson
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/SteveOscar/ruby_challenges
 
 #### Taylor Moore
 
@@ -68,4 +68,4 @@
 
 #### Toni Rib
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/ToniRib/code_challenges/tree/master/csv_manipulation
