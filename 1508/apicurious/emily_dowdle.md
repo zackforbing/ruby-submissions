@@ -3,7 +3,7 @@
 You'll be graded on each of the criteria below with a score of (1) well below
 expectations, (2) below expectations, (3) as expected, (4) better than expected.
 
-Notes: Overall good code, but the User model is acting as a god object. All calls to Twitter originate there.
+Notes: Overall good code. User model knows too much about the Twitter service which will make refactoring in the future difficult. All calls to Twitter originate there. Look into Ruby's delegate method to move this logic somewhere else.
 
 ### Feature Delivery
 
