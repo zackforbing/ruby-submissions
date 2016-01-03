@@ -35,7 +35,7 @@
 
 * GitHub Repo: https://github.com/bethsecor/ruby_challenge_one_file_IO
 * Pig Latin Repo:
-* Event Reporter Repo:
+* Event Reporter Repo: https://github.com/bethsecor/event_reporter
 
 #### Greg Armstrong
 
