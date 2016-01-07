@@ -55,8 +55,8 @@ submissions:
     queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
   Jerrod Paul Junker:
     repo:
-    instructor:
-    notes:
+    instructor: Josh M.
+    notes: No show without communication.
     completion:
     test-driven-development:
     code-quality:
