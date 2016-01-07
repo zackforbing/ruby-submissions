@@ -9,7 +9,7 @@
 
 #### Beth Sebian
 
-* GitHub Repo:
+* GitHub Repo: https://github.com/bethsebian/code_challenge
 * Pig Latin Repo:
 * Event Reporter Repo:
 
@@ -69,8 +69,8 @@
 
 #### Lenny Myerson
 
-* GitHub Repo:
-* Pig Latin Repo:
+* GitHub Repo: https://github.com/TheObtuseAutodidact/code_challenge_1
+* Pig Latin Repo: https://github.com/TheObtuseAutodidact/code_challenge_2
 * Event Reporter Repo:
 
 #### Penney Garrett
