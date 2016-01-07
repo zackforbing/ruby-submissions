@@ -1,13 +1,13 @@
 submissions:
   Aaron Careaga:
-    repo:
-    instructor:
-    notes:
-    completion:
-    test-driven-development:
-    code-quality:
-    api-design:
-    queries:
+    repo: github.com/acareaga/rails-engine
+    instructor: Andrew
+    notes: Reached for ruby within a handful of quieries. No model level tests, but controller tests had moderate to good robustness. Some stretegy changes were suggested within testing. Some refactoring of queries would have been good.
+    completion: 3
+    test-driven-development: 3.5
+    code-quality: 3
+    api-design: 3
+    queries: 3
   Adam Jensen:
     repo:
     instructor:
@@ -18,32 +18,32 @@ submissions:
     api-design:
     queries:
   Amber Crawford:
-    repo:
-    instructor:
-    notes:
-    completion:
-    test-driven-development:
-    code-quality:
-    api-design:
-    queries:
+    repo: github.com/amcrawford/rails_engine
+    instructor: Andrew
+    notes: Good project. Queries fall to ruby sometimes but does use advanced active record too. TDD was good at the controller level but not at model level. Only two model level.
+    completion: 3
+    test-driven-development: 4
+    code-quality: 4
+    api-design: 3
+    queries: 3.5
   Edgar Duran:
-    repo:
-    instructor:
-    notes:
-    completion:
-    test-driven-development:
-    code-quality:
-    api-design:
-    queries:
+    repo: github.com/eduran/rails_engine
+    instructor: Andrew
+    notes: Code quality could be focused on more. The controllers had some issues. Testing was good overall but could have used some model tests. 
+    completion: 3
+    test-driven-development: 3.5
+    code-quality: 2.5
+    api-design: 3
+    queries: 3.5
   Emily Dowdle:
-    repo:
-    instructor:
-    notes:
-    completion:
-    test-driven-development:
-    code-quality:
-    api-design:
-    queries:
+    repo: github.com/emilydowdle/rails-engine
+    instructor: Andrew
+    notes: Great quieries but did reach for some ruby. Good code quality. Overall a good project. The tests were really good. To be perfect there would be more tests for find and findall etc, but there were good unit and controller tests.
+    completion: 3
+    test-driven-development: 4
+    code-quality: 4
+    api-design: 3
+    queries: 3.5
   Jason Pilz:
     repo:
     instructor: Josh M.
@@ -63,14 +63,14 @@ submissions:
     api-design:
     queries:
   Jhun de Andres:
-    repo:
-    instructor:
-    notes:
-    completion:
-    test-driven-development:
-    code-quality:
-    api-design:
-    queries:
+    repo: github.com/joshuajhun/rails_engine
+    instructor: Andrew
+    notes: Most important thing to work on moving forward is refactoring. Code uality was ok, but could have reworked some queries. Only one piece of logic in controller, but it was the last thing being worked. No model level tests and some gaps controller test robustness.
+    completion: 3
+    test-driven-development: 3
+    code-quality: 3
+    api-design: 3
+    queries: 3
   Jill Donohue:
     repo:
     instructor:
@@ -107,14 +107,14 @@ submissions:
     api-design: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
     queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes
   Matt Rooney:
-    repo:
-    instructor:
-    notes:
-    completion:
-    test-driven-development:
-    code-quality:
-    api-design:
-    queries:
+    repo: github.com/mattrooney/rails_engine
+    instructor: Andrew
+    notes: Solid project. Good robust controller tests, but no model tests. Could have done some more for testing. Quieries were good and had mostly activerecord, but did reach for ruby. At times I think the ruby was unessesary and could have been accomplished fairly easily with AR.
+    completion: 3
+    test-driven-development: 3.5
+    code-quality: 3
+    api-design: 3
+    queries: 3.5
   Matt Stjernholm:
     repo:
     instructor:
@@ -161,14 +161,14 @@ submissions:
     api-design: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
     queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
   Ross Edfort:
-    repo:
-    instructor:
-    notes:
-    completion:
-    test-driven-development:
-    code-quality:
-    api-design:
-    queries:
+    repo: github.com/rossedfort/rails_engine
+    instructor: Andrew
+    notes: Great project. Some ruby for queries. 100% completion. Did not use serializers so api design was a 3. Tests were good but could have done more at the model level.
+    completion: 4
+    test-driven-development: 4
+    code-quality: 3.5
+    api-design: 3
+    queries: 3.5
   Ryan Johnson:
     repo: https://github.com/rjohnson4444/rails-engine
     instructor: Josh M.
@@ -179,14 +179,14 @@ submissions:
     api-design: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
     queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
   Sekhar Paladugu:
-    repo:
-    instructor:
-    notes:
-    completion:
-    test-driven-development:
-    code-quality:
-    api-design:
-    queries:
+    repo: github.com/sekharp/rails-engine
+    instructor: Andrew
+    notes: Exceptional queries. Not so great test suite. Could have had a lot more controller tests. There where a handful of merchant model tests which I liked to see. Code quality was also good.
+    completion: 3
+    test-driven-development: 3
+    code-quality: 4
+    api-design: 3
+    queries: 4
   Shannon Paige:
     repo:
     instructor: Josh M.
