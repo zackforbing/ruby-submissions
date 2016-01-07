@@ -153,13 +153,13 @@ submissions:
     queries:
   Robbie Lane:
     repo:
-    instructor:
+    instructor: Josh M.
     notes:
-    completion:
-    test-driven-development:
-    code-quality:
-    api-design:
-    queries:
+    completion: 4: Project completes all base requirements according to the spec harness.
+    test-driven-development: 3: Project demonstrates high test coverage (>80%) and tests at the controller and unit levels.
+    code-quality: 4: Project demonstrates exceptionally well factored code.
+    api-design: 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
+    queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
   Ross Edfort:
     repo:
     instructor:
