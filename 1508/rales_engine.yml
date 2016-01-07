@@ -170,14 +170,14 @@ submissions:
     api-design:
     queries:
   Ryan Johnson:
-    repo:
-    instructor:
-    notes:
-    completion:
-    test-driven-development:
-    code-quality:
-    api-design:
-    queries:
+    repo: https://github.com/rjohnson4444/rails-engine
+    instructor: Josh M.
+    notes: 5 failures. A lot of tests (98%) but some don't test functionality. MVC is really solid. Super clean Controllers and Models. Using hashes in the model to format for the JSON response; should use serializers.
+    completion: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
+    test-driven-development: 3+: Project completes most requirements but fails 5 or fewer spec harness tests.
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    api-design: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+    queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
   Sekhar Paladugu:
     repo:
     instructor:
