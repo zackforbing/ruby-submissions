@@ -64,7 +64,7 @@
 #### Joseph Perry
 
 * GitHub Repo: https://github.com/jwperry/swift_stats
-* Pig Latin Repo:
+* Pig Latin Repo: https://github.com/jwperry/pig_latin_translator
 * Event Reporter Repo:
 
 #### Lenny Myerson
