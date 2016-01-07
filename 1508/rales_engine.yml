@@ -99,13 +99,13 @@ submissions:
 
   Marlo Major:
     repo:
-    instructor:
-    notes:
-    completion:
-    test-driven-development:
-    code-quality:
-    api-design:
-    queries:
+    instructor: Josh M.
+    notes: 5 failures. 69% Test coverage.
+    completion: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
+    test-driven-development: 2: Project demonstrates high test coverage (>70%) but does not adequately balance controller and unit tests.
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    api-design: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+    queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes
   Matt Rooney:
     repo:
     instructor:
