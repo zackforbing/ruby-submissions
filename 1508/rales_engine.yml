@@ -48,7 +48,7 @@ submissions:
     repo:
     instructor:
     notes:
-    completion:
+    completion: 3: Project completes most requirements but fails 5 or fewer spec harness tests.
     test-driven-development:
     code-quality:
     api-design:
