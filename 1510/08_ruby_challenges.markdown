@@ -82,8 +82,8 @@
 #### Steve Pentler
 
 * GitHub Repo: https://github.com/stevepentler/Taylor-Swift-Has-Bad-Lyrics
-* Pig Latin Repo:
-* Event Reporter Repo:
+* Pig Latin Repo: https://github.com/stevepentler/code_challenges/tree/master/pig_latin
+* Event Reporter Repo: https://github.com/stevepentler/code_challenges/tree/master/italian_plumbler
 
 #### Steven Olson
 
