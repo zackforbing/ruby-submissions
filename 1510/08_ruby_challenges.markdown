@@ -88,7 +88,7 @@
 #### Steven Olson
 
 * GitHub Repo: https://github.com/SteveOscar/ruby_challenges
-* Pig Latin Repo:
+* Pig Latin Repo: https://github.com/SteveOscar/ruby_challenges/blob/master/pig-latin/pig_latin.rb
 * Event Reporter Repo:
 
 #### Taylor Moore
