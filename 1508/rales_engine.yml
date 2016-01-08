@@ -9,14 +9,13 @@ submissions:
     api-design: 3
     queries: 3
   Adam Jensen:
-    repo:
-    instructor:
-    notes:
-    completion:
-    test-driven-development:
-    code-quality:
-    api-design:
-    queries:
+    repo: https://github.com/adamki/rales-engine-2
+    instructor: Tess
+    completion: 3.5
+    test-driven-development: 4
+    code-quality: 3
+    api-design: 3.5
+    queries: 4
   Amber Crawford:
     repo: github.com/amcrawford/rails_engine
     instructor: Andrew
@@ -72,30 +71,30 @@ submissions:
     api-design: 3
     queries: 3
   Jill Donohue:
-    repo:
-    instructor:
-    notes:
-    completion:
-    test-driven-development:
-    code-quality:
-    api-design:
-    queries:
+    repo: https://github.com/jillmd501/rails_engine
+    instructor: Tess
+    notes: Good use of active record. Would be useful to use serializers
+    completion: 3
+    test-driven-development: 3
+    code-quality: 3
+    api-design: 3
+    queries: 4
   John Slota:
-    repo:
-    instructor:
-    notes:
-    completion:
-    test-driven-development:
-    code-quality:
-    api-design:
-    queries:
+    repo: https://github.com/slotaj/rails-engine
+    instructor: Tess
+    notes: Sort of hacky when didn't use serializers
+    completion: 3
+    test-driven-development: 4
+    code-quality: 3
+    api-design: 3
+    queries: 3
   Justin Pease:
-    repo:
-    completion:
-    test-driven-development:
-    code-quality:
-    api-design:
-    queries:
+    repo: https://github.com/jpease1020/Rails-Engine
+    completion: 4
+    test-driven-development: 4
+    code-quality: 3
+    api-design: 3
+    queries: 4
 
   Marlo Major:
     repo:
@@ -116,23 +115,23 @@ submissions:
     api-design: 3
     queries: 3.5
   Matt Stjernholm:
-    repo:
-    instructor:
+    repo: https://github.com/matt-stj/rales_engine
+    instructor: Tess
     notes:
-    completion:
-    test-driven-development:
-    code-quality:
-    api-design:
-    queries:
+    completion: 3
+    test-driven-development: 4
+    code-quality: 3
+    api-design: 3.5
+    queries: 3
   Michael Wong:
-    repo:
-    instructor:
+    repo: https://github.com/Kealii/rails_engine_2
+    instructor: Tess
     notes:
-    completion:
-    test-driven-development:
-    code-quality:
-    api-design:
-    queries:
+    completion: 4
+    test-driven-development: 4
+    code-quality: 3
+    api-design: 3.5
+    queries: 3
   Nicole Hall:
     repo:
     instructor: Josh M.
@@ -143,14 +142,14 @@ submissions:
     api-design: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
     queries: : 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
   Pat Wey:
-    repo:
-    instructor:
-    notes:
-    completion:
-    test-driven-development:
-    code-quality:
-    api-design:
-    queries:
+    repo: https://github.com/patwey/rails_engine
+    instructor: Tess
+    notes: Loved the restful API design, would benefit from serializers
+    completion: 3
+    test-driven-development: 4
+    code-quality: 3
+    api-design: 3
+    queries: 3
   Robbie Lane:
     repo:
     instructor: Josh M.
@@ -206,9 +205,9 @@ submissions:
     api-design: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
     queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.
   Tyler Komoroske:
-    repo:
-    completion:
-    test-driven-development:
-    code-quality:
-    api-design:
-    queries:
+    repo: https://github.com/tjkomor/rails_engine
+    completion: 3
+    test-driven-development: 3.5
+    code-quality: 3
+    api-design: 3
+    queries: 3
