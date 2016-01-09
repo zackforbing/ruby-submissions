@@ -4,14 +4,14 @@
 #### Aaron Greenspan
 
 * GitHub Repo: https://github.com/afg419/swift_stats
-* Pig Latin Repo:
-* Event Reporter Repo:
+* Pig Latin Repo: 
+* Event Reporter Repo: https://github.com/afg419/event_reporter
 
 #### Beth Sebian
 
 * GitHub Repo: https://github.com/bethsebian/code_challenge
 * Pig Latin Repo:
-* Event Reporter Repo:
+* Event Reporter Repo: 
 
 #### Brant Wellman
 
