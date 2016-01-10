@@ -28,8 +28,8 @@
 #### Dan Winter
 
 * GitHub Repo: https://github.com/danjwinter/tswift_lyrics
-* Pig Latin Repo:
-* Event Reporter Repo:
+* Pig Latin Repo: https://github.com/danjwinter/pig_latin
+* Mario Repo: https://github.com/danjwinter/mario
 
 #### Beth Secor
 
