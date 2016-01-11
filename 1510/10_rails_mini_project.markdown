@@ -42,9 +42,9 @@ Heroku Link:
 
 Team: Brant Wellman & James Crockett
 
-Github Repo:
+Github Repo: https://github.com/brantwellman/Turing-Visit_Jim
 
-Heroku Link:
+Heroku Link: http://visit-jim.herokuapp.com/
 
 
 Team: Toni Rib & Beth Sebian & Lenny Myerson
