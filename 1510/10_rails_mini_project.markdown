@@ -1,8 +1,8 @@
 Team: Aaron Greenspan & Beth Secor
 
-Github Repo:
+Github Repo: https://github.com/afg419/fantasy_fighters
 
-Heroku Link:
+Heroku Link: https://tranquil-dusk-3389.herokuapp.com/
 
 
 Team: Greg Armstrong & Steve Pentler
