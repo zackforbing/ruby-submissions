@@ -7,9 +7,9 @@ Heroku Link: https://tranquil-dusk-3389.herokuapp.com/
 
 Team: Greg Armstrong & Steve Pentler
 
-Github Repo:
+Github Repo: https://github.com/GregoryArmstrong/MoneyTracker
 
-Heroku Link:
+Heroku Link: http://boiling-brushlands-5240.herokuapp.com
 
 
 Team: Hector Huertas Baeza & Dan Winter
@@ -52,5 +52,3 @@ Team: Toni Rib & Beth Sebian & Lenny Myerson
 Github Repo: https://github.com/bethsebian/gif_generator
 
 Heroku Link: https://guarded-taiga-8530.herokuapp.com/
-
-
