@@ -21,9 +21,9 @@ Heroku Link:
 
 Team: Steven Olson & Brenna Martenson
 
-Github Repo:
+Github Repo: https://github.com/SteveOscar/breve_project
 
-Heroku Link:
+Heroku Link: https://protected-island-3273.herokuapp.com/
 
 
 Team: Penney Garrett & Jordan Lawler
