@@ -49,8 +49,8 @@ Heroku Link:
 
 Team: Toni Rib & Beth Sebian & Lenny Myerson
 
-Github Repo:
+Github Repo: https://github.com/bethsebian/gif_generator
 
-Heroku Link:
+Heroku Link: https://guarded-taiga-8530.herokuapp.com/
 
 
