@@ -76,8 +76,8 @@
 #### Penney Garrett
 
 * GitHub Repo: https://github.com/PenneyGadget/code_challenges/tree/master/csv_manipulation
-* Pig Latin Repo:
-* Event Reporter Repo:
+* Pig Latin Repo: https://github.com/PenneyGadget/code_challenges/tree/master/pig_latin
+* Event Reporter Repo: https://github.com/PenneyGadget/event_reporter
 
 #### Steve Pentler
 
