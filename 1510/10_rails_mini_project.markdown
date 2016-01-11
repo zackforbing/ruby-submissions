@@ -28,9 +28,9 @@ Heroku Link: https://protected-island-3273.herokuapp.com/
 
 Team: Penney Garrett & Jordan Lawler
 
-Github Repo:
+Github Repo: https://github.com/PenneyGadget/alter_ego
 
-Heroku Link:
+Heroku Link: http://fathomless-cliffs-9769.herokuapp.com/
 
 
 Team: Joseph Perry & Taylor Moore
