@@ -23,10 +23,10 @@ name a method for the value it is going to return
 ### Evaluation
 
 * Functional Expectations 3
-* TDD 3
-* Encapsulation (1 - 4)
-* Ruby Style and Fundamentals (1 - 4)
-* Enumerables (1 - 4)
+* TDD 4
+* Encapsulation 3
+* Ruby Style and Fundamentals 3
+* Enumerables 3
 
 ## Evaluation Rubric
 
