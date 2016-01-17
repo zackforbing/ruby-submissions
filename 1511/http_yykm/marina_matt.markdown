@@ -6,6 +6,17 @@ __Instructor__ Horace
 
 ## Notes
 
+* Top-level server request/response loop algorithm is cleanly written
+and easy to follow; however it is currently just spread across a lengthy
+top-level loop in the project's main namespace
+* Project generally suffers from long and complicated methods. most of
+the concepts are there but the code needs to be cleaned up and
+extracted into at least more methods and probably more objects as well
+* Additionally the implementation relies on a lot of "magic numbers" - especially
+hardcoding specific array indices for certain data etc.; would like to see more
+of this extracted into variables and methods so that we can give them names
+that describe why they're so important to the algorithm
+
 ## Evaluation Rubric
 
 The project will be assessed with the following rubric:
