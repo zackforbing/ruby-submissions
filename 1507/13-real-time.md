@@ -152,6 +152,46 @@ Does it have the expected features?
 
 * 4 points - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 
+## Rob
+
+### Notes
+
+* Solid effort in constrained amount of time
+* implement a solid basic websocket app -- lets multiple clients connect
+and sends vote results between clients
+* Next steps would be to allow multiple running polls and allow admin to
+create new polls etc
+* start looking into logic to support updates with new questions
+* Server / Client code is small enough that it's easy to follow; as we start
+to add more complexity to it we will need some extra objects / files / etc to
+get pulled out
+
+### Concept and Features
+
+Does it have the expected features?
+
+* 50 points - Some features were sacrificed to meet the deadline. At best, this is a prototype. Major features covered by the learning goals listed above were not written by the developer.
+
+### Code Quality (JavaScript and/or Ruby)
+
+* 20 points - Developer writes effective code, but does not breakout logical components. Application shows some effort to break logic into components, but the divisions are inconsistent or unclear. There are many large methods or functions and it is not clear to the evaluator what a given section of code does.
+
+### Client-Side Application
+
+* 25 points - Your application is thoughtfully put together with some duplication and no major bugs.
+
+### Test-Driven Development
+
+* 0 points - No tests were written or the testing framework does not work.
+
+### Interface
+
+* 2 points - The application shows effort in the interface, but the result is not effective. The evaluator has some difficulty using the application when reviewing the features in the user stories.
+
+### Workflow
+
+* 4 points - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+
 ## Rubric
 
 ### Concept and Features
