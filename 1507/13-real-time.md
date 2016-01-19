@@ -14,29 +14,29 @@ obvious
 * Additionally would probably make testing easier since we would have more explicit insight into
 the connections between pieces of our system
 
-### Total: 152
+**Total:** 152
 
-### Concept and Features
+#### Concept and Features
 
 * 75 points - Met expectations as outlined by the user personas, the application is a solid first version. All planned features were delivered.
 
-### Code Quality (JavaScript and/or Ruby)
+#### Code Quality (JavaScript and/or Ruby)
 
 * 20 points - Developer writes effective code, but does not breakout logical components. Application shows some effort to break logic into components, but the divisions are inconsistent or unclear. There are many large methods or functions and it is not clear to the evaluator what a given section of code does.
 
-### Client-Side Application
+#### Client-Side Application
 
 * 25 points - Your application is thoughtfully put together with some duplication and no major bugs.
 
-### Test-Driven Development
+#### Test-Driven Development
 
 * 23 points - The code demonstrates high test coverage. One or more enpoints are not tested or the internal business logic is not fully tested.
 
-### Interface
+#### Interface
 
 * 4 points - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
 
-### Workflow
+#### Workflow
 
 * 5 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
@@ -47,6 +47,8 @@ the connections between pieces of our system
 URL: https://github.com/travishaby/let-the-people-speak/blob/master/README.md
 
 ### Notes
+
+**Total:** 176
 
 #### Concept and Features
 
@@ -85,6 +87,8 @@ vote system logic
 there to node and then to browser
 * Broke down around UI flow / management -- a little confusing to be bouncing between templates
 in the 2 apps
+
+**Total:** 153
 
 #### Concept and Features
 
