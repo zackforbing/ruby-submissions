@@ -166,9 +166,11 @@ create new polls etc
 to add more complexity to it we will need some extra objects / files / etc to
 get pulled out
 
+**Notes:** 101
+
 ### Concept and Features
 
-Does it have the expected features?
+does it have the expected features?
 
 * 50 points - Some features were sacrificed to meet the deadline. At best, this is a prototype. Major features covered by the learning goals listed above were not written by the developer.
 
