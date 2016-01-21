@@ -40,15 +40,15 @@ submissions:
     user-experience: 3
     performance: 4
   Emily Dowdle:
-    repo:
-    instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    repo: https://github.com/emilydowdle/lactation-station
+    instructor: Tess
+    notes: Really polished app and worked a lot with ajax. The passion for the project shows.
+    completion: 4
+    organization: 3
+    test-driven-development: 4
+    code-quality: 3
+    user-experience: 4
+    performance: 4
   Jason Pilz:
     repo:
     instructor:
