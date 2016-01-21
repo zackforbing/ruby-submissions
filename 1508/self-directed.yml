@@ -130,15 +130,15 @@ submissions:
     user-experience:
     performance:
   Matt Stjernholm:
-    repo:
-    instructor:
+    repo: https://github.com/matt-stj/snow_alert
+    instructor: Tess
     notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    completion: 4
+    organization: 3
+    test-driven-development: 4
+    code-quality: 3.5
+    user-experience: 4
+    performance: 4
   Michael Wong:
     repo: https://github.com/Kealii/wasting_steam
     instructor: Tess
@@ -160,15 +160,15 @@ submissions:
     user-experience:
     performance:
   Pat Wey:
-    repo:
-    instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    repo: https://github/patwey/corkboard
+    instructor: Tess
+    notes: Great polished app. 
+    completion: 4
+    organization: 4
+    test-driven-development: 3
+    code-quality: 3.5
+    user-experience: 4
+    performance: 4
   Robbie Lane:
     repo:
     instructor: Josh M.
@@ -200,15 +200,15 @@ submissions:
     user-experience: 3: Project exhibits a production-ready user experience.
     performance: 3: Project pages load on average under 400 milliseconds.
   Sekhar Paladugu:
-    repo:
-    instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    repo: https://github.com/sekharp/kids-catalog
+    instructor: Tess
+    notes: 
+    completion: 3
+    organization: 3
+    test-driven-development: 4
+    code-quality: 3
+    user-experience: 3
+    performance: 4
   Shannon Paige:
     repo:
     instructor:
@@ -220,15 +220,15 @@ submissions:
     user-experience: 3: Project exhibits a production-ready user experience.
     performance: 3: Project pages load on average under 400 milliseconds.
   Torie Warren:
-    repo:
-    instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    repo: https://github/toriejw/gluscription
+    instructor: Tess
+    notes: Nice and polished. Switched entire test suite to rspec. Would've like to see more features
+    completion: 4
+    organization: 3
+    test-driven-development: 4
+    code-quality: 3
+    user-experience: 3.5
+    performance: 4
   Tyler Komoroske:
     repo:
     instructor: Josh M.
