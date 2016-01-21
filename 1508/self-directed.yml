@@ -191,14 +191,14 @@ submissions:
     performance: 3
   Ryan Johnson:
     repo:
-    instructor:
+    instructor: Josh M.
     notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+    organization: 4: Developer used a project management tool and updated their progress in real-time.
+    test-driven-development: 3: Project shows adequate testing (90% - 95% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 3: Project pages load on average under 400 milliseconds.
   Sekhar Paladugu:
     repo:
     instructor:
@@ -213,12 +213,12 @@ submissions:
     repo:
     instructor:
     notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    completion: 3: Developer completed all the user stories and requirements set by the client.
+    organization: 3: Developer used a project management tool to keep their project organized.
+    test-driven-development: 1: Project lacks sufficient testing (under 85% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 3: Project pages load on average under 400 milliseconds.
   Torie Warren:
     repo:
     instructor:
