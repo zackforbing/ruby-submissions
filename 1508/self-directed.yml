@@ -61,14 +61,14 @@ submissions:
     performance: 4
   Jerrod Paul Junker:
     repo:
-    instructor:
+    instructor: Josh M.
     notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    completion: 2: Developer completed most of the user stories and requirements set by the client.
+    organization: 4: Developer used a project management tool and updated their progress in real-time.
+    test-driven-development: 1: Project lacks sufficient testing (under 85% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 2: Project exhibits some gaps in the UX.
+    performance: 2: Project pages load on average under 500 milliseconds.
   Jhun de Andres:
     repo:
     instructor: Josh M.
@@ -142,7 +142,7 @@ submissions:
   Michael Wong:
     repo: https://github.com/Kealii/wasting_steam
     instructor: Tess
-    notes: Nice to see works for large accounts. 
+    notes: Nice to see works for large accounts.
     completion: 3
     organization: 3
     test-driven-development: 3
