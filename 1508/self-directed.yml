@@ -1,14 +1,14 @@
 submissions:
   Aaron Careaga:
     repo:
-    instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    instructor: Josh M.
+    notes: Mostly JS and very little Ruby. Pushed boundries on what was taught in class. All data on the page is loading using AJAX.
+    completion: 4
+    organization: 4
+    test-driven-development: 3: Project shows adequate testing (90% - 95% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 4: Project exhibits a production-ready and polished UX.
+    performance: 2: Project pages load on average under 500 milliseconds.
   Adam Jensen:
     repo:
     instructor:
@@ -71,14 +71,14 @@ submissions:
     performance:
   Jhun de Andres:
     repo:
-    instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    instructor: Josh M.
+    notes: Mostly JS and very little Ruby. Pushed boundries on what was taught in class. All data on the page is loading using AJAX.
+    completion: 4
+    organization: 4
+    test-driven-development: 3: Project shows adequate testing (90% - 95% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 4: Project exhibits a production-ready and polished UX.
+    performance: 2: Project pages load on average under 500 milliseconds.
   Jill Donohue:
     repo:
     instructor:
