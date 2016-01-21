@@ -1,14 +1,19 @@
-# <Team Members>
+# Marina Corona & Heidi Hoopes
 
-**Instructor:**
+**Instructor:** Josh Cheek
 
-**Repo Url:**
+**Repo Url:** https://github.com/marinacor1/headcount
 
 ## Notes
 
 ## Evaluation Rubric
 
 ### 1. Functional Expectations
+
+Score: 2
+
+* Completed: 0-4
+* Part of iteration 5
 
 * 4: Application fulfills all expectations of Iterations 0 - 6 *as well as* one additional, comparable Iteration of your own design.
 * 3: Application fulfills expectations of Iterations 0 - 4 *as well as* one of Iterations 5 or 6
@@ -17,12 +22,29 @@
 
 ### 2. Test-Driven Development
 
+Score: 3
+
+* Tests pass:
+
+  ```
+  Finished in 2.2 seconds (files took 0.82601 seconds to load)
+  80 examples, 0 failures, 13 pending
+  ```
+* Many pending
+* Test harness: (8/23) -- 23 runs, 104 assertions, 3 failures, 5 errors, 0 skips
+* 7 files under 80% coverage
+
+
 * 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 * 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 * 2: Application makes some use of tests, but the coverage is insufficient
 * 1: Application does not demonstrate strong use of TDD
 
 ### 3. Encapsulation / Breaking Logic into Components
+
+Score: 3
+
+* The best place to push common behaviour is: earlier in the callstack (ie to my environment)
 
 * 4: Application is expertly divided into logical components each with a clear, single responsibility
 * 3: Application effectively breaks logical components apart but breaks the principle of SRP
@@ -31,12 +53,18 @@
 
 ### 4. Fundamental Ruby & Style
 
+Score: 3
+
+* Keep your eye on indentation
+
 * 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 * 3:  Application shows strong effort towards organization, content, and refactoring
 * 2:  Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
 * 1:  Application generates syntax error or crashes during execution
 
 ### 5. Enumerable & Collections
+
+Score: 3
 
 * 4: Application consistently makes use of the best-choice Enumerable methods
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
