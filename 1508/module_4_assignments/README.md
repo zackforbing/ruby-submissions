@@ -9,3 +9,4 @@ In this folder, we will add yet another folder for each major assignment - and a
 -----
 
 * [1508 Intermission Assignments](https://github.com/turingschool/intermission-assignments/issues?q=is%3Aopen+is%3Aissue+label%3A1508)
+* [IdeaBox 2.0](ideabox2.0/)
