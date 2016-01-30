@@ -41,7 +41,7 @@
 ### Link to a specific block of your code on Github that you feel not great about
 #### Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
 
-### Attach a screenshot of paste the output from your terminal of the result of your test-suite running.
+### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
