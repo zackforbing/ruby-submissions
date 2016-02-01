@@ -9,4 +9,5 @@ In this folder, we will add yet another folder for each major assignment - and a
 -----
 
 * [1508 Intermission Assignments](https://github.com/turingschool/intermission-assignments/issues?q=is%3Aopen+is%3Aissue+label%3A1508)
+* [ES6 Homework](https://gist.github.com/rrgayhart/7314cb7da3ee8b1e131d) (3 points)
 * [IdeaBox 2.0](ideabox2.0/)
