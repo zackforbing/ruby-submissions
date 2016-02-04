@@ -18,7 +18,7 @@
 [Your Commits](https://github.com/jillmd501/IdeaBox-JS/commits/master)
 
 ### Provide a Screenshot of your Application
-[jill](images/homepage.jpg)
+![Home](images/jill_homepage.jpg)
 
 ## Completion
 
@@ -50,7 +50,7 @@ I spent about 60% of the project working on thumbs up and thumbs down.  I starte
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
-[jill](images/test_suite.jpg)
+![jill](images/jill_test_suite.jpg)
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
