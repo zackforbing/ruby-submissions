@@ -47,3 +47,31 @@
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
+---
+
+## Points
+
+Tests included feature tests. Minor refactoring opportunities in a controller action that creates an idea. Duplication could be removed from couple of functions. String interpolation would have made Matt's life easier. Good job overall.
+
+**Overall Points**: 156
+
+### Project Requirements
+
+* Data Model - 5 points
+* Viewing Ideas - 10 points
+* Adding a New Idea - 15 points
+* Deleting an Existing Idea - 15 points
+* Changing the Quality of the Idea - 15 points
+* Editing an Existing Idea - 20 points
+* Idea Filtering and Searching - 15 points
+* Inline Idea Editing - 10 points
+
+### Instructor Evaluation Points
+
+* Specification Adherence - 10 points
+* User Interface - 5 points
+* Testing - 10 points
+* Ruby on Rails Quality - 8 points
+* JavaScript Style - 8 points
+* Workflow - 10 points
