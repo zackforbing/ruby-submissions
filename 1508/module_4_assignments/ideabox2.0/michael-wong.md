@@ -11,7 +11,7 @@
 [My Repo](https://github.com/Kealii/ideabox)
 
 ### Link to the Deployed Application
-[My Application](ideabox-wong.herokuapp.com)
+[My Application](https://ideabox-wong.herokuapp.com)
 
 ### Link to Your Commits in the Github Repository for the Project
 [My Commits](https://github.com/Kealii/ideabox/commits/master)
