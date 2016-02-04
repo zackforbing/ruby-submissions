@@ -50,3 +50,29 @@
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
 -----
+
+## Points
+
+Really complete projects. Use of ES6 features. More consistency needed. Strong functionality. Client-side testing needed.
+
+**Overall Points**: 156 points
+
+### Project Requirements
+
+* Data Model - 5 points
+* Viewing Ideas - 10 points
+* Adding a New Idea - 15 points
+* Deleting an Existing Idea - 15 points
+* Changing the Quality of the Idea - 15 points
+* Editing an Existing Idea - 20 points
+* Idea Filtering and Searching - 15 points
+* Inline Idea Editing - 10 points
+
+### Instructor Evaluation Points
+
+* Specification Adherence - 10 points
+* User Interface - 5 points
+* Testing - 8 points
+* Ruby on Rails Quality - 10 points
+* JavaScript Style - 8 points
+* Workflow - 10 points
