@@ -39,8 +39,9 @@ Only my model [tests](https://github.com/rossedfort/idea_box_two/blob/master/spe
 
 ### Please feel free to ask any other questions or make any other statements below!
 I had a few questions during the project that I didn't have time to get answered:
-* Is there a shorthand syntax for AJAX put and delete calls? I am only aware of `$.post` and `.getJSON`/`$.get`
+
 * What is the difference between a `$('.something').data('id')` and `$('.something').attr('data-id')`? I ran into an issue where I was calling these on the same variable and they were returning different values. ![Weird Error](images/edfort_idea_box_error.png)
+* is there a shorthand syntax for AJAX put and delete calls? I am only aware of `$.post` and `.getJSON`/`$.get`
 * In terms of convention, is it better to have more functions in less files? Or less functions in more files? Or something different entirely?
 * How should a JSON response look for a sad path i.e. [this](https://github.com/rossedfort/idea_box_two/blob/master/app/controllers/api/v1/ideas_controller.rb#L14) Not only did I have trouble testing this, I feel as though it isn't quite right
 * fun project 😁
