@@ -55,7 +55,7 @@
 
 Really complete projects. Use of ES6 features. More consistency needed. Strong functionality. Client-side testing needed.
 
-**Overall Points**: 201 points
+**Overall Points**: 156 points
 
 ### Project Requirements
 
