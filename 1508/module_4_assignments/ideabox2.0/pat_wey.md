@@ -13,16 +13,16 @@
 # Basics
 
 ### Link to the Github Repository for the Project
-[Your Repo](http://giantbatfarts.com/)
+[patwey/idea_box](http://github.com/patwey/idea_box)
 
 ### Link to the Deployed Application
-[Your Application](http://burymewithmymoney.com/)
+[ideabox-patwey](http://ideabox-patwey.herokuapp.com/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Your Commits](http://beesbeesbees.com/)
+[Commits](http://github.com/patwey/idea_box/commits/master)
 
 ### Provide a Screenshot of your Application
-![spacejam](images/spacejam.jpg)
+![ideabox](images/spacejam.jpg)
 
 ## Completion
 
