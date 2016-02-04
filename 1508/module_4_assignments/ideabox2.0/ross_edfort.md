@@ -15,7 +15,7 @@
 Yes, I was able to complete all of the base functionality
 
 ### Which extensions, if any, did you complete?
-I completed the inline editing extension
+I completed the inline editing extension and the sort extension
 
 ![IdeaBox Demo](images/edfort_idea_box.gif)
 # Code Quality
