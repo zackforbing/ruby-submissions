@@ -39,7 +39,7 @@ Only my model [tests](https://github.com/rossedfort/idea_box_two/blob/master/spe
 ### Please feel free to ask any other questions or make any other statements below!
 I had a few questions during the project that I didn't have time to get answered:
 * is there a shorthand syntax for AJAX put and delete calls? I am only aware of `$.post` and `.getJSON`/`$.get`
-* why isn's my `event.preventDefault();` working [here](https://github.com/rossedfort/idea_box_two/blob/master/app/assets/javascripts/update_inline.js#L47)?
+* why isn't my `event.preventDefault();` working [here](https://github.com/rossedfort/idea_box_two/blob/master/app/assets/javascripts/update_inline.js#L47)?
 * In terms of convention, is it better to have more functions in less files? Or less functions in more files? Or something different entirely?
 * How should a JSON response look for a sad path i.e. [this](https://github.com/rossedfort/idea_box_two/blob/master/app/controllers/api/v1/ideas_controller.rb#L14) Not only did I have trouble testing this, I feel as though it isn't quite right
 * fun project 😁
