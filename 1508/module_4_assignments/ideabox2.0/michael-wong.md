@@ -98,10 +98,7 @@ This test covers clicking the + button while rating is maxed.
 
 ### Testing
 
-* **10 points** - Project has a running test suite that exercises the application at multiple levels including JavaScript tests.
 * **8 points** - Project has a running test suite that tests and multiple levels but fails to cover some features. All controller actions are covered by tests. The application makes some use of integration testing.
-* **5 points** - Project has sporadic use of tests and multiple levels. Not all controller actions are tested. There are little or no attempts at integration testing.
-* **0 points** - There is little or no evidence of testing in this application.
 
 ### Ruby and Rails Quality
 
