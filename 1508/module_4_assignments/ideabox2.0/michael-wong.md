@@ -1,9 +1,7 @@
 # Ideabox 2.0 Submission Form
 [Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
 
-* Pro Tip: You can use [recordit.co](http://recordit.co/) to record interaction gifs.
 * Secondary Pro Tip: [Here's how to link to specific line number(s) in Github](http://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github)
-* Tertiary Pro Tip: You can re-use some of these things in your portfolio/resume
 
 ------
 
@@ -19,7 +17,7 @@
 [My Commits](https://github.com/Kealii/ideabox/commits/master)
 
 ### Provide a Screenshot of your Application
-![ideabox](images/wong-ideabox.jpg)
+![ideabox](images/wong-ideabox.png)
 
 ## Completion
 
