@@ -43,11 +43,21 @@ N/A
 
 ### Link to a specific block of your code on Github that you are proud of
 #### Why were you proud of this piece of code?
+[/javascripts/edit_idea.js](https://github.com/tjkomor/ideabox_js_beast/blob/master/app/assets/javascripts/edit_idea.js)
+
+I'm proud of this code because I completely restarted this project 12 hours
+before it was due and I can explain each line of code in this file. I definitely
+struggled a lot with this project, but when I look back, I am extremely proud of
+what I was able to learn and understand in 72 hours.
 
 ### Link to a specific block of your code on Github that you feel not great about
 #### Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+[/javascripts/render_idea.js](https://github.com/tjkomor/ideabox_js_beast/blob/master/app/assets/javascripts/render_idea.js)
 
-
+It took me so long how to figure out how to do this. It was extremely frustrating.
+Overall, I do not feel great about the code that I did not get a chance to write. I was
+really hoping to fulfill more of the base expectations, but it certainly was not
+for lack of effort.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
