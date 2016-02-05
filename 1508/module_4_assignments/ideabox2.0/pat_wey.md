@@ -54,3 +54,32 @@ This represents an overarching problem that I didn't address - handling sad path
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
 [Truncation Edge Case](https://github.com/patwey/idea_box/blob/master/spec/javascripts/truncate_body_spec.js#L29)
+
+---
+
+## Points
+
+Great UX and functionality. Thanks for making Steve happy by graying out the upvote buttons! Excellent example of testing with Teaspoon. Keep an eye on how truncation works on edit and ordering after edit. Excellent work, sir.
+
+![magnum](http://i.giphy.com/J3qNGf9B6WjgA.gif)
+
+**Overall Points**: 148
+
+### Project Requirements
+
+* Data Model - 5 points
+* Viewing Ideas - 10 points
+* Adding a New Idea - 15 points
+* Deleting an Existing Idea - 15 points
+* Changing the Quality of the Idea - 17 points
+* Editing an Existing Idea - 20 points
+* Idea Filtering and Searching - 15 points
+
+### Instructor Evaluation Points
+
+* Specification Adherence - 10 points
+* User Interface - 3 points
+* Testing - 5 points
+* Ruby on Rails Quality - 10 points
+* JavaScript Style - 8 points
+* Workflow - 10 points
