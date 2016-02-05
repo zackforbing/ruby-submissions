@@ -45,6 +45,31 @@ I really felt this could've been consolidated into one, but I did not get it don
 [Testing](images/sekharp_test_suite.jpg)
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
+
 -----
 
-### Please feel free to ask any other questions or make any other statements below!
+## Points
+
+Keep an eye out for files in your commits that shouldn't be there (like generated .coffee files)! Using something like gitx to check commits and stage them in pieces would be super helpful. Good job conquering the 'JavaScript Nightmare' :D
+
+**Overall Points**: 144 points
+
+### Project Requirements
+
+* Data Model - 5 points
+* Viewing Ideas - 10 points
+* Adding a New Idea - 15 points
+* Deleting an Existing Idea - 15 points
+* Changing the Quality of the Idea - 15 points
+* Editing an Existing Idea - 20 points
+* Idea Filtering and Searching - 15 points
+* Inline Idea Editing - 9 points
+
+### Instructor Evaluation Points
+
+* Specification Adherence - 10 points
+* User Interface - 5 points
+* Testing - 5 points
+* Ruby on Rails Quality - 10 points
+* JavaScript Style - 5 points
+* Workflow - 5 points
