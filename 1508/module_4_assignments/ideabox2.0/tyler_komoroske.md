@@ -64,6 +64,9 @@ for lack of effort.
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
 -----
+## Points
+
+Good job on working with another classmate to conquer the challenge. Missing intermission week work definitely made this project a little harder - so keep cramming on JavaScript over the weekend!
 
 **Overall Points**: 114
 
