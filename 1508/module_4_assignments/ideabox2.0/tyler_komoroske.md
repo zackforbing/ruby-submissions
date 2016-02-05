@@ -65,4 +65,26 @@ for lack of effort.
 
 -----
 
+**Overall Points**: 114
+
+### Project Requirements
+
+* Data Model - 5 points
+* Viewing Ideas - 5 points
+* Adding a New Idea - 15 points
+* Deleting an Existing Idea - 15 points
+* Changing the Quality of the Idea - 0 points
+* Editing an Existing Idea - 20 points
+* Idea Filtering and Searching - 3 points
+* Inline Editing - 8 points
+
+### Instructor Evaluation Points
+
+* Specification Adherence - 10 points
+* User Interface - 5 points
+* Testing - 5 points
+* Ruby on Rails Quality - 10 points
+* JavaScript Style - 3 points
+* Workflow - 10 points
+
 ### Please feel free to ask any other questions or make any other statements below!
