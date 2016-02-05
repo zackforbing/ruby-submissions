@@ -13,71 +13,69 @@
 # Basics
 
 ### Link to the Github Repository for the Project
-* [My Yung-Repo](https://github.com/joshuajhun/ideaBox2.0)  
+[Your Repo](http://github.com/marlomajor/ideabox_js)
 
 ### Link to the Deployed Application
-* [My Yung-Application](http://idea-box-jhun.herokuapp.com)
+[Your Application](http://ideabox-two.herokuapp.com)
 
 ### Link to Your Commits in the Github Repository for the Project
-* [All of my Yung-Commits](https://github.com/joshuajhun/ideaBox2.0/commits/)
+[Your Commits](https://github.com/marlomajor/ideabox_js/commits/master)
 
 ### Provide a Screenshot of your Application
-* ![create](images/jhun_create.gif)
-* ![delete](images/jhun_deleteme.gif)
-* ![inline edit](images/jhun_inlineedit.gif)
-* ![like/dislike](images/jhun_like_dislike.gif)
-* ![truncate](images/jhun_out.gif)
+![marlo_app](images/marlo_major_app.png)
 
 ## Completion
 
 ### Were you able to complete the base functionality?
-* Yes I was :D
 #### If not, list what functionality is missing.
+CRUD functionality works. The only portion I was not able to complete were the upvotes and other related minor requirements.
 
 ### Which extensions, if any, did you complete?
-* I completed the inline edit function
+Inline editing.
 
 ### Attach a .gif, or images of any extensions work being used on the site.
-* ![inline edit](images/jhun_inlineedit.gif)
+[marlo_app](images/ideabox_extensions.png)
+
 
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-* [link to code](https://github.com/joshuajhun/ideaBox2.0/blob/master/app/assets/javascripts/ideabox_service.js#L51-L72)
+[UpdateIdea.js](https://github.com/marlomajor/ideabox_js/blob/master/app/assets/javascripts/update_idea.js)
 #### Why were you proud of this piece of code?
-* I am proud of this code because It took me forever to really get and understand. I feel like this function really solidified the way I debug things. I was able to console log my clicks and from there really put together how to inline edit the idea name. It was a good struggle because it hit all the areas of JavaScript I wanted to get better at
+This was the last crud funtionality I got working and by this point, I felt as though the code was pretty good quality.
+
 ### Link to a specific block of your code on Github that you feel not great about
-[link to code] (https://github.com/joshuajhun/ideaBox2.0/blob/master/app/assets/javascripts/ideabox_service.js#L95-L119)
+[UpvoteIdea.js](https://github.com/marlomajor/ideabox_js/blob/master/app/assets/javascripts/upvote_idea.js)
 #### Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
-* it's messy. I feel like there is such a better and cleaner way to implement an easy function. This method is  somethings that took me a while to get and understand.
+I didn't finish this requirement.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-![controller test](images/jhun_minitest.png)
-![js tests](images/jhun_magic.png)
+[marlo_app](images/marlo_major_test_suite.png)
+
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+I think I'm starting to enjoy JS...
 
 ---
 
 ## Points
 
-Good naming, good handle of abstraction. Very easy to read. Could be more consistent in style. Models need test. Client-side testing needed. Solid project.
+Hooray for using Pat's project for story tracking! Good work and good explanation on the project. I think you'll do an excellent job on GameTime.
 
-**Overall Points**: 156
+**Overall Points**: 116
 
 ### Project Requirements
 
 * Data Model - 5 points
-* Viewing Ideas - 10 points
+* Viewing Ideas - 5 points
 * Adding a New Idea - 15 points
 * Deleting an Existing Idea - 15 points
-* Changing the Quality of the Idea - 15 points
+* Changing the Quality of the Idea - 3 points
 * Editing an Existing Idea - 20 points
-* Idea Filtering and Searching - 15 points
-* Inline Idea Editing - 10 points
+* Idea Filtering and Searching - 3 points
 
 ### Instructor Evaluation Points
 
@@ -86,4 +84,4 @@ Good naming, good handle of abstraction. Very easy to read. Could be more consis
 * Testing - 5 points
 * Ruby on Rails Quality - 10 points
 * JavaScript Style - 8 points
-* Workflow - 8 points
+* Workflow - 12 points

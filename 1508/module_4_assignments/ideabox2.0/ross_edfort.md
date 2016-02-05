@@ -45,3 +45,32 @@ I had a few questions during the project that I didn't have time to get answered
 * In terms of convention, is it better to have more functions in less files? Or less functions in more files? Or something different entirely?
 * How should a JSON response look for a sad path i.e. [this](https://github.com/rossedfort/idea_box_two/blob/master/app/controllers/api/v1/ideas_controller.rb#L14) Not only did I have trouble testing this, I feel as though it isn't quite right
 * fun project 😁
+
+---
+
+## Points
+
+Good test coverage. First project that tests client-side. Minor refactoring opportunities on Rails controller action that creates ideas. JavaScript looks solid, but could have used ES6 for string interpolation. Overall, a strong project.
+
+**Overall Points**: 163 points
+
+### Project Requirements
+
+* Data Model - 5 points
+* Viewing Ideas - 8 points
+* Adding a New Idea - 15 points
+* Deleting an Existing Idea - 15 points
+* Changing the Quality of the Idea - 15 points
+* Editing an Existing Idea - 20 points
+* Idea Filtering and Searching - 15 points
+* Inline Idea Editing - 9 points
+* Sorting - 10 points
+
+### Instructor Evaluation Points
+
+* Specification Adherence - 10 points
+* User Interface - 5 points
+* Testing - 10 points
+* Ruby on Rails Quality - 8 points
+* JavaScript Style - 8 points
+* Workflow - 10 points
