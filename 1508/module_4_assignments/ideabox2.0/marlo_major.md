@@ -58,3 +58,30 @@ I didn't finish this requirement.
 
 ### Please feel free to ask any other questions or make any other statements below!
 I think I'm starting to enjoy JS...
+
+---
+
+## Points
+
+Hooray for using Pat's project for story tracking! Good work and good explanation on the project. I think you'll do an excellent job on GameTime.
+
+**Overall Points**: 116
+
+### Project Requirements
+
+* Data Model - 5 points
+* Viewing Ideas - 5 points
+* Adding a New Idea - 15 points
+* Deleting an Existing Idea - 15 points
+* Changing the Quality of the Idea - 3 points
+* Editing an Existing Idea - 20 points
+* Idea Filtering and Searching - 3 points
+
+### Instructor Evaluation Points
+
+* Specification Adherence - 10 points
+* User Interface - 5 points
+* Testing - 5 points
+* Ruby on Rails Quality - 10 points
+* JavaScript Style - 8 points
+* Workflow - 12 points
