@@ -79,7 +79,7 @@ Great UX and functionality. Thanks for making Steve happy by graying out the upv
 
 * Specification Adherence - 10 points
 * User Interface - 3 points
-* Testing - 5 points
+* Testing - 10 points
 * Ruby on Rails Quality - 10 points
 * JavaScript Style - 8 points
 * Workflow - 10 points
