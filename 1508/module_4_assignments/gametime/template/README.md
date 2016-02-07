@@ -1,5 +1,5 @@
 # Template Game's Name
-[Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
+[Project Spec](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 
 ### Team
 - [TeamMate1](https://github.com/dhh)

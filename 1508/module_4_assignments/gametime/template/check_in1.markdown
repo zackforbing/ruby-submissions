@@ -42,10 +42,10 @@ e.g.
 
 -----
 
-# Instructor Section
+## Instructor Section
 
-## Points for First Check In (base 50)
+### Points for First Check In (base 50)
 
-## Instructor's Goals for Next Check In
+### Instructor's Goals for Next Check In
 
-## Feedback?
+### Feedback?

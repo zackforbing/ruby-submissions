@@ -46,10 +46,10 @@ Complete this Form before the third check in. Delete this line from your version
 
 -----
 
-# Instructor Section
+## Instructor Section
 
-## Points for Third Check In (base 50)
+### Points for Third Check In (base 50)
 
-## Any Specific Goals for the Evals?
+### Any Specific Goals for the Evals?
 
-## Feedback?
+### Feedback?

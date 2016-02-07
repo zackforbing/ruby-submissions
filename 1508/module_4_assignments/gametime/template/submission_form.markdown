@@ -11,7 +11,8 @@ Complete this Form before the final eval. Delete this line from your version.
 [Your Application](https://www.youtube.com/watch?v=N1eNW7GG_Q8)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Your Commits](http://ericsteinborn.com/github-for-cats/img/typing.gif)
+[TeamMate1](http://ericsteinborn.com/github-for-cats/img/typing.gif)
+[TeamMate 2](http://ericsteinborn.com/github-for-cats/img/typing.gif)
 
 ### Provide a Screenshot of your Game
 ![spacejam](http://i.kinja-img.com/gawker-media/image/upload/s--I3c4ca1C--/18edh1v3ai4kcpng.png)

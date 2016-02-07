@@ -44,10 +44,10 @@ Complete this Form before the second check in. Delete this line from your versio
 
 -----
 
-# Instructor Section
+## Instructor Section
 
-## Points for Second Check In (base 50)
+### Points for Second Check In (base 50)
 
-## Instructor's Goals for Next Check In
+### Instructor's Goals for Next Check In
 
-## Feedback?
+### Feedback?
