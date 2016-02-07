@@ -3,6 +3,7 @@
 
 * Fork this repo, if you haven't already and check out a branch
 * Use the `template` folder as a template and create a gametime folder for your group
+* Update your GameTime's folder README.md with your project information
 
 ### Submissions
 
