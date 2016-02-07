@@ -62,3 +62,9 @@ Testing: 3
 Usability: 4
 
 Workflow: 4
+
+### Communication Examples:
+
+* https://github.com/bethsecor/little-shop-private-stache/pull/22
+* https://github.com/bethsecor/little-shop-private-stache/pull/61
+* https://github.com/bethsecor/little-shop-private-stache/pull/79
