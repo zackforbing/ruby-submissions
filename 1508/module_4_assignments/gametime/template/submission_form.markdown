@@ -53,10 +53,10 @@ Per Feature:
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
 ### Test Breakdown
-- How Many Model Tests?
+- How Many Unit Tests?
 - How Many Feature/Integration Tests?
 
-### Provide a link to an example, if you have one, of a model test that covers an 'edge case' or 'unhappy path'
+### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
 
 ### Provide a link to an example, if you have one, of a feature test that covers an 'edge case' or 'unhappy path'
 
