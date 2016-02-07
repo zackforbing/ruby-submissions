@@ -17,6 +17,7 @@ In this folder, we will add yet another folder for each major assignment - and a
 * [Sorting Video](https://gist.github.com/stevekinney/9e9cfeb225c8133fda73) (3 points)
 
 #### Week 2
+* [Game Time](gametime/)
 * [The Concept of Require](https://gist.github.com/rrgayhart/706de83a136d69ce54a7) (3 points)
 * [Writing Testable JavaScript](https://gist.github.com/rrgayhart/b6dbcdc937b45563b2e4) (3 points)
 * [Mary Rose Cook live-codes](https://gist.github.com/stevekinney/353182d7cd10fb4a5b27) (3 points)
