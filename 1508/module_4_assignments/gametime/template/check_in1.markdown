@@ -10,24 +10,24 @@ Complete this Form and the README.md before the first check in. Delete this line
 
 ### Game Name
 
-### Link to the Github Repository for the Project
+### Link to the Github repository for the project
 [Your Repo](https://www.youtube.com/watch?v=-CnNnlgEsLY)
 
 ## The Plan
 
-### Describe Your Goals for the Finished Product
+### Describe Your goals for the finished product
 
 e.g.
 
 - Snake moves around screen
 - Snake can eat pellets
 - When a pellet is eaten, the snake grows in length
-- Is the snake hits itself, the game ends
-- Snake is rainbow colored by pellet
+- If the snake hits itself, the game ends
+- Snake is rainbow colored, changes color throughout game
 - If the user navigates away, snake game pauses
 - Crazy Mode makes the snake change speeds randomly
 - Pellets are instructor's faces and they make a sound when they get eaten
-- Cat mode turns the snake into a cat
+- Cat mode turns the snake into Nyan Cat
 
 ### What is your MVP, or 'this was harder than I thought' plan?
 
@@ -38,14 +38,16 @@ e.g.
 - When a pellet is eaten, the snake grows in length
 - Is the snake hits itself, the game ends
 
+### What have you accomplished so far?
+
 ### Questions, Comments, Concerns?
 
 -----
 
 ## Instructor Section
 
-### Points for First Check In (base 50)
+### Points for first check in (base 50)
 
-### Instructor's Goals for Next Check In
+### Instructor's goals for next check in
 
 ### Feedback?
