@@ -63,7 +63,11 @@ Usability: 4
 
 Workflow: 4
 
----------
+### Communication Examples:
+
+* https://github.com/bethsecor/little-shop-private-stache/pull/22
+* https://github.com/bethsecor/little-shop-private-stache/pull/61
+* https://github.com/bethsecor/little-shop-private-stache/pull/79
 
 Jamie, Brant, Penney:
 
@@ -93,7 +97,7 @@ Workflow: 3: Good use of branches, pull requests, and a project-management tool.
 
 ---------
 
-Aaron, JP, Hector, Steve P. 
+Aaron, JP, Hector, Steve P.
 
 Feature Completeness: 4 (lite): All features are correctly implemented along with two extensions
 Views: 4: Views show logical refactoring into layout(s), partials and helpers, with no logic present
