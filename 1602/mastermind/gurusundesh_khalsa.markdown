@@ -1,32 +1,48 @@
-Assessed By:
+Assessed By: Horace
 
 Notes:
 
+* Game is cool and works well
+* horace beat the computer so let his name be glorified for all time
+* got a basic AI which is sweet
+* leaderboard / wall of shame records those who fail
+* keep a lookout for nested flow of execution relationships and see if
+we can find ways to flatten these out (I'd rather do A then do B than do A
+which automatically calls into B)
+* generally want to use objects / instances when dealing with lots of state
+and ivars
+* modules work well for pure functions / methods
+* don't be afraid of `new` -- make lots of objects, make lots of classes
+* "functional" programming - pure functions that take an input and generate an output -- no state, no external dependencies
+* "circular dependency" -- Responses depends on Game and Game depends on Responses -- probably
+another sign that one or both of these is doing too much
+
+__dependencies -- would rather see a clean, one-directional tree__
+
+```
+      Mastermind
+      /
+  Responses
+  /      |
+Game    Formatter
+\
+Responses
+```
+
+Repo: https://github.com/GKhalsa/mastermind
 
 ### 1. Fundamental Ruby & Style
 
-* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 * 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
-* 2:  Application runs but the code has many long methods (>8 lines) and needs significant refactoring
-* 1:  Application generates syntax error or crashes during execution
 
 ### 2. Enumerable & Collections
 
-* 4: Application consistently makes use of the best-choice Enumerable methods and collections
 * 3: Application demonstrates comfortable use of several Enumerable techniques and collections
-* 2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
-* 1: Application demonstrates deficiencies with Enumerable and struggles with collections
 
 ### 3. REPL Interface and Game Functionality
 
 * 4: Application's REPL goes above and beyond expectations and application includes one or more extensions
-* 3: Application's REPL is clear and pleasant to use and application fulfills base expectations from the project spec
-* 2: Application's REPL has inconsistencies and/or there are errors in base gameplay
-* 1: Application's REPL has several issues or application fails to run
 
 ### 4. Breaking Logic into Components
 
-* 4: Application consistently breaks concepts into logical classes and methods which encapsulate functionality.
-* 3: Application consistently breaks concepts into logical methods to encapsulate functionality.
 * 2: Application makes use of some methods, but the divisions or encapsulation are unclear.
-* 1: Application makes use of just a few huge methods to control the bulk of the functionality.
