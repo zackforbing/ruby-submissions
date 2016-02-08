@@ -1,6 +1,8 @@
 # Game Time Project Folder
 [Project Spec](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 
+![gametime](http://www.museumofplay.org/sites/default/files/press/kits/2014/05/Game%20Time%20Logo%20Crop.jpg)
+
 * Fork this repo, if you haven't already and check out a branch
 * Use the `template` folder as a template and create a gametime folder for your group
 * Update your gametime's folder README.md with your project information
