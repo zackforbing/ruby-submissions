@@ -54,6 +54,21 @@ Complete this Form and the README.md before the first check in. Delete this line
 
 ### Points for first check in (base 50)
 
+50 points
+
 ### Instructor's goals for next check in
 
+Next check-in: Thursday
+
+Goals:
+
+* Slime can bounce ball off head
+* Ball bounces off head, bounces off walls and stays on the ground if it hits the ground
+* Two slimes, both can move left and right with different sets of keys
+
+deliverable: user can bounce ball off slime's head and can travel across the board.
+
 ### Feedback?
+
+The pair has already adapted a good pattern and break functionality out in small methods.
+
