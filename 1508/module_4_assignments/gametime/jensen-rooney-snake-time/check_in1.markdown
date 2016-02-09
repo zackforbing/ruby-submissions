@@ -41,6 +41,9 @@
 
 ### Questions, Comments, Concerns?
 
+- Should each node execute a set of direction (EX: [x, y direction]) and execute a queue of diretions?! or is that jibber jabber?!
+- How can we be aware of the snake's position at all times? ideas: array of arrays?
+
 -----
 
 ## Instructor Section
