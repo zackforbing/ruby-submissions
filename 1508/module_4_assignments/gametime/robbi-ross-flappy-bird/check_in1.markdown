@@ -43,7 +43,14 @@ the next frame of animation giving a jumping effect.
 ## Instructor Section
 
 ### Points for first check in (base 50)
+50 points
 
 ### Instructor's goals for next check in
+* Smooth out FrameRate speeds, specifically smoothing out the Jorge jump.
+* Collision or Score - not the visual implementation, having the backend mechanics recognize the pipes passing.
+* Background Image - including thinking about parallax scrolling.
+
+Get the three bullets points for the 50 points next time. 60 points if all bullets and completed both collision and score backends.
 
 ### Feedback?
+Discussed having FlappyJorge be an actual mode instead of the main game - thus allowing the game to make more sense to people who don't know Jorge.
