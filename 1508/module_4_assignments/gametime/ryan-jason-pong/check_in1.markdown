@@ -48,6 +48,14 @@
 
 ### Points for first check in (base 50)
 
+- 50 points
+
 ### Instructor's goals for next check in
+
+- Model for paddling with tests (10 points)
+- Model for ball with tests (10 points)
+- Mechanism for collision detection (10 points)
+- Mechanism ball motion (10 points)
+- Detection for edge of screen (10 points)
 
 ### Feedback?
