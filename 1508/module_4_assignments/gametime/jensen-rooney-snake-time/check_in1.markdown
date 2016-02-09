@@ -7,7 +7,7 @@
 - [Adam Jensen](https://github.com/adamki)
 - [Matt Rooney](https://github.com/mattrooney)
 
-### Game Name
+### Snake-Time
 
 ### Link to the Github repository for the project
 [Snake-Time](https://github.com/adamki/snake-time)
@@ -40,6 +40,9 @@
 - set up waffle
 
 ### Questions, Comments, Concerns?
+
+- Should each node execute a set of direction (EX: [x, y direction]) and execute a queue of diretions?! or is that jibber jabber?!
+- How can we be aware of the snake's position at all times? ideas: array of arrays?
 
 -----
 
