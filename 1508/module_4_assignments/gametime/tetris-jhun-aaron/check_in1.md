@@ -1,4 +1,4 @@
-# Game Time Check In # 1 - Tetris
+# Game Time Check In # 1
 
 ## Basics
 
@@ -6,7 +6,7 @@
 - [Jhun de Andres](https://github.com/joshuajhun)
 - [Aaron Careaga](https://github.com/acareaga)
 
-### Game Name
+### Tetris
 
 ### Link to the Github repository for the project
 [Tetris Repo](https://github.com/acareaga/tetris)
