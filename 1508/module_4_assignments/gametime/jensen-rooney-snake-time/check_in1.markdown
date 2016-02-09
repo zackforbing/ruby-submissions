@@ -7,7 +7,7 @@
 - [Adam Jensen](https://github.com/adamki)
 - [Matt Rooney](https://github.com/mattrooney)
 
-### Game Name
+### Snake-Time
 
 ### Link to the Github repository for the project
 [Snake-Time](https://github.com/adamki/snake-time)
