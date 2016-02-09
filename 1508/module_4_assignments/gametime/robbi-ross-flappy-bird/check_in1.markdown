@@ -8,7 +8,6 @@
 
 ### Game Name
 - Flappy Bird
-![Jorge-bird](http://i.imgur.com/Vz3yRKZ.png)
 
 ### Link to the Github repository for the project
 [Our Repo](https://github.com/robbielane/flappy-bird)
