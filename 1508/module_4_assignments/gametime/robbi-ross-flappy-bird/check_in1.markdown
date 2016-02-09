@@ -36,6 +36,9 @@
 
 ### Questions, Comments, Concerns?
 
+- our for loop is not functioning as expected. It's executing the for loop before
+the next frame of animation giving a jumping effect.
+
 -----
 
 ## Instructor Section
