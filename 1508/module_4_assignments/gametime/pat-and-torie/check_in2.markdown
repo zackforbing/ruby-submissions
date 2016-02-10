@@ -1,46 +1,32 @@
-Complete this Form before the second check in. Delete this line from your version.
-
 # Game Time Check In # 2
 
 ## Instructor Goal Completion
 
-### GOAL 1
+### GOAL 1: Slime can bounce ball off head
 
-#### Provide a screenshot or gif or link to code for this goal
+### GOAL 2: Ball bounces off head, bounces off walls and stays on the ground if it hits the ground
 
-#### Did you deviate from the instructions? Tell us about it.
+### GOAL 3: Two slimes, both can move left and right with different sets of keys
 
-#### Questions, Comments, Concerns?
-
-### GOAL 2
-
-#### Provide a screenshot or gif or link to code for this goal
-
-#### Did you deviate from the instructions? Tell us about it.
+![slime-volleyball](http://recordit.co/6APidFyjXH.gif)
 
 #### Questions, Comments, Concerns?
 
-### GOAL 3
-
-#### Provide a screenshot or gif or link to code for this goal
-
-#### Did you deviate from the instructions? Tell us about it.
-
-#### Questions, Comments, Concerns?
-
-### GOAL 4
-
-#### Provide a screenshot or gif or link to code for this goal
-
-#### Did you deviate from the instructions? Tell us about it.
-
-#### Questions, Comments, Concerns?
+Better way to set up game loop?
 
 ## Next Steps?
 
 ### What do you feel the next steps should be?
 
+* Adding a net with collision detection
+* Add scoring
+
 ### General Questions, Comments, Concerns?
+
+Better way to set up Keyboard class?
+
+Testing presence of event listeners
+
 
 -----
 
