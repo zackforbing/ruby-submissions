@@ -44,6 +44,25 @@
 
 ### Points for first check in (base 50)
 
+50 points
+
 ### Instructor's goals for next check in
 
+Next check-in: Thursday
+
+Goals:
+* hook up the arrow keys to the movement
+  deliverable: user can move the snake around the screen using the arrow keys
+* Place pellets on canvas
+  deliverable: there are pellets on the screen
+* Snake eats pellets
+  deliverable: pellet is removed when Snake hits it and there is a new pellet on the canvas
+
+If the pair completes the three goals they will receive 41 points. If the pair complete the three goals and their reach goal they will recevie 60 pts.
+
+* Reach goal: The body of the Snake will elongate when the Snake eats a pellet.
+  deliverable: when the snake hits a pellet another "block" will be added to the canvas at the position of the food.
+
 ### Feedback?
+
+Good group, good project so far, good planning. AI is cool.
