@@ -1,5 +1,3 @@
-Complete this Form and the README.md before the first check in. Delete this line from your version.
-
 # Game Time Check In # 1
 
 ## Basics
