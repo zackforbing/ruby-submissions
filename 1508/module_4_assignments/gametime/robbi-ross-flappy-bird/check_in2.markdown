@@ -20,8 +20,6 @@
 #### Did you deviate from the instructions? Tell us about it.
 
 * Score is increased when the bird's (jorge) x coordinate passes through the middle of the pipes x coordinate. We may be able to improve the implementation using EventEmitter?
-
-
 * Collision Detection was implemented by defining the coordinates of the bird's 4 corners and also defining the 'safe zone' coordinates between the pipes. As soon as the bird crosses the x coordinate of a pipe, we begin checking if bird is in 'safe zone'.
 
 #### Questions, Comments, Concerns?
@@ -58,6 +56,23 @@
 
 ### Points for Second Check In (base 50)
 
+50
+
 ### Instructor's Goals for Next Check In
 
+* Add a start/intro screen with start button.
+  deliverable: there is an intro screen with instructions, there is a start button. When we click the start button the game starts.
+* High Score + Database
+  deliverable: when the game is over, the score is stored in a database (not localStorage or Redis). When the user comes back to the application the most recent scores + related user name are displayed.  
+* Refine the physics of bird to make more on par with the real flappy-bird
+  deliverable: when the bird is losing height it's tilting slightly towards the ground. When the bird is gaining height it's slightly tilting up towards the sky.
+* Refactor Game.js
+  deliverable: Refactor responsibilities out to its own class, the file is "scannable".
+* Extension: have Flappy Jorge mode/Flappy Bird mode.
+  deliverable: the user can choose between Jorge/Flappy mode.
+
 ### Feedback?
+
+Very nice JavaScripts, good structure of the application.
+
+Possible extension: have the user upload a PNG and have "self mode". 
