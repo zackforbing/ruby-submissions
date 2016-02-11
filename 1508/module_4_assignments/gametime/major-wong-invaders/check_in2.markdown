@@ -6,7 +6,7 @@
 
 #### Provide a screenshot or gif or link to code for this goal
 
-[Hero Unit can move left and right with keyboard input](http://g.recordit.co/jjUdI4d7iw.gif)
+![Hero Unit can move left and right with keyboard input](http://g.recordit.co/jjUdI4d7iw.gif)
 
 #### Did you deviate from the instructions? Tell us about it.
 
@@ -20,7 +20,7 @@ None.
 
 #### Provide a screenshot or gif or link to code for this goal
 
-[Enemy Unit can move left and right on it’s own, enemy does not go off the screen](http://g.recordit.co/0EIM7bonYJ.gif)
+![Enemy Unit can move left and right on it’s own, enemy does not go off the screen](http://g.recordit.co/0EIM7bonYJ.gif)
 
 #### Did you deviate from the instructions? Tell us about it.
 
@@ -34,7 +34,7 @@ None.
 
 #### Provide a screenshot or gif or link to code for this goal
 
-[Hero Unit can shoot a bullet, renders on canvas, accepts keyboard input](http://g.recordit.co/xeSZneUhEK.gif)
+![Hero Unit can shoot a bullet, renders on canvas, accepts keyboard input](http://g.recordit.co/xeSZneUhEK.gif)
 
 #### Did you deviate from the instructions? Tell us about it.
 
@@ -50,7 +50,7 @@ Style help on deciding how to limit bullets.
 
 #### Provide a screenshot or gif or link to code for this goal
 
-[Enemy Unit should zig zag across screen, stopping at edges of canvas](http://g.recordit.co/0EIM7bonYJ.gif)
+![Enemy Unit should zig zag across screen, stopping at edges of canvas](http://g.recordit.co/0EIM7bonYJ.gif)
 
 #### Did you deviate from the instructions? Tell us about it.
 
