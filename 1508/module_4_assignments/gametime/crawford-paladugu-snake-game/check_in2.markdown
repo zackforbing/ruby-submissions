@@ -34,6 +34,12 @@ Snake is only growing by small amount for now.
 Making the snake move like a snake, and grow by proportional body sizes.
 Adding Score Board.
 ​
+
+### Steve's Thoughts
+By next check in, for all intents and purposes, build a full, legit snake game, so that after that we can add the things that make it no boring.
+
+We need add mechanics to have the snake properly grow, pause the game and have scores show, etc.
+
 ### General Questions, Comments, Concerns?
 ​
 -----
