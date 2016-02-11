@@ -50,7 +50,22 @@ How can we improve code quality?
 ## Instructor Section
 
 ### Points for Second Check In (base 50)
+50 points
 
 ### Instructor's Goals for Next Check In
+* Refactor out existing code to be human readable
+  * Extract as many static numbers in calculations and replace with numbers based off of object height and width.
+
+* Scoring - Every time ball goes through the gate, score increments
+  - Should be displayed on page as it increments
+  - Should display total at end of game
+
+* Game Ends when the ball hits the ceiling
+  - User sees some indication of ending, including final score
+  - User should be able to restart the game.
+
+* Game speeds up after a certain number of gates
+
+* Extension 60 points for next check in if using Emitting Events and testing Emitting Events with Sinon or other stubbing methods.
 
 ### Feedback?

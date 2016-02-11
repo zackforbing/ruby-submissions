@@ -51,7 +51,22 @@ sanity and verification of placement / size.
 ## Instructor Section
 
 ### Points for Second Check In (base 50)
+45 points
 
 ### Instructor's Goals for Next Check In
+* Break out mega methods in Ball/paddle
+  * Unit test when breaking out (where reasonable)
+  * Extract as many static numbers in calculations and replace with numbers based off of object height and width.
+* Implement score tracking
+  * Display score on screen
+  * Display final score
+* Implement losing game mechanics
+  * Display final score on screen
+  * Allow player to restart game
+  * Finalize collision detection
+* Implement key detection and second player / paddle
+  * Should be able to have an ugly UI to test this out
+
+* If all above is accomplished and 70% testing - if UI is pretty (objectively) then 60 points for checkin. 
 
 ### Feedback?
