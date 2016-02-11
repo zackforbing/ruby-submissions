@@ -8,7 +8,7 @@
 * move up with the gate if it's sitting on the gate
 
 #### Provide a screenshot or gif or link to code for this goal
-![Gif of Goals](http://recordit.co/diXnjOjtUf)  
+[Gif of Goals](http://recordit.co/diXnjOjtUf)  
 [Code](https://github.com/matt-stj/fall-down-js/blob/master/lib/ball.js)
 
 #### Did you deviate from the instructions? Tell us about it.
@@ -23,7 +23,7 @@ How can we improve code quality?
 * Can set the new location of the hole
 
 #### Provide a screenshot or gif or link to code for this goal
-![Gif of Goals](http://recordit.co/diXnjOjtUf)  
+[Gif of Goals](http://recordit.co/diXnjOjtUf)  
 [Code](https://github.com/matt-stj/fall-down-js/blob/master/lib/gate.js)
 
 #### Did you deviate from the instructions? Tell us about it.
@@ -35,7 +35,7 @@ How can we improve code quality?
 ### COLLISION DETECTION
 
 #### Provide a screenshot or gif or link to code for this goal
-![Gif of Goals](http://recordit.co/diXnjOjtUf)  
+[Gif of Goals](http://recordit.co/diXnjOjtUf)  
 [Code](https://github.com/matt-stj/fall-down-js/blob/master/lib/collision-detect.js)
 
 
