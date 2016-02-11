@@ -1,4 +1,4 @@
-# Alan & Brennan  
+# Allan & Brennan  
 
 **Instructor: Mary Cutrali**
 
