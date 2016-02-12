@@ -56,7 +56,16 @@
 ## Instructor Section
 
 ### Points for Second Check In (base 50)
+50
 
 ### Instructor's Goals for Next Check In
+
+* Refactor down repetitive methods using partial functions or other solution.
+* Get 'Piece' model up and running (shapes), tied to 'Blocks'
+* Be able to clear a row dynamically
+* Able to rotate shapes - mechanics behind this
+
+Extension
+* Extension 60 points for next check in if using Emitting Events and testing Emitting Events with Sinon or other stubbing methods.
 
 ### Feedback?
