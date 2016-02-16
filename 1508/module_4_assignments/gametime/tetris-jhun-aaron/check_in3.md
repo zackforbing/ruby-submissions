@@ -49,6 +49,21 @@
 
 ### Points for Third Check In (base 50)
 
+50
+
 ### Any Specific Goals for the Evals?
 
+* Get the board and the blocks to appear on the canvas.
+* Add input. Be able to play.
+* Add the score on the screen.
+* Some kind of start screen.
+* Add event emitters. Try adding input using emitters first.
+
+####Extensions
+
+* Show next shape to user
+* Speed increases when level increases
+
 ### Feedback?
+
+* Treat canvas as something that is not straight forward. It has as learning curve.
