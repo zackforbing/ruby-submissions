@@ -46,6 +46,16 @@ I think we're good! :) Except maybe testing.
 
 ### Points for Third Check In (base 50)
 
+50
+
 ### Any Specific Goals for the Evals?
+
+* Use sinon.js to add event testing.
+* Put it on heroku.
+* Make names customizable.
+
+#### Eval Extension
+
+* AI controlled slime for single player. Doesn't have to be very fair AI.
 
 ### Feedback?

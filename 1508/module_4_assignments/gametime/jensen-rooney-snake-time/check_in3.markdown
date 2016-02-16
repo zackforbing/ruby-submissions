@@ -104,6 +104,15 @@ We feel that Snake-Time is pretty "feature-heavy" and we feel that out focus sho
 
 ### Points for Third Check In (base 50)
 
+50 points
+
 ### Any Specific Goals for the Evals?
+
+- Fix portal bug
+- Have powerups that toggle: infinite-wall mode, portal mode, speed mode
+- If they activate one of the modes above, it only lasts for a certain amount of time.
+- UI for showing whether or not the snake can go through the wall
+- The buttons on the bottom should reflect what modes are on the page
+- Store the scores in `localStorage` show the highest scores on the start screen
 
 ### Feedback?
