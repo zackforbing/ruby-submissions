@@ -66,6 +66,16 @@ No, but when the game gets going too fast, collision detections begin dropping e
 
 ### Points for Third Check In (base 50)
 
+40 points.
+
 ### Any Specific Goals for the Evals?
+
+- Refactor scoring based on gates.
+- Add a power-up that slows the game back down.
+- Add a power-up that makes the gates bigger.
+- Make it pretty.
+- Show the top five highest scores
+  - Congratulate the user if it's a new high score
+  - Show the scores on the initial page before they click to play
 
 ### Feedback?
