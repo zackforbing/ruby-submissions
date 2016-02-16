@@ -51,6 +51,24 @@ when it loses momentum.
 
 ### Points for Second Check In (base 50)
 
+43
+
 ### Instructor's Goals for Next Check In
 
+  * Make wings animate all the Time
+  * Jorge mode. User can select Jorge instead of bird.
+  * Gravity works exactly like it does in flappy-bird.
+  * Add sounds.
+    * Flap on flap
+    * Ding through the pipe
+    * Sploot when hit pipe
+
+#### Extension (Extra 10 points)
+  * [Super Meat Boy like replay](https://www.youtube.com/watch?v=92R_5uuQltQ)
+
 ### Feedback?
+
+  * Tell the user why they're entering their name, or that they're entering their name at all
+  * Physics could have been closer
+  * You guys skipped instructions
+  * Good work using firebase. I think it's getting popular.
