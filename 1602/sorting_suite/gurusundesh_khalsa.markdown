@@ -10,14 +10,14 @@ Notes:
 
 * 3: All three sort classes work as expected
 
-### 2. Enumerable & Collections
+### 2. Testing
 
 * 4: Tests are clearly written with names that accurately describe the behavior. Edge cases such as empty arrays, reversed arrays, etc are also tested.
 
-### 3. REPL Interface and Game Functionality
+### 3. Ruby Style
 
 * 2: Code runs effectively but has large issues with readability (long methods, confusing method or variable names, etc)
 
-### 4. Breaking Logic into Components
+### 4. Organization
 
 * 4: Version control maintains the codebase
