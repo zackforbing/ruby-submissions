@@ -52,6 +52,21 @@ We would LOVE help implementing the Gameboy Advance shell we have surrounding th
 
 ### Points for Third Check In (base 50)
 
+45 - Bug in functionality of one requirement
+
 ### Any Specific Goals for the Evals?
+- Adjust Snake growth
+
+- Front End for Game Over
+  - Includes a restart ability
+
+- Fix snake hitting itself functionality
+  - Refactor out long methods, nested loops into helper functions and test them granularly.
+
+- Full scoreboard - top ten high scores
+  - Ability for user to enter initials that will be displayed with the high score. Have this be remembered in localhost
+
+  Extension
+    Include the image and ability to scale to different screen sizes
 
 ### Feedback?

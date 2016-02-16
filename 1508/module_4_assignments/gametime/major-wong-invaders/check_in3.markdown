@@ -55,7 +55,7 @@ No questions.
 #### Did you deviate from the instructions? Tell us about it.
 
 Some Deviation. We have not displayed to the player when they have won or given
-them an option to retry if they've lost. 
+them an option to retry if they've lost.
 
 #### Questions, Comments, Concerns?
 
@@ -84,14 +84,29 @@ Power Ups
 
 ### General Questions, Comments, Concerns?
 
-Concerned with job hunting! 
+Concerned with job hunting!
 
 -----
 
 ## Instructor Section
 
 ### Points for Third Check In (base 50)
+40 - Ability to Win/Lose not implemented
 
 ### Any Specific Goals for the Evals?
+- Testing
+  - Most/All features should be tested
+- Ability to Win
+    - UI reaction to winning or losing
+    - Different reaction to winning or losing
+      - Losing
+        - Restart ability
+        - Score
+    - Winning
+      - Should have an option to keep current score and keep playing.
+- Slight modification of sizes of enemies and hero to improve gameplay
+
+Extensions
+Either implement images or difficulty levels (i.e. have the difficult level auto increment when the player wins a level)
 
 ### Feedback?
