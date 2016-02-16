@@ -1,51 +1,78 @@
 # Game Time Check In # 2
 
-## Basics
+## Instructor Goal Completion
 
-### Team
-- [RossedFort](https://github.com/rossedfort)
-- [Robbie Lane](https://github.com/robbielane)
+### GOAL 1
+* Smooth out FrameRate speeds, specifically smoothing out the Jorge jump.
 
-### Game Name
-- Flappy Bird
+![smooth](http://g.recordit.co/JX7RqvX4FW.gif)
 
-### Link to the Github repository for the project
-[Our Repo](https://github.com/robbielane/flappy-bird)
+#### Did you deviate from the instructions? Tell us about it.
+* We implemented a momentum counter. Click or spacebar events add to the counter. The move method checks for momentum and either moves up or down.
 
-## The Plan
+#### Questions, Comments, Concerns?
 
-### Describe Your goals for the finished product
+### GOAL 2
+* Collision or Score - not the visual implementation, having the backend mechanics recognize the pipes passing.
 
-- Build a clone of the popular Flappy Bird game
+![Collision and Score](http://g.recordit.co/VwB12YUuR2.gif)
 
-### What is your MVP, or 'this was harder than I thought' plan?
+#### Did you deviate from the instructions? Tell us about it.
 
-- have a 'Jorge Mode'
-- The bird will be replaced by our good friend Jorge
-- Have a boost mode that occurs when eating beans and/or burritos
-- Use audio integration for Jorge's catch phrases i.e. 'Wrap up people!'
-- High score tracking
-- [post ideas you have here](https://github.com/robbielane/flappy-bird/issues)
+* Score is increased when the bird's (jorge) x coordinate passes through the middle of the pipes x coordinate. We may be able to improve the implementation using EventEmitter?
+* Collision Detection was implemented by defining the coordinates of the bird's 4 corners and also defining the 'safe zone' coordinates between the pipes. As soon as the bird crosses the x coordinate of a pipe, we begin checking if bird is in 'safe zone'.
 
-### What have you accomplished so far?
+#### Questions, Comments, Concerns?
 
-- we basically have full flappy bird functionality which includes:
-- use spacebar or click to make bird 'flap'
-- collision tracking for pipes and ground
-- end-game sequence
-- score tracking
-- We finished all three goals from our last check-in with Meeka, plus visual representation of score.
+* Currently if a 'collisonEvent' is detected we are jumping from the main gameLoop, to a endGameLoop. Maybe a better way to do this?
 
-### Questions, Comments, Concerns?
+### GOAL 3
+* Background Image - including thinking about parallax scrolling.
 
-- is our end game sequence OK? i.e. breaking into another game loop
-- extra points? 😬
+  * See above screenshots
+
+#### Did you deviate from the instructions? Tell us about it.
+
+* We are pretty happy with the images we got so far, eventually we will swap out the Jorge image with the traditional flappy-bird and plan on making a 'Jorge mode'.
+
+#### Questions, Comments, Concerns?
+
+* O_o
+
+## Next Steps?
+
+### What do you feel the next steps should be?
+
+* Add a start/intro screen with start button.
+* Store High Score in localStorage
+* Refine the physics of bird to make more on par with the real flappy-bird.
+* Refactor game.js
+
+### General Questions, Comments, Concerns?
+
 -----
 
 ## Instructor Section
 
-### Points for first check in (base 50)
+### Points for Second Check In (base 50)
 
-### Instructor's goals for next check in
+50
+
+### Instructor's Goals for Next Check In
+
+* Add a start/intro screen with start button.
+  deliverable: there is an intro screen with instructions, there is a start button. When we click the start button the game starts.
+* High Score + Database
+  deliverable: when the game is over, the score is stored in a database (not localStorage or Redis). When the user comes back to the application the most recent scores + related user name are displayed.  
+* Refine the physics of bird to make more on par with the real flappy-bird
+  deliverable: when the bird is losing height it's tilting slightly towards the ground. When the bird is gaining height it's slightly tilting up towards the sky.
+* Refactor Game.js
+  deliverable: Refactor responsibilities out to its own class, the file is "scannable".
+* Extension: have Flappy Jorge mode/Flappy Bird mode.
+  deliverable: the user can choose between Jorge/Flappy mode.
 
 ### Feedback?
+
+Very nice JavaScripts, good structure of the application.
+
+Possible extension: have the user upload a PNG and have "self mode". 

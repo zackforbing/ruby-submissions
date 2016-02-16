@@ -53,7 +53,7 @@
 ### Instructor's goals for next check in
 
 - Get a `Board` model up and running with rows, columns, and a collection of blocks
-- Get a `Block` model up and running with movement and movement detectionh
+- Get a `Block` model up and running with movement and movement detection
 - Get a row checker up and running.
 
 ### Feedback?
