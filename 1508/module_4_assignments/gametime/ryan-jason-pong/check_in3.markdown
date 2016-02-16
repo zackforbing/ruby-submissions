@@ -72,6 +72,15 @@ for some reason?????
 
 ### Points for Third Check In (base 50)
 
+40 points.
+
 ### Any Specific Goals for the Evals?
+
+- Power-up that makes the paddle bigger
+- Independent control of the second paddle
+- Styling to make it look good.
+- Add tests for newly broken-out logic
+- Horizontal paddle motion
+- *Stretch goal*: AI player
 
 ### Feedback?
