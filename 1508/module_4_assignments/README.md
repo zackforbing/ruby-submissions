@@ -25,3 +25,4 @@ In this folder, we will add yet another folder for each major assignment - and a
 
 #### Week 4
 * [Recursion Video](https://gist.github.com/rrgayhart/495f806c254d0891267c)
+* [README Love](https://gist.github.com/rrgayhart/91bba7bb39ea60136e5c)
