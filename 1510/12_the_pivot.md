@@ -1,7 +1,7 @@
 ## Group: Joseph Perry & Toni Rib & Dan Winter
 
 Technical Assessor: Lovisa
-Client Assessor:
+Client Assessor: Josh M.
 
 GitHub: https://github.com/jwperry/the_pivot
 
@@ -32,8 +32,8 @@ Client Notes: Really solid product. Added maps, optional OAuth login, Emails, an
 
 ## Group: Beth Sebian & Justin Pease & Lenny Myerson
 
-Technical Assessor:
-Client Assessor:
+Technical Assessor: Tess
+Client Assessor: Josh M.
 
 GitHub: https://github.com/TheObtuseAutodidact/the_pivot
 
@@ -53,9 +53,9 @@ Client Notes:
 
 #### Technical Scores
 
-* Test-Driven Development:
-* Code Quality:
-* Git Workflow:
+* Test-Driven Development: 3
+* Code Quality: 3
+* Git Workflow: 4
 
 ## Group: Steve Pentler & Hector Huertas Baeza & John Slota
 
@@ -87,23 +87,23 @@ Very solid project, there are a few opportunities to refactor but the developers
 ## Group: Taylor Moore & Shannon Paige & Aaron Greenspan
 
 Technical Assessor: Josh M.
-Client Assessor:
+Client Assessor: Tess
 
-GitHub:
+GitHub: https://github.com/afg419/the_pivot
 
-Production Link:
+Production Link: https://mount-doom.herokuapp.com
 
 Technical Notes: Probably the most ambitious Pivot to date. A good amount of business logic.
-Client Notes:
+Client Notes: Very ambitious. I was suprised by how much work they were able to get done.
 
 ### Scores
 
 #### Client Scores
 
-* Completion:
-* Organization:
-* User Experience:
-* Extensions:
+* Completion: 4
+* Organization: 3
+* User Experience: 3.5
+* Extensions: 4+
 
 #### Technical Scores
 
@@ -143,12 +143,12 @@ views: great use of partials
 
 ## Group: Beth Secor & Brenna Martenson & Cole Hall
 
-Technical Assessor:
-Client Assessor:
+Technical Assessor: Tess
+Client Assessor: Josh M.
 
-GitHub:
+GitHub: https://github.com/nicolehall/farmers-market-pivot
 
-Production Link:
+Production Link: https://bees-and-beets.herokuapp.com
 
 Technical Notes:
 Client Notes:
@@ -164,14 +164,14 @@ Client Notes:
 
 #### Technical Scores
 
-* Test-Driven Development:
-* Code Quality:
-* Git Workflow:
+* Test-Driven Development: 4
+* Code Quality: 3
+* Git Workflow: 4
 
 ## Group: Steven Olson & James Crockett & David Stinette
 
 Technical Assessor: Lovisa
-Client Assessor:
+Client Assessor: Josh M.
 
 GitHub: https://github.com/jecrockett/the_pivot
 
@@ -201,12 +201,12 @@ Client Notes:
 
 ## Group: Greg Armstrong & Penney Garrett & Edgar Duran
 
-Technical Assessor:
-Client Assessor:
+Technical Assessor: Tess
+Client Assessor: Josh M.
 
-GitHub:
+GitHub: https://github.com/edgarduran/book-a-bunker
 
-Production Link:
+Production Link: https://book-a-bunker.herokuapp.com
 
 Technical Notes:
 Client Notes:
@@ -222,6 +222,6 @@ Client Notes:
 
 #### Technical Scores
 
-* Test-Driven Development:
-* Code Quality:
-* Git Workflow:
+* Test-Driven Development: 3
+* Code Quality: 3
+* Git Workflow: 3
