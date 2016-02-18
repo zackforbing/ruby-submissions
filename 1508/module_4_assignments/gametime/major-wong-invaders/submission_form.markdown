@@ -30,9 +30,7 @@
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
 
-Per Feature:
- - Describe the feature
- - Provide a .gif of the feature in action or a link to the relevant code
+N/A
 
 ----
 
@@ -47,24 +45,44 @@ unstuck.
 ## Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- Why were you proud of this piece of code?
+[Proud](https://github.com/marlomajor/gametime_js/blob/880baab9a390862a3764845a91fb5eda4572f881/lib/game.js#L74)
+
+We are proud of this code because we spent hours trying to handle state and in
+the end, this was our workaround. It's not the greatest in the world, but it 
+gets us closer to an MVP. We are actually very proud of this code and what it
+represents (problem solving XD)
 
 ### Link to a specific block of your code on Github that you feel not great about
-- Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+[Not Proud](https://github.com/marlomajor/gametime_js/blob/880baab9a390862a3764845a91fb5eda4572f881/lib/game.js#L74)
+
+This code sample is the same as the one above that we are proud of. The reason 
+we are both pleased and displeased with this sample is because while it was a 
+successful solution, the level of hackiness involved is just too much for the 
+level of code we've created up to this point. We are better developers than 
+this code gives us credit for.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
+![Test Coverage](http://imgur.com/VNmgYly)
+
 ### Test Breakdown
-- How Many Unit Tests?
-- How Many Feature/Integration Tests?
+
+- How Many Unit Tests? 10
+- How Many Feature/Integration Tests? 0
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
 
+N/A
+
 ### Provide a link to an example, if you have one, of a feature test that covers an 'edge case' or 'unhappy path'
+
+N/A
 
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
+Javascript is hard (T_T)
 
 -----
 
