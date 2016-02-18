@@ -43,9 +43,9 @@ Per Feature:
 ----
 
 ## Risk Taking
-- What risks did you feel you took on this project?
+- What risks did you feel you took on this project?  
 We took on a project that (to our knowledge) nobody at Turing has done before.
-- How do you feel about those risks?
+- How do you feel about those risks?  
 It's a little discouraging to feel like risk taking, while beneficial to our learning experience, degrades our overall
 scores. We feel we could have earned more points by choosing a more well-documented game like Snake. We'd appreciate some clarification
 on how to move forward and select projects for the remainder of the module. It's difficult to balance learning and taking on new
