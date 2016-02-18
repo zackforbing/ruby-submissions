@@ -6,11 +6,10 @@
 [Our Repo](https://github.com/marlomajor/gametime_js)
 
 ### Link to the Deployed Application
-[Our Application](https://www.youtube.com/watch?v=N1eNW7GG_Q8)
+[Our Application](http://marlomajor.github.io/gametime_js/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Marlo Major](http://ericsteinborn.com/github-for-cats/img/typing.gif)
-[Michael Wong](http://ericsteinborn.com/github-for-cats/img/typing.gif)
+[Our Commits](https://github.com/marlomajor/gametime_js/commits/master?page=1)
 
 ### Provide a Screenshot of your Game
 ![space invaders](http://imgur.com/53fsmSW)
@@ -25,12 +24,12 @@
 
 ### What Extensions, as Requested By an Instructor, Did You Complete?
 
-- Background Image!? 
+- Background Image!
 ![space invaders](http://imgur.com/53fsmSW)
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
 
-N/A
+Uhm...0_o
 
 ----
 
@@ -82,7 +81,7 @@ N/A
 
 ### Please feel free to ask any other questions or make any other statements below!
 
-Javascript is hard (T_T)
+Javascript is hard (T_T). Considering building a new game this weekend though! I LOVE PLAYING GAMES I CREATED.
 
 -----
 
