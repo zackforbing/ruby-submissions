@@ -13,21 +13,23 @@
 [Michael Wong](http://ericsteinborn.com/github-for-cats/img/typing.gif)
 
 ### Provide a Screenshot of your Game
-![spacejam](http://i.kinja-img.com/gawker-media/image/upload/s--I3c4ca1C--/18edh1v3ai4kcpng.png)
+![space invaders](http://imgur.com/53fsmSW)
 
 ---
 
 ## Completion
 
 ### Do You Consider the Application to be Fully Playable?
- - If not, list what functionality is missing.
+
+ - I think the application is fully playable. Just barely.
 
 ### What Extensions, as Requested By an Instructor, Did You Complete?
-Per Extension:
-- Describe the extension
-- Provide a .gif of the extension or a link to the relevant code
+
+- Background Image!? 
+![space invaders](http://imgur.com/53fsmSW)
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
+
 Per Feature:
  - Describe the feature
  - Provide a .gif of the feature in action or a link to the relevant code
@@ -35,8 +37,10 @@ Per Feature:
 ----
 
 ## Risk Taking
-- What risks did you feel you took on this project?
-- How do you feel about those risks?
+
+- At one point, we attempted to scrap everything and start over to be more clear/concise.
+- It didn't pan out, but it helped us understand more about the deficiency in our current code and were able to get 
+unstuck.
 
 ----
 
