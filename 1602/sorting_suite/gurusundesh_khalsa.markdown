@@ -2,7 +2,7 @@ Assessed By: Meeka
 
 Notes:
 
-* Given till 5pm today today to branch the optimized version off and re-write the functions with improved readability in mind. Will upgrade Ruby score if completed.
+* Given till 5pm today today to branch the optimized version off and re-write the functions with improved readability in mind. Will upgrade Ruby score if completed. [DONE]
 * Advised to try Benchmarking with enormous arrays
 * Noted that testing score is not a 'juicy 4'
 
@@ -16,7 +16,7 @@ Notes:
 
 ### 3. Ruby Style
 
-* 2: Code runs effectively but has large issues with readability (long methods, confusing method or variable names, etc)
+* 3: 
 
 ### 4. Organization
 
