@@ -329,7 +329,7 @@ Notes:
 
 ## Evaluation Rubric
 
-The project will be assessed with the following rubric:
+The project will be assessed with the following rubric
 
 #### 1. Functional Expectations
 
