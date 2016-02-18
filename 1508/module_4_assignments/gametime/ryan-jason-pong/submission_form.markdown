@@ -68,6 +68,7 @@ do think it could be cleaner with refactoring.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
+![test](https://s3-us-west-2.amazonaws.com/pilz-pictures/Screen+Shot+2016-02-18+at+1.00.38+PM.png)
 
 ### Test Breakdown
 ###### How Many Model Tests?
