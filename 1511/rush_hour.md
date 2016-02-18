@@ -73,7 +73,7 @@ The project will be assessed with the following rubric:
 
 #### 1. Functional Expectations
 
-2.5
+3
 
 #### 2. Test-Driven Development
 
