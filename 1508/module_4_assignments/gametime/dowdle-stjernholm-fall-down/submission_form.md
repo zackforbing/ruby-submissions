@@ -11,7 +11,7 @@ Complete this Form before the final eval. Delete this line from your version.
 [Your Application](http://matt-stj.github.io/fall-down-js/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Emily Dowdle](https://github.com/matt-stj/fall-down-js/commits?author=emilydowdle)
+[Emily Dowdle](https://github.com/matt-stj/fall-down-js/commits?author=emilydowdle)  
 [Matt Stjernholm](https://github.com/matt-stj/fall-down-js/commits?author=matt-stj)
 
 ### Provide a Screenshot of your Game
