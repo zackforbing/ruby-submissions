@@ -31,7 +31,6 @@ Per Extension:
 - Vim Mode 
 - [vim](https://github.com/adamki/snake/blob/master/lib/index.js#L156-L185)
 
-Per Extension:
 - Speed Mode 
 - [Speed](https://github.com/adamki/snake/blob/master/lib/index.js#L43-L64)
 
@@ -41,36 +40,46 @@ Per Extension:
 - Portals Mode
 - [portals](https://github.com/adamki/snake/blob/master/lib/portal.js)
 
+
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
-Per Feature:
- - Describe the feature
- - Provide a .gif of the feature in action or a link to the relevant code
+
+Not only did we have build out the mentioned features aboe, we also set them on a timer and implmented a POWER - UP bonus round that lasts 5 seconds.This made Vim, Speed, Walls and Portals mode use-able and made the game much more fun.
+[POWER UPS](http://recordit.co/GyGM6wUAoB)
 
 ----
 
 ## Risk Taking
 - What risks did you feel you took on this project?
+We invested alot of our time into feature-rich snake game. 
+
 - How do you feel about those risks?
+On one hand, we are proud that the game is Both playable and that it does MORE than every other Snake Game.
+However, we noticed that other areas of our code did suffer. We built fast and I think we lost some code quality. We also overlooked the importance of testing at times.
+
 
 ----
 
 ## Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- Why were you proud of this piece of code?
+
+[POWER UPS](https://github.com/adamki/snake/blob/master/lib/powerup.js)
+[snakeSauce](http://www.beepbox.co/#5s0kbl00e03t7a7g0fj7i0r1w2411f0000d1111c0000h0000v0000o3210b4y8h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4p1MgLoYqBxlcs6OiJFsNWPy85cuaaaaaaa360FzNhhgoW0Q1000)
 
 ### Link to a specific block of your code on Github that you feel not great about
-- Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
 
-### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
+[this](https://github.com/adamki/snake/blob/master/lib/index.js)
+[more specifically this](https://github.com/adamki/snake/blob/master/lib/index.js#L156-L185)
 
 ### Test Breakdown
 - How Many Unit Tests?
+24
+
 - How Many Feature/Integration Tests?
+1
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
-
-### Provide a link to an example, if you have one, of a feature test that covers an 'edge case' or 'unhappy path'
+[test that food can not land on the snake body](https://github.com/adamki/snake/blob/master/test/food-test.js#L39-L54)
 
 -----
 
@@ -79,5 +88,7 @@ Per Feature:
 -----
 
 ## Instructor Feedback
+
+Matt and I felt like the overall experience was great and are happy with the results of this game/project. We would have liked a bit more time re-factoring. To elaborate, The lessons taught every morning were always pretty impressive and we were eager to apply those principles to our game. However, we felt that we were always trying to implement a new feature instead of having time to re-factor.
 
 - Points: (base 300)
