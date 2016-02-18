@@ -56,16 +56,17 @@ challenges with earning enough points to pass the module.
 ## Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- Why were you proud of this piece of code?
+- Why were you proud of this piece of code?  
 [Ball Helper](https://github.com/matt-stj/fall-down-js/blob/master/lib/helpers/ball-helpers.js)
 We are proud of the way we implemented Helpers to pull out functionality and make our code more human-readable.
 
 ### Link to a specific block of your code on Github that you feel not great about
-- Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+- Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?  
 [Index.js](https://github.com/matt-stj/fall-down-js/blob/master/lib/index.js)
 We feel this code is too verbose, confusing to read and doesn't make adequate use of functions and/or helpers.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
+![tests](http://i66.tinypic.com/2exvtjc.png)
 
 ### Test Breakdown
 - How Many Unit Tests?
