@@ -37,8 +37,9 @@ Per Extension:
   
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
 Per Feature:
- - Graphics
- - Ability to pause
+ - Graphics 
+ - Ability to pause  
+ 
 ----
 
 ## Risk Taking
