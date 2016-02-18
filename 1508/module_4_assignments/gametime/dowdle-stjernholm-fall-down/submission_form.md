@@ -69,7 +69,8 @@ We feel this code is too verbose, confusing to read and doesn't make adequate us
 ![tests](http://i66.tinypic.com/2exvtjc.png)
 
 ### Test Breakdown
-- How Many Unit Tests?
+- How Many Unit Tests?  
+65
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
 [Ball defaults override a ball created with a 0 or negative radius.](https://github.com/matt-stj/fall-down-js/blob/master/test/ball-test.js#L65-L138)
