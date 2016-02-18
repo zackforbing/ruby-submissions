@@ -85,10 +85,11 @@ However, we noticed that other areas of our code did suffer. We built fast and I
 
 ### Please feel free to ask any other questions or make any other statements below!
 
+Matt and I felt like the overall experience was great and are happy with the results of this game/project. We would have liked a bit more time re-factoring. To elaborate, The lessons taught every morning were always pretty impressive and we were eager to apply those principles to our game. However, we felt that we were always trying to implement a new feature instead of having time to re-factor.
 -----
 
+![JSHINT](images/jshint.png)
 ## Instructor Feedback
 
-Matt and I felt like the overall experience was great and are happy with the results of this game/project. We would have liked a bit more time re-factoring. To elaborate, The lessons taught every morning were always pretty impressive and we were eager to apply those principles to our game. However, we felt that we were always trying to implement a new feature instead of having time to re-factor.
 
 - Points: (base 300)
