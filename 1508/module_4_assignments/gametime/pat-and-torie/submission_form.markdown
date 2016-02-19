@@ -1,60 +1,59 @@
-Complete this Form before the final eval. Delete this line from your version.
-
 # GameTime Submission Form
 
 ## Basics
 
 ### Link to the Github Repository for the Project
-[Your Repo](http://imgur.com/a/Fur9a)
+[github.com/patwey/slime-volleyball](https://github.com/patwey/slime-volleyball)
 
 ### Link to the Deployed Application
-[Your Application](https://www.youtube.com/watch?v=N1eNW7GG_Q8)
+[Live Application](http://patwey.github.io/slime-volleyball/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[TeamMate1](http://ericsteinborn.com/github-for-cats/img/typing.gif)
-[TeamMate 2](http://ericsteinborn.com/github-for-cats/img/typing.gif)
+[Pat Wey](https://github.com/patwey/slime-volleyball/commits?author=patwey)  
+[Torie Joy-Warren](https://github.com/patwey/slime-volleyball/commits?author=toriejw)
 
 ### Provide a Screenshot of your Game
-![spacejam](http://i.kinja-img.com/gawker-media/image/upload/s--I3c4ca1C--/18edh1v3ai4kcpng.png)
-
+![slime-volleyball](http://g.recordit.co/lNaoN5RmN8.gif)
 ---
 
 ## Completion
 
 ### Do You Consider the Application to be Fully Playable?
- - If not, list what functionality is missing.
+ - Yes.
 
 ### What Extensions, as Requested By an Instructor, Did You Complete?
 Per Extension:
-- Describe the extension
-- Provide a .gif of the extension or a link to the relevant code
+- Multiple players
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
 Per Feature:
- - Describe the feature
- - Provide a .gif of the feature in action or a link to the relevant code
+ - Ball movement
 
 ----
 
 ## Risk Taking
-- What risks did you feel you took on this project?
-- How do you feel about those risks?
+- Choosing this game (taking on physics/math of the ball)
+
+![](https://media.giphy.com/media/2wbthiYb5k2ru/giphy.gif)
 
 ----
 
 ## Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- Why were you proud of this piece of code?
+[https://github.com/patwey/slime-volleyball/blob/master/lib/scripts/ball.js](https://github.com/patwey/slime-volleyball/blob/master/lib/scripts/ball.js)
+- We're proud of this code because it breaks out a lot of logic (lots of small functions) and it makes complicated logic more readable as a result.
 
 ### Link to a specific block of your code on Github that you feel not great about
-- Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+[https://github.com/patwey/slime-volleyball/blob/master/lib/scripts/game.js](https://github.com/patwey/slime-volleyball/blob/master/lib/scripts/game.js)
+- We feel not awesome about this code because logic is not as broken out as we'd like, making it a bit confusing to follow the flow of the game. Challenges we faced trying to refactor it was the importance of order to the game.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
+![](/test-suite.png)
+
 ### Test Breakdown
-- How Many Unit Tests?
-- How Many Feature/Integration Tests?
+- How Many Unit Tests? 29
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
 
@@ -64,8 +63,39 @@ Per Feature:
 
 ### Please feel free to ask any other questions or make any other statements below!
 
+![](http://www.russianmachineneverbreaks.com/wp-content/uploads/2010/10/patrick-wey.jpg)
+![](https://c2.staticflickr.com/6/5065/5580310553_57ce046356_z.jpg)
+
 -----
 
 ## Instructor Feedback
 
 - Points: (base 300)
+Checkins: 150
+Eval: 118
+
+Total: 268
+
+Functional Expectations
+
+20 points - Application is fully playable without crashes or bugs
+
+User Interface
+
+15 points - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor without guidance from the developer.
+
+Testing
+
+25 points - Project has a running test suite that tests and multiple levels but fails to cover some features. All controller actions are covered by tests. The application makes some use of integration testing.
+
+JavaScript Style
+
+20 points - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+Workflow
+
+25 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+Code Sanitation
+The output from JSHint shows…
+13 points
