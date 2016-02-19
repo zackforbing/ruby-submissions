@@ -72,17 +72,17 @@ Per Feature:
 
 - Points: (base 300)
 Checkins: 150
-Eval: 118
+Eval: 135
 
-Total: 268
+Total: 285
 
 Functional Expectations
 
-20 points - Application is fully playable without crashes or bugs
+35 points - Application is fully playable and exceeds the expecations set by instructors
 
 User Interface
 
-15 points - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor without guidance from the developer.
+10 points - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
 
 Testing
 
@@ -90,12 +90,13 @@ Testing
 
 JavaScript Style
 
-20 points - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+25 points - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 
 Workflow
 
 25 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
 Code Sanitation
+
 The output from JSHint shows…
-13 points
+15 points - Zero complaints
