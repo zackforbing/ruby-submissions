@@ -1,19 +1,13 @@
-Assessed By:
-
-Repo:
-
-Notes:
-
 ## Evaluation Rubric
 
 The project will be assessed with the following rubric:
 
 ### 1. Overall Functionality
 
-* 4: Application follows the complete spec and one extension
-* 3: Application encrypts, decrypts, and cracks files as described
-* 2: Application is missing one of the three operations
-* 1: Application is missing two operations or crashes during normal usage
+* 4: Application follows the complete spec and two extensions
+* 3: Application follows the complete spec and one extension
+* 2: Application converts to Braille and back successfully
+* 1: Application only converts to Braille or from Braille
 
 ### 2. Fundamental Ruby & Style
 
@@ -25,8 +19,8 @@ The project will be assessed with the following rubric:
 ### 3. Test-Driven Development
 
 * 4: Application is broken into components which are well tested in both isolation and integration
-* 3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
-* 2: Application tests some components but has many gaps in coverage.
+* 3: Application uses tests to exercise core functionality but leaves many common edge cases untested.
+* 2: Minor mutations to the implementation code, such as swaping characters, changing `<` to `<=`, placing `true` into a conditional, or deleting a line of code which break the functionality do not cause any tests to fail.
 * 1: Application does not demonstrate strong use of TDD
 
 ### 4. Breaking Logic into Components
