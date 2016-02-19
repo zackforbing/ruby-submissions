@@ -23,6 +23,10 @@ In this folder, we will add yet another folder for each major assignment - and a
 * [Mary Rose Cook live-codes](https://gist.github.com/stevekinney/353182d7cd10fb4a5b27) (3 points)
 * [Exercism Assignment](https://github.com/turingschool/intermission-assignments/issues/49) (10 points)
 
-#### Week 4
+#### Week 3
 * [Recursion Video](https://gist.github.com/rrgayhart/495f806c254d0891267c)
 * [README Love](https://gist.github.com/rrgayhart/91bba7bb39ea60136e5c)
+* [Creact](https://gist.github.com/rrgayhart/a838fe2bbd259da04f75)
+
+#### Week 4
+* [Scale Up](scale-up/)
