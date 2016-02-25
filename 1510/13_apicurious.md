@@ -30,9 +30,19 @@ Notes:
 
 ### Cole Hall
 
-Assessor:
+Assessor: Lovisa
 
 Notes:
+
+completion: (4) user repos, user commits, following/followers, starred, streak, contributions, recent activity
+test: (4)
+code quality: (3) UsersController - refactour out the instance variables  
+
+Using Nokogiri + API
+Good test coverage
+A lot of instance variables in the UsersController actions (#show, #index)
+Ruby in the GithubService could be refactored to improve readability and reduce duplication
+When writing/refactoring methods: strive towards single responsibility
 
 ### Dan Winter
 
@@ -42,15 +52,25 @@ Notes: Solid project. Deployed to Heroku and starting to troubleshoot and unders
 
 ### David Stinnette
 
-Assessor:
+Assessor: Lovisa
 
 Notes:
+
+Good, working site
+Has almost all of the functionality implemented
+Nice, well factored code
+A lot of instance variables passed from the UsersController#show which could be broken out
 
 ### Edgar Duran
 
-Assessor:
+Assessor: Lovisa
 
 Notes:
+
+Good, working site
+Has it deployed on heroku
+Used RSpec and got VCR working
+Got the endpoints working fairly quickly and focused on practicing new things (RSpec, VCR, BootstrapStudio, jQuery)
 
 ### Beth Secor
 
@@ -84,9 +104,15 @@ Notes:
 
 ### Jordan Lawler
 
-Assessor:
+Assessor: Lovisa
 
 Notes:
+
+Awesome UI
+Used Google OAuth and SoundCloud OAuth
+No tests!! Decided to continue working on functionality instead of testing
+In need of some refactoring
+Developer took risks and managed to get the a working implementation of his idea
 
 ### Joseph Perry
 
@@ -114,27 +140,50 @@ Notes:
 
 ### Shannon Paige
 
-Assessor:
+Assessor: Lovisa
 
 Notes:
+
+Nice, working app. Has some JavaScript for the images
+Used RSpec for the first time, good test coverage using VCR
+Small methods, skinny controllers, good naming conventions
+Good use of partials to DRY up the views
 
 ### Steve Pentler
 
-Assessor:
+Assessor: Lovisa
 
 Notes:
+
+Very good test coverage
+Very well factored code, it's obvious that the developer has made concsious decisions about how to split up logic and organize the code
+Good UI
 
 ### Steven Olson
 
-Assessor:
+Assessor: Lovisa
 
 Notes:
+
+Very good test coverage
+Project is completed and have some extensions
+Very good UI
+Used the Twitter Gem
+Nice separation of logic, use of partials, good use/exploration of JavaScript
 
 ### Taylor Moore
 
-Assessor:
+Assessor: Lovisa
 
 Notes:
+
+Very good separation of logic
+Has almost all functionality (is working on POST)
+Had some troubles getting testing and VCR implemented, we worked through it together and got it working
+Using Nokogiri + API
+Better naming
+Refactor out duplication
+Overall a very nice project, duplication and naming are things he would have gotten to  
 
 ### Toni Rib
 
