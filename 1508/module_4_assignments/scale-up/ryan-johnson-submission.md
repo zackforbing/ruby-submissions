@@ -4,6 +4,7 @@
 
 ### Link(s) to the PRs or Issues You Picked Up
 -[API Endpoint for Job Index Issue](https://github.com/LookingForMe/lookingfor/issues/15)
+
 -[#33 API endpoint PR](https://github.com/LookingForMe/lookingfor/pull/33)
 
 ### Talk about something from the pre-work that you didn't know about before this week.
@@ -18,12 +19,12 @@ associations much simpler.
 - [Blog Post](https://medium.com/@rjohnson4444/building-a-paginated-api-7b4f22629b0b#.ebf0go4gd)
 
 ### Discuss: your experience doing PR reviews and getting PR feedback
-- Going through the PR review experience was very inlightening. I realized that I was
-  nowhere near as thorough as I needed to be after Meeka reviewed the pull request I
-  "thought" I did. I feel that was very beneficial.
+- Going through the PR review experience was very enlightening. I realized that I was
+  nowhere near as thorough as I needed to be. After seeing Meeka review the pull request I
+  "thought" I reviewed, I could see I definitely needed to do more "digging". I feel that was very beneficial.
 
-- The feedback I got was helpful as well because it reminded me that I need to be
-  more aware of the things I introduce into a group project.
+- The PR feedback I got was helpful as well because it reminded me that I need to be
+  more aware of the dependencies I introduce into a group project.
 
 ### Discuss: your experience doing daily stand ups
 - At first, I thought it was going to be unnecessary, but I realize that it was a very
@@ -36,7 +37,7 @@ associations much simpler.
 ### Please feel free to ask any other questions or make any other statements below!
 - I really liked this project becasue it was a change of pace and it exposed me to situations
   that do not come up readily in smaller groups. It was also good to really focus on PR and PR
-  reviews and to know how to conduct them.
+  reviews.
 
 -----
 
