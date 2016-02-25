@@ -10,6 +10,8 @@
 - [Matt Stjernholm](https://github.com/matt-stj/better-notes/commits?author=matt-stj)
 
 ### Provide a screenshot of your application
+![Screenshot](http://i64.tinypic.com/2cx7ba.png)
+
 
 ### Link to any pull requests you submitted outside of your project
 [Getters and Setters for File-Bin](https://github.com/stevekinney/file-bin/pull/12)
@@ -19,19 +21,25 @@
 - We knew nothing about Ember or Electron.  The pre-work assignments showed how easy it can be to get a desktop app off the ground.
 
 ### How far were you able to get on features in your application
-- All Base functionality complete.  Added a couple small bells and whistles, but mostly tussled with an extension of trying to use implement our getter and setter functions from File-Bin to change our base directory.
+- All Base functionality complete.  Added a couple small bells and whistles like, but mostly tussled with an extension of trying to use implement our getter and setter functions from File-Bin to change our base directory.  
+- 
+- Extra functionality:  
+- search by file title or file contents.
+- truncate note contents in left-hand pane preview.
+- counter for number of notes in base directory.
+- change base directory.
 
 ### Link to blog post(s) submitted
 
 ### Part 1:
   - Title: Lessons Learned From Building an Electron Desktop App (Ember.js +File-Bin)
   - Summary: Electron is awesome.  Ember is hard. Contributing to File-Bin was neat.
-  - [Link:](https://medium.com/@matt_stj/lessons-learned-from-building-an-electron-desktop-app-ember-js-file-bin-676c87434716#.ni7fyyecg)
+  - [Link: ](https://medium.com/@matt_stj/lessons-learned-from-building-an-electron-desktop-app-ember-js-file-bin-676c87434716#.ni7fyyecg)
 
 ### Part 2: 
-  - Title:
-  - Summary:
-  - Link:  
+  - Title: Ember, Electron and FileBin: Terra Incognita 101
+  - Summary: Ember and Electron are impressive, powerful frameworks. With great power comes great responsibility… and a steep learning curve.
+  - [Link:](https://medium.com/@Roondoggle/ember-electron-and-filebin-69522acf10ef#.8qr7zhqkb)
 
 ## Risk Taking
   - What risks did you feel you took on this project?
