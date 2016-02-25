@@ -1,14 +1,14 @@
 ### Aaron Greenspan
 
-Assessor:
+Assessor: Josh M.
 
-Notes:
+Notes: Ambitious project. Using background workers and AJAX to load most of the contents on the page.
 
 ### Beth Sebian
 
-Assessor:
+Assessor: Josh M.
 
-Notes:
+Notes: Good project. Some things to clean up using attr_accessor but nice use of POROs.
 
 ### Brant Wellman
 
@@ -36,9 +36,9 @@ Notes:
 
 ### Dan Winter
 
-Assessor:
+Assessor: Josh M.
 
-Notes:
+Notes: Solid project. Deployed to Heroku and starting to troubleshoot and understand production issues related to the asset pipeline. Good use of POROs.
 
 ### David Stinnette
 
@@ -66,9 +66,9 @@ Notes:
 
 ### Hector Huertas Baeza
 
-Assessor:
+Assessor: Josh M.
 
-Notes:
+Notes: Definitely understands Rails and the big picture. Starting to ask the right questions about performance. Would like to see more use of POROs instead of hashes.
 
 ### James Crockett
 
@@ -138,6 +138,6 @@ Notes:
 
 ### Toni Rib
 
-Assessor:
+Assessor: Josh M.
 
-Notes:
+Notes: Great project that should be added to portfolio and will show well to potential employers. Graphs and nice use of POROs.
