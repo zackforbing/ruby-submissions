@@ -1,10 +1,8 @@
-## <Student Name> -- HTTPYYKM
-
 Assessed By:
 
 Repo:
 
-## Notes
+Notes:
 
 ## Evaluation Rubric
 
