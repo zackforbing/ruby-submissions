@@ -30,5 +30,5 @@ In this folder, we will add yet another folder for each major assignment - and a
 
 #### Week 4
 * [Scale Up](scale-up/)
-* [Pizza Expres](https://github.com/turingschool-examples/pizza-express) (25 points)
-* [Refactor Tractor](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/js_refactor_tractor.md) (25 points)
+* [Pizza Expres](https://gist.github.com/rrgayhart/521cd4277481c298a1ae) (25 points)
+* [Refactor Tractor](https://gist.github.com/rrgayhart/a8bcb3b639e44b03dc63) (25 points)
