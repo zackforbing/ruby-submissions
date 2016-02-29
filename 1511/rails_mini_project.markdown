@@ -49,9 +49,9 @@ Heroku Link:
 
 Team: David Whitaker & July Tran
 
-Github Repo:
+Github Repo: https://github.com/damwhit/giphyfavfav
 
-Heroku Link:
+Heroku Link: https://rocky-scrubland-25671.herokuapp.com/
 
 
 Team: Heidi Hoopes & Adrienne Domingus
