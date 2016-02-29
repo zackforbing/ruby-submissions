@@ -63,6 +63,6 @@ Heroku Link: https://serene-hollows-57237.herokuapp.com
 
 Team: Adam Hundley
 
-Github Repo:
+Github Repo: https://github.com/adamhundley/gif_town.git
 
 Heroku Link:
