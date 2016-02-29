@@ -14,7 +14,7 @@ Heroku Link: https://frozen-beach-28667.herokuapp.com/
 
 Team: Nate Venn & Brennan Holtzclaw
 
-Github Repo:
+Github Repo: https://github.com/natevenn/americas_funnies_home_gifs
 
 Heroku Link:
 
