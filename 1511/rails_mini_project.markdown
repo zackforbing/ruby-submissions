@@ -56,9 +56,9 @@ Heroku Link:
 
 Team: Heidi Hoopes & Adrienne Domingus
 
-Github Repo:
+Github Repo: https://github.com/hhoopes/turing_partnerships
 
-Heroku Link:
+Heroku Link: https://serene-hollows-57237.herokuapp.com
 
 
 Team: Adam Hundley
