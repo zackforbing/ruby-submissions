@@ -35,7 +35,7 @@ Heroku Link: http://jiffy.herokuapp.com/
 
 Team: Brian Rippeto & Scott Firestone
 
-Github Repo:
+Github Repo: https://github.com/brianrip/community_points
 
 Heroku Link:
 
