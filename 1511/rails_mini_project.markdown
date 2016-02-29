@@ -1,8 +1,8 @@
 Team: Kimiko Kano & Julian Feliciano
 
-Github Repo:
+Github Repo: https://github.com/julsfelic/idea_box
 
-Heroku Link:
+Heroku Link: https://arcane-meadow-84600.herokuapp.com/
 
 
 Team: Charles Ellison & Nicholas Dorans
