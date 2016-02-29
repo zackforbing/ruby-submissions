@@ -5,11 +5,11 @@ Github Repo:
 Heroku Link:
 
 
-Team: Charles Ellison & Nicholas Dorans
+Team: Charles Ellison & Nicholas Dorans present "The Gipherator"
 
-Github Repo:
+Github Repo: https://github.com/NickyBobby/gipherator
 
-Heroku Link:
+Heroku Link: https://frozen-beach-28667.herokuapp.com/
 
 
 Team: Nate Venn & Brennan Holtzclaw
