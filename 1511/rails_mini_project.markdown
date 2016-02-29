@@ -28,9 +28,9 @@ Heroku Link:
 
 Team: Alexis Navarrete & Nick Weiland
 
-Github Repo:
+Github Repo: https://github.com/weilandia/jiffy
 
-Heroku Link:
+Heroku Link: http://jiffy.herokuapp.com/
 
 
 Team: Brian Rippeto & Scott Firestone
