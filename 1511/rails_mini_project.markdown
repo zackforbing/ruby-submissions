@@ -21,9 +21,9 @@ Heroku Link:
 
 Team: Erinna Chen & Allan Blair
 
-Github Repo:
+Github Repo: https://github.com/erinnachen/sorting-hat
 
-Heroku Link:
+Heroku Link: https://agile-reef-24545.herokuapp.com/
 
 
 Team: Alexis Navarrete & Nick Weiland
