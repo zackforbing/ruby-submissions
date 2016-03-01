@@ -12,7 +12,7 @@
 One thing from the prep-work that I especially liked was the template for great model testing in Rails.  I do think that I've tested my models pretty well in the past but this gist showed some areas that I have definitely missed and gives a great example of thorough testing that I'm going to use in future applications!
 
 ### Summarize what you worked on
-For this project I primarily worked on a research spike into Docker technology and whether or not it would be a good fit for our project.  I spoke with Turing mentors and completed practical tutorials to interact with the framework and gain a better understanding of its value adds and use workflow.  Ultimately, we decided not to integrate Docker at this time but will document the investigation for potential future use. While working through Docker tutorials, I also integrated Puma into our application as a concurrent web server. 
+For this project I primarily worked on a research spike into Docker technology and whether or not it would be a good fit for our project.  I spoke with Turing mentors and completed practical tutorials to interact with the framework and gain a better understanding of its value adds and use workflow.  Ultimately, we decided not to integrate Docker at this time but will document the investigation for potential future use. While working through Docker tutorials, I also integrated Puma into our application as a concurrent web server.
 
 ### [Docker Blog Post](http://ambercrawford.tumblr.com/post/139977221718/this-week-i-tried-out-docker)
 
@@ -34,21 +34,19 @@ Points: (max 150)
 ### Rubric
 
 #### Blog Post (40 Points)  
+
+  Nice work on the post! I think it's valuable to learn and be able to articulate when a technology is cool, but not applicable for a project at the moment!
+
   * 40: Developer has >= 2 blog posts documenting something they have worked on for Looking For or has one in depth blog post.
-  * 25: Developer has one blog post less than 500 characters long.
-  * 0: Developer created no blog posts.
 
 #### Participation (50 points)
+
+Thanks for participating so much in the PR reviews!
+
   * 50: Developer participated daily in stand ups with the group (remote or in person). Developer was able to speak to their work in stand ups in a way that was clear and informative. Developer was involved in pull request reviews.
-  * 40: Developer participated daily in stand ups with the group (remote or in person). Developer has difficulty speaking to their work in stand ups.
-  * 30: Developer was absent for 1 stand up, did not participate actively in code reviews.
-  * 0: Developer was absent for > 1 standup, did not participate actively in lessons and peer reviews. Did not deliver or almost deliver any features.
 
 #### Risk Taking and Creativity (60 points)
 
-Instructor/Developer will select one feature in the project to review for this section of the rubric.
+Good job with reaching out and talking to other mentors on their experiences working with Docker!
 
   * 60: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature. Developers explored concepts and technologies outside the scope of the curriculum.
-  * 50: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature.
-  * 30: Developers attempted to implement extensions using technologies not covered in class but it did not result in a delivered feature.
-  * 10: Developers but did not build any features.
