@@ -27,4 +27,7 @@ The project will be assessed with the following rubric:
 
 * 3: Application uses tests to exercise core functionality, but has some gaps in coverage or leaves edge cases untested.
 
+### 4. Breaking Logic into Components
+
+* 3: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
