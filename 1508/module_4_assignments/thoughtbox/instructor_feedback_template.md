@@ -4,11 +4,17 @@
 
 ### Rubric
 
-#### Main Chunk
+#### Main Chunk (70 points)
 
-* 72: Application is deployed. All features are complete or some features are complete but developer showed effort to test drive coding the application. Developer worked entirely on their own for the entire application.
+* 70: Application is deployed. All features are complete or some features are complete but developer showed effort to test drive coding the application. Developer worked entirely on their own for the entire application.
 
 If above requirement is not met, grading this section is at the evaluators discretion.
+
+#### Pass Project (30 points)
+
+* 30: Developer got all 3s or above on the rubric below
+
+------
 
 #### Satisfactory Progress
 
