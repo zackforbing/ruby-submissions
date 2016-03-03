@@ -6,7 +6,7 @@
 
 Project needed more time to reduce duplication, and to improve overall polish on code. Functionality is clear and naming is good. JavaScript is descriptive but could have abstract a bit further. Tests are needed. Validation of URI need to be pushed to model or PORO. Enums were not necessary.
 
-#### Main Chunk (60 points)
+#### Main Chunk - 60 points
 
 * 60: Application is deployed. All features are complete or some features are complete but developer showed effort to test drive coding the application. Developer worked entirely on their own for the entire application.
 

@@ -6,7 +6,7 @@
 
 Project was test-drove. Only up to Iteration 3 completed. Tests covered integration and model tests. JavaScript still pending. Ruby and Rails style was strong. Workflow shows an effort on building small commits.
 
-#### Main Chunk (70 points)
+#### Main Chunk - 60 points
 
 * 60: Application is deployed. All features are complete or some features are complete but developer showed effort to test drive coding the application. Developer worked entirely on their own for the entire application.
 

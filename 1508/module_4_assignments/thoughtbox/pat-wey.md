@@ -6,7 +6,7 @@ Project is almost complete. Couple of features in Iteration 5 pending. JavaScrip
 
 ### Rubric
 
-#### Main Chunk (70 points)
+#### Main Chunk - 70 points
 
 * 70: Application is deployed. All features are complete or some features are complete but developer showed effort to test drive coding the application. Developer worked entirely on their own for the entire application.
 

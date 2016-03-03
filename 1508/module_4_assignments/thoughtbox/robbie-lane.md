@@ -6,7 +6,7 @@
 
 Functionality completed. Unnecessary use of instance variables in couple of controllers. JavaScript looks good but needs to abstract a bit further and remove features from application manifest. Tests needed. Commits need to be broken in a per feature basis.
 
-#### Main Chunk (70 points)
+#### Main Chunk - 70 points
 
 * 70: Application is deployed. All features are complete or some features are complete but developer showed effort to test drive coding the application. Developer worked entirely on their own for the entire application.
 
