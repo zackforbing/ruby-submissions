@@ -34,8 +34,8 @@ The project will be assessed with the following guidelines:
 
 ### 5. Enumerable & Collections
 
-* 4: Application consistently makes use of the best-choice Enumerable methods
-* **3: Application demonstrates comfortable use of appropriate Enumerable methods**
+* **4: Application consistently makes use of the best-choice Enumerable methods**
+* 3: Application demonstrates comfortable use of appropriate Enumerable methods
 * 2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
 * 1: Application demonstrates deficiencies with Enumerable and struggles with collections
 
