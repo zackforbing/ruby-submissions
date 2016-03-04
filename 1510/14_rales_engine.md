@@ -104,14 +104,14 @@ Notes:
 
 Assessor: Josh M.
 
-Notes: Rake tasks didn't work. Had to fix them during the eval to check the project.
+Notes: Nice use of ActiveRecord queries. Had more failing tests than she expected. Rake tasks didn't work. Had to fix them during the eval to check the project.
 
-repo: git@github.com:NicoleHall/RailsEngine.git
-completion: 2: Project completes most requirements but fails 10 to 6 spec harness tests.
-test-driven-development: 1: Project does not have 70% test coverage.
-code-quality: 3: Project demonstrates solid code quality and MVC principles.
-api-design: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
-queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes
+* repo: git@github.com:NicoleHall/RailsEngine.git
+* completion: 2: Project completes most requirements but fails 10 to 6 spec harness tests.
+* test-driven-development: 1: Project does not have 70% test coverage.
+* code-quality: 3: Project demonstrates solid code quality and MVC principles.
+* api-design: 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
+* queries: 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes
 
 ### Dan Winter
 
