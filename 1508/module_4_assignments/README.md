@@ -24,9 +24,11 @@ In this folder, we will add yet another folder for each major assignment - and a
 * [Exercism Assignment](https://github.com/turingschool/intermission-assignments/issues/49) (10 points)
 
 #### Week 3
-* [Recursion Video](https://gist.github.com/rrgayhart/495f806c254d0891267c)
-* [README Love](https://gist.github.com/rrgayhart/91bba7bb39ea60136e5c)
-* [Creact](https://gist.github.com/rrgayhart/a838fe2bbd259da04f75)
+* [Recursion Video](https://gist.github.com/rrgayhart/495f806c254d0891267c) (3 points)
+* [README Love](https://gist.github.com/rrgayhart/91bba7bb39ea60136e5c) (3 points)
+* [Creact](https://gist.github.com/rrgayhart/a838fe2bbd259da04f75) ( 50 points )
 
 #### Week 4
 * [Scale Up](scale-up/)
+* [Pizza Expres](https://gist.github.com/rrgayhart/521cd4277481c298a1ae) (25 points)
+* [Refactor Tractor](https://gist.github.com/rrgayhart/a8bcb3b639e44b03dc63) (25 points)
