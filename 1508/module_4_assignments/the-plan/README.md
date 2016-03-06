@@ -26,6 +26,8 @@ The pace of development life will 'hopefully' never be as intense again as it wa
 
 ### The 'Side Hustle' Assignment
 
+As Jeff would say, 'Don't talk about it, be about it'
+
 [complete this assignment](assignments/side-hustle.markdown)
 
 ### Job Stalking Assignment
