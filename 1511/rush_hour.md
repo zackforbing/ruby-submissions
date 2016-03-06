@@ -29,6 +29,7 @@ The project will be assessed with the following rubric:
 #### 6. View Layer
 
 * 4: Application expertly breaks components out to view partials and makes use of both built-in and custom-written view helpers.
+
 ===================================================================================
 
 ## Team: Adrienne Domingus & July Tran & Adam Hundley
@@ -62,6 +63,7 @@ The project will be assessed with the following rubric:
 #### 6. View Layer
 
 * 3: Application breaks components out to view partials but has some logic or complexity leaking into the view
+
 ===================================================================================
 
 ## Team: Nicholas Dorans & Erinna Chen
@@ -96,6 +98,7 @@ The project will be assessed with the following rubric:
 #### 6. View Layer
 
 * 3: Application breaks components out to view partials but has some logic or complexity leaking into the view
+
 ===================================================================================
 
 ## Team: Julian Feliciano & Scott Firestone & Nate Venn
@@ -190,6 +193,7 @@ While you won't be graded on workflow for Rush Hour, here's an example of how yo
 * 3: Good use of branches, pull requests, and a project-management tool.
 * 2: Sporadic use of branches, pull requests, and/or project-management tool.
 * 1: Little use of branches, pull requests, and/or a project-management tool.
+
 ===================================================================================
 
 ## Team: Charles Ellison & Allan Blair & Admir Draganovic
@@ -236,6 +240,7 @@ While you won't be graded on workflow for Rush Hour, here's an example of how yo
 #### Workflow (NOT GRADED)
 
 * 1: Little use of branches, pull requests, and/or a project-management tool.
+
 ===================================================================================
 
 ## Team: Kimiko Kano & Brian Rippeto & Brennan Holtzclaw
