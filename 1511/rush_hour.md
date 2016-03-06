@@ -1,6 +1,7 @@
-Team: Nick Weiland & Alexis Navarrete & Chelsea Johnson
-Assessed By:
-Notes: All base functionality except for missing payload in posting payload; implemented client registration from browser interface. Great use of testing at all levels. Make sure that you test attributes and relationships instead of just existance. Good use of POROs to delegate responsibilities. 
+## Team: Nick Weiland & Alexis Navarrete & Chelsea Johnson
+## Assessed By:
+
+## Notes: All base functionality except for missing payload in posting payload; implemented client registration from browser interface. Great use of testing at all levels. Make sure that you test attributes and relationships instead of just existance. Good use of POROs to delegate responsibilities.
 
 ## Evaluation Rubric
 
@@ -30,9 +31,10 @@ The project will be assessed with the following rubric:
 
 * 4: Application expertly breaks components out to view partials and makes use of both built-in and custom-written view helpers.
 
-Team: Adrienne Domingus & July Tran & Adam Hundley
-Assessed By:
-Notes: Strange behavior with socialLogin hour-by-hour breakdown and os/browser breakdown. All other functionality exists and is implemented. Added web interface for creating, editing, and deleting accounts. 
+## Team: Adrienne Domingus & July Tran & Adam Hundley
+## Assessed By:
+
+## Notes: Strange behavior with socialLogin hour-by-hour breakdown and os/browser breakdown. All other functionality exists and is implemented. Added web interface for creating, editing, and deleting accounts.
 
 ## Evaluation Rubric
 
@@ -62,9 +64,10 @@ The project will be assessed with the following rubric:
 
 * 3: Application breaks components out to view partials but has some logic or complexity leaking into the view
 
-Team: Nicholas Dorans & Erinna Chen
-Assessed By:
-Notes: All functionality is complete; need to scope event breakdown to client. 
+## Team: Nicholas Dorans & Erinna Chen
+## Assessed By:
+## Notes: All functionality is complete; need to scope event breakdown to client.
+
 
 
 ## Evaluation Rubric
@@ -95,9 +98,10 @@ The project will be assessed with the following rubric:
 
 * 3: Application breaks components out to view partials but has some logic or complexity leaking into the view
 
-Team: Julian Feliciano & Scott Firestone & Nate Venn
-Assessed By: Andrew
-Notes:
+## Team: Julian Feliciano & Scott Firestone & Nate Venn
+## Assessed By: Andrew
+## Notes:
+
 
 * Solid testing at unit, controller, and features levels. Small suggestions for model testing and feature testing.
 * Solid functionality overall. Everything was there, no extentions.
@@ -139,9 +143,10 @@ While you won't be graded on workflow for Rush Hour, here's an example of how yo
 * 3: Good use of branches, pull requests, and a project-management tool.
 
 
-Team: Hedy Woo & Heidi Hoopes & David Whitaker
-Assessed By: Andrew
-Notes:
+## Team: Hedy Woo & Heidi Hoopes & David Whitaker
+## Assessed By: Andrew
+## Notes:
+
 
 * Some mixing up responsibilities within tests. Controller test holds some model tests within.
 * Controller tests missing a little functionality. Try to test for each route (happy and sad)
@@ -187,9 +192,10 @@ While you won't be graded on workflow for Rush Hour, here's an example of how yo
 * 2: Sporadic use of branches, pull requests, and/or project-management tool.
 * 1: Little use of branches, pull requests, and/or a project-management tool.
 
-Team: Charles Ellison & Allan Blair & Admir Draganovic
-Assessed By: Andrew
-Notes:
+## Team: Charles Ellison & Allan Blair & Admir Draganovic
+## Assessed By: Andrew
+## Notes:
+
 
 * Pay attention to test names. Be more explicit and define exactly what is being tested.
 * Write more feature tests. Currently they are sparse and could benefit from testing more functionality.
@@ -232,9 +238,10 @@ While you won't be graded on workflow for Rush Hour, here's an example of how yo
 
 * 1: Little use of branches, pull requests, and/or a project-management tool.
 
-Team: Kimiko Kano & Brian Rippeto & Brennan Holtzclaw
-Assessed By:Andrew
-Notes:
+## Team: Kimiko Kano & Brian Rippeto & Brennan Holtzclaw
+## Assessed By:Andrew
+## Notes:
+
 * Styling is good. Ui works and flows.
 * Be careful of little things like variable names being explicit.
 * Good scoping in feature tests. Need to focus on dynamic data not static info.
