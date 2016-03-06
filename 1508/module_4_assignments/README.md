@@ -32,3 +32,4 @@ In this folder, we will add yet another folder for each major assignment - and a
 * [Scale Up](scale-up/)
 * [Pizza Expres](https://gist.github.com/rrgayhart/521cd4277481c298a1ae) (25 points)
 * [Refactor Tractor](https://gist.github.com/rrgayhart/a8bcb3b639e44b03dc63) (25 points)
+* [Websockets Tutorial](https://gist.github.com/rrgayhart/8cc261e37f62f4649a64) (25 points)
