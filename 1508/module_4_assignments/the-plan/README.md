@@ -6,13 +6,27 @@ The goal of this assignment is to prepare you mentally for the change and to giv
 
 ## Deliverables
 
-At the end of the assignment - you will need to submit your own 'Plan' - by using the [template](template.markdown) in this folder. Complete **2** assignments of your choice and include them in your submission.
+At the end of the assignment - you will need to submit your own 'Plan' - by using the [template](template.markdown) in this folder. Complete at least **2** assignments - the first is the goals assignment and the others are your choice. Include them in your submission.
 
 While this isn't required for the Portfolio review and your responses _will not_ affect you graduating, you should include it in your portfolio and we'll talk about it.
 
 If you would prefer your plan not be a public document, create it as a private gist and DM it to your instructor, letting them know not to include it directly in the portfolio.
 
-## Assignments (pick 2)
+## Assignments (complete 2)
+
+### Goals Assignment (required)
+
+After graduation, you should probably throw your laptop in a river and take a week off to climb mountains, sit on beaches, play legos with your kids or adult roommates, sleep, etc.
+
+But after that week, you'll need to fish your laptop out of the river and get back on track.
+
+The pace of development life will 'hopefully' never be as intense again as it was at Turing - but if you don't keep learning, your development chops will atrophy.
+
+[complete this assignment](assignments/goals.markdown)
+
+### The 'Side Hustle' Assignment
+
+[complete this assignment](assignments/side-hustle.markdown)
 
 ### Job Stalking Assignment
 
@@ -26,27 +40,20 @@ Instead - [complete this assignment](assignments/job-hunting.markdown)
 
 Once you have a profile on five companies, you're armed with a lot of different ways to get them to notice you. You may also find that a company you were 'meh' about is actually sounding better and better the more you learn about it.
 
+
 ### The 'Open Source' Assignment
 
 [complete this assignment](assignments/open-source.markdown)
-
-### The 'Side Hustle' Assignment
-
-[complete this assignment](assignments/side-hustle.markdown)
 
 ## The 'Community Involvement' Assignment
 
 [complete this assignment](assignments/community-involvement.markdown)
 
-### The 'Self Growth' Assignment
-
-[complete this assignment](assignments/self-growth.markdown)
-
 ### The 'YOLO LITERALLY ALL I WANT TO DO IS CODE' assignment
 
 Maybe you don't _like_ planning for your future, maybe you just like to code and not write things, maybe you don't want us creeping on your future plans, man. It's cool. I get it.
 
-Complete the [Dangerous Denver Code](assignments/dangerous-denver.markdown)
+Complete the [Dangerous Denver Code Assignment](assignments/dangerous-denver.markdown)
 
 ## In Summation
 
@@ -56,7 +63,7 @@ What we've asked you to do in Module 4 is:
   - Work with ambiguity
   - Do all of the above while not burning out after ~5 months of going really hard
 
-[Zach put it best in this tweet](https://twitter.com/holman/status/706006896273063936)
+[Zach Holman put it best in this tweet](https://twitter.com/holman/status/706006896273063936)
 
 You should be incredibly proud that you are sitting here, reading this lesson right now.
 
