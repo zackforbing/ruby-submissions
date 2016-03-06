@@ -40,12 +40,15 @@ Instead - [complete this assignment](assignments/job-hunting.markdown)
 
 Once you have a profile on five companies, you're armed with a lot of different ways to get them to notice you. You may also find that a company you were 'meh' about is actually sounding better and better the more you learn about it.
 
-
 ### The 'Open Source' Assignment
+
+One of the best ways to get noticed, make friends, influence people, make things that help other people and continue learning is contributing to open source projects.
 
 [complete this assignment](assignments/open-source.markdown)
 
 ## The 'Community Involvement' Assignment
+
+For a community of people who stereotypically like to work in a dark room, alone, hitting keyboard keys - community involvement sure is a big deal in the world of development.
 
 [complete this assignment](assignments/community-involvement.markdown)
 

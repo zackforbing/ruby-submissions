@@ -10,3 +10,5 @@ Trying the same challenge out, first in JavaScript and then in Ruby is an incred
 2. Submit a link to a ruby implementation:
 
 Notes: Neither project needs to be deployed - and the ruby version absolutely doesn't need to be pretty. The goal is simply to compare the two language's ways of getting the same problem done.
+
+Talk about your experiences coding the two implementations below:

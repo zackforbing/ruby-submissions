@@ -43,4 +43,4 @@ Per Forked Application:
 
 ### Next Steps
 
-Document your next steps in trying to contribute to an open source project
+Spend some time over the next few days working on understanding and contributing to one of the open source libraries you profiled above. Try to dig into the codebase and understand small pieces. Compare the way the library tests to testing styles you've seen before. Try and work on small fixes or features. 
