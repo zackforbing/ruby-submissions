@@ -12,7 +12,7 @@ While this isn't required for the Portfolio review and your responses _will not_
 
 If you would prefer your plan not be a public document, create it as a private gist and DM it to your instructor, letting them know not to include it directly in the portfolio.
 
-## Assignments
+## Assignments (pick 2)
 
 ### Job Stalking Assignment
 
@@ -22,39 +22,31 @@ There's another old saying - literally every tech company wants a senior develop
 
 Do _not_ wait to pursue a company just because you haven't seen them post a 'Looking for a Junior Developer' ad. You'll be waiting a long time.
 
-Instead - [complete this assignment](/assignments/job-hunting.markdown)
+Instead - [complete this assignment](assignments/job-hunting.markdown)
 
 Once you have a profile on five companies, you're armed with a lot of different ways to get them to notice you. You may also find that a company you were 'meh' about is actually sounding better and better the more you learn about it.
 
-### The 'I Have a Job' Assignment
-What is their tech stack
-What in that tech stack do you not know about
-How will you learn about it?
-
 ### The 'Open Source' Assignment
 
-What is something unrelated to your job that you want to learn
+[complete this assignment](assignments/open-source.markdown)
 
 ### The 'Side Hustle' Assignment
 
-## The 'Supporting One Another' Assignment
+[complete this assignment](assignments/side-hustle.markdown)
 
-Pair programming with 1511.
+## The 'Community Involvement' Assignment
 
-- Continued Growth
-- Community Involvement
-- Giving Back
-- Open Source
-- Supporting One Another
-- Mentoring
+[complete this assignment](assignments/community-involvement.markdown)
 
-### The 'Growth' Assignment
+### The 'Self Growth' Assignment
+
+[complete this assignment](assignments/self-growth.markdown)
 
 ### The 'YOLO LITERALLY ALL I WANT TO DO IS CODE' assignment
 
 Maybe you don't _like_ planning for your future, maybe you just like to code and not write things, maybe you don't want us creeping on your future plans, man. It's cool. I get it.
 
-Complete the [Dangerous Denver Code](/assignments/dangerous-denver.markdown)
+Complete the [Dangerous Denver Code](assignments/dangerous-denver.markdown)
 
 ## In Summation
 
@@ -68,4 +60,8 @@ What we've asked you to do in Module 4 is:
 
 You should be incredibly proud that you are sitting here, reading this lesson right now.
 
-Every single person on staff at Turing is rooting for you to succeed. Go forth and continue to make us all proud.
+Every single person on staff at Turing is rooting for you to succeed.
+
+(Except for Jorge. Jorge thinks you're a punk.)
+
+Go forth and continue to make us all proud.

@@ -1,0 +1,1 @@
+- Read [6 Tricks for Successful Side Projects](https://quickleft.com/blog/6-tricks-for-successful-side-projects/)
