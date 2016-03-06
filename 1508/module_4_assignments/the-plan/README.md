@@ -8,7 +8,7 @@ The goal of this assignment is to prepare you mentally for the change and to giv
 
 At the end of the assignment - you will need to submit your own 'Plan' - by using the [template](template.markdown) in this folder. Complete at least **2** assignments - the first is the goals assignment and the others are your choice. Include them in your submission.
 
-While this isn't required for the Portfolio review and your responses _will not_ affect you graduating, you should include it in your portfolio and we'll talk about it.
+While this isn't required for the Portfolio review and your responses _will not_ affect you graduating, you should include it in your portfolio so we can talk about it.
 
 If you would prefer your plan not be a public document, create it as a private gist and DM it to your instructor, letting them know not to include it directly in the portfolio.
 
