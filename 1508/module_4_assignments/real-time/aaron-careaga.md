@@ -50,7 +50,7 @@ I really liked the readability of the socket/emit code split across relevantly n
 
 I spent a lot of time structuring the server tests but I couldn't get the test suite to post the form in order to access the voter page and admin dashboard.
 
-![test suite](http://www.aaroncareaga.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-07-at-7.06.09-AM.png)
+![test suite](http://www.aaroncareaga.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-07-at-8.14.15-AM.png)
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
