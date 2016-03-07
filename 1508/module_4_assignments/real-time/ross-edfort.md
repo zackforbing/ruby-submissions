@@ -31,7 +31,7 @@ at all of their polls.
 
 ### Attach a .gif, or images of any extensions work being used on the site.
 
-![woooooop](http://recordit.co/nAfFkRRJwk)
+![woooooop](http://g.recordit.co/nAfFkRRJwk.gif)
 
 # Code Quality
 
