@@ -79,3 +79,37 @@ Crowdsource is listening on port 3000
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
+---
+
+## Evaluation Criteria
+
+185 points
+
+Good use of separation of concerns. Functionality exceeded expectations. Added functionality to reopen poll. Tests for models and server. Integration tests missing. Recommended to maintain the same level of abstraction when dealing with event listeners.
+
+### Concept and Features
+
+Does it have the expected features?
+
+* 100 points - Exceeded expectations. There are more features than we planned.
+
+### Code Quality (JavaScript and/or Ruby)
+
+* 25 points - Developer solves problems with a balance between conciseness and clarity and often extracts logical components. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### Client-Side Application
+
+* 25 points - Your application is thoughtfully put together with some duplication and no major bugs.
+
+### Test-Driven Development
+
+* 25 points - The code demonstrates high test coverage. It is tests at controller and unit levels. All controller/routes are tested. There are no failing tests.
+
+### Interface
+
+* 5 points - The application is pleasant, logical, and easy to use
+
+### Workflow
+
+* 5 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
