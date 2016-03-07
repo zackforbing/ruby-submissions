@@ -65,3 +65,37 @@ It got large and repetitive, and I didn't have the time to refactor it.
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
 [edge case](https://github.com/patwey/real_time/blob/master/test/sanitize-poll-data-test.js#L9)
+
+---
+
+## Evaluation Criteria
+
+199 points
+
+Strong project. Good use of abstraction on the backend. Testing is really comprehensive. Code is very explicit and well organized. The application is pleasant to use.
+
+### Concept and Features
+
+Does it have the expected features?
+
+* 100 points - Exceeded expectations. There are more features than we planned.
+
+### Code Quality (JavaScript and/or Ruby)
+
+* 30 points - Developer writes code that is exceptionally clear and well-factored. Application is expertly divided into logical components each with a clear, single responsibility.
+
+### Client-Side Application
+
+* 30 points - Your application has exceptionally well-factored code with little or now duplication and all components separated out into logical components.
+
+### Test-Driven Development
+
+* 30 points - The code demonstrates high test coverage. It is tested at the feature, controller and unit levels. It tests the WebSocket as well as the controller endpoints.
+
+### Interface
+
+* 5 points - The application is pleasant, logical, and easy to use
+
+### Workflow
+
+* 4 points - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
