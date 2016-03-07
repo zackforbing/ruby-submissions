@@ -13,7 +13,7 @@
 [Your Commits](https://github.com/emilydowdle/real-time/commits/master)
 
 ### Provide a Screenshot of your Application
-![Real Time Feedback](/assets/Dowdle_App.png)
+![Real Time Feedback](https://github.com/emilydowdle/ruby-submissions/blob/master/1508/module_4_assignments/real-time/Emily_Dowdle/assets/Dowdle_App.png)
 
 ## Completion
 
@@ -46,7 +46,7 @@
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
-![Tests Running](/assets/Dowdle_Tests.png)
+![Tests Running](https://github.com/emilydowdle/ruby-submissions/blob/master/1508/module_4_assignments/real-time/Emily_Dowdle/assets/Dowdle_Tests.png)
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 [Returns 404 if POST body is empty](https://github.com/emilydowdle/real-time/blob/master/test/server-test.js#L61-L67)
