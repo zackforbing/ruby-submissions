@@ -26,7 +26,7 @@ N/A
 
 ### What features did you complete which you feel 'exceeded expectations'?
 
-N/A
+Text Messaging when Poll Ended.
 
 ### Attach a .gif, or images of any extensions work being used on the site.
 
