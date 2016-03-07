@@ -61,3 +61,37 @@ The main challenge in refactoring this code was time.
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
+---
+
+## Evaluation Criteria
+
+178 points
+
+Good effort. Application delivers all functionality plus some additional feature to toggle comments. Test for models but lacks tests for client-side. Use of Poll class abstracts logic really well. Some code in the client-side needs to be wrapped by functions. Good workflow, it would be nice to do some final cleanup of branches at the end.
+
+### Concept and Features
+
+Does it have the expected features?
+
+* 100 points - Exceeded expectations. There are more features than we planned.
+
+### Code Quality (JavaScript and/or Ruby)
+
+* 25 points - Developer solves problems with a balance between conciseness and clarity and often extracts logical components. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### Client-Side Application
+
+* 25 points - Your application is thoughtfully put together with some duplication and no major bugs.
+
+### Test-Driven Development
+
+* 20 points - The code demonstrates high test coverage. One or more enpoints are not tested or the internal business logic is not fully tested.
+
+### Interface
+
+* 4 points - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+
+### Workflow
+
+* 4 points - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
