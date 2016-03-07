@@ -36,19 +36,22 @@ N/A
 
 ### Link to a specific block of your code on Github that you are proud of
 
-[Proud Code]()
+[Proud Code](https://github.com/Kealii/real_time/blob/26df3224b4241d2e0d01e5b7d8f9e1309861a969/public/client.js#L30)
 
 #### Why were you proud of this piece of code?
 
-
+I'm proud of this piece of code because in its initial state, it was even messier. Spending some time building out
+helper functions helps significantly with readability and it made it was easier for me to reason about what 
+was going on when trying to work on other things.
 
 ### Link to a specific block of your code on Github that you feel not great about
 
-[Not Proud Code]()
+[Not Proud Code](https://github.com/Kealii/real_time/blob/26df3224b4241d2e0d01e5b7d8f9e1309861a969/server.js#L40)
 
 #### Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
 
-
+I don't feel awesome about this code for the same reason I felt good about the previous piece. This code works, but it
+does take a few seconds to translate what's going on and so making any changes was slow going.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
