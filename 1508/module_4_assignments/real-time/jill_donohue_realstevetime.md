@@ -48,3 +48,37 @@ it('will not tally multiple votes', function(){
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
+---
+
+## Evaluation Criteria
+
+127 Points
+
+Some bugs on main functionality but nothing major. Close poll feature was not implemented. Some tests for the back end. More abstraction of code needed. Good use of EJS templates on the client-side. Commits needed to be broken in smaller steps.
+
+### Concept and Features
+
+Does it have the expected features?
+
+* 50 points - Some features were sacrificed to meet the deadline. At best, this is a prototype. Major features covered by the learning goals listed above were not written by the developer.
+
+### Code Quality (JavaScript and/or Ruby)
+
+* 20 points - Developer writes effective code, but does not breakout logical components. Application shows some effort to break logic into components, but the divisions are inconsistent or unclear. There are many large methods or functions and it is not clear to the evaluator what a given section of code does.
+
+### Client-Side Application
+
+* 25 points - Your application is thoughtfully put together with some duplication and no major bugs.
+
+### Test-Driven Development
+
+* 25 points - The code demonstrates high test coverage. It is tests at controller and unit levels. All controller/routes are tested. There are no failing tests.
+
+### Interface
+
+* 4 points - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+
+### Workflow
+
+* 3 points - The developer makes large commits covering multiple features that make it difficult for the evaluator to determine the evolution of the application.
