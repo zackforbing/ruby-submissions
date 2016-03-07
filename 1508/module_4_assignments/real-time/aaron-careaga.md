@@ -18,7 +18,7 @@
 Yes and no... The admin can create a vote and access both their dashboard and a voting page. They can also turn the vote off from their dashboard. The user can vote and see results in real time and, if not anonymous, see the live vote tally on the same page.
 
 #### If not, list what functionality you think may be missing missing.
-Timeout and Anonymous functionality is really close but still buggy. Also, emitting the vote results on the Admin Dashboard is not working correctly. I feel that both are extremely close and I can fix them with more time.
+Timeout and Anonymous functionality is really close but still buggy. I feel that both are extremely close and I can fix them with more time.
 
 ### What features did you complete which you feel 'exceeded expectations'?
 I am really happy with how the user experience turned out using websockets. Although a few pieces can be improved, the flow and real-time polling ability is neat.
@@ -50,13 +50,15 @@ I really liked the readability of the socket/emit code split across relevantly n
 
 I spent a lot of time structuring the server tests but I couldn't get the test suite to post the form in order to access the voter page and admin dashboard.
 
-![test suite](http://www.aaroncareaga.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-06-at-11.22.28-PM.png)
+![test suite](http://www.aaroncareaga.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-07-at-7.06.09-AM.png)
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
-[Edge Case](https://github.com/acareaga/instapoll/blob/master/test/server-test.js)
+[Generate Poll Edge](https://github.com/acareaga/instapoll/blob/master/test/generate-poll-test.js#L24-L56) & [Server Edge](https://github.com/acareaga/instapoll/blob/master/test/server-test.js)
 
-I tried to test that each route does not return a 404 error. But without being able to post the form in a request to access the poll, the tests are not yet successful.
+I tried to test that a new poll was generated with the correct defaults, and would not allow random inputs be added.
+
+I also tried to test that each route does not return a 404 error. But without being able to post the form in a request to access the poll, the tests are not yet successful.
 
 -----
 
