@@ -37,7 +37,7 @@ Because the way that I structured the poll constructor and the expiration times 
 I'm proud of the fact that I got this section done, however, I wasn't able to get the expiration time to register unless it was nested within this block of code.  Seemed like it should've worked anywhere, but for some odd reason, I couldn't pull it out and maintain working functionality.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.  
-![screenshot](http://i65.tinypic.com/2i91g8p.png)
+![screenshot](http://i63.tinypic.com/r8icso.png)
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'  
 https://github.com/matt-stj/crowdsourcer/blob/master/test/server-test.js#L139-L154
