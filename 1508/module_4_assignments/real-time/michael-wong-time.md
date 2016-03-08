@@ -1,64 +1,65 @@
+# Real-Time Submission Form
 
 # Basics
 
 ### Link to the Github Repository for the Project
-[Your Repo](https://github.com/rossedfort/crowdsource)
+[My Repo](https://github.com/Kealii/real_time)
 
 ### Link to the Deployed Application
-[Your Application](https://boiling-temple-53818.herokuapp.com/)
+[My Application](http://real-wong-time.herokuapp.com)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Your Commits](https://github.com/rossedfort/crowdsource/commits/master)
+[My Commits](https://github.com/Kealii/real_time/commits/master)
 
 ### Provide a Screenshot of your Application
-![woop](http://i.imgur.com/coDkfRy.png)
+![real_time](http://i.imgur.com/mlbhKwf.png)
 
 ## Completion
 
 ### Were you able to complete what you feel is the base functionality?
 
-I think that I was able to complete most of the base functionality.
+I believe I accomplished Base Functionality
 
 #### If not, list what functionality you think may be missing missing.
 
-The only thing I have missing is the ability for users to create a poll where everyone can
-see the results
+N/A
 
 ### What features did you complete which you feel 'exceeded expectations'?
 
-Using firebase, I was able to store all the data externally, thus a user can go back to look
-at all of their polls.
+Text Messaging when Poll Ended.
 
 ### Attach a .gif, or images of any extensions work being used on the site.
 
-![woooooop](http://g.recordit.co/nAfFkRRJwk.gif)
+N/A
 
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
 
-[yay](https://github.com/rossedfort/crowdsource/blob/master/lib/poll-builder.js#L1-L21)
+[Proud Code](https://github.com/Kealii/real_time/blob/26df3224b4241d2e0d01e5b7d8f9e1309861a969/public/client.js#L30)
 
 #### Why were you proud of this piece of code?
 
-I was proud of this code because I thought I did a good job extracting this logic out
-not only into separate functions, but also separate files.
+I'm proud of this piece of code because in its initial state, it was even messier. Spending some time building out
+helper functions helps significantly with readability and it made it was easier for me to reason about what 
+was going on when trying to work on other things.
 
 ### Link to a specific block of your code on Github that you feel not great about
 
-[meh](https://github.com/rossedfort/crowdsource/blob/master/server.js#L64-L97)
+[Not Proud Code](https://github.com/Kealii/real_time/blob/26df3224b4241d2e0d01e5b7d8f9e1309861a969/server.js#L40)
 
 #### Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
 
-I think that having the If/Else statements in the server seems kind of skethy, but due to
-sending firebase updates from the server, I needed that functionality. I found it hard to
-find refactoring opportunities in these blocks of code.
+I don't feel awesome about this code for the same reason I felt good about the previous piece. This code works, but it
+does take a few seconds to translate what's going on and so making any changes was slow going.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
-![woop woop](http://i.imgur.com/qyfjUvK.png)
+![Test Suite](http://i.imgur.com/dQISL0g.png)
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
+
+N/A
 
 -----
 
