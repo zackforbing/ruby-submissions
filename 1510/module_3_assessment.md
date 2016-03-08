@@ -1,6 +1,6 @@
 Please submit a link to your repo:
 
-* Aaron Greenspan:
+* Aaron Greenspan: https://github.com/afg419/module_3_assessment
 * Beth Sebian:
 * Brant Wellman:
 * Brenna Martenson:
