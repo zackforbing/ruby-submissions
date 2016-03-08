@@ -13,7 +13,7 @@ Please submit a link to your repo:
 * Hector Huertas Baeza:
 * James Crockett:
 * John Slota:
-* Jordan Lawler:
+* Jordan Lawler: https://github.com/Jlawlzz/mod-3-final
 * Joseph Perry:
 * Justin Pease:
 * Lenny Myerson:
