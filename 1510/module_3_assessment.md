@@ -11,7 +11,7 @@ Please submit a link to your repo:
 * Beth Secor:
 * Greg Armstrong:
 * Hector Huertas Baeza:
-* James Crockett:
+* James Crockett: https://github.com/jecrockett/module_3_assessment
 * John Slota:
 * Jordan Lawler:
 * Joseph Perry:
