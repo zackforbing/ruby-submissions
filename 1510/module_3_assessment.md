@@ -9,7 +9,7 @@ Please submit a link to your repo:
 * David Stinnette:
 * Edgar Duran:
 * Beth Secor:
-* Greg Armstrong:
+* Greg Armstrong: https://github.com/GregoryArmstrong/module_3_assessment
 * Hector Huertas Baeza:
 * James Crockett:
 * John Slota:
