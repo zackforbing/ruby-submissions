@@ -4,7 +4,7 @@ Please submit a link to your repo:
 * Beth Sebian:
 * Brant Wellman:
 * Brenna Martenson:
-* Cole Hall:
+* Cole Hall: https://github.com/NicoleHall/module_3_assessment
 * Dan Winter: https://github.com/danjwinter/module_3_assessment
 * David Stinnette:
 * Edgar Duran:
