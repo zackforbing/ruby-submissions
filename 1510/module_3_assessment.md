@@ -18,7 +18,7 @@ Please submit a link to your repo:
 * Lenny Myerson:
 * Penney Garrett: https://github.com/PenneyGadget/module_3_assessment
 * Shannon Paige: https://github.com/ShannonPaige/module_3_assessment
-* Steve Pentler:
+* Steve Pentler:https://github.com/stevepentler/module_3_assessment
 * Steven Olson: https://github.com/SteveOscar/module_3_assessment
 * Taylor Moore:
 * Toni Rib: https://github.com/ToniRib/module_3_assessment
