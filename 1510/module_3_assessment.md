@@ -20,6 +20,6 @@ Please submit a link to your repo:
 * Penney Garrett:
 * Shannon Paige: https://github.com/ShannonPaige/module_3_assessment
 * Steve Pentler:
-* Steven Olson:
+* Steven Olson: https://github.com/SteveOscar/module_3_assessment
 * Taylor Moore:
 * Toni Rib: https://github.com/ToniRib/module_3_assessment
