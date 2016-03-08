@@ -15,7 +15,7 @@ Please submit a link to your repo:
 * John Slota:
 * Jordan Lawler:
 * Joseph Perry:
-* Justin Pease:
+* Justin Pease: https://github.com/Jpease1020/module_3_assessment
 * Lenny Myerson:
 * Penney Garrett:
 * Shannon Paige: https://github.com/ShannonPaige/module_3_assessment
