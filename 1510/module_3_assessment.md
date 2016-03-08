@@ -17,7 +17,7 @@ Please submit a link to your repo:
 * Joseph Perry:
 * Justin Pease:
 * Lenny Myerson:
-* Penney Garrett:
+* Penney Garrett: https://github.com/PenneyGadget/module_3_assessment
 * Shannon Paige: https://github.com/ShannonPaige/module_3_assessment
 * Steve Pentler:
 * Steven Olson:
