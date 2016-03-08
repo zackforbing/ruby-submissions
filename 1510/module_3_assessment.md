@@ -18,7 +18,7 @@ Please submit a link to your repo:
 * Justin Pease:
 * Lenny Myerson:
 * Penney Garrett:
-* Shannon Paige:
+* Shannon Paige: https://github.com/ShannonPaige/module_3_assessment
 * Steve Pentler:
 * Steven Olson:
 * Taylor Moore:
