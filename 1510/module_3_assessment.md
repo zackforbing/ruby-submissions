@@ -6,7 +6,7 @@ Please submit a link to your repo:
 * Brenna Martenson:
 * Cole Hall: https://github.com/NicoleHall/module_3_assessment
 * Dan Winter: https://github.com/danjwinter/module_3_assessment
-* David Stinnette:
+* David Stinnette: https://github.com/dastinnette/module_3_assessment
 * Edgar Duran: https://github.com/edgarduran/module_3_assessment
 * Beth Secor:
 * Greg Armstrong: https://github.com/GregoryArmstrong/module_3_assessment
