@@ -7,7 +7,7 @@ Please submit a link to your repo:
 * Cole Hall: https://github.com/NicoleHall/module_3_assessment
 * Dan Winter: https://github.com/danjwinter/module_3_assessment
 * David Stinnette:
-* Edgar Duran:
+* Edgar Duran: https://github.com/edgarduran/module_3_assessment
 * Beth Secor:
 * Greg Armstrong:
 * Hector Huertas Baeza:
