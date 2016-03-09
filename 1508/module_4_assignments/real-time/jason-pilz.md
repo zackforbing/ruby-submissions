@@ -59,3 +59,36 @@ to decouple the methods enough for them to work outside the file.
 ### Please feel free to ask any other questions or make any other statements below!
 * Ask MEEKA why the conical link to code block not working!!!!!( 'y' not doing anything!)
 * Also, what is the secret to separting socket and routing logic into separate files?
+
+## Instructor Feedback
+
+Really knocked this one out of the park! Good job on testing, writing out clean code and adding a really nice additional feature that captures the spirit of what a user would want this app to do for them.
+As we discussed, refactoring out a pollStorage that is a layer used to talk to your 'database' would probably be the next step here. 
+
+Score: 200
+
+Concept and Features
+
+Does it have the expected features?
+
+100 points - Exceeded expectations. There are more features than we planned.
+
+Code Quality (JavaScript and/or Ruby)
+
+30 points - Developer writes code that is exceptionally clear and well-factored. Application is expertly divided into logical components each with a clear, single responsibility.
+
+Client-Side Application
+
+30 points - Your application has exceptionally well-factored code with little or now duplication and all components separated out into logical components.
+
+Test-Driven Development
+
+30 points - The code demonstrates high test coverage. It is tested at the feature, controller and unit levels. It tests the WebSocket as well as the controller endpoints.
+
+Interface
+
+5 points - The application is pleasant, logical, and easy to use
+
+Workflow
+
+5 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
