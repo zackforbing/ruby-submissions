@@ -1,15 +1,6 @@
 Real-Time Submission Form
 [Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 
-* Fork this repo, if you haven't already and check out a branch
-* Use this README as a template to create a file in this folder with your name as the title.
-* Submit a pull request
-* Pro Tip: You can use [recordit.co](http://recordit.co/) to record interaction gifs.
-* Secondary Pro Tip: [Here's how to link to specific line number(s) in Github](http://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github)
-* Tertiary Pro Tip: You can re-use some of these things in your portfolio/resume
-
-------
-
 # Basics
 
 ### Link to the Github Repository for the Project
@@ -59,3 +50,33 @@ Real-Time Submission Form
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
+## Instructor Feedback
+
+Total Score: 130
+
+Concept and Features
+
+Does it have the expected features?
+
+50 points - Some features were sacrificed to meet the deadline. At best, this is a prototype. Major features covered by the learning goals listed above were not written by the developer.
+
+Code Quality (JavaScript and/or Ruby)
+
+30 points - Developer writes code that is exceptionally clear and well-factored. Application is expertly divided into logical components each with a clear, single responsibility.
+
+Client-Side Application
+
+30 points - Your application has exceptionally well-factored code with little or now duplication and all components separated out into logical components.
+
+Test-Driven Development
+
+10 points - Many areas of the code are not covered by tests.
+
+Interface
+
+5 points - The application is pleasant, logical, and easy to use
+
+Workflow
+
+5 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
