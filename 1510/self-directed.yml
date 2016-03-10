@@ -60,15 +60,15 @@ submissions:
     user-experience:
     performance:
   Dan Winter:
-    repo:
-    instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    repo: https://github.com/danjwinter/stache_yo_self
+    instructor: Josh M.
+    notes: Took a lot of risks. Performance wasn't measured but it's difficult to measure in this case.
+    completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+    organization: 3: Developer used a project management tool to keep their project organized.
+    test-driven-development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+    code-quality: 3+: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 3: Project pages load on average under 400 milliseconds.
   David Stinnette:
     repo:
     instructor:
@@ -141,14 +141,14 @@ submissions:
     performance:
   Joseph Perry:
     repo:
-    instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    instructor: Josh M.
+    notes: Solid project. Implemented OAuth by hand! Nice use of POROs and decorators/presenters. A couple long methods that could be broken up a bit more.
+    completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+    organization: 4: Developer used a project management tool and updated their progress in real-time.
+    test-driven-development: 3: Project shows adequate testing (90% - 95% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 2: Project pages load on average under 500 milliseconds.
   Justin Pease:
     repo:
     instructor:
