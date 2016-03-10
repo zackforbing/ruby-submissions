@@ -1,50 +1,40 @@
-Assessed By:
+Assessed By: Horace
 
-Repo:
+Repo: https://github.com/gkhalsa/black_thursday
 
 Notes:
+
+* Sales engine basic setup is good; maybe could have used some enumeration over the data hash to avoid some of the long argument lists
+* Don't use memoize if you dont need it (esp. in  initialize methods)
+* Collection organization is good within the repos
+* Don't forget to utilize finder methods that were already defined instead of re-implementing them in multiple places
+* Really like extraction of analytics work into multiple dedicated classes for each one
+* Even could have gone farther in this direction by pushing some of the simpler, "1st-pass" methods into the respective Record classes (e.g. Merchant#average_item_price)
+* Appreciate the additional features -- glad to see yall are having fun with some programming
+* Tests are good -- got a lot of them, they cover the high level functionality; would love to see using at least fixtures (slimmer data set of some sort) or even some more hand-written simple ruby data
+* Esp. looking at the anlytics test, it covers the top-level interface; would love to see it covering more of the "under the hood" intermediate steps or other helper methods
 
 
 ### 1. Functional Expectations
 
 * 4: Application implements iterations 0, 1, 2, 3, (4 or 5), and features of your own design
-* 3: Application implements iterations 0, 1, 2, 3, and either 4 or 5
-* 2: Application implements iterations 0, 1, 2, and 3
-* 1: Application does not fully implement iterations 0, 1, 2, and 3
 
 ### 2. Test-Driven Development
 
-* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 * 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-* 2: Application makes some use of tests, but the coverage is insufficient
-* 1: Application does not demonstrate strong use of TDD
 
 ### 3. Encapsulation / Breaking Logic into Components
 
-* 4: Application is expertly divided into logical components each with a clear, single responsibility
 * 3: Application effectively breaks logical components apart but breaks the principle of SRP
-* 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
-* 1: Application logic shows poor decomposition with too much logic mashed together
 
 ### 4. Fundamental Ruby & Style
 
-* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 * 3:  Application shows strong effort towards organization, content, and refactoring
-* 2:  Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
-* 1:  Application generates syntax error or crashes during execution
 
 ### 5. Enumerable & Collections
 
 * 4: Application consistently makes use of the best-choice Enumerable methods
-* 3: Application demonstrates comfortable use of appropriate Enumerable methods
-* 2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
-* 1: Application demonstrates deficiencies with Enumerable and struggles with collections
 
 ### 6. Code Sanitation
 
-The output from `rake sanitation:all` shows...
-
 * 4: Zero complaints
-* 3: Five or fewer complaints
-* 2: Six to ten complaints
-* 1: More than ten complaints
