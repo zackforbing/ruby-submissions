@@ -70,8 +70,8 @@ submissions:
     user-experience: 3: Project exhibits a production-ready user experience.
     performance: 3: Project pages load on average under 400 milliseconds.
   David Stinnette:
-    repo:
-    instructor:
+    repo: https://github.com/dastinnette/politweets
+    instructor: Josh M.
     notes:
     completion:
     organization:
@@ -110,25 +110,25 @@ submissions:
     user-experience:
     performance:
   James Crockett:
-    repo:
-    instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    repo: https://github.com/jecrockett/room_temperature
+    instructor: Josh M.
+    notes: Good attempts at removing logic from controllers using POROs. Could use instances instead of classes to avoid passing the same parameters around. Good use of caching.
+    completion: 3: Developer completed all the user stories and requirements set by the client.
+    organization: 3: Developer used a project management tool to keep their project organized.
+    test-driven-development: 3: Project shows adequate testing (90% - 95% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 4: Project pages load on average under 300 milliseconds.
   John Slota:
-    repo:
-    instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    repo: ttps://github.com/slotaj/legislators
+    instructor: Josh M.
+    notes: Really good use of POROs. Should clean up unused files. Would be good to tackle more Javascript and performance challenges like caching and background workers.
+    completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+    organization: 4: Developer used a project management tool and updated their progress in real-time.
+    test-driven-development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience
+    performance: 4: Project pages load on average under 300 milliseconds.
   Joseph Perry:
     repo: https://github.com/jwperry/EatUp
     instructor: Josh M.
