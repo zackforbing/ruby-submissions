@@ -10,25 +10,25 @@ submissions:
     user-experience: 3: Project exhibits a production-ready user experience.
     performance: 3+: Project pages load on average under 400 milliseconds.
   Beth Sebian:
-    repo:
-    instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    repo: https://github.com/bethsebian/the_cd_report
+    instructor: Lovisa
+    notes: good UI, make links more clickable, impressive features (API), great use of presenters, missing service test and presenter tests. Very ambitious project, this first iteration was a proof of concept and only focused on data for one state.
+    completion: 3
+    organization: 4
+    test-driven-development: 3
+    code-quality: 4
+    user-experience: 4
+    performance: 4
   Beth Secor:
     repo:
-    instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    instructor: Lovisa
+    notes: Great UI, no bugs, features complete, thorough feature tests, appropriate use of caching in the service
+    completion: 4
+    organization: 4
+    test-driven-development: 3
+    code-quality: 3.5 (Add twilio service, memoization)
+    user-experience: 4
+    performance: 4
   Brant Wellman:
     repo: https://github.com/brantwellman/sunset-tracker
     instructor: Josh M.
@@ -40,25 +40,25 @@ submissions:
     user-experience: 3: Project exhibits a production-ready user experience.
     performance: 3: Project pages load on average under 400 milliseconds.
   Brenna Martenson:
-    repo:
-    instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    repo: https://github.com/martensonbj/odds-roulette
+    instructor: Lovisa
+    notes: Good UI, minor bugs in features (image rendering, shoot video), controller tests could have been more robust, models should be tested,
+    completion: 3- (minor bugs, but developer took on a big challenge)
+    organization: 4
+    test-driven-development: 3
+    code-quality: 3 (could use more refactoring)
+    user-experience: 3 (some minor gaps, but this was a really complicated user flow)
+    performance: 4
   Cole Hall:
-    repo:
-    instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    repo: https://github.com/nicolehall/earbuddies
+    instructor: Lovisa
+    notes: Good tests, clean code. Was slightly small in scope (search podcasts, manage playlists, play episodes)
+    completion: 4
+    organization: 4
+    test-driven-development: 4
+    code-quality: 3 (Improve Ruby/Rails/AR knowledge in terms of language features)
+    user-experience: 2.5 + (some minor gaps, could improve search/add to playlist)
+    performance: 4
   Dan Winter:
     repo: https://github.com/danjwinter/stache_yo_self
     instructor: Josh M.
@@ -80,15 +80,15 @@ submissions:
     user-experience: 3: Project exhibits a production-ready user experience.
     performance: 4: Project pages load on average under 300 milliseconds.
   Edgar Duran:
-    repo:
-    instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    repo: https://github.com/edgarduran/snow-dashboard
+    instructor: Lovisa
+    notes: UI has some gaps, the text is difficult to read, slow load times, good feature tests, should have more service tests and controller tests (test in integration and isolation),
+    completion: 3
+    organization: 3
+    test-driven-development: 2 (controller tests and service tests)
+    code-quality: 2.5 (3 contigent on improvements)
+    user-experience: 2 (simple is better)
+    performance: 3
   Greg Armstrong:
     repo: https://github.com/gregoryarmstrong/summoner_stats
     instructor: Tess
@@ -149,15 +149,15 @@ submissions:
     user-experience: 3: Project exhibits a production-ready user experience.
     performance: 3: Project pages load on average under 400 milliseconds.
   Penney Garrett:
-    repo:
-    instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    repo: https://github.com/penneygadget/paleopal
+    instructor: Lovisa
+    notes: Good UI, few minor quirks that could be straightened out, a lot of logic in the views, controller tests could have been more robust, application controller and entries controller need refactoring.
+    completion: 3
+    organization: 4
+    test-driven-development: 3
+    code-quality: 2
+    user-experience: 3
+    performance: 4
   Shannon Paige:
     repo: https://github/shannonpaige/comic-db
     instructor: Tess
@@ -169,15 +169,15 @@ submissions:
     user-experience: 3: Project exhibits a production-ready user experience.
     performance: 1: Project pages load on average over 500 milliseconds.
   Steve Pentler:
-    repo:
-    instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+    repo: https://github.com/stevepentler/pain-caver
+    instructor: Lovisa
+    notes: All features complete, skinny controllers and fat models, good use of presenters, thoroughly tested. Good separation of logic in models/presents/service.
+    completion: 4
+    organization: 4
+    test-driven-development: 4
+    code-quality: 3
+    user-experience: 3.5
+    performance: 4
   Steven Olson:
     repo: https://github.com/steveoscar/ramble_map
     instructor: Tess
