@@ -129,18 +129,8 @@ submissions:
     code-quality:
     user-experience:
     performance:
-  Jordan Lawler:
-    repo:
-    instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
   Joseph Perry:
-    repo:
+    repo: https://github.com/jwperry/EatUp
     instructor: Josh M.
     notes: Solid project. Implemented OAuth by hand! Nice use of POROs and decorators/presenters. A couple long methods that could be broken up a bit more.
     completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
@@ -199,16 +189,16 @@ submissions:
     code-quality:
     user-experience:
     performance:
-  Taylor Moore:
-    repo:
-    instructor:
-    notes:
-    completion:
-    organization:
-    test-driven-development:
-    code-quality:
-    user-experience:
-    performance:
+  Taylor Moore & Jordan Lawler:
+    repo: https://github.com/Jlawlzz/personal-project
+    instructor: Josh M.
+    notes: Integrating 3 services and sending data between them. Clean code for the complexity.
+    completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+    organization: 4: Developer used a project management tool and updated their progress in real-time.
+    test-driven-development: 3: Project shows adequate testing (90% - 95% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 3: Project pages load on average under 400 milliseconds.
   Toni Rib:
     repo:
     instructor:
