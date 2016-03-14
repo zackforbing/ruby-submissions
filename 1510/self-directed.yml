@@ -34,7 +34,7 @@ submissions:
     instructor: Josh M.
     notes: Hit all learning goals. Some areas to clean up in controllers. Good use of POROs and Services.
     completion: 3: Developer completed all the user stories and requirements set by the client.
-    organization: 4: Developer used a project management tool and updated their progress in real-time.
+    organization: 4: Developer used a project management tgpool and updated their progress in real-time.
     test-driven-development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
     code-quality: 3: Project demonstrates solid code quality and MVC principles.
     user-experience: 3: Project exhibits a production-ready user experience.
@@ -86,7 +86,7 @@ submissions:
     completion: 3
     organization: 3
     test-driven-development: 2 (controller tests and service tests)
-    code-quality: 2.5 (3 contigent on improvements)
+    code-quality: 3
     user-experience: 2 (simple is better)
     performance: 3
   Greg Armstrong:
