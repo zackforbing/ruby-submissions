@@ -8,6 +8,10 @@ In this folder, we will add yet another folder for each major assignment - and a
 
 -----
 
+* [Extra Credit Options](extra-credit/)
+
+#### Intermission Week
+
 * [1510 Intermission Assignments](https://github.com/turingschool/intermission-assignments/issues?q=is%3Aopen+is%3Aissue+label%3A1510)
 
 #### Week 1
