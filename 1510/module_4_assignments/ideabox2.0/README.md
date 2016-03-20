@@ -27,7 +27,7 @@
 ## Completion
 
 ### Were you able to complete the base functionality?
-#### If not, list what functionality is missing.
+* If not, list what functionality is missing.
 
 ### Which extensions, if any, did you complete?
 
@@ -36,10 +36,10 @@
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-#### Why were you proud of this piece of code?
+* Why were you proud of this piece of code?
 
 ### Link to a specific block of your code on Github that you feel not great about
-#### Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+* Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
