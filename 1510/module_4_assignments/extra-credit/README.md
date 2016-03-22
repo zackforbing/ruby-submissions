@@ -19,3 +19,4 @@ This section covers significant work on an open source project this module (outs
 ## Other
 
 * Per instructors approval
+* [Google foobar challenge](https://gist.github.com/bethsecor/2d10c0a40acb3b9517bf)
