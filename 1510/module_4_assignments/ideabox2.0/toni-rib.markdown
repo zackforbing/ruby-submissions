@@ -54,17 +54,15 @@ I don't feel great about this because in talking to Steve I probably could have 
 
 ```
 idea_box { master |✔ }
-  ➾ rspec                                                                           ruby-2.2.3
-...........................................
+  ➾ rspec                                                                                                           ruby-2.2.3
+.............................................
 
-Finished in 16.28 seconds (files took 2 seconds to load)
-43 examples, 0 failures
+Finished in 18.07 seconds (files took 1.78 seconds to load)
+45 examples, 0 failures
 
 Coverage report generated for RSpec to /Users/tonirib/turing/projects/4-mod/idea_box/coverage. 31 / 31 LOC (100.0%) covered.
 ```
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
------
-
-### Please feel free to ask any other questions or make any other statements below!
+[User adds a new idea that is missing a title ](https://github.com/ToniRib/idea_box/blob/b35c3325f43b7f6839fa2a829a089eb7404649e9/spec/features/user_adds_a_new_idea_spec.rb#L58-L68)
