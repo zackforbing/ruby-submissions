@@ -1,0 +1,210 @@
+submissions:
+  Aaron Greenspan:
+    repo: https://github.com/afg419/journal
+    instructor: Tess
+    notes: Site looks great. The performance of the analytics pages was greatly improved over the last few days.
+    completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+    organization: 3: Developer used a project management tool to keep their project organized.
+    test-driven-development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+    code-quality: 4: Project demonstrates exceptionally well factored code.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 3+: Project pages load on average under 400 milliseconds.
+  Beth Sebian:
+    repo: https://github.com/bethsebian/the_cd_report
+    instructor: Lovisa
+    notes: good UI, make links more clickable, impressive features (API), great use of presenters, missing service test and presenter tests. Very ambitious project, this first iteration was a proof of concept and only focused on data for one state.
+    completion: 3
+    organization: 4
+    test-driven-development: 3
+    code-quality: 4
+    user-experience: 4
+    performance: 4
+  Beth Secor:
+    repo:
+    instructor: Lovisa
+    notes: Great UI, no bugs, features complete, thorough feature tests, appropriate use of caching in the service
+    completion: 4
+    organization: 4
+    test-driven-development: 3
+    code-quality: 3.5 (Add twilio service, memoization)
+    user-experience: 4
+    performance: 4
+  Brant Wellman:
+    repo: https://github.com/brantwellman/sunset-tracker
+    instructor: Josh M.
+    notes: Hit all learning goals. Some areas to clean up in controllers. Good use of POROs and Services.
+    completion: 3: Developer completed all the user stories and requirements set by the client.
+    organization: 4: Developer used a project management tgpool and updated their progress in real-time.
+    test-driven-development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 3: Project pages load on average under 400 milliseconds.
+  Brenna Martenson:
+    repo: https://github.com/martensonbj/odds-roulette
+    instructor: Lovisa
+    notes: Good UI, minor bugs in features (image rendering, shoot video), controller tests could have been more robust, models should be tested,
+    completion: 3- (minor bugs, but developer took on a big challenge)
+    organization: 4
+    test-driven-development: 3
+    code-quality: 3 (could use more refactoring)
+    user-experience: 3 (some minor gaps, but this was a really complicated user flow)
+    performance: 4
+  Cole Hall:
+    repo: https://github.com/nicolehall/earbuddies
+    instructor: Lovisa
+    notes: Good tests, clean code. Was slightly small in scope (search podcasts, manage playlists, play episodes)
+    completion: 4
+    organization: 4
+    test-driven-development: 4
+    code-quality: 3 (Improve Ruby/Rails/AR knowledge in terms of language features)
+    user-experience: 2.5 + (some minor gaps, could improve search/add to playlist)
+    performance: 4
+  Dan Winter:
+    repo: https://github.com/danjwinter/stache_yo_self
+    instructor: Josh M.
+    notes: Took a lot of risks. Performance wasn't measured but it's difficult to measure in this case.
+    completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+    organization: 3: Developer used a project management tool to keep their project organized.
+    test-driven-development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+    code-quality: 3+: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 3: Project pages load on average under 400 milliseconds.
+  David Stinnette:
+    repo: https://github.com/dastinnette/politweets
+    instructor: Josh M.
+    notes: Good attempts at separating logic into POROs. Could use more objects and separation from the Tweet model. Good use of caching and performance for large sets of data coming from data.
+    completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+    organization: 4: Developer used a project management tool and updated their progress in real-time.
+    test-driven-development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 4: Project pages load on average under 300 milliseconds.
+  Edgar Duran:
+    repo: https://github.com/edgarduran/snow-dashboard
+    instructor: Lovisa
+    notes: UI has some gaps, the text is difficult to read, slow load times, good feature tests, should have more service tests and controller tests (test in integration and isolation),
+    completion: 3
+    organization: 3
+    test-driven-development: 2 (controller tests and service tests)
+    code-quality: 3
+    user-experience: 2 (simple is better)
+    performance: 3
+  Greg Armstrong:
+    repo: https://github.com/gregoryarmstrong/summoner_stats
+    instructor: Tess
+    notes: Solid project overall. Could do with some refactoring, especialy the controllers
+    completion: 3+: Developer completed all the user stories and requirements set by the client.
+    organization: 3: Developer used a project management tool to keep their project organized.
+    test-driven-development: 3: Project shows adequate testing (90% - 95% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 3: Project pages load on average under 400 milliseconds.
+  Hector Huertas Baeza:
+    repo: https://github.com/hectorhuertas/business_placer
+    instructor: Tess
+    completion: 3: Developer completed all the user stories and requirements set by the client.
+    organization: 4: Developer used a project management tool and updated their progress in real-time.
+    test-driven-development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+    code-quality: 4: Project demonstrates exceptionally well factored code.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 4: Project pages load on average under 300 milliseconds.
+  James Crockett:
+    repo: https://github.com/jecrockett/room_temperature
+    instructor: Josh M.
+    notes: Good attempts at removing logic from controllers using POROs. Could use instances instead of classes to avoid passing the same parameters around. Good use of caching.
+    completion: 3: Developer completed all the user stories and requirements set by the client.
+    organization: 3: Developer used a project management tool to keep their project organized.
+    test-driven-development: 3: Project shows adequate testing (90% - 95% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 4: Project pages load on average under 300 milliseconds.
+  John Slota:
+    repo: ttps://github.com/slotaj/legislators
+    instructor: Josh M.
+    notes: Really good use of POROs. Should clean up unused files. Would be good to tackle more Javascript and performance challenges like caching and background workers.
+    completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+    organization: 4: Developer used a project management tool and updated their progress in real-time.
+    test-driven-development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience
+    performance: 4: Project pages load on average under 300 milliseconds.
+  Joseph Perry:
+    repo: https://github.com/jwperry/EatUp
+    instructor: Josh M.
+    notes: Solid project. Implemented OAuth by hand! Nice use of POROs and decorators/presenters. A couple long methods that could be broken up a bit more.
+    completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+    organization: 4: Developer used a project management tool and updated their progress in real-time.
+    test-driven-development: 3: Project shows adequate testing (90% - 95% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 2: Project pages load on average under 500 milliseconds.
+  Justin Pease:
+    repo: https://github.com/jpease1020/bus-or-uber
+    instructor: Tess
+    notes: Something broke last night with the api, not sure what it is, but I've seen the app work
+    completion: 3: Developer completed all the user stories and requirements set by the client.
+    organization: 3: Developer used a project management tool to keep their project organized.
+    test-driven-development: 3: Project shows adequate testing (90% - 95% coverage). (needs JS tests)
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 3: Project pages load on average under 400 milliseconds.
+  Penney Garrett:
+    repo: https://github.com/penneygadget/paleopal
+    instructor: Lovisa
+    notes: Good UI, few minor quirks that could be straightened out, a lot of logic in the views, controller tests could have been more robust, application controller and entries controller need refactoring.
+    completion: 3
+    organization: 4
+    test-driven-development: 3
+    code-quality: 2
+    user-experience: 3
+    performance: 4
+  Shannon Paige:
+    repo: https://github/shannonpaige/comic-db
+    instructor: Tess
+    notes: On heroku Neo4j gets hung up with more than one connection. Did something very challenging and new.
+    completion: 3: Developer completed all the user stories and requirements set by the client.
+    organization: 4: Developer used a project management tool and updated their progress in real-time.
+    test-driven-development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 1: Project pages load on average over 500 milliseconds.
+  Steve Pentler:
+    repo: https://github.com/stevepentler/pain-caver
+    instructor: Lovisa
+    notes: All features complete, skinny controllers and fat models, good use of presenters, thoroughly tested. Good separation of logic in models/presents/service.
+    completion: 4
+    organization: 4
+    test-driven-development: 4
+    code-quality: 3
+    user-experience: 3.5
+    performance: 4
+  Steven Olson:
+    repo: https://github.com/steveoscar/ramble_map
+    instructor: Tess
+    notes: Very solid project. Real world application and great UX
+    completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+    organization: 3: Developer used a project management tool to keep their project organized.
+    test-driven-development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+    code-quality: 3+: Project demonstrates solid code quality and MVC principles.
+    user-experience: 4: Project exhibits a production-ready and polished UX.
+    performance: 4: Project pages load on average under 300 milliseconds.
+  Taylor Moore & Jordan Lawler:
+    repo: https://github.com/Jlawlzz/personal-project
+    instructor: Josh M.
+    notes: Integrating 3 services and sending data between them. Clean code for the complexity.
+    completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+    organization: 4: Developer used a project management tool and updated their progress in real-time.
+    test-driven-development: 3: Project shows adequate testing (90% - 95% coverage).
+    code-quality: 3: Project demonstrates solid code quality and MVC principles.
+    user-experience: 3: Project exhibits a production-ready user experience.
+    performance: 3: Project pages load on average under 400 milliseconds.
+  Toni Rib:
+    repo: https: https://github.com/tonirib/run_hacker
+    instructor: Tess
+    notes: Solid project. Took on a lot of interesting challenges.
+    completion: 4: Developer completed all the user stories and requirements set by the client in timely manner.
+    organization: 4: Developer used a project management tool and updated their progress in real-time.
+    test-driven-development: 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+    code-quality: 4: Project demonstrates exceptionally well factored code.
+    user-experience: 4: Project exhibits a production-ready and polished UX.
+    performance: 4: Project pages load on average under 300 milliseconds.
