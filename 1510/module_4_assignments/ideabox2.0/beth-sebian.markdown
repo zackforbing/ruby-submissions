@@ -13,38 +13,47 @@
 # Basics
 
 ### Link to the Github Repository for the Project
-[Your Repo](http://giantbatfarts.com/)
+[Revenge of Idea Box](https://github.com/bethsebian/revenge_of_idea_box)
 
 ### Link to the Deployed Application
-[Your Application](http://burymewithmymoney.com/)
+[Revenge of Idea Box](https://stark-lake-86720.herokuapp.com/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Your Commits](http://beesbeesbees.com/)
+[My Commits](https://github.com/bethsebian/revenge_of_idea_box/commits/master)
 
 ### Provide a Screenshot of your Application
-![spacejam](images/spacejam.jpg)
+![ideabox](images/beth_sebian_screenshot.png)
+
 
 ## Completion
 
 ### Were you able to complete the base functionality?
-* If not, list what functionality is missing.
+Nope.  
+* Filter and Search is missing
+* testing completely absent
 
 ### Which extensions, if any, did you complete?
+None  
 
 ### Attach a .gif, or images of any extensions work being used on the site.
 
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-* Why were you proud of this piece of code?
+[Model methods](https://github.com/bethsebian/revenge_of_idea_box/blob/master/app/models/idea.rb)
+I was pleased to have a chance to move some of these methods to the model.
 
 ### Link to a specific block of your code on Github that you feel not great about
-* Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+[ideas.js file](https://github.com/bethsebian/revenge_of_idea_box/blob/master/app/assets/javascripts/ideas.js)
+* This seems like a mess.
+* Different approaches to do the same thing (add new element waits for trigger in a different way than other functions)
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
+n/a. face-palm.  
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+Some weird page reloads going on. My Ajax updates content without the page reload, but a reload is triggered somehow after that (see add new and update).
