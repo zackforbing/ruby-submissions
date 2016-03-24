@@ -12,7 +12,7 @@
 [My Commits](https://github.com/Jpease1020/Idea-Box-js/commits/master)
 
 ### Provide a Screenshot of your Application
-![](http://recordit.co/lbiPCbrZ0x)
+![](http://g.recordit.co/lbiPCbrZ0x.gif)
 
 ## Completion
 
