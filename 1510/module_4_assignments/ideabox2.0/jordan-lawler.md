@@ -8,6 +8,8 @@
 
 ###Completion  
 ####Completes all basic functionality expectations.  
+
+####Here is the inline editing extension, IN LIVE ACTION! WOOO!!!!:
 ![Inline editing extension](http://g.recordit.co/C8sJsFv7Is.gif)  
 
 ###Code Quality  
