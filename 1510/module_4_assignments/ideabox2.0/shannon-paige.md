@@ -13,7 +13,7 @@
 [My Awesome Commits](https://github.com/ShannonPaige/idea-box/commits/master)
 
 ### Provide a Screenshot of your Application
-[idea-box screenshot](images/shannon.png)
+![idea-box screenshot](images/shannon.png)
 
 ## Completion
 
@@ -26,9 +26,10 @@
 
 ### Attach a .gif, or images of any extensions work being used on the site.
 * Inline idea editing:
-[idea-box inline](images/shannon-inline.gif)
+![idea-box inline](images/shannon-inline.gif)
+
 * Sorting:
-[idea-box sorting](images/shannon-sort.gif)
+![idea-box sorting](images/shannon-sort.gif)
 
 # Code Quality
 
@@ -41,7 +42,7 @@ and [Re-usable Code B](https://github.com/ShannonPaige/idea-box/blob/master/app/
 * [Duplicate Code](https://github.com/ShannonPaige/idea-box/blob/master/app/assets/javascripts/edit_ideas.js#L38-L45): There's a lot of duplication with the makeEditable method above, but they had enough subtle differences that I couldn't seperate them.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-[idea-box screenshot](images/shannon-testSuite.png)
+![idea-box screenshot](images/shannon-testSuite.png)
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 * I don't think I had any, since I didn't validate on Title or Body. That's the only part the user had a
