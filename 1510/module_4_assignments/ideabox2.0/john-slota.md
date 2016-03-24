@@ -13,7 +13,7 @@
 [Your Commits](https://github.com/slotaj/idea_box/commits/master)
 
 ### Provide a Screenshot of your Application
-![idea box](images/slota_idea_box.jpg)
+![idea box](images/slota_idea_box.png)
 
 ## Completion
 
@@ -36,7 +36,7 @@
 * I honestly was not sure how to refactor and that's probably why I didn't like it
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-![testing](images/slota_testing.jpg)
+![testing](images/slota_testing.png)
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
