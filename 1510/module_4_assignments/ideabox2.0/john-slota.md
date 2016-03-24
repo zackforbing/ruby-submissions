@@ -24,6 +24,7 @@
 * I completed inline editing!
 
 ### Attach a .gif, or images of any extensions work being used on the site.
+![Extension](images/slota_extension.png)
 
 # Code Quality
 
