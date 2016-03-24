@@ -1,4 +1,4 @@
-# Ideabox 2.0 Submission Form - Toni Rib
+# Ideabox 2.0 Submission Form - Justin Pease
 
 # Basics
 
@@ -29,11 +29,11 @@ I also completed the sorting function.  A user can sort the ideas with the geniu
 
 Editing Inline:
 
-![](http://recordit.co/LJrMGA0gOh)
+![](http://g.recordit.co/LJrMGA0gOh.gif)
 
 Sorting:
 
-![](http://recordit.co/8OROWnaBp2)
+![](http://g.recordit.co/8OROWnaBp2.gif)
 
 # Code Quality
 
