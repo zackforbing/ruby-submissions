@@ -10,7 +10,7 @@
 [My Commits](https://github.com/edgarduran/ideabox-2.0/commits/master)
 
 ### Provide a Screenshot of your Application
-![Idea Box](http://i.imgur.com/U0XYMMv.png)(http://i.imgur.com/nog1jKi.png)
+![Idea Box](http://i.imgur.com/U0XYMMv.png)!(http://i.imgur.com/nog1jKi.png)
 
 ## Completion
 
