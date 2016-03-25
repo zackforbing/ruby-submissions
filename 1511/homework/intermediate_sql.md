@@ -12,7 +12,7 @@ Please open a PR with a link to your Gist with the SQL queries you used to work 
 * Erinna Chen: https://gist.github.com/erinnachen/328ad593a73f9dfc7f84
 * Heidi Hoopes: https://gist.github.com/hhoopes/1a0f28bcda511f649194
 * Jerrod Junker:
-* Julian Feliciano:
+* Julian Feliciano: https://gist.github.com/julsfelic/2ae3dbcf72ee46a584b6
 * July Tran: https://gist.github.com/julyytran/93fb5511940235a2721b
 * Kimiko Kano:
 * Lenny Myerso:
