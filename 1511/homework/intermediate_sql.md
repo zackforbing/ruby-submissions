@@ -9,7 +9,7 @@ Please open a PR with a link to your Gist with the SQL queries you used to work 
 * Charissa Lawrenc:
 * Chelsea Johnson:
 * David Whitaker: https://gist.github.com/damwhit/d5a7c5bb7b226cc4d195
-* Erinna Chen:
+* Erinna Chen: https://gist.github.com/erinnachen/328ad593a73f9dfc7f84
 * Heidi Hoopes: https://gist.github.com/hhoopes/1a0f28bcda511f649194
 * Jerrod Junker:
 * Julian Feliciano:
