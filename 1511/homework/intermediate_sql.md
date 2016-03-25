@@ -19,4 +19,4 @@ Please open a PR with a link to your Gist with the SQL queries you used to work 
 * Nate Venn:
 * Nicholas Dorans:
 * Nick Weiland:
-* Scott Fireston:
+* Scott Firestone: https://gist.github.com/scottfirestone/53a37677b4985c7e8578
