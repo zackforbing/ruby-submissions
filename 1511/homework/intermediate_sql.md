@@ -17,6 +17,6 @@ Please open a PR with a link to your Gist with the SQL queries you used to work 
 * Kimiko Kano:
 * Lenny Myerso:
 * Nate Venn: https://gist.github.com/natevenn/23912032ac47881ba130
-* Nicholas Dorans:
+* Nicholas Dorans: https://gist.github.com/NickyBobby/3ab42ce13cc4ef9a4715
 * Nick Weiland:
 * Scott Firestone: https://gist.github.com/scottfirestone/53a37677b4985c7e8578
