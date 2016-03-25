@@ -8,7 +8,7 @@ Please open a PR with a link to your Gist with the SQL queries you used to work 
 * Brian Rippeto:
 * Charissa Lawrenc:
 * Chelsea Johnson:
-* David Whitaker:
+* David Whitaker: https://gist.github.com/damwhit/d5a7c5bb7b226cc4d195
 * Erinna Chen:
 * Heidi Hoopes: https://gist.github.com/hhoopes/1a0f28bcda511f649194
 * Jerrod Junker:
