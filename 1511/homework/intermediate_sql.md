@@ -4,7 +4,7 @@ Please open a PR with a link to your Gist with the SQL queries you used to work 
 * Alexis Navarrete:  https://gist.github.com/Salvi6God/17fd8d250292ecf0bdc4
 * Adrienne Domingus: https://gist.github.com/adriennedomingus/56b44fea49b599ffa8e4
 * Allan Blair:
-* Brennan Holtzclaw:
+* Brennan Holtzclaw: https://gist.github.com/brennanholtzclaw/313aed2d99439df62b90
 * Brian Rippeto: https://gist.github.com/brianrip/3345b28ae3139ec36bec
 * Charissa Lawrenc:
 * Chelsea Johnson: https://gist.github.com/cheljoh/259977c70be641b7e8f2
