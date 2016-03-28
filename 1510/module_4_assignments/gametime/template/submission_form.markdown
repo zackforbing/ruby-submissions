@@ -15,7 +15,7 @@ Complete this Form before the final eval. Delete this line from your version.
 [TeamMate 2](http://45.media.tumblr.com/96975bc08e24a9876e62311fdd0c4a34/tumblr_ne4ehpSJ5z1qa747mo1_500.gif)
 
 ### Provide a Screenshot of your Game
-![spacejam](http://i.kinja-img.com/gawker-media/image/upload/s--I3c4ca1C--/18edh1v3ai4kcpng.png)
+![spacejam](https://i.ytimg.com/vi/EFt-La3UUu0/maxresdefault.jpg)
 
 ---
 
