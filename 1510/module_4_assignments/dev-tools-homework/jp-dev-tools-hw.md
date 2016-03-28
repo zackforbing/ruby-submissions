@@ -1,0 +1,2 @@
+## As you can see below 1-5 and 7 are fully complete. I can't complete 6 because of one single exercise. The frames view is not showing in my version of Chrome, and I can't find any good info on how to fix. Tried updating Chrome and lost the completed status on 1-5, and 7 because I hadn't made an account. Can't do them all over, hope that's okay.
+![Link](http://i.imgur.com/45DROmY.png)
