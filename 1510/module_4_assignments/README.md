@@ -18,3 +18,8 @@ In this folder, we will add yet another folder for each major assignment - and a
 * [IdeaBox 2.0](ideabox2.0/)
 * [ES6 Homework](https://gist.github.com/rrgayhart/8435729452a3e3ad8cd3) (3 points)
 * [Dev Tools Homework](dev-tools-homework) (5 points)
+* [Dependency Danger Read n Respond](https://gist.github.com/rrgayhart/a3517e56174270c3c3e7)
+
+#### Week 2
+* [The Concept of Require](https://gist.github.com/rrgayhart/da45f67612399647eb3c) (3 points)
+* [GameTime](gametime/)
