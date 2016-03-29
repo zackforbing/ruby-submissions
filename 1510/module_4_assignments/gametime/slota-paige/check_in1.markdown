@@ -61,6 +61,15 @@ Not 100% sure where to put/how to call the functions on the tank object.
 
 ### Points for first check in (base 50)
 
+50
+
 ### Instructor's goals for next check in
 
+Tank moving
+An enemy rendered and moving
+
+Next - Shooting and collision
+
 ### Feedback?
+
+Looking good so far, project seems doable. Just keep going.
