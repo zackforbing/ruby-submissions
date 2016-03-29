@@ -70,6 +70,17 @@ Player can shoot a gun and create portals to go through.
 
 ### Points for first check in (base 50)
 
+* 50 points
+* Initial setup of the game is implemented, their character can move around and respect the boundaries of the board.
+
 ### Instructor's goals for next check in
 
+* Shoot left, right, up and down to create portals
+* When the character moves through one of the portals and shows up in the other one (she can move back and forth)
+* Create/add the level-completed-door 
+* When the character walks through the level-completed-door, an alert box should communicate that the level is completed
+* Add walls around the character, she has to shoot portals in order to escape and get to the level-completed-door
+
 ### Feedback?
+
+This will be a great game!!
