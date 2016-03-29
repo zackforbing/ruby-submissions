@@ -56,6 +56,11 @@ N/A
 
 ### Points for first check in (base 50)
 
+50
+
 ### Instructor's goals for next check in
+
+Render obstacles and have them move to the left
+Dinosaur jumping
 
 ### Feedback?
