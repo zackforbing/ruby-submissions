@@ -6,13 +6,13 @@
 - [Steve Pentler](https://github.com/stevepentler)
 - [David Stinnette](https://github.com/dastinnette)
 ​
-### [GitHub Repository](https://github.com/stevepentler/GameTime)
+###[GitHub Repository](https://github.com/stevepentler/GameTime)
 ​
-### Basic Description
+###Basic Description
 ​
 Have you ever wanted to shoot fish in a barrel? Of course you have! Test your aim and see if you can land the trophy fish in the murky deep.
 ​
-### Fish in a Barrel gif
+###Fish in a Barrel gif
 ![](http://g.recordit.co/7JFOYuhgPs.gif)
 ​
 ##The Plan
@@ -26,11 +26,11 @@ Have you ever wanted to shoot fish in a barrel? Of course you have! Test your ai
 - Once a user has used all 5 "arrows" game is over and total score is put above leaderboard and on leaderboard if appropriate
 - User is able to restart the game
 ​
-### Difficulty settings
+###Difficulty settings
   - fish at surface swim relatively faster and act as obstacles for bigger, more valuable, fish at bottom
   - as time increases for single game session fish swim faster making it harder to reach bottom fish
 ​
-### MVP
+###MVP
 1. Create Canvas (blue rectangle 80% of height)
 2. Fish hit boundary and reverse direction along same x axis
 3. Create boat stationary in center
@@ -44,25 +44,25 @@ Have you ever wanted to shoot fish in a barrel? Of course you have! Test your ai
 12. In every session, fish move faster as time increases
 ​
 ​
-### Extensions
+###Extensions
 - Fish move up and down along y-axis while also moving along x-axis
 - user adds initials to score on leaderboard
 ​
-### Crazy Extensions
+###Crazy Extensions
 - p5.js amplitude dependent fish speeds, beginner level is slow song with smooth moving fish, expert is fast song with jerky fish
 ​
-### Current Accomplishments
+###Current Accomplishments
 - fish move across canvas' x-axis and change direction at boundaries
 - stationary boat appears at water's surface
 - left and right keydown methods firing
 ​
-### Questions, Comments, Concerns?
+###Questions, Comments, Concerns?
 - left and right keydown methods return the canvas as this instead of Boat object for this. Accordingly, we can't adjust the this.x position of the boat in the moveBoatLeft/moveBoatRight method.
 ​
-## Instructor Section
+##Instructor Section
 ​
-### Points for first check-in (50 possible)
+###Points for first check-in (50 possible)
 ​
-### Insructor goals for next checkin
+###Insructor goals for next checkin
 ​
-### Feedback
+###Feedback
