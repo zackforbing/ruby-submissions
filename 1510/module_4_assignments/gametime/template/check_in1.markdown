@@ -1,68 +1,63 @@
-#Fish in a Barrel || Check-in #1
-​
-##Basics
-​
-###Team
-- [Steve Pentler](https://github.com/stevepentler)
-- [David Stinnette](https://github.com/dastinnette)
-​
-### [GitHub Repository](https://github.com/stevepentler/GameTime)
-​
-### Basic Description
-​
-Have you ever wanted to shoot fish in a barrel? Of course you have! Test your aim and see if you can land the trophy fish in the murky deep.
-​
-### Fish in a Barrel gif
-![](http://g.recordit.co/7JFOYuhgPs.gif)
-​
-##The Plan
-​
-###User Story
-- User will press start game
-- instructions appear
-- user receives 5 "arrows"
-- When user presses spacebar, arrows is shot down vertically until it either hits a fish or the bottom of the sea
-- Each time a fish is hit, its (y-coordinate) score is added to the overall score
-- Once a user has used all 5 "arrows" game is over and total score is put above leaderboard and on leaderboard if appropriate
-- User is able to restart the game
-​
-### Difficulty settings
-  - fish at surface swim relatively faster and act as obstacles for bigger, more valuable, fish at bottom
-  - as time increases for single game session fish swim faster making it harder to reach bottom fish
-​
-### MVP
-1. Create Canvas (blue rectangle 80% of height)
-2. Fish hit boundary and reverse direction along same x axis
-3. Create boat stationary in center
-5. Boat shoots bullets vertically at fixed velocity when spacebar is pressed
-6. Bullet collision with fish results in bullet and fish disappearing
-7. fish's y coordinate added to score
-8. Shots remaining counter decreases by 1
-9. When shots remaining counter == 0, Game Over
-10. Leaderboard appears with newest score presented separately and included in leaderboard if applicable
-11. Leaderboard has link to restart
-12. In every session, fish move faster as time increases
-​
-​
-### Extensions
-- Fish move up and down along y-axis while also moving along x-axis
-- user adds initials to score on leaderboard
-​
-### Crazy Extensions
-- p5.js amplitude dependent fish speeds, beginner level is slow song with smooth moving fish, expert is fast song with jerky fish
-​
-### Current Accomplishments
-- fish move across canvas' x-axis and change direction at boundaries
-- stationary boat appears at water's surface
-- left and right keydown methods firing
-​
+Complete this Form and the README.md before the first check in. Delete this line from your version.
+
+# Game Time Check In # 1
+
+## Basics
+
+### Team
+- [TeamMate1](https://github.com/tenderlove)
+- [TeamMate2](https://github.com/wycats)
+
+### Game Name
+
+Snek
+
+### Give a Basic Description of the Game
+
+Snek eats pellets - grows and tries not to run into itself
+
+### Include a Link to or Screen Shot of the Game
+
+[Snek](http://imgur.com/gallery/owNiA)
+
+### Link to the Github repository for the project
+[Your Repo](https://youtu.be/kZSfPPJ4Fk8)
+
+## The Plan
+
+### Describe Your goals for the finished product
+
+e.g.
+
+- Snake moves around screen
+- Snake can eat pellets
+- When a pellet is eaten, the snake grows in length
+- If the snake hits itself, the game ends
+- Snake is rainbow colored, changes color throughout game
+- If the user navigates away, snake game pauses
+- Crazy Mode makes the snake change speeds randomly
+- Pellets are instructor's faces and they make a sound when they get eaten
+- Cat mode turns the snake into Nyan Cat
+
+### What is your MVP, or 'this was harder than I thought' plan?
+
+e.g.
+
+- Snake moves around screen
+- Snake can eat pellets
+- When a pellet is eaten, the snake grows in length
+- Is the snake hits itself, the game ends
+
+### What have you accomplished so far?
+
 ### Questions, Comments, Concerns?
-- left and right keydown methods return the canvas as this instead of Boat object for this. Accordingly, we can't adjust the this.x position of the boat in the moveBoatLeft/moveBoatRight method.
-​
+
+-----
+
 ## Instructor Section
-​
-### Points for first check-in (50 possible)
-​
-### Insructor goals for next checkin
-​
-### Feedback
+
+### Points for first check in (base 50)
+
+### Instructor's goals for next check in
+
+### Feedback?
