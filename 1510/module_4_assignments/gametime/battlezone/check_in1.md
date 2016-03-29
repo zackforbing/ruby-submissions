@@ -25,8 +25,8 @@ You are dropped into the turret of a futuristic tank and must fight your way thr
 
 ### Approach
 
-- <<P5 or Canvas>>
-- <<Rewrite or Port>>
+- P5 or Canvas?
+- Rewrite or Port?
 - Testing of points rendering
 - Lines rendering + testing
 - Horizon rendering
