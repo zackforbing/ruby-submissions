@@ -45,12 +45,12 @@ Twist: This pre-historic beast is packin' heat.
 
 ### What have you accomplished so far?
 
-DTR, Repo, grand scheme.
+DTR, Repo, grand scheme, levitating dot.
 
 
 ### Questions, Comments, Concerns?
 
------
+N/A
 
 ## Instructor Section
 
