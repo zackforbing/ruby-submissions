@@ -63,6 +63,14 @@ Users are presented with images of lines and corners that they have to rotate to
 
 ### Points for first check in (base 50)
 
+50
+Great use of codepen!
+
 ### Instructor's goals for next check in
 
+- Create a Shape constructor which can handle creating at least one shape
+- Have two to four shape blocks rendering and with testing (not 100% exactly but some testing hooked up).
+
 ### Feedback?
+
+Try to balance showing things on the screen and styling them against doing the backend.

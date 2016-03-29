@@ -63,6 +63,15 @@ Agar.io
 
 ### Points for first check in (base 50)
 
+50
+
 ### Instructor's goals for next check in
+- get a player on the screen
+- incorporate boundaries on the canvas
+- allow the player to consume food dots to get bigger.
 
 ### Feedback?
+
+Game is super ambitious - instructor recommends tackling making the game with a few automated 'death' pieces or two players on one computer first.
+
+Then, look at making the canvas of the game larger than the canvas 'window' or implementing websockets for the second player.

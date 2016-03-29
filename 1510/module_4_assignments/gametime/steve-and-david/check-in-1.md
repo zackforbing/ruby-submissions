@@ -62,6 +62,15 @@ Have you ever wanted to shoot fish in a barrel? Of course you have! Test your ai
 
 ### Points for first check-in (50 possible)
 
-### Insructor goals for next checkin
+50
+
+### Instructor goals for next checkin
+
+- Refactor Bullet, Boat and Fish into their own files
+- Refactor all event listeners out of the Bullet, Boat and Fish logic.
+- Test the non-drawing or canvas related methods on the Fish, Bullet and Boat constructor
+- Start looking at how to work with P5 or how to increase difficulty if P5 doesn’t work out and have a plan either way.
 
 ### Feedback
+
+Great game idea and I'm really excited for where you take it. Perfectly scoped project.

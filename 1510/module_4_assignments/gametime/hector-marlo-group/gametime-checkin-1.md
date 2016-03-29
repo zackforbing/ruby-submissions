@@ -55,6 +55,17 @@ Hector is leaving on Wednesday so we have to have this done by Tuesday. When sho
 
 ### Points for first check in (base 50)
 
+50
+
 ### Instructor's goals for next check in
 
+- Refactor keyBoarder and Player move method so that’s it’s a little clearer and more expressive with the idea that an AI has to be able to change or move a second player.
+- Look into KeyPress and Key ‘release’ and different window input styles
+
+- Collision detection should have a first pass.
+  - Snake can’t go past walls
+  - Snake can detect when it hits itself
+
 ### Feedback?
+
+Note: Due to the timeline of one partner leaving, instructor approval was given to spend less focus on the UI wrapper. 
