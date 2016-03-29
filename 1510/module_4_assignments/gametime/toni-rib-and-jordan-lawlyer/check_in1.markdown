@@ -65,6 +65,12 @@ We don't have anything rendered for our game yet, but here's a few other TD game
 
 ### Points for first check in (base 50)
 
+50
+
 ### Instructor's goals for next check in
 
+Build a board that has tiles and render that on the canvas
+
 ### Feedback?
+
+Looks good so far. Make sure you're rendering onto the canvas along the way. Don't wait to render the board until the end.
