@@ -23,9 +23,37 @@ You are dropped into the turret of a futuristic tank and must fight your way thr
 
 ## The Plan
 
-### Describe Your goals for the finished product
+### Approach
 
-e.g.
+- <<P5 or Canvas>>
+- <<Rewrite or Port>>
+- Testing of points rendering
+- Lines rendering + testing
+- Horizon rendering
+- Cylinder obstacles + collision detection
+- Cylinder enemies that don't attack (but move)
+- Player can attack + kill ((bz emphasis, not specific) projectile vs click and check if hit (doom emphasis, not specific).  Leaning towards crosshairs + click and check)
+- Enemies can attack + kill
+
+    BZ Specific
+
+- Score in dom off canvas (bz ish specific ish)
+- Enemies regen (bz specific)
+- complex tanks and/or obstacles. (collision circle/box bz specific:: for doom)
+- HUD, radar, targetting info.... (bz specific)
+
+    Doom Specific
+
+- Render 2d faces.
+- Enemies render differently
+- Health
+- Build a level...
+- Limited Ammo
+- Health pickups + Ammo pickups
+- HUD w/ bloody face
+- Multiple weapons, body armor, ...
+
+### Describe Your goals for the finished product
 
 - Player moves around the screen in 1st person 3D.
 - Obstacles are randomly generated on game load which prevent the player's movement.
