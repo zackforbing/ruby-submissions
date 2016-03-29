@@ -85,6 +85,15 @@ Solid DTR and how this is going to be implemented, especially concerning renderi
 
 ### Points for first check in (base 50)
 
+50
+
 ### Instructor's goals for next check in
 
+Add a horizon line
+Rendering lines
+Add testing
+
 ### Feedback?
+
+Ambitious project. Depending on how far you reach on Thursday, we can reevaluate the scope of the MVP. 
+MVP - "enemies", lines, start game, end game, can kill enemies.
