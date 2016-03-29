@@ -26,29 +26,36 @@ Users are presented with images of lines and corners that they have to rotate to
 ### Describe Your goals for the finished product
 
 - Start screen invites player to start game.
-- User clicks on squares to rotate the image in each square.
+- User clicks on shapes to rotate the shape.
 - When no unconnected endpoints remain, user has solved problem and the screen pulses with light briefly.
-- As the player advances through different patterns, the size of the pattern canvas grows, up to grids of 10 x 10.
+- As the player advances through different patterns, the size of the pattern canvas grows.
 - After completing a level, screen announces how many challenges the player has completed.
 - Game contains 15 patterns minimum.
-- Each square unit is one of five arrangements: partial circle, circle with spoke, straight line, double curve, quadruple curve.
+- Each shape unit is one of five arrangements: partial circle, circle with spoke, straight line, double curve, quadruple curve.
 - Game remembers user and starts them at the level they last completed.
+- TBD: autogenerate patterns or autogenerate pattern scramble
 
 ### What is your MVP, or 'this was harder than I thought' plan?
 
 - Start screen invites player to start game.
-- User clicks on squares to rotate the image in each square.
-- When no unconnected endpoints remain, user has solved problem ~~and the screen pulses with light briefly~~.
-- As the player advances through different patterns, the size of the pattern canvas grows, up to grids of 4 x 4 ~~10 x 10~~.
+- User clicks on shapes to rotate the shape.
+- When no unconnected endpoints remain, user has solved problem ~~and the screen pulses with light briefly.~~
+- ~~As the player advances through different patterns, the size of the pattern canvas grows.~~
 - After completing a level, screen announces how many challenges the player has completed.
-- Game contains 3 patterns minimum.
-- Each square unit is one of two ~~five~~ arrangements: partial circle, circle with spoke.
+- Game contains 3 ~~15~~ patterns minimum.
+- Each shape unit is one of two ~~five~~ arrangements: partial circle and circle with spoke ~~straight line, double curve, quadruple curve.~~
+- ~~Game remembers user and starts them at the level they last completed.~~
 
 ### What have you accomplished so far?
-
-
+- Determined how to draw arcs and other shapes
+- Developed strategy for actions that will follow user clicks (rotations)
+- Narrowed down color scheme
+- Developed game scope
+- Determined origin pattern (circle)
 
 ### Questions, Comments, Concerns?
+- Does it make sense as beginners to build levels independently?
+- Should we aim for patterns to have ability to autogenerate?
 
 -----
 
