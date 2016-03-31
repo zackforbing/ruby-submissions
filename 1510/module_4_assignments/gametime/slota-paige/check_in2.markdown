@@ -29,6 +29,12 @@
 
 ### Points for Second Check In (base 50)
 
+50
+
 ### Instructor's Goals for Next Check In
+
+Shooting, collison detection
+Add sprites
+start/end game
 
 ### Feedback?
