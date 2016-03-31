@@ -35,6 +35,22 @@ Nope, we're pretty stoked to get all the main pieces working so we can start mak
 
 ### Points for Second Check In (base 50)
 
+50
+
 ### Instructor's Goals for Next Check In
 
+- Some minimal indication of visual instructions to help the user along
+  - Options:
+      - Instructions on side
+      - Instructions on screen before start
+      - Visual indication when money low, or range of tower effect, etc
+
+- Refactor
+
+- Set up the menus for game wins/game losses
+
+- Implement the concept of levels
+
 ### Feedback?
+
+Suggested towers include electric mouse and hedgehog. Suggested food includes horace's bag of gummybears.
