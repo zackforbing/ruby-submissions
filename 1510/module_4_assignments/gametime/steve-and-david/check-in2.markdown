@@ -34,6 +34,12 @@
 
 ### Points for Second Check In (base 50)
 
+50
+
 ### Instructor's Goals for Next Check In
+
+Refactoring the game file
+Add images to game
+import p5
 
 ### Feedback?
