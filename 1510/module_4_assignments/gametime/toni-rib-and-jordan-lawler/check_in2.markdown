@@ -8,7 +8,7 @@ SUPER HAPPY ANIMAL FRUIT TIME! (the most amazing tower defense game ever)
 
   - Provide a screenshot or gif or link to code for this goal
 
-![](http://recordit.co/jfKeOttRi7)
+![](http://recordit.co/jfKeOttRi7.gif)
 
   - Did you deviate from the instructions? Tell us about it.
     - Nope! We implemented "Level 1" as just the basic game pretty much exactly how we said we were going to do it.
