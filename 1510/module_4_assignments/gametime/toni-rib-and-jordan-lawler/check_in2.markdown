@@ -1,6 +1,6 @@
-# Game Time Check In # 2
+# Game Time Check In #2
 
-SUPER HAPPY ANIMAL FRUIT TIME! (the most amazing tower defense game ever)
+SUPER HAPPY ANIMAL FOOD TIME! (the most amazing tower defense game ever)
 
 ## Instructor Goal Completion
 
@@ -23,8 +23,8 @@ In no particular order:
   - Implement turning, the enemies can follow a path with turns
   - Set up the menus for game wins/game losses
   - Implement paper monies concept
-  - Implement a start button
   - Implement the concept of levels
+  - More enemies! More towers! More levels! More awesomeness!
   - Refactor
 
 ### General Questions, Comments, Concerns?
