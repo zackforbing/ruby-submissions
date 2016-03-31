@@ -60,3 +60,33 @@ Coverage report generated for RSpec to /Users/davidstinnette/Turing/4module/IDEA
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
 I removed my sad path tests for the idea model when I removed validations to make my app more flexible for the user - say if they want to create an idea where no description/body is necessary. 
+
+
+---
+
+## Points
+
+Implemented inline editing. Hitting enter works, but clicking out of the box doesn't.
+
+**Overall Points**: 150
+
+### Project Requirements
+
+* Data Model - 5
+* Viewing Ideas - 10
+* Adding a New Idea - 15
+* Deleting an Existing Idea - 15
+* Changing the Quality of the Idea - 15
+* Editing an Existing Idea - 20
+* Idea Filtering and Searching - 15
+* Extensions - 5 
+
+
+### Instructor Evaluation Points
+
+* Specification Adherence - 10
+* User Interface - 3
+* Testing - 9
+* Ruby on Rails Quality - 10
+* JavaScript Style - 8
+* Workflow - 10

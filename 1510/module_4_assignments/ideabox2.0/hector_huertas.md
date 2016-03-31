@@ -54,3 +54,27 @@ Coverage report generated for MiniTest to /Users/hectorhuertas/turing/4module/pr
 ```
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 [Cannot upvote a genius idea](https://github.com/hectorhuertas/ideabox/blob/d76760e48b129ed15e6dd0892f33cde0469ab735/test/models/idea_test.rb#L26)
+
+## Points
+
+**Overall Points**: 183
+
+### Project Requirements
+
+* Data Model - 5
+* Viewing Ideas - 10
+* Adding a New Idea - 15
+* Deleting an Existing Idea - 15
+* Changing the Quality of the Idea - 15
+* Editing an Existing Idea - 20
+* Idea Filtering and Searching - 15
+* Extensions - 40 (all extensions)
+
+### Instructor Evaluation Points
+
+* Specification Adherence - 10
+* User Interface - 5
+* Testing - 5
+* Ruby on Rails Quality - 10
+* JavaScript Style - 8
+* Workflow - 10
