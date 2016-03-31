@@ -5,29 +5,25 @@
 ### GOAL 1 - Refactor Bullet, Boat, & Fish into their own files
 
 [Fish in a Barrel - Refactored](http://i.imgur.com/lCXa7aI.png?1)
-- Questions, Comments, Concerns?
 
 ### GOAL 2 - Refactor all event listeners out of the Bullet, Boat, & Fish logic
 
 [Fish in a Barrel - Event listeners](http://i.imgur.com/A3aNIYY.png?1)
-- Questions, Comments, Concerns?
 
 ### GOAL 3 - Test the non-drawing/canvas related methods on the Fish, Bullet, & Boat constructors
 
 [Fish in a Barrel - Tested](http://i.imgur.com/4kJVpUo.png?1)
-- Questions, Comments, Concerns?
+- Should we use anything in place of simplecov?
 
 ### GOAL 4 - Investigate working with p5.js library, have plan if this does not work out
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+[Fish in a Barrel - p5.js madness](http://g.recordit.co/UMn0nozV8D.gif)
+- Should we switch to p5 or bring library into project?
 
 ## Next Steps?
 
 - Refactor js function files further
 - Create scoring and shot counter functionality
-- Implement start game and game over prompts
 - Improve testing for new features(collision detection, scoring, etc)
 
 ### General Questions, Comments, Concerns?
