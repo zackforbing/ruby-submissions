@@ -11,7 +11,7 @@ SUPER HAPPY ANIMAL FOOD TIME! (the most amazing tower defense game ever)
 ![](http://recordit.co/jfKeOttRi7.gif)
 
   - Did you deviate from the instructions? Tell us about it.
-    - Nope! We implemented "Level 1" as just the basic game pretty much exactly how we said we were going to do it.
+    - Nope! We implemented "Level 1" as just the basic game pretty much exactly how we said we were going to do it. However, we did deviate in that we got a lot more done for this checkin than we needed to!
   - Questions, Comments, Concerns?
     - What more could you want than poptart cats and whales shooting pizza and bananas?
 
@@ -20,7 +20,6 @@ SUPER HAPPY ANIMAL FOOD TIME! (the most amazing tower defense game ever)
 In no particular order:
 
   - Get all of the appropriate content on the menu
-  - Implement turning, the enemies can follow a path with turns
   - Set up the menus for game wins/game losses
   - Implement paper monies concept
   - Implement the concept of levels
@@ -29,7 +28,7 @@ In no particular order:
 
 ### General Questions, Comments, Concerns?
 
-Turning seems a little complicated but we're pretty sure we've worked out the logic for how we want to do it. However, there might be unforseen complications due to the enemies varying speed.
+Nope, we're pretty stoked to get all the main pieces working so we can start making awesome and difficult levels.
 
 -----
 
