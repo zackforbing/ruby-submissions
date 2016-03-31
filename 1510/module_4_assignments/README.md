@@ -23,5 +23,5 @@ In this folder, we will add yet another folder for each major assignment - and a
 #### Week 2
 * [The Concept of Require](https://gist.github.com/rrgayhart/da45f67612399647eb3c) (3 points)
 * [GameTime](gametime/)
-* [Writing Testable JavaScript](https://gist.github.com/rrgayhart/e8b9eadbf9f30bec03df)
-* [Mary Rose Cook Live Codes a Game](https://gist.github.com/stevekinney/353182d7cd10fb4a5b27)
+* [Writing Testable JavaScript](https://gist.github.com/rrgayhart/e8b9eadbf9f30bec03df) (3 points)
+* [Mary Rose Cook Live Codes a Game](https://gist.github.com/stevekinney/353182d7cd10fb4a5b27) (3 points)
