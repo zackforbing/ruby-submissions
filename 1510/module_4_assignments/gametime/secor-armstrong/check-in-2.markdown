@@ -57,6 +57,14 @@ When the character walks through the level-completed-door, an alert box should c
 
 ### Points for Second Check In (base 50)
 
+50
+
 ### Instructor's Goals for Next Check In
 
+* Finish MVP
+* Collison and adding portals
+* Add starting screen and end game
+
 ### Feedback?
+
+Looks great!
