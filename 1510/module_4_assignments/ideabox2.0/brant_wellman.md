@@ -47,3 +47,31 @@ I don't have any true unhappy path tests - The closest I have are tests for the 
 I had trouble with accessing a variable that should have been within the scope of the function I was writing. I noticed that it may have had something to do with how the variable was defined using `this`.  
 How do you send a flash message to the user when an object doesn't save due to a validation failure?  
 Difficult but fun project!
+
+---
+
+## Points
+
+Caveot that when you truncate, the characters after the body get thrown out. If you then do inline editing, the rest of the body gets deleted.
+
+**Overall Points**: 153
+
+### Project Requirements
+
+* Data Model - 5
+* Viewing Ideas - 10
+* Adding a New Idea - 15
+* Deleting an Existing Idea - 15
+* Changing the Quality of the Idea - 15
+* Editing an Existing Idea - 20
+* Idea Filtering and Searching - 15
+* Extensions - 10 (inline editing)
+
+### Instructor Evaluation Points
+
+* Specification Adherence - 10
+* User Interface - 3
+* Testing - 5
+* Ruby on Rails Quality - 10
+* JavaScript Style - 8
+* Workflow - 10
