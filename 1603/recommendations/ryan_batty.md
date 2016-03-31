@@ -7,8 +7,6 @@ Notes:
 - Method length is acceptable, but could be broken out more
 - Take a look at the class as a whole in the spec, and plan out some architecture before attacking the problem. Echo is a bitch.
 
-
-
 ### 1. Functional Expectations
 
 * 4: Application fulfills all base expectations and two extensions
