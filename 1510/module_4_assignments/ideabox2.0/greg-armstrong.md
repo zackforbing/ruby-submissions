@@ -82,3 +82,77 @@ to determine which value to set the variable, but then the following AJAX call d
 
 ### Please feel free to ask any other questions or make any other statements below!
 * I really liked this project. It seemed to have just enough difficulty to make it challenging without being out of reach. I learned a TON about the differences between functional and OO programming. I didnt test as well as I should have when it came to feature tests, I fell behind in using TDD because I wanted to make sure I finished the spec. I'll definitely push myself very hard to go back to TDD for the next project, it was at times difficult to find the errors/bugs occuring because I had no tests to help me determine that.
+
+--
+
+# Instructor Feedback
+
+151
+
+### Data Model
+
+(5 points total.)
+
+### User Flows
+
+#### Viewing ideas
+
+(8 points total.)
+
+-2 some issues with the truncate
+
+#### Adding a new idea
+
+(15 points total.)
+
+#### Deleting an existing idea
+
+(15 points total.)
+
+#### Changing the quality of an idea
+
+(15 points total.)
+
+#### Editing an existing idea
+
+(20 points total.)
+
+#### Idea Filtering and Searching
+
+(15 points total.)
+
+### Extensions
+
+#### Inline idea editing
+
+(10 additional points.)
+
+When a user clicks the title or idea of an idea in the list, that text should become an editable text field, pre-populated with the existing idea title or body. The user should be able to "commit" their changes by pressing "Enter/Return" or by clicking outside of the text field.
+
+## Instructor Evaluation Points
+
+### Specification Adherence
+
+* **10 points**: The application consists of one page with all of the major functionality being provided by jQuery. There is no use of `format.js` in Rails. There is no use of unobstrusive JavaScript. There are no front-end frameworks used in the application. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
+
+### User Interface
+
+* **5 points** - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor _without_ guidance from the developer.
+
+### Testing
+
+* **7 points** - Project has a running test suite that tests and multiple levels but fails to cover some features. All controller actions are covered by tests. The application makes some use of integration testing.
+
+Some cruft files in tests - failing test on master branch
+
+### Ruby and Rails Quality
+
+* **8 points** - Developer solves problems with a balance between conciseness and clarity and often extracts logical components. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### JavaScript Style
+
+* **8 points** - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### Workflow
+
+* **10 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
