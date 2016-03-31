@@ -26,7 +26,7 @@
 ## Next Steps?
 
 - Points/Food system
-- Further testing
+- Further Testing
 
 ### General Questions, Comments, Concerns?
 
@@ -36,6 +36,16 @@
 
 ### Points for Second Check In (base 50)
 
+50
+
 ### Instructor's Goals for Next Check In
+
+- Points/Food system
+  - Have the food add up points
+  - Some indication of points shown on UI
+
+- Further Testing (doesn't need to be click events or things like that)
+
+- Most MVP playability should be done or close by Monday check in.
 
 ### Feedback?
