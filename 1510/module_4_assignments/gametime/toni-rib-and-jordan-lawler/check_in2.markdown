@@ -21,7 +21,6 @@ In no particular order:
 
   - Get all of the appropriate content on the menu
   - Set up the menus for game wins/game losses
-  - Implement paper monies concept
   - Implement the concept of levels
   - More enemies! More towers! More levels! More awesomeness!
   - Refactor
