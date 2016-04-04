@@ -34,6 +34,20 @@
 
 ### Points for Second Check In (base 50)
 
-### Instructor's Goals for Next Check In
+50
+
+### Goals for Next Eval
+
+- Basic eval on Wednesday
+  - Make sure fruit does not appear inside of occupied position.
+  - Make sure playing cannot reverse and die on itself
+  - Order of the checks for collisions
+  - Skynet
+
+- Final eval on Thursday
+  - Wrap up, clean up wonkiness
+  - Some UI polish
 
 ### Feedback?
+
+AWESOME!
