@@ -28,6 +28,7 @@
   + Max speed? Max size?
 - Make sure collision detection with food and players still works with increased speed
 
+
 ### General Questions, Comments, Concerns?
 
 -----
@@ -36,6 +37,17 @@
 
 ### Points for Second Check In (base 50)
 
+50
+
 ### Instructor's Goals for Next Check In
 
+- Players consuming one another
+- Declare a winner if there's only one player left (optional)
+- Incorporate speed into the game
+  + As a player grows, their speed must decrease
+- Make sure collision detection with food and players still works with increased speed
+- Research spike into websockets and/or expanded canvas
+
 ### Feedback?
+
+Great work!
