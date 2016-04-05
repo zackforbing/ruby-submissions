@@ -71,3 +71,28 @@ Available Upon Request
 ### Please feel free to ask any other questions or make any other statements below!
 
 Tagging
+
+---
+
+## Points
+
+**Overall Points**: 159
+
+### Project Requirements
+
+* Data Model - 5
+* Viewing Ideas - 10
+* Adding a New Idea - 15
+* Deleting an Existing Idea - 15
+* Changing the Quality of the Idea - 15
+* Editing an Existing Idea - 20
+* Idea Filtering and Searching - 15
+* Extensions - 15
+### Instructor Evaluation Points
+
+* Specification Adherence - 10
+* User Interface - 3
+* Testing - 8
+* Ruby on Rails Quality - 10
+* JavaScript Style - 8
+* Workflow - 10
