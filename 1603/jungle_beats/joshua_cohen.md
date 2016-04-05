@@ -1,7 +1,11 @@
-Assessed By:
+Assessed By: Horace
 
 Notes:
 
+* Didn't complete assignment -- had struggles getting started and breaking into the problem
+* Talked about some different strategies or possible approaches for the remaining 6 weeks
+* would like to figure out why we're not getting good results out of the lessons and projects so far and see what we
+can do differently to get more success going forward
 
 ### 1. Functional Expectations
 
