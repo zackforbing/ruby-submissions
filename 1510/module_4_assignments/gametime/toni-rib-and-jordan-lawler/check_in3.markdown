@@ -39,7 +39,7 @@ When you lose the game,
 
 ### GOAL 3: Implement the concept of levels
 
-(Levels folder)[https://github.com/ToniRib/game_time/tree/master/lib/levels]
+[Levels Folder](https://github.com/ToniRib/game_time/tree/master/lib/levels)
 
 We implemented the concept of levels by creating a Level class that allows us to fetch all of the correct data for the current level. This allowed us to separate out the board, enemies, money, etc. by level.
 
