@@ -37,21 +37,20 @@ When you lose the game,
 
 ![You Lose](/1510/module_4_assignments/gametime/toni-rib-and-jordan-lawler/images/you_lose.png)
 
-### GOAL 3
+### GOAL 3: Implement the concept of levels
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+(Levels folder)[https://github.com/ToniRib/game_time/tree/master/lib/levels]
 
-### GOAL 4
+We implemented the concept of levels by creating a Level class that allows us to fetch all of the correct data for the current level. This allowed us to separate out the board, enemies, money, etc. by level.
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+### GOAL 4: Refactor
+
+We definitely did some of this, for example by giving the enemies a type attribute we could [refactor this code](https://github.com/ToniRib/game_time/blob/d0a62426a64bf9bb4022dce39caae1de046c7fff/lib/engine.js#L74-L78) to get rid of if statements which became cumbersome when we started adding more enemeis. However, we have a lot of new animation and sprite loading classes that we haven't refactored much. Similarly, I started repeating a lot of tower code that should be refactored to DRY up the code.
 
 ## Next Steps?
 
-- What do you feel the next steps should be?
+- Finish animations
+- Build more levels
 
 ### General Questions, Comments, Concerns?
 
