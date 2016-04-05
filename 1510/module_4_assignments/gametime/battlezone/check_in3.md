@@ -36,6 +36,14 @@
 
 ### Points for Second Check In (base 50)
 
+50
+
 ### Instructor's Goals for Next Check In
 
+- Add tutorial level
+- clean up start game screen
+- replace mothership possibly with giant cube
+
 ### Feedback?
+
+Looks great. Just focus on polish and user interface. You want the game to be playable by other people.
