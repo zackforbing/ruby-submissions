@@ -1,45 +1,30 @@
-## Student Name
+## Kerry Sheldon
 
-**Instructor:**
+**Instructor:** Horace
 
-**Repo URL:**
+**Repo URL:** https://github.com/kjs222/sorting
 
 ### Notes
 
-## Rubric
+* great job tackling project and some extensions
+* algos are pretty easy to follow, especially if as described you tried to derive them with minimum reference to external sources.
+* merge sort is the only one that starts to drift a bit from the expected implementation -- as we introduce steps that aren't necessarily essential
+to the core algorithm, the code starts to get more complex
 
-This rubric works like so: In order to get a given score,
-you must satisfy not only its description,
-but also the requirements of all the scores beneath it.
-ie if you did not satisfy the requirements of 2,
-then you are not eligible for a 3, even if you satisfied it.
+## Rubric
 
 ### Functional Expectations
 
 * 4: All three sort classes work as expected with 2 or more extensions.
-* 3: All three sort classes work as expected
-* 2: Two sort classes work as expected
-* 1: Zero or one sort classes work as expected
 
 ### Testing
 
-* 4: Tests are clearly written with names that accurately describe the behavior. Edge cases
-such as empty arrays, reversed arrays, etc are also tested.
-* 3: Tests cover functionality and demonstrate some escalation of complexity across the examples.
-* 2: Sorting suites pass all the examples
-* 1: All tests pass and can be ran together with a single command
+* 4: Tests are clearly written with names that accurately describe the behavior. Edge cases such as empty arrays, reversed arrays, etc are also tested.
 
 ### Ruby Style
 
-* 4: Any given chunk of code can be understood at a single level of abstraction
 * 3: Code is a readable and effective implementation of the algorithm. Has fewer than 4 "what on earth is this?" lines of code.
-* 2: Code runs effectively but has large issues with readbility (long methods, confusing
-method or variable names, etc)
-* 1: There are syntax errors or crashes during execution
 
 ### Organization
 
 * 4: Version control maintains the codebase
-* 3: Each sorter class has it's own file in the proper directory and it's own test in the test directory
-* 2: A file/directory structure provides basic organization via lib/ and spec/ or /test
-* 1: Components work together properly
