@@ -22,6 +22,14 @@
 
 ### Points for Second Check In (base 50)
 
+50
+
 ### Instructor's Goals for Next Check In
 
+- Build user interface: start game and end game
+- Game instructions
+- More tests
+
 ### Feedback?
+
+Game looks good, glad to have base functionality done
