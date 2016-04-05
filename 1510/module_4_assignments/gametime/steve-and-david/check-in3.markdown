@@ -15,7 +15,7 @@
 
 ### GOAL 3 - import p5
 
-- [Shrimpin' Ain't Easy - p5](http://i.imgur.com/lx0Nqw2.png?1)
+[Shrimpin' Ain't Easy - p5](http://i.imgur.com/lx0Nqw2.png?1)
 - You could look at this boring picture, or you could just play the game
 - Ask about export amplitude
 
