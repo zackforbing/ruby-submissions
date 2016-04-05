@@ -50,6 +50,13 @@
 
 ### Points for Second Check In (base 50)
 
-### Instructor's Goals for Next Check In
+50
+
+### Instructor's Goals for Eval
+
+- Push up to Github pages
+- Breakdown of random stats at the end of Game - time played, number of jumps
+- Clean up start and end game
+- README
 
 ### Feedback?
