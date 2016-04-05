@@ -29,13 +29,13 @@ When you win the game,
   - You can choose to move on to the next level
   - You receive a number of stars (up to 3) depending on how many lives you lost
 
-![You Win](/images/you_win.png)
+![You Win](/1510/module_4_assignments/gametime/toni-rib-and-jordan-lawler/images/you_win.png)
 
 When you lose the game,
 
   - You can choose to replay this level
 
-![You Lose](/images/you_lose.png)
+![You Lose](/1510/module_4_assignments/gametime/toni-rib-and-jordan-lawler/images/you_lose.png)
 
 ### GOAL 3
 
