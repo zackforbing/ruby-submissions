@@ -31,6 +31,10 @@
 
 ### Points for Second Check In (base 50)
 
+50
+
 ### Instructor's Goals for Next Check In
 
+- Finish project
+- 
 ### Feedback?
