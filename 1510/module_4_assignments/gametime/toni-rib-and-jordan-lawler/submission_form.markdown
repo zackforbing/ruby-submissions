@@ -10,6 +10,7 @@
 
 ### Link to Your Commits in the Github Repository for the Project
 [Toni](https://github.com/ToniRib/game_time/commits/master?author=ToniRib)
+
 [Jordan](https://github.com/ToniRib/game_time/commits/master?author=Jlawlzz)
 
 ### Provide a Screenshot of your Game
