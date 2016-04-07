@@ -6,18 +6,18 @@ Evaluator: Rachel
 Notes:
 
 * all iterations are complete; data in iteration 8 is not scoped per client
-* refactor payload parser + client parser by Wed. to get Ruby scores
 * client methods tested for muliple clients sometimes, but not consistent
 * feature tests looked good -- good use of scoping to specific HTML elements
 * good use of ActiveRecord for queries
 * views looked good -- no logic leaking through 
+* inclusion of module in server file is somewhat confusing - sets instance variables without being clear
+* some methods in Client Parser module should be built in Event, Url, and Client classes
 
 The project will be assessed with the following rubric:
 
 #### 1. Functional Expectations
 
 * 3: Application fulfills base expectations
-* 2: Application has some small missing base functionality
 
 #### 2. Test-Driven Development
 
@@ -29,9 +29,7 @@ The project will be assessed with the following rubric:
 
 #### 4. Fundamental Ruby & Style
 
-* 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 * 3: Application shows strong effort towards organization, content, and refactoring
-* 2: Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
 
 #### 5. Sinatra / Web and Business Logic
 
@@ -58,6 +56,9 @@ Evaluator: Rachel
 Notes:
 
 * all base functionality implemented correctly
+* use the built-in relationship for payload_requests instead of PayloadRequest.where(client_id: self.id)
+* views are good for the most part -- check _hours.erb for variable assignment
+* server file very clean. gave suggestion to send one instance variable that methods can be called on instead of multiple
 
 The project will be assessed with the following rubric:
 
@@ -75,9 +76,7 @@ The project will be assessed with the following rubric:
 
 #### 4. Fundamental Ruby & Style
 
-* 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 * 3: Application shows strong effort towards organization, content, and refactoring
-* 2: Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
 
 #### 5. Sinatra / Web and Business Logic
 
@@ -104,15 +103,15 @@ Evaluator: Rachel
 Notes:
 
 * all base functionality exists; iteration 8 needs to be scoped to the client
-* implement i8 and resubmit for score
+* use of "builder" objects for data presentation
+* good use of Active Record for querying
+* very clean views
 
 The project will be assessed with the following rubric:
 
 #### 1. Functional Expectations
 
-* 4: Application fulfills base expectations and adds two extensions
 * 3: Application fulfills base expectations
-* 2: Application has some small missing base functionality
 
 #### 2. Test-Driven Development
 
