@@ -9,8 +9,8 @@
 [Shrimpin' Ain't Easy](http://stevepentler.github.io/GameTime/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Steve](https://github.com/stevepentler/GameTime/commits?author=stevepentler)
-[David](https://github.com/stevepentler/GameTime/commits?author=dastinnette)
+- [Steve](https://github.com/stevepentler/GameTime/commits?author=stevepentler)
+- [David](https://github.com/stevepentler/GameTime/commits?author=dastinnette)
 
 ### Provide a Screenshot of your Game
 [Shrimpin' Ain't Easy](http://i.imgur.com/kDdYfDo.png?1)
@@ -47,7 +47,7 @@ Implemented p5.js library:
 
 ### Link to a specific block of your code on Github that you feel not great about
 [Bullet functions within Game file](https://github.com/stevepentler/GameTime/blob/3aa670cb349737941a84ceaedb8ba5ffcd2b2875/lib/game.js#L54-L73)
-- We struggled extracting bullet functions out of the game file because each bullet relies on knowing the canvas height before another can be fired.
+- We made multiple attempts to extract bullet functions out of the game file but it was too difficult to track the state (active vs inactive) of the bullet in another file.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 [Tests on tests](http://i.imgur.com/sKnhN64.png?1)
@@ -60,7 +60,8 @@ Implemented p5.js library:
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
 [Collision edge case](https://github.com/stevepentler/GameTime/blob/4d4a6a4a7c332b71ceddd49d506a9aefdc998e88/test/collision-test.js#L45-L53)
-- Tested an edge case where a collision is verified even with variable fish dimensions. 
+- Tested an edge case where a collision is verified even with variable fish dimensions.
+
 ### Provide a link to an example, if you have one, of a feature test that covers an 'edge case' or 'unhappy path'
 [Recognizes false collision](https://github.com/stevepentler/GameTime/blob/fd00c98af2c1b8caa89218856a58bc0323345fc7/test/collision-test.js#L95-L104)
 - We tested direct hit collisions and edge case partial collisions in the code above this segment. We also successfully verified misses.
