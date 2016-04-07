@@ -23,22 +23,19 @@
  - Yes
 
 ### What Extensions, as Requested By an Instructor, Did You Complete?
-Implement p5.js library:
-- Describe the extension
-- Provide a .gif of the extension or a link to the relevant code
-
-### What Features, if Any, Do You Feel Exceed Instructor Expectations?
-Per Feature:
- - Describe the feature
- - Provide a .gif of the feature in action or a link to the relevant code
+Implemented p5.js library:
+- Our initial goal was to play a song from the Forrest Gump soundtrack, then base the motion of the shrimp on the amplitude of the song.
+- [Our implementation](https://gist.github.com/stevepentler/99d89ad4ef79b9fae0dd628961e7bbd7)
 
 ----
 
 ## Risk Taking
 - What risks did you feel you took on this project?
-  - Implementing the p5 library
+  1. p5 implementation required a lot of persistence. Running these two tools side by side presented a great deal of challenges, and p5 features intricacies that aren't clear in the documentation. We feel this was a creative solution - passing information from p5 to an invisible element on the DOM and then ripping the information using jQuery. Though it's recognizably a workaround solution, this strategy tied in a number of client-side concepts.
+  2. Strong attempts to refactor code.
 - How do you feel about those risks?
-  - Memory leakage...
+  1. Ultimately, we achieved our goal. Though the success of this app wasn't dependent on p5, we think it adds a unique flavor to our game. In addition, we are excited to have a better understanding of the possibilities of p5.
+  2. We spent an immense amount of time both successfully and unsuccessfully refactoring code. It's definitely frustrating to spend a couple hour trying to refactor, then git stashing all of your changes. On the bright side, we were able to isolate our drawObjects and moveObjects functions.
 
 ----
 
@@ -62,10 +59,11 @@ Per Feature:
   - 21
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
-- All objects were given default values if none were explicitly provided, eliminating the need for most edge case testing.
+[Collision edge case](https://github.com/stevepentler/GameTime/blob/4d4a6a4a7c332b71ceddd49d506a9aefdc998e88/test/collision-test.js#L45-L53)
+- Tested an edge case where a collision is verified even with variable fish dimensions. 
 ### Provide a link to an example, if you have one, of a feature test that covers an 'edge case' or 'unhappy path'
-[Ignores false collision](https://github.com/stevepentler/GameTime/blob/fd00c98af2c1b8caa89218856a58bc0323345fc7/test/collision-test.js#L95-L104)
-- We tested direct hit collisions and partial collisions in the code above this segment and successfully tested misses report no collision here.
+[Recognizes false collision](https://github.com/stevepentler/GameTime/blob/fd00c98af2c1b8caa89218856a58bc0323345fc7/test/collision-test.js#L95-L104)
+- We tested direct hit collisions and edge case partial collisions in the code above this segment. We also successfully verified misses.
 
 -----
 
