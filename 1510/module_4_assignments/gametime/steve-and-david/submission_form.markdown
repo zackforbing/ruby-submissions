@@ -45,10 +45,12 @@ Per Feature:
 ## Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- Canvas-painter, canvas-motion, collision detection?
+[Extracting functions from Game file](https://github.com/stevepentler/GameTime/blob/3aa670cb349737941a84ceaedb8ba5ffcd2b2875/lib/game.js#L42-L52)
+- We extracted object move and draw functions into separate files reducing clutter in the main Game file.
 
 ### Link to a specific block of your code on Github that you feel not great about
-- Game.js with bullet?
+[Bullet functions within Game file](https://github.com/stevepentler/GameTime/blob/3aa670cb349737941a84ceaedb8ba5ffcd2b2875/lib/game.js#L54-L73)
+- We struggled extracting bullet functions out of the game file because each bullet relies on knowing the canvas height before another can be fired.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 [Tests on tests](http://i.imgur.com/sKnhN64.png?1)
@@ -60,9 +62,10 @@ Per Feature:
   - 21
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
-- All objects were given default values if none were explicitly provided, eliminating the need for most edge case testing
+- All objects were given default values if none were explicitly provided, eliminating the need for most edge case testing.
 ### Provide a link to an example, if you have one, of a feature test that covers an 'edge case' or 'unhappy path'
-[Reports false collision](https://github.com/stevepentler/GameTime/blob/fd00c98af2c1b8caa89218856a58bc0323345fc7/test/collision-test.js#L95-L104)
+[Ignores false collision](https://github.com/stevepentler/GameTime/blob/fd00c98af2c1b8caa89218856a58bc0323345fc7/test/collision-test.js#L95-L104)
+- We tested direct hit collisions and partial collisions in the code above this segment and successfully tested misses report no collision here.
 
 -----
 
