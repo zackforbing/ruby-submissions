@@ -20,7 +20,7 @@
 ## Completion
 
 ### Do You Consider the Application to be Fully Playable?
- - For Slota - yes. For Shannon - well, she sucks at video games.
+ - For Slota - yes. For Shannon - well, she feels it is difficult.
 
 ### What Extensions, as Requested By an Instructor, Did You Complete?
 Alien Tentacles Moving:
@@ -39,7 +39,7 @@ each time a level is passed.
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
 Audio:
- - When the window loads, Bill Pullman's speech from Indepence Day plays. We didn't think we were going
+ - When the window loads, Bill Pullman's speech from Independence Day plays. We didn't think we were going
  to have time to implement audio, but we made it work
  - (Code)[https://github.com/ShannonPaige/turing-invaders/blob/master/lib/index.js#L3-L4]
 
@@ -55,10 +55,11 @@ We just tried to write good code and make sure we understood it all.
 ## Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- Why were you proud of this piece of code?
+- We think we did a good job of breaking up our code. It made it easy to implement new levels. In (this code)[https://github.com/ShannonPaige/turing-invaders/blob/master/lib/draw.js#L25-L47] we check the status of
+game and update the tick function accordingly.
 
 ### Link to a specific block of your code on Github that you feel not great about
-- Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+- There are so many variables declared in Draw that get passed around (code) [https://github.com/ShannonPaige/turing-invaders/blob/master/lib/draw.js#L25-L47], but there didn't seem to be away around that.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 !(Tests)[http://g.recordit.co/W603oNT4PJ.gif]
@@ -76,6 +77,7 @@ We just tried to write good code and make sure we understood it all.
 ### Please feel free to ask any other questions or make any other statements below!
 - We set out to make a version of Space Invaders that was as close as possible to the original. I think we
 accomplished that, while both learning a lot about JavaScript and how to write good oo code.
+- We still don't feel super confident about testing in JavaScript and would have like to have done better on that.
 
 -----
 
