@@ -25,3 +25,7 @@ In this folder, we will add yet another folder for each major assignment - and a
 * [GameTime](gametime/)
 * [Writing Testable JavaScript](https://gist.github.com/rrgayhart/e8b9eadbf9f30bec03df) (3 points)
 * [Mary Rose Cook Live Codes a Game](https://gist.github.com/stevekinney/353182d7cd10fb4a5b27) (3 points)
+
+#### Week 3
+* [Refactor Tractor](https://gist.github.com/rrgayhart/5bf9b8e04b159892b97fb39528fc2e47) (25 points)
+* [Creact](https://github.com/applegrain/creact) (30 points)
