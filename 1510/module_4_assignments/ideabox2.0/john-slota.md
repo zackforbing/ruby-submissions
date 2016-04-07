@@ -44,3 +44,29 @@
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
+---
+
+## Points
+
+**Overall Points**: 148
+
+### Project Requirements
+
+* Data Model - 5
+* Viewing Ideas - 10
+* Adding a New Idea - 15
+* Deleting an Existing Idea - 15
+* Changing the Quality of the Idea - 15
+* Editing an Existing Idea - 20
+* Idea Filtering and Searching - 15
+* Extensions - 10
+
+### Instructor Evaluation Points
+
+* Specification Adherence - 10
+* User Interface - 3
+* Testing - 5
+* Ruby on Rails Quality - 8
+* JavaScript Style - 7
+* Workflow - 10
