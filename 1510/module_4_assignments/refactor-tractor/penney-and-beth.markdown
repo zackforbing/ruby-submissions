@@ -6,7 +6,7 @@
   - Was the submission gist used?
   - Was the submission form forked?
 
-  No-ish? The submission form was forked but no link included - 1 point
+  Yes - 2 points
 
 ## Issues (2 points)
   - Was an Issue Created?
@@ -30,18 +30,18 @@
 
 ## Was the work in the spirit of refactoring? (5 points)
 
-  Yes - juicy refactor!
+  Yes - juicy refactors!
 
 ## Did the student reply to the PRs she/he/ze was tagged in? (5 points)
 
-  No - 0 points
+  Yes - 5 points
 
 ## Did the student respond to feedback they got in their PR? (5 points)
 
-  No 0 points
+  No - 0 points
 
 ## Instructor Feedback
 
 Responding in tagged PRs is important - as well as responding to feedback given.
 
-11/25
+17/25

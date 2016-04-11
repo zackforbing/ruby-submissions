@@ -36,7 +36,7 @@ Yes! Nice little refactor - 5 points
 
 ## Did the student reply to the PRs she/he/ze was tagged in? (5 points)
 
-N/A - Student was not tagged in any PRs - 5 points
+Yes! - 5 points
 
 ## Did the student respond to feedback they got in their PR? (5 points)
 

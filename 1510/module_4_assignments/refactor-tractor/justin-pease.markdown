@@ -38,7 +38,7 @@ Yes-ish. The form was forked and there was a link - but the link didn't actually
 
 ## Did the student respond to feedback they got in their PR? (5 points)
 
-  N/A - no feedback provided at time of grading - 5 points
+  Yes - 5 points
 
 ## Instructor Feedback
 
