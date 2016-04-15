@@ -5,17 +5,16 @@ Complete this Form and the README.md before the first check in. Delete this line
 ## Basics
 
 ### Team
-- [TeamMate1](https://github.com/)
-- [TeamMate2](https://github.com/)
+- [TeamMate1](https://github.com/tenderlove)
+- [TeamMate2](https://github.com/wycats)
 
 ### Game Name
 
-Agar
+Snek
 
 ### Give a Basic Description of the Game
 
-A player moves a blob around a screen eating other small preset static blobs which
-increase the player's blob size.  There are other players eating static blobs but also able to eat each other. A blob must be a certain percentage larger than another blog to eat it.  It you get eaten the game is over.  
+Snek eats pellets - grows and tries not to run into itself
 
 ### Include a Link to or Screen Shot of the Game
 
