@@ -89,4 +89,40 @@ I don't really know how to answer this because we didn't split them up into sepa
 
 ## Instructor Feedback
 
-- Points: (base 300)
+- Points: 135
+- 
+## Evaluation Rubric
+
+There are 300 total available points for this project.
+
+150 are available at each of three check-ins and are at instructor descretion.
+
+Teams must complete the [submission form prior to each check-in](https://github.com/turingschool/ruby-submissions/tree/master/1510/module_4_assignments/gametime/template).
+
+150 out of a total of 300 points are included in the rubric below. The additional 150 feature points will be determined during iteration planning with instructors during check-ins.
+
+### Functional Expectations
+
+* **35 points** - Application is fully playable and exceeds the expecations set by instructors
+
+### User Interface
+
+* **15 points** - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor _without_ guidance from the developer.
+
+### Testing
+
+* **25 points** - Project has a running test suite that tests and multiple levels but fails to cover some features. All controller actions are covered by tests. The application makes some use of integration testing.
+
+### JavaScript Style
+
+* **20 points** - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### Workflow
+
+* **25 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+### Code Sanitation
+
+The output from JSHint shows…
+
+* **15 points** - Zero complaints
