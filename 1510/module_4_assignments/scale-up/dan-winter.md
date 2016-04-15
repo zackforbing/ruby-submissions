@@ -30,20 +30,6 @@ I finished everything I set out to including:
 
 I'm hoping my refactoring is enough to convince you to read the coming blog post on Monday.
 
-### Part 1:
-  - Title:
-  - Summary:
-  - Link:
-
-### Part 2:
-  - Title:
-  - Summary:
-  - Link:  
-
-### Part 3:
-  - Title:
-  - Summary:
-  - Link:  
 
 ## Risk Taking
   - Honestly, I felt like most of this was slapping together tutorials into a cohesive app. Except for the sticky notes. I'm proud of that. But, I learned a ton and I'm finally understanding how React components can be broken down and reused in new contexts and how electron works with the main and rendering processes. I'm excited to build another app with it...once I have time again.
