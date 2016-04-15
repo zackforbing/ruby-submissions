@@ -3,25 +3,26 @@
 ## Basics
 
 ### Link to the Github Repository for the Project
-[Your Repo](http://imgur.com/a/Fur9a)
+[Desktop Note Taker](https://github.com/Jpease1020/desktop-note-taker)
 
 ### Link to Your Commits in the Github Repository for the Project
-[TeamMate 1](http://ericsteinborn.com/github-for-cats/img/typing.gif)
-[TeamMate 2](http://ericsteinborn.com/github-for-cats/img/typing.gif)
+[Justin Pease](https://github.com/Jpease1020/desktop-note-taker/commits?author=Jpease1020)
+[Dan Winter](https://github.com/Jpease1020/desktop-note-taker/commits?author=danjwinter)
 
 ### Provide a screenshot of your application
-
+[gif](http://g.recordit.co/21SIe9ikwo.gif)
 ### Link to any pull requests you submitted outside of your project
 - link
 - description of work
 
 ### Talk about something from the pre-work that you didn't know about before this week.
--[Hint - pre-work list is in the lesson plan](https://github.com/turingschool/lesson_plans/edit/master/ruby_04-apis_and_scalability/bartleby_project.markdown)
+- What excited me about doing this project was the ability to create a desktop app.  I was very excited to be able to say that I knew how to do that even if electron does pretty much all the work for me.  Something that I learned from the pre-work was that a chrome browser was just a window.  I have always mentally connected that to the web so learning that I can use a chrome browser to make a window and write to it for a desktop app was very interesting.  I just never though much about what a window was before.  
 
 ### How far were you able to get on features in your application
+I honestly didn't get very far at all.  The new language of ES6, combined with the React framework and the Electron framework was too much for me.  I learned a lot working with Dan for a few days but after that I was just not soaking in much content.  I implemented making a new file/note to write to.
 
 ### Link to blog post(s) submitted
-
+[My First Electron Easy Bake Desktop App](https://teamgritblog.wordpress.com/2016/04/15/my-first-electron-easy-bake-desktop-app/)
 ### Part 1:
   - Title:
   - Summary:
@@ -39,8 +40,10 @@
 
 ## Risk Taking
   - What risks did you feel you took on this project?
-  - How do you feel about those risks?
+  - I think taking this project on at all was a risk.  I really should have done an independent project to work through my javascript skills but I wanted to learn React, and Electron and ES6.
 
+  - How do you feel about those risks?
+  - I feel mixed.  I had a very tough week and don't feel that I really learned enough about Electron or React, and I still need more practice with JS but I am glad I got some exposure to all those new technologies.  
 ### Please feel free to ask any other questions or make any other statements below!
 
 -----
