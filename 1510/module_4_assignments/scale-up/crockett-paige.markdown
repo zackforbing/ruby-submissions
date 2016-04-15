@@ -7,9 +7,11 @@
 
 ### Link to Your Commits in the Github Repository for the Project
 [Jamie](https://github.com/jecrockett/image_resizer/commits/master?author=jecrockett)
+
 [Shannon](https://github.com/jecrockett/image_resizer/commits/master?author=ShannonPaige)
 
 ### Provide a screenshot of your application
+![gif](http://g.recordit.co/rtyQ4MiGtm.gif)
 
 ### Link to any pull requests you submitted outside of your project
 - [electron-image-resizer on github](https://github.com/jecrockett/electron-image-resize)
