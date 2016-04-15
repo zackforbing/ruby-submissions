@@ -40,6 +40,7 @@ Ultimately, we replaced stripe functionality with the ability to break out of a 
     - I know what client side development looks like.
     - I appreciate how much harder React/JS is to debug.
     - Most importantly, Jordan and I were able to spend time together.
+
 -----
 
 Instructor Evaluation:
