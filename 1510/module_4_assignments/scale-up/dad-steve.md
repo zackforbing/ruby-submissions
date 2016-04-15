@@ -8,6 +8,7 @@
 - [Son](https://github.com/stevepentler/Kryptonite/commits/master?author=Jlawlzz)
 
 ### Provide a screenshot of your application
+![](http://g.recordit.co/ATMpjvsVwU.gif)
 
 ### Talk about something from the pre-work that you didn't know about before this week.
 - I'm happiest that I have a reasonable philosophy of React, especially regarding state and props. I had no idea what was going on in the React code-alongs, but now I want to continue working with React.
@@ -17,6 +18,7 @@
 - User can stop that work interval timer
 - Pomodoro initiates and user has no control over their computer
 - Pomodoro has cryptographic exit feature
+- Responsive custom tray icon
 
 Ultimately, we replaced stripe functionality with the ability to break out of a pomodoro. We figured this extension was more central to the purpose of the application.
 
