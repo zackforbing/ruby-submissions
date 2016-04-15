@@ -3,7 +3,12 @@
 ## Basics
 
 ### Link(s) to the PRs or Issues You Picked Up
--[#23 Company Show](https://github.com/LookingForMe/lookingfor/pull/55)
+
+LookingFor:
+- [#23 Company Show](https://github.com/LookingForMe/lookingfor/pull/55)
+
+Whiskey Tango:
+- [#4 Update Readme](https://github.com/brantwellman/3D-graphics-engine/pull/4)
 
 ### Talk about something from the pre-work that you didn't know about before this week.
 -[Hint - pre-work list is in the lesson plan](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/looking_for_project.markdown)
@@ -23,13 +28,17 @@ postings below the job listings
 ### Link to blog post(s) submitted
 
 ### Discuss: your experience doing PR reviews and getting PR feedback
-It's a good practice I wish we had more time for during projects at Turing.
+It's a good practice I wish we had more time for during projects at Turing. For
+one, on large projects like this it keeps me involved with other features I
+otherwise would not have a chance to see. And two, it's helpful to see how
+others would tackle the same problem, whether they're more experienced or on the
+same level as me. 
 
 ### Discuss: your experience doing daily stand ups
 I was part of daily stand ups in my old job and I really enjoy them. Even in
 sales, it was helpful for me to hear daily updates on the direction of the
 product I was selling and provide customer feedback to the dev team. At Turing,
-it was helpful to practice get a feel for the daily routine once we've
+it was helpful to practice getting a feel for the daily routine once we've
 graduated and aren't living like peasants anymore.
 
 ### What features would you like to see LookingFor have in the future?
