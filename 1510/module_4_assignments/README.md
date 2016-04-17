@@ -29,3 +29,7 @@ In this folder, we will add yet another folder for each major assignment - and a
 #### Week 3
 * [Refactor Tractor](https://gist.github.com/rrgayhart/5bf9b8e04b159892b97fb39528fc2e47) (25 points)
 * [Creact](https://gist.github.com/rrgayhart/a838fe2bbd259da04f75) (30 points)
+
+#### Week 4
+* [Scale Up](scale-up/)
+* [Pizza Express](https://gist.github.com/rrgayhart/521cd4277481c298a1ae) (25 points)
