@@ -2,7 +2,7 @@
 
 * Adam Hundley: https://github.com/adamhundley/module_3_diagnostic
 * Alexis Navarrete: https://github.com/Salvi6God/module_3_assessment
-* Adrienne Domingus:
+* Adrienne Domingus: https://github.com/adriennedomingus/module_3_assessment
 * Allan Blair: https://github.com/amaxwellblair/module_3_diagnostic
 * Brennan Holtzclaw: https://github.com/brennanholtzclaw/module_3_diagnostic/pull/6
 * Brian Rippeto: [ouch](git@github.com:brianrip/module_3_assessment.git)
