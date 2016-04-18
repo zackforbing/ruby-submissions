@@ -18,4 +18,4 @@
 * Nate Venn:
 * Nicholas Dorans:
 * Nick Weiland:
-* Scott Fireston:
+* Scott Firestone:
