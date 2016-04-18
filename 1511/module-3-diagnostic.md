@@ -16,6 +16,6 @@
 * Kimiko Kano: https://github.com/ksk5280/module_3_diagnostic
 * Lenny Myerson:
 * Nate Venn:
-* Nicholas Dorans:
+* Nicholas Dorans: https://github.com/NickyBobby/module_3_assessment
 * Nick Weiland:
 * Scott Firestone: [cash money](https://github.com/scottfirestone/module_3_assessment.git)
