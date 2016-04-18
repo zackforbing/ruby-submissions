@@ -7,7 +7,7 @@
 * Brennan Holtzclaw:
 * Brian Rippeto:
 * Charissa Lawrence:
-* Chelsea Johnson:
+* Chelsea Johnson: https://github.com/cheljoh/module_3_diagnostic
 * David Whitaker:
 * Erinna Chen:
 * Heidi Hoopes:
