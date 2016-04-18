@@ -28,7 +28,7 @@ npm module to share our knowledge with the world.
 
 ### Talk about something from the pre-work that you didn't know about before this week.
 - From Shannon: I honestly didn't know ANYTHING about this stuff until we started the project. The biggest lesson I got out of the prework was going through the firesale tutorial and learning how to split up the functionality and send content to the render process. I still didn't really understand it until we tried to implement Drag and Drop and tried to use a BrowserWindow and call document in the same function...not a good idea.
-- From Jamie:
+- From Jamie: I had no idea that there existed languages/frameworks that made it possible to make cross-platform applications. I knew React Native would allow you to create apps for both major mobile operating systems, but electron makes it pretty easy to build desktop applications for the major desktop operating systems. I also learned more about the concept of separating a main process versus a rendering process. I had done something similar implementing Socket.IO into gametime where there was a separate server process and client process, but it's a slightly different concept when everything (main and renderer) is happening on the local machine, yet we still separate out the two processes. I still have more to learn on this, because we included some logic in the renderer that probably should have been in main. Still, I learned a lot about the general structure and how to communicate between the processes.
 
 ### How far were you able to get on features in your application
 - We were able to implement drag and drop, image renaming and resizing multiple images in one process.
@@ -40,15 +40,10 @@ npm module to share our knowledge with the world.
   - Summary: I discuss why we chose this project, why electron was a great fit for what we were doing, why we used React (even though we didn't need to), how we had trouble with Drag and Drop and what features I think would be cool to implement if we had more time.
   - [Link](http://developerterms.com/image-resizer/)
 
-### Part 2:
-  - Title:
-  - Summary:
-  - Link:  
-
-### Part 3:
-  - Title:
-  - Summary:
-  - Link:  
+### Jamie (all parts in one blog post):
+  - Title: A Beginner's Look at React and Electron
+  - Summary: A general overview of the React library, Electron framework, and my experience with the two building a small image resizing application.
+  - [Link](https://docs.google.com/document/d/1GeEj1YZxqfePiV8wkt_VGVoEwq5wiIH0rBXlVYegFYE/edit) 
 
 ## Risk Taking
   - After talking to Meeka and hearing that Drag & Drop was "hell" we worried that making it work could be a huge rabbit hole/ risk.
