@@ -13,7 +13,7 @@
 * Heidi Hoopes:
 * Julian Feliciano:
 * July Tran:
-* Kimiko Kano:
+* Kimiko Kano: https://github.com/ksk5280/module_3_diagnostic
 * Lenny Myerson:
 * Nate Venn:
 * Nicholas Dorans:
