@@ -9,7 +9,7 @@
 * Charissa Lawrence:
 * Chelsea Johnson:
 * David Whitaker:
-* Erinna Chen:
+* Erinna Chen: https://github.com/erinnachen/module_3_assessment
 * Heidi Hoopes:
 * Julian Feliciano:
 * July Tran:
