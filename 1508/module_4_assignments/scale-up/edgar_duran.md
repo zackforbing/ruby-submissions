@@ -15,7 +15,7 @@
 -I then took on the issue of creating a Job show page. I was able to create one with the same styling as the home page. 
 
 ### Link to blog post(s) submitted
-[Blog](https://docs.google.com/document/d/1s2AJVp_n-vbjWqvlUqKifRMydRpQJWswf7bhxOilLGs/edit)
+[Blog](https://medium.com/@eduran/looking-for-application-f430953120bc#.6r05wmk18)
 
 ### Discuss: your experience doing PR reviews and getting PR feedback
 -It was great to see how the process worked. It felt like working on a real team.
