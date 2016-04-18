@@ -18,4 +18,4 @@
 * Nate Venn:
 * Nicholas Dorans:
 * Nick Weiland:
-* Scott Firestone:
+* Scott Firestone: [cash money](https://github.com/scottfirestone/module_3_assessment.git)
