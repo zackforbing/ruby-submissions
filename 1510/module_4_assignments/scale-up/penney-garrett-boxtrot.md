@@ -24,8 +24,8 @@ The last day I picked up the StackOverflow locations bug issue, pryed into the c
 
 ### Link to blog post(s) submitted
 
-[Outline](https://gist.github.com/PenneyGadget/b57f98e707b919b78514839f6f6bae0b)
-(I will write these this weekend!)
+[Blog Post #1 - Gitastrophe Lessons Learned](http://penneygadget.github.io/2016/04/15/gitastrophe-lessons-learned.html)
+[Blog Post #2 - Travis CI](http://penneygadget.github.io/2016/04/17/travis-ci.html)
 
 ### Discuss: your experience doing PR reviews and getting PR feedback
 
