@@ -31,7 +31,7 @@ postings below the job listings
 - Link to company show was added to the index page for jobs
 
 ### Link to blog post(s) submitted
-- [Active Record queries that are both dope and tight](https://gist.github.com/dastinnette/cc452406d0a7756a3fa9df73b370bd19)
+- [Make Database Performance Great Again](https://medium.com/@dastinnette/make-database-performance-great-again-6f41502d4ce9#.n07ncwnft)
 
 ### Discuss: your experience doing PR reviews and getting PR feedback
 It's a good practice I wish we had more time for during projects at Turing. For
