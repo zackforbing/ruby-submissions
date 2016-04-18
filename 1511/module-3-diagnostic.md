@@ -5,7 +5,7 @@
 * Adrienne Domingus:
 * Allan Blair:
 * Brennan Holtzclaw:
-* Brian Rippeto:
+* Brian Rippeto: [ouch](git@github.com:brianrip/module_3_assessment.git)
 * Charissa Lawrence:
 * Chelsea Johnson:
 * David Whitaker:
