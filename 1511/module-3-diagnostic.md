@@ -11,7 +11,7 @@
 * David Whitaker:
 * Erinna Chen:
 * Heidi Hoopes:
-* Julian Feliciano:
+* Julian Feliciano: https://github.com/julsfelic/module_3_diagnostic
 * July Tran:
 * Kimiko Kano:
 * Lenny Myerson:
