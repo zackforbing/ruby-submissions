@@ -1,7 +1,7 @@
 ## Module 3 Diagnostic
 
 * Adam Hundley:
-* Alexis Navarrete:
+* Alexis Navarrete: https://github.com/Salvi6God/module_3_assessment
 * Adrienne Domingus:
 * Allan Blair:
 * Brennan Holtzclaw:
