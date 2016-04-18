@@ -9,7 +9,7 @@
 * Charissa Lawrence:
 * Chelsea Johnson: https://github.com/cheljoh/module_3_diagnostic
 * David Whitaker:
-* Erinna Chen:
+* Erinna Chen: https://github.com/erinnachen/module_3_assessment
 * Heidi Hoopes:
 * Julian Feliciano: https://github.com/julsfelic/module_3_diagnostic
 * July Tran:
