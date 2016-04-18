@@ -16,6 +16,6 @@
 * Kimiko Kano:
 * Lenny Myerson:
 * Nate Venn:
-* Nicholas Dorans:
+* Nicholas Dorans: https://github.com/NickyBobby/module_3_assessment
 * Nick Weiland:
 * Scott Firestone:
