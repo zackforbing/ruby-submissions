@@ -3,7 +3,7 @@
 * Adam Hundley:
 * Alexis Navarrete:
 * Adrienne Domingus:
-* Allan Blair:
+* Allan Blair: https://github.com/amaxwellblair/module_3_diagnostic
 * Brennan Holtzclaw:
 * Brian Rippeto: [ouch](git@github.com:brianrip/module_3_assessment.git)
 * Charissa Lawrence:
