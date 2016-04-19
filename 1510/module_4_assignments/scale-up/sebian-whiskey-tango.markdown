@@ -16,7 +16,7 @@
   * I am most comfortable building with TDD -- feel a little lost without that structure.
 
 ### Link to blog post(s) submitted
-  Draft of post available here: https://gist.github.com/bethsebian/57656987f403657da51d5e87e18b38ae
+  ["Lessons Creating a Police Data API"](http://bethsebian.github.io/civic_tech/2016/04/17/lessons-creating-a-police-data-api.html)
 
 ### Discuss: your experience doing PR reviews and getting PR feedback
   * It was helpful to have _a little_ (i.e. 1) experience submitting a comment on Secor's code...and realizing how easy it was.
