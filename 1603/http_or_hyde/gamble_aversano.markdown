@@ -6,38 +6,31 @@ Notes:
 
 ### 1. Functional Expectations
 
-* 4: Application completes all required iterations and adds comparable feature(s) of its own design
 * 3: Application completes all features in Iterations 0-5
-* 2: Application completes at least iterations 0-3
-* 1: Application does not complete iterations 0-3
+
 
 **Echo/Foxtrot Note:** Requirements listed are for *Foxtrot* pairs -- Echo requirements are shifted by 1 additional iteration -- So a 3 for Echo requires completing Iterations 0-6
 
 ### 2. Test-Driven Development
 
-* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 * 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-* 2: Application makes some use of tests, but the coverage is insufficient
-* 1: Application does not demonstrate strong use of TDD
+* I felt that there test where there. They did test for some edge-cases which I think got them their 3. I would of liked to see more assertions and more prying into the code base. But from what I could see they were moving on the right track. I just wanted a little more. 
 
 ### 3. Encapsulation / Breaking Logic into Components
 
-* 4: Application is expertly divided into logical components each with a clear, single responsibility
 * 3: Application effectively breaks logical components apart but suffers from some repetition or lack of consistency between components.
-* 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
-* 1: Application logic shows poor decomposition with too much logic mashed together
+*  This is a soft three. I feel that they were showing glimpses of being able to do this part well. I think time just got the best of them
+
 
 ### 4. Fundamental Ruby & Style
 
-* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring. Code is consistently clear and makes excellent use of common ruby patterns and idioms.
-* 3:  Application shows strong effort towards organization and refactoring but still has some long or difficult-to-read methods. Some ruby idioms or patterns could still be applied more consistently.
-* 2:  Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
-* 1:  Application generates syntax error or crashes during execution
+* 3.5:  Application shows strong effort towards organization and refactoring but still has some long or difficult-to-read methods. Some ruby idioms or patterns could still be applied more consistently.
+*  This probably would error on the 3 side. I saw an effort to really try and make this piece happen.
+
 
 ### 5. Enumerable & Collections
 
-* 4: Application consistently makes use of the best-choice Enumerable methods
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
-* 2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
-* 1: Application demonstrates deficiencies with Enumerable and struggles with collections
+  
+
 
