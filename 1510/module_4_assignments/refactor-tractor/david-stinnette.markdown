@@ -38,7 +38,7 @@ It was - this was a great choice for this. - 5 points
 
 ## Did the student reply to the PRs she/he/ze was tagged in? (5 points)
 
-No - 0 points
+Yes - 5 points
 
 ## Did the student respond to feedback they got in their PR? (5 points)
 
@@ -46,6 +46,6 @@ Yes - student did a good job or responding and incorporating feedback.
 
 ## Instructor Feedback
 
-20/25
+25/25
 
 Would recommend looking into JavaScript ways of escaping html input when reading it.
