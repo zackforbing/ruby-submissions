@@ -33,3 +33,7 @@ In this folder, we will add yet another folder for each major assignment - and a
 #### Week 4
 * [Scale Up](scale-up/)
 * [Pizza Express](https://gist.github.com/rrgayhart/521cd4277481c298a1ae) (25 points)
+
+#### Week 5
+* [RealTime](real-time)
+* [WebSockets](https://gist.github.com/stevekinney/2f3e8e5f7838ebf810854d413b329746)
