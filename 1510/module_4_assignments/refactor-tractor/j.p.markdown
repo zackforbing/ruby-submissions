@@ -40,4 +40,8 @@ Yes! - 5 points
 
 ## Did the student respond to feedback they got in their PR? (5 points)
 
+N/A - not tagged in PR - 5 points
+
 ## Instructor Feedback
+
+24/25

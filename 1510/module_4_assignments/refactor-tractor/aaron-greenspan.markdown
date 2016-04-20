@@ -38,6 +38,8 @@ Yes! Good feedback on Penney's PR - 5 points
 
 ## Did the student respond to feedback they got in their PR? (5 points)
 
-Waiting to find out!
+Yes - 5 points
 
 ## Instructor Feedback
+
+22/25
