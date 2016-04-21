@@ -1,13 +1,13 @@
 # Community Involvement
 
 ## Being Visible
-  - List 5 conferences you would be interested in attending or speaking at
+  - List 3 conferences you would be interested in attending or speaking at
     - For each conference:
       - When is their next CFP deadline
       - Do they have any scholarships you could apply to?
       - Come up with 3 talk ideas and list below
 
-  - List 5 Meetup groups in the area you plan to move to
+  - List 3 Meetup groups in the area you plan to move to
     - For each meetup:
       - List the sponsors if they share any
       - Link to an upcoming Meetup you'd be interested in attending
