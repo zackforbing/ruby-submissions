@@ -16,7 +16,7 @@
 
 ### Link to blog post(s) submitted  
 
- [The link](https://gist.github.com/afg419/3085ab59bc46581668ac7a7ab75b3f49)
+ [The link](https://medium.com/@afg419/computing-the-computational-complexity-of-merge-sort-with-ruby-2ed01af9e0ff#.nju6txod0)
 
 ### Discuss: your experience doing PR reviews and getting PR feedback  
 
@@ -38,8 +38,6 @@ Points: (max 150)
 
 ### Blog Post (40 Points)  
   * 40: Developer has >= 2 blog posts documenting something they have worked on for their independent study or has one in depth blog post.
-  * 25: Developer has one blog post less than 500 characters long.
-  * 0: Developer created no blog posts.
 
 ### Participation (50 points)
   * 50: Developer participated daily in stand ups with the group (remote or in person). Developer was able to speak to their work in stand ups in a way that was clear and informative. Developer was involved in pull request reviews.
