@@ -2,8 +2,9 @@
 
 ### Which Assignments and Why?
 - Which assignments did you choose to complete this week?
+Side Hustle
 - Why did you choose these assignments?
-
+I think it's the most focused and actionable choice.
 
 ##Goals
 ###[Goal 1: React](https://gist.github.com/stevepentler/7c2112e9c818a571507a70b580bb7345)
