@@ -64,7 +64,6 @@
 
 ### Please feel free to ask any other questions or make any other statements below!
 
-"Only God can judge me now" - Tupac Shakur
 -----
 
 ## Instructor Feedback
