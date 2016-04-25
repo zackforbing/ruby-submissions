@@ -2,6 +2,8 @@
 
 ## Link to Submission
 
+[Shannon Paige](https://github.com/ShannonPaige/idea-box/pull/42)
+
 ## Was the Homework Submitted Correctly? (2 points)
   - Was the submission gist used?
   - Was the submission form forked?
@@ -36,7 +38,7 @@ Yes - low hanging fruit, but sometimes that exactly the fruit what needs picked.
 
 ## Did the student reply to the PRs she/he/ze was tagged in? (5 points)
 
-N/A - student was not tagged in any PRs - 5 points
+Yes - really good feedback for Hector - 5 points
 
 ## Did the student respond to feedback they got in their PR? (5 points)
 
