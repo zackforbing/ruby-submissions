@@ -21,6 +21,11 @@
 
 ### Were you able to complete functionality that fits both case studies?
 - Duh.
+- Thought:
+    - Records all active users rather than a socket, meaning this application would be appropriate for a single admin/organization with multiple surveys.
+        - ex: If multiple admin sent out the links, anyone with any link on the socket is counted towards the "Active Friends" on each page
+    - Closes survey by removing "options buttons" from view and replacing with "This survey has closed"
+        - users could refresh the link and it would still tally their vote. I thought this was fine because if the survey is closing, the admin will view the results as they're closing the button. Then they can consider whether they want to consider late votes.
 
 
 ### Did you do anything outside the scope of the case studies?
