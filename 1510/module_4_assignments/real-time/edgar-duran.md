@@ -56,29 +56,29 @@
 
 ## Instructor Feedback
 
-116/200
+154/200
 
 ### Concept and Features
 
 Does it have the expected features?
 
-* 50 points - Some features were sacrificed to meet the deadline. At best, this is a prototype. Major features covered by the learning goals listed above were not written by the developer.
+* 75 points - Met expectations as outlined by the user personas, the application is a solid first version. All planned features were delivered.
 
 ### Code Quality (JavaScript and/or Ruby)
 
-* 20 points - Developer writes effective code, but does not breakout logical components. Application shows some effort to break logic into components, but the divisions are inconsistent or unclear. There are many large methods or functions and it is not clear to the evaluator what a given section of code does.
+* 25 points - Developer solves problems with a balance between conciseness and clarity and often extracts logical components. Developer can speak to choices made in the code and knows what every line of code is doing.
 
 ### Client-Side Application
 
-* 20 points - Your application has a significant amount of duplication and one or major bugs.
+* 25 points - Your application is thoughtfully put together with some duplication and no major bugs.
 
 ### Test-Driven Development
 
-* 20 points - The code demonstrates high test coverage. One or more enpoints are not tested or the internal business logic is not fully tested.
+* 20 points - The code demonstrates high test coverage. One or more enpoints are not tested or the internal business logic 
 
 ### Interface
 
-* 2 points - The application shows effort in the interface, but the result is not effective. The evaluator has some difficulty using the application when reviewing the features in the user stories.
+* 5 points - The application is pleasant, logical, and easy to use
 
 ### Workflow
 
