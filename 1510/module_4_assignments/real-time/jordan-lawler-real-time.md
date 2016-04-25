@@ -31,23 +31,23 @@
 
 ### Link to a specific block of your code on Github that you are proud of
 
-![recognition](https://github.com/Jlawlzz/Mix-Cake/blob/master/song-analysis.js)
+[song-recognition](https://github.com/Jlawlzz/Mix-Cake/blob/master/song-analysis.js)
 
 * Why were you proud of this piece of code?
 
-#### This is the code that delivers a similarity rating for two songs. While more refactoring could be done, the code is effecient and has a higher accuracey rate than I expected. Next steps are to rate similarity even when songs are not started at the same time!
+###### This is the code that delivers a similarity rating for two songs. While more refactoring could be done, the code is effecient and has a higher accuracey rate than I expected. Next steps are to rate similarity even when songs are not started at the same time!
 
 ### Link to a specific block of your code on Github that you feel not great about
 
-![sad](https://github.com/Jlawlzz/Mix-Cake/blob/master/song-matcher.js#L19-L29)
+[sad](https://github.com/Jlawlzz/Mix-Cake/blob/master/song-matcher.js#L19-L29)
 
 * Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
 
-#### This function is not well written at all. It acts as a middle man to implement song analysis, but is not refactored well. All the elements coming together for this method made everything very tangeled and difficult to refactor.
+###### This function is not well written at all. It acts as a middle man to implement song analysis, but is not refactored well. All the elements coming together for this method made everything very tangeled and difficult to refactor.
 
 ### Please feel free to ask any other questions or make any other statements below!
 
-#### Music recognition is something I have been wanting to accomplish since day 1 at Turing. I am very very happy with how much I was able to accomplish, even though a test suite was not implimented due to this iteration essentially being a spike. Regardless I learned a god-awfull amount about everything from noSQL db's, to websockets, to express and node.
+###### Music recognition is something I have been wanting to accomplish since day 1 at Turing. I am very very happy with how much I was able to accomplish, even though a test suite was not implimented due to this iteration essentially being a spike. Regardless I learned a god-awfull amount about everything from noSQL db's, to websockets, to express and node.
 
 -----
 
