@@ -20,30 +20,38 @@
 ## Completion
 
 ### Were you able to complete functionality that fits both case studies?
+Yes
 
 ### List any functionality from the case studies that is missing
+No functionality missing
 
 ### Did you do anything outside the scope of the case studies?
-
 Let's not get greedy
 
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-* Why were you proud of this piece of code?
+[Remove empty options](https://github.com/dastinnette/real-time/blob/ffd9429224cba04f2d81e38c8f30d0c00aed1e5e/server.js#L54-L57)
+I had trouble displaying only the buttons that the admin entered choices into.
+After experimenting with a few methods I found a way to make filter work and
+only display the number of buttons in the poll view that the admin created
+choices for.
 
 ### Link to a specific block of your code on Github that you feel not great about
-* Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+[Server needs refactor](https://github.com/dastinnette/real-time/blob/ee3e619bb8903be458a82c1cc6a2fcb576866661/server.js#L100-L109)
+I was able to extract a few methods out of the server.js file into their own
+files in the lib folder but was not able to extract this and keep my tests
+passing. With more time I would have made this work but kept the method in a
+crowded server.js file to keep all tests passing.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
+![Tests on tests](http://i.imgur.com/6ZnP0bS.png?1)
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
-
-At what time during the a.m. hours is it appropriate to start drinking?
 
 -----
 
