@@ -1,68 +1,64 @@
 # RealTime Submission Form
 [Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 
-------
-
 # Basics
 
 ### Link to the Github Repository for the Project
-[GitHub](https://github.com/stevepentler/RealTime)
+[Repo](https://github.com/jecrockett/real-time)
 
 ### Link to the Deployed Application
-[State Your Preference](https://state-your-preference.herokuapp.com/)
+[Application](https://poll-out.herokuapp.com/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Your Commits](https://github.com/stevepentler/RealTime/commits/master)
+[My Commits](https://github.com/jecrockett/real-time/commits/master)
 
 ### Provide a Screenshot of your Application
-![](http://g.recordit.co/jCytnvwzFx.gif)
+![Gif of App](http://g.recordit.co/LqaEN0H848.gif)
 
 ## Completion
 
 ### Were you able to complete functionality that fits both case studies?
-- Duh.
-- Thought:
-    - Records all active users rather than a socket, meaning this application would be appropriate for a single admin/organization with multiple surveys.
-        - ex: If multiple admin sent out the links, anyone with any link on the socket is counted towards the "Active Friends" on each page
-    - Closes survey by removing "options buttons" from view and replacing with "This survey has closed"
-        - users could refresh the link and it would still tally their vote. I thought this was fine because if the survey is closing, the admin will view the results as they're closing the button. Then they can consider whether they want to consider late votes.
+Yessiree
 
+### List any functionality from the case studies that is missing
 
 ### Did you do anything outside the scope of the case studies?
-- Sends a text that includes results when admin closes a survey.
-![](http://i.imgur.com/oJhRmM7.jpg)
+- I allow a user to add as many options as they want. I also explored efforts to authenticate as accurately as possible given the lack of an authentication tool. I cookie users and use the cookie as their voter ID rather than a socket ID so a user can't open various tabs and keep voting. I also don't add '/admin' on the end of the link for admin links, as a user could just type that in and see results, so I use random strings for both the poll ID and the admin ID.
 
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- [Cleanest Server on the Block](https://github.com/stevepentler/RealTime/blob/master/server.js#L21-L58)
-    - I think it nails single responsiblity.
+[Code] (https://github.com/jecrockett/real-time/blob/5d64de0994b14d2ea2e199203719c05d05bffe08/public/client.js#L62-L69)
+* I was proud of this because it was my first time using the promise() function to order animations and creating something that felt like a really elegant user interface.
 
 ### Link to a specific block of your code on Github that you feel not great about
-- [Handle message dependency](https://github.com/stevepentler/RealTime/blob/master/server.js#L48)
-    - I really liked moving this handleMessage function out of the server, but it has 4 dependencies, one of which is app.
-
+[Code](https://github.com/jecrockett/real-time/blob/5d64de0994b14d2ea2e199203719c05d05bffe08/server.js#L94-L110)
+* There's a couple things I don't like about this. One, I set the active flag to false when a poll is deactivated, but don't actually check that active/inactive flag. I feel I should be using it on line 98, but even if it's true I still need to check if the poll being voted on is still open or not, so it kind of feels pointless. I also don't like that I have slightly different Date syntax where the first time I just call toLocaleString() on a new date and the second time I'm saving it as a variable and calling toLocaleString() on that -- it should be cleaner.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-  - Server
-    - ✓ should exist
-    - GET /
-        - ✓ should return a 200 for home page (40ms)
-    - POST /admin
-        - ✓ should not return 404
-        - ✓ should receive a survey and store it
-        - ✓ should return the proper survey for admin
-    - GET user survey link, SHOW results
-        - ✓ should not return 404
-        - ✓ should return the proper survey
-    - GET user survey link, HIDE results
-        - ✓ should not return 404
-        - ✓ should return the proper survey
-- 9 passing (150ms)
+```
+[real-time] (master)
+$ npm test
+
+> real-time@1.0.0 test /Users/JEC/where_the_magic_happens/Turing/4Module/projects/real-time
+> mocha
+
+
+
+  Server
+    GET /
+      ✓ should return a 200 (43ms)
+
+
+  1 passing (58ms)
+```
+
+### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
 
 -----
 

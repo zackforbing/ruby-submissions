@@ -6,63 +6,52 @@
 # Basics
 
 ### Link to the Github Repository for the Project
-[GitHub](https://github.com/stevepentler/RealTime)
+[Repo](https://github.com/bethsecor/realtime-crowdsource)
 
 ### Link to the Deployed Application
-[State Your Preference](https://state-your-preference.herokuapp.com/)
+[Application](https://arcane-lake-19394.herokuapp.com/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Your Commits](https://github.com/stevepentler/RealTime/commits/master)
+[Commits](https://github.com/bethsecor/realtime-crowdsource/commits/master)
 
 ### Provide a Screenshot of your Application
-![](http://g.recordit.co/jCytnvwzFx.gif)
+![gif](http://g.recordit.co/HXyirVaI0Y.gif)
 
 ## Completion
 
 ### Were you able to complete functionality that fits both case studies?
-- Duh.
-- Thought:
-    - Records all active users rather than a socket, meaning this application would be appropriate for a single admin/organization with multiple surveys.
-        - ex: If multiple admin sent out the links, anyone with any link on the socket is counted towards the "Active Friends" on each page
-    - Closes survey by removing "options buttons" from view and replacing with "This survey has closed"
-        - users could refresh the link and it would still tally their vote. I thought this was fine because if the survey is closing, the admin will view the results as they're closing the button. Then they can consider whether they want to consider late votes.
 
+Yes!
+
+### List any functionality from the case studies that is missing
+
+No functionality missing.
 
 ### Did you do anything outside the scope of the case studies?
-- Sends a text that includes results when admin closes a survey.
-![](http://i.imgur.com/oJhRmM7.jpg)
+
+I did not.
 
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- [Cleanest Server on the Block](https://github.com/stevepentler/RealTime/blob/master/server.js#L21-L58)
-    - I think it nails single responsiblity.
+
+I am proud of [this sockets code on the server side](https://github.com/bethsecor/realtime-crowdsource/blob/master/server.js#L70) because it took me a while conceptually to grasp websockets and I feel now after this project that I understand them much better. I am also proud that I [broke out these helper functions](https://github.com/bethsecor/realtime-crowdsource/tree/master/lib) into separate files so I could test them.
 
 ### Link to a specific block of your code on Github that you feel not great about
-- [Handle message dependency](https://github.com/stevepentler/RealTime/blob/master/server.js#L48)
-    - I really liked moving this handleMessage function out of the server, but it has 4 dependencies, one of which is app.
 
+I don't feel great about [this jQuery](https://github.com/bethsecor/realtime-crowdsource/blob/master/public/client.js#L51), it's messy and I should have put them in functions.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-  - Server
-    - ✓ should exist
-    - GET /
-        - ✓ should return a 200 for home page (40ms)
-    - POST /admin
-        - ✓ should not return 404
-        - ✓ should receive a survey and store it
-        - ✓ should return the proper survey for admin
-    - GET user survey link, SHOW results
-        - ✓ should not return 404
-        - ✓ should return the proper survey
-    - GET user survey link, HIDE results
-        - ✓ should not return 404
-        - ✓ should return the proper survey
-- 9 passing (150ms)
+
+![tests](http://i.imgur.com/5uuL4bE.png)
+
+### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
+- Why in the websockets tutorial did we export `module.exports = server` and not `module.exports = app`? (In pizza express we exported `app`).
 
 -----
 

@@ -1,68 +1,62 @@
 # RealTime Submission Form
 [Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 
+* Fork this repo, if you haven't already and check out a branch
+* Use this README as a template to create a file in this folder with your name as the title.
+* Submit a pull request
+
 ------
 
 # Basics
 
 ### Link to the Github Repository for the Project
-[GitHub](https://github.com/stevepentler/RealTime)
+[My GH Repo](https://github.com/brantwellman/crowdsource-realtime)
 
 ### Link to the Deployed Application
-[State Your Preference](https://state-your-preference.herokuapp.com/)
+[Crowdsource Live](https://shrouded-hollows-82437.herokuapp.com/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Your Commits](https://github.com/stevepentler/RealTime/commits/master)
+[My Commits](https://github.com/brantwellman/crowdsource-realtime/commits/master)
 
 ### Provide a Screenshot of your Application
-![](http://g.recordit.co/jCytnvwzFx.gif)
+![](http://i.imgur.com/SlTnM2D.png)
 
 ## Completion
 
-### Were you able to complete functionality that fits both case studies?
-- Duh.
-- Thought:
-    - Records all active users rather than a socket, meaning this application would be appropriate for a single admin/organization with multiple surveys.
-        - ex: If multiple admin sent out the links, anyone with any link on the socket is counted towards the "Active Friends" on each page
-    - Closes survey by removing "options buttons" from view and replacing with "This survey has closed"
-        - users could refresh the link and it would still tally their vote. I thought this was fine because if the survey is closing, the admin will view the results as they're closing the button. Then they can consider whether they want to consider late votes.
+### Were you able to complete functionality that fits both case studies?  
+All of the functionality from both case studies was completed EXCEPT...(see next question)
 
+### List any functionality from the case studies that is missing  
+I did not finish the "timer" functionality, allowing a user to set a time for the survey to automatically expire.  
 
 ### Did you do anything outside the scope of the case studies?
-- Sends a text that includes results when admin closes a survey.
-![](http://i.imgur.com/oJhRmM7.jpg)
+The admin results page also shows results in realtime and is marked as closed once the poll is deactivated.
 
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- [Cleanest Server on the Block](https://github.com/stevepentler/RealTime/blob/master/server.js#L21-L58)
-    - I think it nails single responsiblity.
+* Why were you proud of this piece of code?  
+[totalVotes](https://github.com/brantwellman/crowdsource-realtime/blob/master/lib/total-votes.js#L3-L9)  
+[votePercentages](https://github.com/brantwellman/crowdsource-realtime/blob/master/lib/vote-percentages.js#L4-L8)  
+I am proud of these two functions because they allow me to display the vote totals as percentages instead of simple totals. Getting them extracted and pushed down the stack turned out to be more difficult than I had anticipated.
 
-### Link to a specific block of your code on Github that you feel not great about
-- [Handle message dependency](https://github.com/stevepentler/RealTime/blob/master/server.js#L48)
-    - I really liked moving this handleMessage function out of the server, but it has 4 dependencies, one of which is app.
+### Link to a specific block of your code on Github that you feel not great about  
+* Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?  
+[server.js](https://github.com/brantwellman/crowdsource-realtime/blob/master/server.js#L53-L71)  
+Initially I thought having two separate paths for polls with shared results and non-shared results was the way to go. I had gone completely down that path before thinking that there might be a way to dynamically trigger the results with an additional attribute on the survey object.  
+Also, now staring at this code, I see there is some obvious duplication that I missed...alas, I am too tired to refactor at the moment.
+
+### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.  
+![Test results](http://i.imgur.com/xkDpa7t.png)  
 
 
-### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-  - Server
-    - ✓ should exist
-    - GET /
-        - ✓ should return a 200 for home page (40ms)
-    - POST /admin
-        - ✓ should not return 404
-        - ✓ should receive a survey and store it
-        - ✓ should return the proper survey for admin
-    - GET user survey link, SHOW results
-        - ✓ should not return 404
-        - ✓ should return the proper survey
-    - GET user survey link, HIDE results
-        - ✓ should not return 404
-        - ✓ should return the proper survey
-- 9 passing (150ms)
+### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'  
+[totalVotes test when total is 0](https://github.com/brantwellman/crowdsource-realtime/blob/master/test/total-votes-test.js#L11-L14)
 
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
 
 -----
 

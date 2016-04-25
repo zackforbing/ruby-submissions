@@ -1,68 +1,91 @@
 # RealTime Submission Form
 [Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 
+* Fork this repo, if you haven't already and check out a branch
+* Use this README as a template to create a file in this folder with your name as the title.
+* Submit a pull request
+
 ------
 
 # Basics
 
 ### Link to the Github Repository for the Project
-[GitHub](https://github.com/stevepentler/RealTime)
+[Dan's Repo](https://github.com/danjwinter/crowdsource)
 
 ### Link to the Deployed Application
-[State Your Preference](https://state-your-preference.herokuapp.com/)
+[On Heroku](https://murmuring-temple-89463.herokuapp.com/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Your Commits](https://github.com/stevepentler/RealTime/commits/master)
+[My Commits](https://github.com/danjwinter/crowdsource/commits/master)
 
 ### Provide a Screenshot of your Application
-![](http://g.recordit.co/jCytnvwzFx.gif)
+![Gif instead!](http://g.recordit.co/WF5cdqbJ4t.gif)
 
 ## Completion
 
 ### Were you able to complete functionality that fits both case studies?
-- Duh.
-- Thought:
-    - Records all active users rather than a socket, meaning this application would be appropriate for a single admin/organization with multiple surveys.
-        - ex: If multiple admin sent out the links, anyone with any link on the socket is counted towards the "Active Friends" on each page
-    - Closes survey by removing "options buttons" from view and replacing with "This survey has closed"
-        - users could refresh the link and it would still tally their vote. I thought this was fine because if the survey is closing, the admin will view the results as they're closing the button. Then they can consider whether they want to consider late votes.
+Yep!
 
+### List any functionality from the case studies that is missing
+None
 
 ### Did you do anything outside the scope of the case studies?
-- Sends a text that includes results when admin closes a survey.
-![](http://i.imgur.com/oJhRmM7.jpg)
+Added feature so that poll creator can make results only seen by themselves and not pollees(sp?).
+Also made it so that only unique choices are seen as voting options if survey creator added the same choice twice.
 
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- [Cleanest Server on the Block](https://github.com/stevepentler/RealTime/blob/master/server.js#L21-L58)
-    - I think it nails single responsiblity.
+[Code Pride # 1](https://github.com/danjwinter/crowdsource/tree/master/lib)
+[Code Pride # 2](https://github.com/danjwinter/crowdsource/blob/master/public/pollee.js#L23-L25)
+* Why were you proud of this piece of code?
+1. Extracting that logic!
+2. Almost forgot to close that memory leak!
 
 ### Link to a specific block of your code on Github that you feel not great about
-- [Handle message dependency](https://github.com/stevepentler/RealTime/blob/master/server.js#L48)
-    - I really liked moving this handleMessage function out of the server, but it has 4 dependencies, one of which is app.
-
+[Code Shame](https://github.com/danjwinter/crowdsource/blob/master/server.js#L47-L56)
+* Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+I couldn't figure out how to test the post request and pass in parameters for my form.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-  - Server
-    - ✓ should exist
-    - GET /
-        - ✓ should return a 200 for home page (40ms)
-    - POST /admin
-        - ✓ should not return 404
-        - ✓ should receive a survey and store it
-        - ✓ should return the proper survey for admin
-    - GET user survey link, SHOW results
-        - ✓ should not return 404
-        - ✓ should return the proper survey
-    - GET user survey link, HIDE results
-        - ✓ should not return 404
-        - ✓ should return the proper survey
-- 9 passing (150ms)
+.createSurvey
+    ✓ should create a survey
+    ✓ should create a survey with only unique results
 
+  .currentResultText
+    ✓ should return correct tallying of results
+
+  .getSurvey
+    ✓ should get the correct survey
+
+  Server
+    ✓ should exist
+    GET /
+      ✓ responds with success (42ms)
+    GET /
+      ✓ responds with question form
+      ✓ defaults with an empty survey
+    GET /survey/:id
+      ✓ responds with survey question and choices
+    GET /admin/:id
+      ✓ responds with results and option to close survey
+
+  .setSurvey
+    ✓ should set the correct survey
+
+  .updatedResults
+    ✓ should update results
+
+
+  12 passing (84ms)
+### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
+[Edge Case](https://github.com/danjwinter/crowdsource/blob/master/test/create-survey-test.js#L39-L62)
+
+Only unique choices are counted in results and seen when casting vote.
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
 
 -----
 

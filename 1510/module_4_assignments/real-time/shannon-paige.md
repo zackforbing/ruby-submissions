@@ -1,68 +1,59 @@
 # RealTime Submission Form
 [Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 
-------
-
 # Basics
 
 ### Link to the Github Repository for the Project
-[GitHub](https://github.com/stevepentler/RealTime)
+[My Repo](https://github.com/ShannonPaige/real-time)
 
 ### Link to the Deployed Application
-[State Your Preference](https://state-your-preference.herokuapp.com/)
+[My Application](https://obscure-castle-51089.herokuapp.com/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Your Commits](https://github.com/stevepentler/RealTime/commits/master)
+[My Commits](https://github.com/ShannonPaige/real-time/commits/master)
 
 ### Provide a Screenshot of your Application
-![](http://g.recordit.co/jCytnvwzFx.gif)
+![construction](http://g.recordit.co/8z86QS8OPd.gif)
 
 ## Completion
 
 ### Were you able to complete functionality that fits both case studies?
-- Duh.
-- Thought:
-    - Records all active users rather than a socket, meaning this application would be appropriate for a single admin/organization with multiple surveys.
-        - ex: If multiple admin sent out the links, anyone with any link on the socket is counted towards the "Active Friends" on each page
-    - Closes survey by removing "options buttons" from view and replacing with "This survey has closed"
-        - users could refresh the link and it would still tally their vote. I thought this was fine because if the survey is closing, the admin will view the results as they're closing the button. Then they can consider whether they want to consider late votes.
+Everything but the below.
 
+### List any functionality from the case studies that is missing
+I didn't provide a way for the admin to close the poll by a certain time. It has
+to be done manually.
 
 ### Did you do anything outside the scope of the case studies?
-- Sends a text that includes results when admin closes a survey.
-![](http://i.imgur.com/oJhRmM7.jpg)
+No
 
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- [Cleanest Server on the Block](https://github.com/stevepentler/RealTime/blob/master/server.js#L21-L58)
-    - I think it nails single responsiblity.
+[Link](https://github.com/ShannonPaige/real-time/blob/master/public/client.js#L28-L37)
+* I noticed at the last minute that if there were multiple polls, the results being rendered
+were for the one that had been most recently voted on. I came up with this idea to add the id of the poll
+to the voting container and then check it against the current polls id. Took me awhile but I'm proud of the
+result.
 
 ### Link to a specific block of your code on Github that you feel not great about
-- [Handle message dependency](https://github.com/stevepentler/RealTime/blob/master/server.js#L48)
-    - I really liked moving this handleMessage function out of the server, but it has 4 dependencies, one of which is app.
-
+[Link](https://github.com/ShannonPaige/real-time/blob/master/server.js#L33-L51)
+* I had intended to refactor this and make the poll creation it's own js function. But when I discovered the
+above bug, I had to focus on that over refactoring.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-  - Server
-    - ✓ should exist
-    - GET /
-        - ✓ should return a 200 for home page (40ms)
-    - POST /admin
-        - ✓ should not return 404
-        - ✓ should receive a survey and store it
-        - ✓ should return the proper survey for admin
-    - GET user survey link, SHOW results
-        - ✓ should not return 404
-        - ✓ should return the proper survey
-    - GET user survey link, HIDE results
-        - ✓ should not return 404
-        - ✓ should return the proper survey
-- 9 passing (150ms)
+No tests
+
+### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
+No
 
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+* There's a lot of needed refactoring here, which I recognize.
+* I have a branch where I did it all with jQuery instead of js, but I had to give it up because of issues with
+.text() and .replaceWith() not updating until refresh. It would be cool to go over why that was happening.
+
 
 -----
 

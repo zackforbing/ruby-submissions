@@ -6,63 +6,57 @@
 # Basics
 
 ### Link to the Github Repository for the Project
-[GitHub](https://github.com/stevepentler/RealTime)
+[My Real Time](https://github.com/GregoryArmstrong/RealTime)
 
 ### Link to the Deployed Application
-[State Your Preference](https://state-your-preference.herokuapp.com/)
+[My Deployed Real Time](https://dry-retreat-81831.herokuapp.com)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Your Commits](https://github.com/stevepentler/RealTime/commits/master)
+[My Real Time Commits](https://github.com/GregoryArmstrong/RealTime/commits/master)
 
 ### Provide a Screenshot of your Application
-![](http://g.recordit.co/jCytnvwzFx.gif)
+[Home Page](http://imgur.com/ywGRBXD)
 
 ## Completion
 
 ### Were you able to complete functionality that fits both case studies?
-- Duh.
-- Thought:
-    - Records all active users rather than a socket, meaning this application would be appropriate for a single admin/organization with multiple surveys.
-        - ex: If multiple admin sent out the links, anyone with any link on the socket is counted towards the "Active Friends" on each page
-    - Closes survey by removing "options buttons" from view and replacing with "This survey has closed"
-        - users could refresh the link and it would still tally their vote. I thought this was fine because if the survey is closing, the admin will view the results as they're closing the button. Then they can consider whether they want to consider late votes.
 
+* Yes indeed!
+
+### List any functionality from the case studies that is missing
+
+* None that I see!
 
 ### Did you do anything outside the scope of the case studies?
-- Sends a text that includes results when admin closes a survey.
-![](http://i.imgur.com/oJhRmM7.jpg)
+
+* Unfortunately no, had trouble implementing React correctly so figured it was better to have the rest all finished up.
 
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- [Cleanest Server on the Block](https://github.com/stevepentler/RealTime/blob/master/server.js#L21-L58)
-    - I think it nails single responsiblity.
+* Why were you proud of this piece of code?
+
+* [My Code!](https://github.com/GregoryArmstrong/RealTime/blob/master/server.js#L92-L97)
+* Proud of it because I initially thought implementing a closing poll would be quite tough, but setTimeout is awesome.
 
 ### Link to a specific block of your code on Github that you feel not great about
-- [Handle message dependency](https://github.com/stevepentler/RealTime/blob/master/server.js#L48)
-    - I really liked moving this handleMessage function out of the server, but it has 4 dependencies, one of which is app.
+* Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+
+* [My Bad Code!](https://github.com/GregoryArmstrong/RealTime/blob/master/server.js#L61-L84)
+* Not proud of it because I couldnt quite figure out a better way of implementing this sort of 'switch-board'
 
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-  - Server
-    - ✓ should exist
-    - GET /
-        - ✓ should return a 200 for home page (40ms)
-    - POST /admin
-        - ✓ should not return 404
-        - ✓ should receive a survey and store it
-        - ✓ should return the proper survey for admin
-    - GET user survey link, SHOW results
-        - ✓ should not return 404
-        - ✓ should return the proper survey
-    - GET user survey link, HIDE results
-        - ✓ should not return 404
-        - ✓ should return the proper survey
-- 9 passing (150ms)
 
+* [My Tests](http://imgur.com/MJz8uBt)
+
+### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
+
+* [Sad Path](https://github.com/GregoryArmstrong/RealTime/blob/master/test/test.js#L56-L64)
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
 
 -----
 

@@ -1,68 +1,91 @@
 # RealTime Submission Form
 [Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 
+* Fork this repo, if you haven't already and check out a branch
+* Use this README as a template to create a file in this folder with your name as the title.
+* Submit a pull request
+
 ------
 
 # Basics
 
 ### Link to the Github Repository for the Project
-[GitHub](https://github.com/stevepentler/RealTime)
+[My Repo](https://github.com/hectorhuertas/real-time)
 
 ### Link to the Deployed Application
-[State Your Preference](https://state-your-preference.herokuapp.com/)
+[Live on Heroku](https://real-time-hector.herokuapp.com/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Your Commits](https://github.com/stevepentler/RealTime/commits/master)
+[My Commits](https://github.com/hectorhuertas/real-time/commits/master)
 
 ### Provide a Screenshot of your Application
-![](http://g.recordit.co/jCytnvwzFx.gif)
+![Screenshot](images/hector-real-time.png)
 
 ## Completion
 
 ### Were you able to complete functionality that fits both case studies?
-- Duh.
-- Thought:
-    - Records all active users rather than a socket, meaning this application would be appropriate for a single admin/organization with multiple surveys.
-        - ex: If multiple admin sent out the links, anyone with any link on the socket is counted towards the "Active Friends" on each page
-    - Closes survey by removing "options buttons" from view and replacing with "This survey has closed"
-        - users could refresh the link and it would still tally their vote. I thought this was fine because if the survey is closing, the admin will view the results as they're closing the button. Then they can consider whether they want to consider late votes.
 
+Yep
+
+### List any functionality from the case studies that is missing
+
+None. Steve and Tan will be happy
 
 ### Did you do anything outside the scope of the case studies?
-- Sends a text that includes results when admin closes a survey.
-![](http://i.imgur.com/oJhRmM7.jpg)
+
+Yes. I'm tracking how many votes came from the same ip, in case someone wants to cheat with a lot of votes (useless inside turing network, but hey, it's a  cool feature)
 
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- [Cleanest Server on the Block](https://github.com/stevepentler/RealTime/blob/master/server.js#L21-L58)
-    - I think it nails single responsiblity.
+[server.js](https://github.com/hectorhuertas/real-time/blob/master/server.js)
+
+  * Why were you proud of this piece of code?
+    * I left only setup steps on it, moving all the routes and sockets code to their own files
+
+[sockets.js](https://github.com/hectorhuertas/real-time/blob/master/sockets.js)
+
+* Why were you proud of this piece of code?
+  * I am super proud of this. Instead of spreading all the message sending around different files/modules, I'm returning the messages that should be sent, and sending them all together in one send method after all the business logic is run.
+
 
 ### Link to a specific block of your code on Github that you feel not great about
-- [Handle message dependency](https://github.com/stevepentler/RealTime/blob/master/server.js#L48)
-    - I really liked moving this handleMessage function out of the server, but it has 4 dependencies, one of which is app.
 
+[index.js](https://github.com/hectorhuertas/real-time/blob/master/public/index.js)
+
+* Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+  * I feel like different types of actions are too coupled together. Setup steps, business logic, communication with the server, rendering... The file is small enough to be easy to read/understand, but if it grew, things could get ugly. I tried to organize things, but the extra boilerplate didn't seem worthwhile for the current amount of code. I guess this feeling is why react is getting so popular helping to organize front-end stuff.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-  - Server
-    - ✓ should exist
-    - GET /
-        - ✓ should return a 200 for home page (40ms)
-    - POST /admin
-        - ✓ should not return 404
-        - ✓ should receive a survey and store it
-        - ✓ should return the proper survey for admin
-    - GET user survey link, SHOW results
-        - ✓ should not return 404
-        - ✓ should return the proper survey
-    - GET user survey link, HIDE results
-        - ✓ should not return 404
-        - ✓ should return the proper survey
-- 9 passing (150ms)
+
+```
+Server
+  ✓ should exist
+  GET /
+    ✓ should return a 200 (39ms)
+    ✓ should have a body with the name of the application
+    ✓ should have a body with the poll form
+    ✓ should have a body with the poll title
+    ✓ should have a body with the poll options
+    ✓ should have a body with the poll closing time
+    ✓ should have a body with the poll submit button
+    ✓ should have a body with the poll links
+
+
+9 passing (91ms)
+```
+
+### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
+
+Testing shame here
 
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
+Testing JS is super duper hard. I don't mean the tools are hard to use, I mean that you need very well organized/decoupled code to test effectively. In ruby world there is 'the ruby way', so you feel better following conventions. JS is like the far west, just find your way and hope you don't die.
+
+I have researched and there seems to be a lot of books on the topic(testing and app organization). I would be very interested in knowing if you recommend any of those books or if knowledge will come form practice.
 
 -----
 

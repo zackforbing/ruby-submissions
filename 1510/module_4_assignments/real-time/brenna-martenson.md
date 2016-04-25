@@ -1,68 +1,59 @@
 # RealTime Submission Form
 [Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
-
 ------
 
 # Basics
 
 ### Link to the Github Repository for the Project
-[GitHub](https://github.com/stevepentler/RealTime)
+[Real Time on Github](https://github.com/martensonbj/real-time)
 
 ### Link to the Deployed Application
-[State Your Preference](https://state-your-preference.herokuapp.com/)
+[CrowdSourcer on Heroku](http://crowdsourcer.herokuapp.com/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Your Commits](https://github.com/stevepentler/RealTime/commits/master)
+[Commits](https://github.com/martensonbj/real-time/commits/master)
 
 ### Provide a Screenshot of your Application
-![](http://g.recordit.co/jCytnvwzFx.gif)
+![CrowdSourcer](http://imgur.com/sbUHxkG)
 
 ## Completion
 
 ### Were you able to complete functionality that fits both case studies?
-- Duh.
-- Thought:
-    - Records all active users rather than a socket, meaning this application would be appropriate for a single admin/organization with multiple surveys.
-        - ex: If multiple admin sent out the links, anyone with any link on the socket is counted towards the "Active Friends" on each page
-    - Closes survey by removing "options buttons" from view and replacing with "This survey has closed"
-        - users could refresh the link and it would still tally their vote. I thought this was fine because if the survey is closing, the admin will view the results as they're closing the button. Then they can consider whether they want to consider late votes.
+Actually, No. This was a challenging project for me...I spent a lot of time getting familiar with express and troubleshooting stuff that didn't make sense.
 
+### List any functionality from the case studies that is missing
+There is no expiration time, closing a poll only happens on the admin page, and the results are everywhere ALL THE TIME.
 
 ### Did you do anything outside the scope of the case studies?
-- Sends a text that includes results when admin closes a survey.
-![](http://i.imgur.com/oJhRmM7.jpg)
+Add Materialize?
 
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- [Cleanest Server on the Block](https://github.com/stevepentler/RealTime/blob/master/server.js#L21-L58)
-    - I think it nails single responsiblity.
+[Code](https://github.com/martensonbj/real-time/blob/master/server.js#L30-L45)
+* Why were you proud of this piece of code?
+  - I felt the most comfortable with this post request vs other parts of this project. Setting variables and sending params around the app was straightforward.
 
 ### Link to a specific block of your code on Github that you feel not great about
-- [Handle message dependency](https://github.com/stevepentler/RealTime/blob/master/server.js#L48)
-    - I really liked moving this handleMessage function out of the server, but it has 4 dependencies, one of which is app.
-
+[Code](https://github.com/martensonbj/real-time/blob/master/test/server-test.js)
+* Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+There could be more tests.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-  - Server
-    - ✓ should exist
-    - GET /
-        - ✓ should return a 200 for home page (40ms)
-    - POST /admin
-        - ✓ should not return 404
-        - ✓ should receive a survey and store it
-        - ✓ should return the proper survey for admin
-    - GET user survey link, SHOW results
-        - ✓ should not return 404
-        - ✓ should return the proper survey
-    - GET user survey link, HIDE results
-        - ✓ should not return 404
-        - ✓ should return the proper survey
-- 9 passing (150ms)
+```Socket Id /#IuBzKrWo2AlBPdVDAAAA
+    ✓ should exist
+    GET /
+      ✓ should return a 200 (38ms)
+      ✓ should have a body with the name of the app
+    POST /new
+      - should not return 404
+      ✓ should receive and store data
+
+
+  4 passing (95ms)
+  1 pending```
 
 -----
-
-### Please feel free to ask any other questions or make any other statements below!
 
 -----
 

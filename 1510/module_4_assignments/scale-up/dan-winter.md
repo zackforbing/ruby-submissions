@@ -26,7 +26,7 @@ I finished everything I set out to including:
 
 ### Link to blog post(s) submitted
 
-![](http://i727.photobucket.com/albums/ww279/Jim937/GIF/Comingsoon.gif)
+[Blog Post](https://medium.com/@dan.j.winter/building-desktop-apps-with-electron-and-react-at-turing-school-985abd48e70c#.yz7gstfuc)
 
 I'm hoping my refactoring is enough to convince you to read the coming blog post on Monday.
 

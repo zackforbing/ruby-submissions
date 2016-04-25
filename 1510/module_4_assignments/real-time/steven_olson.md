@@ -1,68 +1,61 @@
 # RealTime Submission Form
 [Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 
+* Fork this repo, if you haven't already and check out a branch
+* Use this README as a template to create a file in this folder with your name as the title.
+* Submit a pull request
+
 ------
 
 # Basics
 
 ### Link to the Github Repository for the Project
-[GitHub](https://github.com/stevepentler/RealTime)
+[Short Polling](https://github.com/SteveOscar/Voting_App)
 
 ### Link to the Deployed Application
-[State Your Preference](https://state-your-preference.herokuapp.com/)
+[Live Version](https://obscure-hollows-78554.herokuapp.com/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Your Commits](https://github.com/stevepentler/RealTime/commits/master)
+[Mah Commits](https://github.com/SteveOscar/Voting_App/commits/master)
 
 ### Provide a Screenshot of your Application
-![](http://g.recordit.co/jCytnvwzFx.gif)
+[The Ugly Child](http://i.imgur.com/lJ5u0gb.png)
 
 ## Completion
 
-### Were you able to complete functionality that fits both case studies?
-- Duh.
-- Thought:
-    - Records all active users rather than a socket, meaning this application would be appropriate for a single admin/organization with multiple surveys.
-        - ex: If multiple admin sent out the links, anyone with any link on the socket is counted towards the "Active Friends" on each page
-    - Closes survey by removing "options buttons" from view and replacing with "This survey has closed"
-        - users could refresh the link and it would still tally their vote. I thought this was fine because if the survey is closing, the admin will view the results as they're closing the button. Then they can consider whether they want to consider late votes.
+### Were you able to complete functionality that fits both case studies?  
+-YES
 
+### List any functionality from the case studies that is missing  
+-NONE
 
-### Did you do anything outside the scope of the case studies?
-- Sends a text that includes results when admin closes a survey.
-![](http://i.imgur.com/oJhRmM7.jpg)
+### Did you do anything outside the scope of the case studies?  
+-I DID NOT. PURE MVP RIGHT HERE.
 
 # Code Quality
 
-### Link to a specific block of your code on Github that you are proud of
-- [Cleanest Server on the Block](https://github.com/stevepentler/RealTime/blob/master/server.js#L21-L58)
-    - I think it nails single responsiblity.
+### Link to a specific block of your code on Github that you are proud of  
+-[Mah Timer](https://github.com/SteveOscar/Voting_App/blob/master/lib/timer.js)
+* Why were you proud of this piece of code?  
+-Because I struggled with it, now it works like a clock.
 
-### Link to a specific block of your code on Github that you feel not great about
-- [Handle message dependency](https://github.com/stevepentler/RealTime/blob/master/server.js#L48)
-    - I really liked moving this handleMessage function out of the server, but it has 4 dependencies, one of which is app.
-
+### Link to a specific block of your code on Github that you feel not great about  
+[Shameful failed socket test](https://github.com/SteveOscar/Voting_App/blob/master/test/socket-test.js)
+* Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?  
+-Because it just errors out and I didn't have a chance to get it working.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-  - Server
-    - ✓ should exist
-    - GET /
-        - ✓ should return a 200 for home page (40ms)
-    - POST /admin
-        - ✓ should not return 404
-        - ✓ should receive a survey and store it
-        - ✓ should return the proper survey for admin
-    - GET user survey link, SHOW results
-        - ✓ should not return 404
-        - ✓ should return the proper survey
-    - GET user survey link, HIDE results
-        - ✓ should not return 404
-        - ✓ should return the proper survey
-- 9 passing (150ms)
+[Le Test Suite](http://i.imgur.com/kLEof4D.png)
+
+### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'  
+[Testing an invalid admin ID](https://github.com/SteveOscar/Voting_App/blob/master/test/test.js#L124)
+
 
 -----
 
-### Please feel free to ask any other questions or make any other statements below!
+### Please feel free to ask any other questions or make any other statements below!  
+It's my ugly child. 
+
 
 -----
 
