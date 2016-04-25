@@ -36,9 +36,11 @@ Also made it so that only unique choices are seen as voting options if survey cr
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-[Code Pride](https://github.com/danjwinter/crowdsource/tree/master/lib)
+[Code Pride # 1](https://github.com/danjwinter/crowdsource/tree/master/lib)
+[Code Pride # 2](https://github.com/danjwinter/crowdsource/blob/master/public/pollee.js#L23-L25)
 * Why were you proud of this piece of code?
-Extracting that logic!
+1. Extracting that logic!
+2. Almost forgot to close that memory leak!
 
 ### Link to a specific block of your code on Github that you feel not great about
 [Code Shame](https://github.com/danjwinter/crowdsource/blob/master/server.js#L47-L56)
