@@ -37,7 +37,7 @@
   * repo: https://github.com/julsfelic/module_3_assessment
 
 #### July Tran
-  * repo:
+  * repo: https://github.com/julyytran/module_3_assessment
 
 #### Kimiko Kano
   * repo: https://github.com/ksk5280/module_3_assessment
