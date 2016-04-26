@@ -43,7 +43,7 @@
   * repo:
 
 #### Lenny Meyerson
-  * repo:
+  * repo: https://github.com/TheObtuseAutodidact/module_3_assessment
 
 #### Nate Venn
   * repo:
