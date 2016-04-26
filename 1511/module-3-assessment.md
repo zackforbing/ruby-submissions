@@ -16,7 +16,7 @@
   * repo: https://github.com/brennanholtzclaw/module_3_assessment
 
 #### Brian Rippeto
-  * repo:
+  * repo: [https://github.com/brianrip/module_3_final_assessment](https://github.com/brianrip/module_3_final_assessment)
 
 #### Charissa Lawrence
   * repo: https://github.com/JaggedLaw/module_3_assessment.git
