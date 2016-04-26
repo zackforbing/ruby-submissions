@@ -7,7 +7,7 @@
   * repo:
 
 #### Adrienne Domingus
-  * repo:
+  * repo: https://github.com/adriennedomingus/module_3_assessment
 
 #### Allan Blair
   * repo:
