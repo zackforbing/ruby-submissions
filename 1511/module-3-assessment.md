@@ -16,7 +16,7 @@
   * repo:
 
 #### Brian Rippeto
-  * repo:
+  * repo: [https://github.com/brianrip/module_3_final_assessment](https://github.com/brianrip/module_3_final_assessment)
 
 #### Charissa Lawrence
   * repo:
