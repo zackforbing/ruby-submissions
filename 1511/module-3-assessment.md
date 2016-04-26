@@ -46,7 +46,7 @@
   * repo:
 
 #### Nate Venn
-  * repo:
+  * repo: https://github.com/natevenn/module_3_assessment
 
 #### Nicholas Dorans
   * repo:
