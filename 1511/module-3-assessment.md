@@ -46,7 +46,7 @@
   * repo: https://github.com/TheObtuseAutodidact/module_3_assessment
 
 #### Nate Venn
-  * repo:
+  * repo: https://github.com/natevenn/module_3_assessment
 
 #### Nicholas Dorans
   * repo: https://github.com/NickyBobby/module_3_assessment
