@@ -19,7 +19,7 @@
   * repo:
 
 #### Charissa Lawrence
-  * repo:
+  * repo: https://github.com/JaggedLaw/module_3_assessment.git
 
 #### Chelsea Johnson
   * repo:
