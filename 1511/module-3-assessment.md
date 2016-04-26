@@ -13,7 +13,7 @@
   * repo:
 
 #### Brennan Holtzclaw
-  * repo:
+  * repo: https://github.com/brennanholtzclaw/module_3_assessment
 
 #### Brian Rippeto
   * repo:
