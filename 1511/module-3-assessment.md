@@ -40,7 +40,7 @@
   * repo:
 
 #### Kimiko Kano
-  * repo:
+  * repo: https://github.com/ksk5280/module_3_assessment
 
 #### Lenny Meyerson
   * repo: https://github.com/TheObtuseAutodidact/module_3_assessment
