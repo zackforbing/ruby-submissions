@@ -49,7 +49,7 @@
   * repo:
 
 #### Nicholas Dorans
-  * repo:
+  * repo: https://github.com/NickyBobby/module_3_assessment
 
 #### Scott Firestone
   * repo:
