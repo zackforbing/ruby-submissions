@@ -22,7 +22,7 @@
   * repo:
 
 #### Chelsea Johnson
-  * repo:
+  * repo: https://github.com/cheljoh/module_3_diagnostic
 
 #### David Whitaker
   * repo:
