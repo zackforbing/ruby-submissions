@@ -22,7 +22,7 @@
   * repo: https://github.com/JaggedLaw/module_3_assessment.git
 
 #### Chelsea Johnson
-  * repo:
+  * repo: https://github.com/cheljoh/module_3_diagnostic
 
 #### David Whitaker
   * repo: https://github.com/damwhit/module_3_assessment
