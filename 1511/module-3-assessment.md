@@ -25,7 +25,7 @@
   * repo:
 
 #### David Whitaker
-  * repo:
+  * repo: https://github.com/damwhit/module_3_assessment
 
 #### Erinna Chen
   * [repo:](https://github.com/erinnachen/module_3_assessment)
