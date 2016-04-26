@@ -28,7 +28,7 @@
   * repo:
 
 #### Erinna Chen
-  * repo:
+  * [repo:](https://github.com/erinnachen/module_3_assessment)
 
 #### Heidi Hoopes
   * repo:
