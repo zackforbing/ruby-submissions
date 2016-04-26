@@ -34,7 +34,7 @@
   * repo: https://github.com/hhoopes/module_3_assessment.git
 
 #### Julian Feliciano
-  * repo:
+  * repo: https://github.com/julsfelic/module_3_assessment
 
 #### July Tran
   * repo:
