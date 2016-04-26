@@ -40,10 +40,8 @@ N/A - student was not tagged in any PRs - 5 points
 
 ## Did the student respond to feedback they got in their PR? (5 points)
 
-N/A - no actionable feedback given - good communciation in PR body - 5 points
+N/A - no actionable feedback given - good communication in PR body - 5 points
 
 ## Instructor Feedback
-
-Good work!
 
 22/25

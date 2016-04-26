@@ -16,7 +16,7 @@
   * I am most comfortable building with TDD -- feel a little lost without that structure.
 
 ### Link to blog post(s) submitted
-  Draft of post available here: https://gist.github.com/bethsebian/57656987f403657da51d5e87e18b38ae
+  ["Lessons Creating a Police Data API"](http://bethsebian.github.io/civic_tech/2016/04/17/lessons-creating-a-police-data-api.html)
 
 ### Discuss: your experience doing PR reviews and getting PR feedback
   * It was helpful to have _a little_ (i.e. 1) experience submitting a comment on Secor's code...and realizing how easy it was.
@@ -37,8 +37,6 @@ Points: (max 150)
 
 ### Blog Post (40 Points)  
   * 40: Developer has >= 2 blog posts documenting something they have worked on for their independent study or has one in depth blog post.
-  * 25: Developer has one blog post less than 500 characters long.
-  * 0: Developer created no blog posts.
 
 ### Participation (50 points)
   * 50: Developer participated daily in stand ups with the group (remote or in person). Developer was able to speak to their work in stand ups in a way that was clear and informative. Developer was involved in pull request reviews.
