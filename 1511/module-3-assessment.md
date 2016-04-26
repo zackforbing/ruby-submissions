@@ -52,4 +52,4 @@
   * repo: https://github.com/NickyBobby/module_3_assessment
 
 #### Scott Firestone
-  * repo:
+  * repo: [https://github.com/scottfirestone/module_3_final_assessment.git](https://github.com/scottfirestone/module_3_final_assessment.git)
