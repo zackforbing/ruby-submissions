@@ -10,7 +10,7 @@
   * repo:
 
 #### Allan Blair
-  * repo:
+  * repo: https://github.com/amaxwellblair/module_3_assessment
 
 #### Brennan Holtzclaw
   * repo:
