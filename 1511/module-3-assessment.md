@@ -1,7 +1,7 @@
 ### Module 3 Diagnostic
 
 #### Adam Hundley
-  * repo:
+  * repo: git@github.com:adamhundley/module_3_assessment.git
 
 #### Alexis Navarrete
   * repo: https://github.com/Salvi6God/module_3_assessment
