@@ -31,7 +31,7 @@
   * repo:
 
 #### Heidi Hoopes
-  * repo:
+  * repo: https://github.com/hhoopes/module_3_assessment.git
 
 #### Julian Feliciano
   * repo:
