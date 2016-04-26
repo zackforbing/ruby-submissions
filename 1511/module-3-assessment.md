@@ -4,7 +4,7 @@
   * repo:
 
 #### Alexis Navarrete
-  * repo:
+  * repo: https://github.com/Salvi6God/module_3_assessment
 
 #### Adrienne Domingus
   * repo: https://github.com/adriennedomingus/module_3_assessment
