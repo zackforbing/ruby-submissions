@@ -34,7 +34,7 @@
   * repo:
 
 #### Julian Feliciano
-  * repo:
+  * repo: https://github.com/julsfelic/module_3_assessment
 
 #### July Tran
   * repo:
