@@ -1,52 +1,60 @@
 # RealTime Submission Form
 [Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 
-* Fork this repo, if you haven't already and check out a branch
-* Use this README as a template to create a file in this folder with your name as the title.
-* Submit a pull request
-
-------
-
 # Basics
 
 ### Link to the Github Repository for the Project
-[:floppy_disk:](https://github.com/edgarduran/real-time)
+[Repo](https://github.com/jecrockett/real-time)
 
 ### Link to the Deployed Application
-[:earth_americas::computer:](http://edgars-real-time.herokuapp.com/)
+[Application](https://poll-out.herokuapp.com/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[:ok_hand:](https://github.com/edgarduran/real-time/commits)
+[My Commits](https://github.com/jecrockett/real-time/commits/master)
 
 ### Provide a Screenshot of your Application
-![construction](http://contemporary-home-computing.org/still-there/fullsize/geocities/uc.png)
+![Gif of App](http://g.recordit.co/LqaEN0H848.gif)
 
 ## Completion
 
 ### Were you able to complete functionality that fits both case studies?
-  - Yesh
+Yessiree
 
 ### List any functionality from the case studies that is missing
 
 ### Did you do anything outside the scope of the case studies?
-  - Don't think so.
+- I allow a user to add as many options as they want. I also explored efforts to authenticate as accurately as possible given the lack of an authentication tool. I cookie users and use the cookie as their voter ID rather than a socket ID so a user can't open various tabs and keep voting. I also don't add '/admin' on the end of the link for admin links, as a user could just type that in and see results, so I use random strings for both the poll ID and the admin ID.
 
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-[:sunglasses:](https://github.com/edgarduran/real-time/blob/master/server.js#L66-L78)
-* Why were you proud of this piece of code?
-  - I was able to post to an admin poll or and open poll in the same post method based on the referrer.
+[Code] (https://github.com/jecrockett/real-time/blob/5d64de0994b14d2ea2e199203719c05d05bffe08/public/client.js#L62-L69)
+* I was proud of this because it was my first time using the promise() function to order animations and creating something that felt like a really elegant user interface.
 
 ### Link to a specific block of your code on Github that you feel not great about
-[:poop:](https://github.com/edgarduran/real-time/blob/master/public/client.js)
-* Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+[Code](https://github.com/jecrockett/real-time/blob/5d64de0994b14d2ea2e199203719c05d05bffe08/server.js#L94-L110)
+* There's a couple things I don't like about this. One, I set the active flag to false when a poll is deactivated, but don't actually check that active/inactive flag. I feel I should be using it on line 98, but even if it's true I still need to check if the poll being voted on is still open or not, so it kind of feels pointless. I also don't like that I have slightly different Date syntax where the first time I just call toLocaleString() on a new date and the second time I'm saving it as a variable and calling toLocaleString() on that -- it should be cleaner.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-![](http://i.imgur.com/Toh5i2k.png)
+```
+[real-time] (master)
+$ npm test
+
+> real-time@1.0.0 test /Users/JEC/where_the_magic_happens/Turing/4Module/projects/real-time
+> mocha
+
+
+
+  Server
+    GET /
+      ✓ should return a 200 (43ms)
+
+
+  1 passing (58ms)
+```
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
-[:cry:](https://github.com/edgarduran/real-time/blob/master/test/admin-poll-test.js#L61-L69)
+
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
@@ -56,7 +64,7 @@
 
 ## Instructor Feedback
 
-154/200
+144/200
 
 ### Concept and Features
 
@@ -74,7 +82,7 @@ Does it have the expected features?
 
 ### Test-Driven Development
 
-* 20 points - The code demonstrates high test coverage. One or more enpoints are not tested or the internal business logic 
+* 10 points - Many areas of the code are not covered by tests.
 
 ### Interface
 

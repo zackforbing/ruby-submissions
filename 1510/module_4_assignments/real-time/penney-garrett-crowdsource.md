@@ -6,58 +6,65 @@
 # Basics
 
 ### Link to the Github Repository for the Project
-[Repo](https://github.com/bethsecor/realtime-crowdsource)
+[Your Repo](https://github.com/PenneyGadget/crowdsource)
 
 ### Link to the Deployed Application
-[Application](https://arcane-lake-19394.herokuapp.com/)
+[Your Application](https://realtime-crowdsource.herokuapp.com/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Commits](https://github.com/bethsecor/realtime-crowdsource/commits/master)
+[Your Commits](https://github.com/PenneyGadget/crowdsource/commits/master)
 
 ### Provide a Screenshot of your Application
-![gif](http://g.recordit.co/HXyirVaI0Y.gif)
+![Crowdsource](http://i.imgur.com/593RIhX.jpg)
 
 ## Completion
 
 ### Were you able to complete functionality that fits both case studies?
 
-Yes!
+Yes.
 
 ### List any functionality from the case studies that is missing
 
-No functionality missing.
+None.
 
 ### Did you do anything outside the scope of the case studies?
 
-I did not.
+I took the time to actually do CSS and style the app so it's fun to use.
 
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
+[disablePoll function](https://github.com/PenneyGadget/crowdsource/blob/master/public/client.js#L47-L59)
 
-I am proud of [this sockets code on the server side](https://github.com/bethsecor/realtime-crowdsource/blob/master/server.js#L70) because it took me a while conceptually to grasp websockets and I feel now after this project that I understand them much better. I am also proud that I [broke out these helper functions](https://github.com/bethsecor/realtime-crowdsource/tree/master/lib) into separate files so I could test them.
+It's not that I'm particularly proud of this function, as I'm sure it can be refactored, I just learned
+several new things in implementing this function. Because I ended up not using jQuery, I learned to do
+some simple DOM manipulation within basic JS which gave me a better understanding of JS in general.
 
 ### Link to a specific block of your code on Github that you feel not great about
+[app.post route](https://github.com/PenneyGadget/crowdsource/blob/master/server.js#L21-L35)
 
-I don't feel great about [this jQuery](https://github.com/bethsecor/realtime-crowdsource/blob/master/public/client.js#L51), it's messy and I should have put them in functions.
+I wanted to refactor this and pull out setting the poll attributes to their own class, but I got so
+busy with fixing little websocket errors that crept up that I ran out of time and was afraid to try
+to do an extraction at the last minute.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
-![tests](http://i.imgur.com/5uuL4bE.png)
+![Test suite](http://i.imgur.com/Z66xRXe.png)
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
------
+[These two tests](https://github.com/PenneyGadget/crowdsource/blob/master/test/server-test.js#L91-L110)
+check that a poll is not created and the user is not redirected if either a title is missing or there
+are not at least two voting options submitted.
 
 ### Please feel free to ask any other questions or make any other statements below!
 
-- Why in the websockets tutorial did we export `module.exports = server` and not `module.exports = app`? (In pizza express we exported `app`).
 
 -----
 
 ## Instructor Feedback
 
-179/200
+175/200
 
 ### Concept and Features
 
@@ -75,7 +82,7 @@ Does it have the expected features?
 
 ### Test-Driven Development
 
-* 25 points - The code demonstrates high test coverage. It is tests at controller and unit levels. All controller/routes are tested. There are no failing tests.
+* 20 points - The code demonstrates high test coverage. One or more enpoints are not tested or the internal business logic is not fully tested.
 
 ### Interface
 
@@ -83,4 +90,4 @@ Does it have the expected features?
 
 ### Workflow
 
-* 4 points - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+* 5 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
