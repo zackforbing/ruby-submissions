@@ -6,7 +6,6 @@ Notes:
 - Could make AJAX experience more consistent with refresh experience
 - Should probably take "square" out of "miles"
 - Good test coverage
-- 
 
 **1. Completion**
 
