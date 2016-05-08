@@ -18,7 +18,7 @@ In this folder, we will add yet another folder for each major assignment - and a
 
 #### Intermission Week
 
-* [1511 Intermission Assignments](https://github.com/turingschool/intermission-assignments/issues?q=is%3Aopen+is%3Aissue+label%3A1511)
+* [1511 Intermission Assignments](https://github.com/turingschool/intermission-assignments/issues?q=is%3Aopen+is%3Aissue+label%3A1511) (Due EOD 5/13/16)
 
 #### Week 1
 * [IdeaBox 2.0](ideabox2.0/)
