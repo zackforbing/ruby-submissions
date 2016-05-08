@@ -8,6 +8,8 @@ In this folder, we will add yet another folder for each major assignment - and a
 
 -----
 
+#### Cheatsheets
+
 * [Module 4 Cheatsheet](module-4-cheatsheet.markdown)
 
 #### Extra Credit
