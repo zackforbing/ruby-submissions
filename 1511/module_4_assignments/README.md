@@ -8,9 +8,10 @@ In this folder, we will add yet another folder for each major assignment - and a
 
 -----
 
-#### Cheatsheets
+#### Cheatsheets & Lessons
 
 * [Module 4 Cheatsheet](module-4-cheatsheet.markdown)
+* [Lessons](https://github.com/turingschool/lesson_plans/tree/master/ruby_04-apis_and_scalability)
 
 #### Extra Credit
 
