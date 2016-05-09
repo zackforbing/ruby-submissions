@@ -23,4 +23,4 @@ In this folder, we will add yet another folder for each major assignment - and a
 
 #### Week 1
 * [IdeaBox 2.0](ideabox2.0/)
-* [Dev Tools Homework](dev-tools-homework/) (5 points)
+* [ES6 Assignment](https://gist.github.com/rrgayhart/8435729452a3e3ad8cd3)
