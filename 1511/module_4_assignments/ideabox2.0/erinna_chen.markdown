@@ -1,5 +1,5 @@
-# Ideabox 2.0 Submission Form
-[Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
+# Ideabox 2.0 Submission Form- Erinna Chen
+
 
 * Fork this repo, if you haven't already and check out a branch
 * Use this README as a template to create a file in this folder with your name as the title.
@@ -11,18 +11,20 @@
 ------
 
 # Basics
+### The Project Description
+[Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
 
 ### Link to the Github Repository for the Project
-[Your Repo](http://giantbatfarts.com/)
+[My Repo](https://github.com/erinnachen/genius-box)
 
 ### Link to the Deployed Application
-[Your Application](http://burymewithmymoney.com/)
+[My sweet sweet production application](http://damp-island-60810.herokuapp.com/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Your Commits](http://beesbeesbees.com/)
+[The Commits](https://github.com/erinnachen/genius-box/commits/master)
 
-### Provide a Screenshot of your Application
-![spacejam](images/spacejam.jpg)
+### Demo of the app
+![demo](http://g.recordit.co/303ZVNzNjd.gif)
 
 ## Completion
 
