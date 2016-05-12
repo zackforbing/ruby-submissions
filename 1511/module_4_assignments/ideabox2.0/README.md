@@ -20,7 +20,7 @@
 [My Commits](https://github.com/brennanholtzclaw/idea_box/commits/master)
 
 ### Provide a Screenshot of your Application
-![Boxing up ideas](/images/ideabox)
+![Boxing up ideas](/images/ideabox.png)
 
 # Completion
 
@@ -44,7 +44,7 @@ No Extensions
 There just has to be a better way of doing this huge if/else block. I kept having a mix of weird problems with either Rails or Javascript when I tried to implement quality as an enum on the idea model. Because of the validation on the idea model, its impossible to assign an incorrect quality, but the lengthy if/else that had to be written for Up and Down just seems wrong...
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-![The Test Results Came Back Positive](/images/small_test_suite)
+![The Test Results Came Back Positive](/images/small_test_suite.png)
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
