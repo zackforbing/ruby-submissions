@@ -43,6 +43,9 @@
 * Why were you proud of this piece of code?
   * Piecing together every component of the app was super fun. I learned a lot about how Rails works and Rack.
 
+[routes.rake](https://github.com/weilandia/idea_box/blob/master/lib/tasks/routes.rake)
+* This was cool.
+
 ### Link to a specific block of your code on Github that you feel not great about
 [global.js](https://github.com/weilandia/idea_box/blob/master/app/assets/javascripts/global.js)
 * Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
