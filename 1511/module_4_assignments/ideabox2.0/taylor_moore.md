@@ -10,7 +10,7 @@
 [My Commits](https://github.com/Tman22/idea_box2/commits/master)
 
 ### Provide a Screenshot of your Application
-![Not Space Jam](http://g.recordit.co/tqhlOSd4aR.gif)
+![Not Space Jam](http://recordit.co/mDRwfHEv6p/gif/notify)
 
 ## Completion
 
@@ -31,5 +31,5 @@ From what little I know of javascript
 [Not so great](https://github.com/Tman22/idea_box2/blob/master/app/assets/javascripts/quality.js#L9-L39)
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-![](http://i.imgur.com/YCjX2wh.png)
+![](http://i.imgur.com/Y5ezdmh.png)
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
