@@ -19,7 +19,7 @@
 
 ### Were you able to complete the base functionality?
 * If not, list what functionality is missing.
-* No, still need edit, search, and changing quality. Started Tues night after NREL. 
+* No, still need edit, search, and changing quality. Started project Tues night after NREL. 
 
 ### Which extensions, if any, did you complete?
 
