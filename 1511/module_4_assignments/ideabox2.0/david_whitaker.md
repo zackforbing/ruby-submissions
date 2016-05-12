@@ -10,12 +10,12 @@
 [Your Commits](https://github.com/damwhit/revenge_of_idea_box/commits/master)
 
 ### Provide a Screenshot of your Application
-![whittyidea](images/spacejam.jpg)
+![whittyidea](images/whittyIdeaApp.jpg)
 
 ## Completion
 
 ### Were you able to complete the base functionality?
-* If not, list what functionality is missing.
+* Truncation is missing.
 
 ### Which extensions, if any, did you complete?
 
@@ -24,6 +24,8 @@
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
+
+
 * Why were you proud of this piece of code?
 
 ### Link to a specific block of your code on Github that you feel not great about
