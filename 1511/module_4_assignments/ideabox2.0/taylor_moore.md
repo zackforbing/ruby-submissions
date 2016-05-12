@@ -10,7 +10,7 @@
 [My Commits](https://github.com/Tman22/idea_box2/commits/master)
 
 ### Provide a Screenshot of your Application
-![Not Space Jam](http://g.recordit.co/PeULDeyBjG.gif)
+![Not Space Jam](http://g.recordit.co/tqhlOSd4aR.gif)
 
 ## Completion
 
