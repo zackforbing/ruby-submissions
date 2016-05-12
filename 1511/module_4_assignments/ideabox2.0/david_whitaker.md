@@ -41,7 +41,7 @@
 
 ### Link to a specific block of your code on Github that you feel not great about
 * I still don't feel so great writing the jerverscerps.... 
-*  definitely need a lot more practice.  I could probably link to any of them but there are three files where I use very similar code and it is the table text that renders the data.  
+*  definitely need a lot more practice.  I could probably link to any of them but there are three files where I use very similar code and it is the table text that renders the data for an idea.  
 *  [here](https://github.com/damwhit/revenge_of_idea_box/blob/master/app/assets/javascripts/getIdeas.js)
 *  [here](https://github.com/damwhit/revenge_of_idea_box/blob/master/app/assets/javascripts/addIdea.js)
 *  [here](https://github.com/damwhit/revenge_of_idea_box/blob/master/app/assets/javascripts/ideaSearch.js)
