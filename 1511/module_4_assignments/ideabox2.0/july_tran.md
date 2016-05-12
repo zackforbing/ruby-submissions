@@ -19,7 +19,7 @@
 
 ### Were you able to complete the base functionality?
 * If not, list what functionality is missing.
-No, still need edit, search, and changing quality. Started Tues night after NREL. 
+* No, still need edit, search, and changing quality. Started Tues night after NREL. 
 
 ### Which extensions, if any, did you complete?
 
@@ -29,11 +29,11 @@ No, still need edit, search, and changing quality. Started Tues night after NREL
 
 ### Link to a specific block of your code on Github that you are proud of
 * Why were you proud of this piece of code?
-[This file](https://github.com/julyytran/ideabox/blob/master/app/assets/javascripts/render-ideas.js) is clean and broken down.
+* [This file](https://github.com/julyytran/ideabox/blob/master/app/assets/javascripts/render-ideas.js) is clean and broken down.
 
 ### Link to a specific block of your code on Github that you feel not great about
 * Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
-Not happy having two modules live in the [spec helper](https://github.com/julyytran/ideabox/blob/master/spec/spec_helper.rb) but I've had problems in the past having it be included if it's not in the spec helper. Have not gotten the chance to investigate again recently.
+* Not happy having two modules live in the [spec helper](https://github.com/julyytran/ideabox/blob/master/spec/spec_helper.rb) but I've had problems in the past having it be included if it's not in the spec helper. Have not gotten the chance to investigate again recently.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 Finished in 6.18 seconds (files took 3 seconds to load)
