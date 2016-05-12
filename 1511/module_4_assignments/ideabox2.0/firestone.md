@@ -22,7 +22,7 @@
 [https://github.com/scottfirestone/idea-box/commits/master](https://github.com/scottfirestone/idea-box/commits/master)
 
 ### Provide a Screenshot of your Application
-![idea box](/Users/scottfirestone/Desktop/Screen\ Shot\ 2016-05-12\ at\ 12.47.28\ PM.png)
+![](https://github.com/scottfirestone/idea-box/blob/master/Screen%20Shot%202016-05-12%20at%2012.47.28%20PM.png)
 
 ## Completion
 
