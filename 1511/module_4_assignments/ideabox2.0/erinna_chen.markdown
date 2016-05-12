@@ -1,16 +1,6 @@
 # Ideabox 2.0 Submission Form- Erinna Chen
 
-
-* Fork this repo, if you haven't already and check out a branch
-* Use this README as a template to create a file in this folder with your name as the title.
-* Submit a pull request
-* Pro Tip: You can use [recordit.co](http://recordit.co/) to record interaction gifs.
-* Secondary Pro Tip: [Here's how to link to specific line number(s) in Github](http://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github)
-* Tertiary Pro Tip: You can re-use some of these things in your portfolio/resume
-
-------
-
-# Basics
+## Basics
 ### The Project Description
 [Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
 
@@ -29,24 +19,28 @@
 ## Completion
 
 ### Were you able to complete the base functionality?
-* If not, list what functionality is missing.
+* I believe I got to base functionality. The only thing that I sort of skipped over was truncation of the body to 100 chars.
 
-### Which extensions, if any, did you complete?
-
-### Attach a .gif, or images of any extensions work being used on the site.
-
-# Code Quality
+## Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-* Why were you proud of this piece of code?
+[Way DRYer than before](https://github.com/erinnachen/genius-box/blob/master/app/assets/javascripts/update_idea_quality.js#L3)
+* Proud may be a little subjective. I think this is far cleaner than I started with. I had routes on the backend that would take care of all this, and there was different functions for upvoting and downvoting, and now it's relatively condensed. This can probably get a bit slimmer, but I'm cool.
 
 ### Link to a specific block of your code on Github that you feel not great about
-* Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+[oooh that's painful](https://github.com/erinnachen/genius-box/blob/master/app/assets/javascripts/idea_helpers.js#L2)
+* The challenge of this was that this element was pretty large. Come to think of it, I probably could have created strings for each part of the element. ES6 string interpolation may be a way to clean it up a bit.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
+![covered](images/testing.png)
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
+[Genius is superlative](https://github.com/erinnachen/genius-box/blob/master/spec/features/user_can_upvote_an_idea_spec.rb#L35)
+* This test checks the case where you have reached the upper echilon of ideaness and want to continue to thumbs up your idea.
 
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+My biggest question was the use of `$(document).ready(function(){})` for multiple JS files. I had to extract functions into the global namespace if I wanted to share them across files. Is that kosher? Is there a way to avoid all of this?
+
+Also, why does Chrome not implement `Object.values()`? 😕
