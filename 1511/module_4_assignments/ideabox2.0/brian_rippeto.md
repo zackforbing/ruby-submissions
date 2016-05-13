@@ -28,12 +28,10 @@
 * Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-
 ![tests](images/brians_tests.jpg)
 
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
-
 [unhappy](https://github.com/brianrip/idea_box/blob/master/spec/features/user_can_change_quality_of_idea_spec.rb)
 -----
 
