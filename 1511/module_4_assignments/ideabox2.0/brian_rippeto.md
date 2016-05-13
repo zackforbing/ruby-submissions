@@ -13,19 +13,19 @@
 ## Completion
 
 ### Were you able to complete the base functionality?
-* If not, list what functionality is missing.
-
-### Which extensions, if any, did you complete?
-
-### Attach a .gif, or images of any extensions work being used on the site.
+* Yes, I had a bug last minute with my ideas populating but on than that all base functionality that I know of.
 
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-* Why were you proud of this piece of code?
+[edit idea code](http://beesbeesbees.com/)
+
+* I felt like I was able widdle these function down to maintain functionality an easily readable and flexible implementation.
 
 ### Link to a specific block of your code on Github that you feel not great about
-* Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+[lots of conditions code](https://github.com/brianrip/idea_box/blob/master/app/assets/javascripts/adjust_quality.js)
+
+* I feel like there is better way to react to favoriting rather than having 6 conditional if/else statements.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 ![tests](images/brians_tests.jpg)
