@@ -8,7 +8,7 @@
 [My Commits](https://github.com/brianrip/idea_box/commits/master)
 
 ### Provide a Screenshot of your Application
-![spacejam](images/spacejam.jpg)
+![my app](images/brians_ideas.jpg)
 
 ## Completion
 
