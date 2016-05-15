@@ -19,7 +19,7 @@
 
 ### Were you able to complete the base functionality?
 * If not, list what functionality is missing.
-* No, still need edit, search, and changing quality. Started project Tues night after NREL. 
+* Yes 
 
 ### Which extensions, if any, did you complete?
 
@@ -29,19 +29,20 @@
 
 ### Link to a specific block of your code on Github that you are proud of
 * Why were you proud of this piece of code?
-* [This file](https://github.com/julyytran/ideabox/blob/master/app/assets/javascripts/render-ideas.js) is clean and broken down.
+* [Quality changing](https://github.com/julyytran/ideabox/blob/master/app/assets/javascripts/change-quality.js#L10-L20) is clean and utilizes objects instead of if/elses. 
 
 ### Link to a specific block of your code on Github that you feel not great about
 * Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
-* Not happy having two modules live in the [spec helper](https://github.com/julyytran/ideabox/blob/master/spec/spec_helper.rb) but I've had problems in the past having it be included if it's not in the spec helper. Have not gotten the chance to investigate again recently.
+* [The edit test](https://github.com/julyytran/ideabox/blob/master/spec/features/user_can_edit_an_idea_spec.rb#L27-L31) has to have the click and send_keys twice or else it doesn't work. Not sure why. Not happy about it. 
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-Finished in 6.18 seconds (files took 3 seconds to load)
-10 examples, 0 failures
+Finished in 8.5 seconds (files took 2.27 seconds to load)
+18 examples, 0 failures
 
-Coverage report generated for RSpec to /Users/July/turing/4module/projects/ideabox/coverage. 98 / 98 LOC (100.0%) covered.
+Coverage report generated for RSpec to /Users/July/turing/4module/projects/ideabox/coverage. 204 / 204 LOC (100.0%) covered.
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
+[Test that 'genius' doesn't change if upvoted](https://github.com/julyytran/ideabox/blob/master/spec/features/user_can_change_quality_spec.rb#L75-L92)
 
 -----
 
