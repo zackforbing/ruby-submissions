@@ -13,7 +13,7 @@
 [My Commits](https://github.com/julyytran/ideabox/commits/master)
 
 ### Provide a Screenshot of your Application
-![ideasnstuff](images/july_ideabox.png)
+![ideasnstuff](images/july_tran_ideabox.png)
 
 ## Completion
 
