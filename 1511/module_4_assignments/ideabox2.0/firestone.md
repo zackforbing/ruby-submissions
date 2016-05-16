@@ -103,6 +103,8 @@ Coverage report generated for RSpec to /Users/scottfirestone/Turing/4module/idea
 
 ### Please feel free to ask any other questions or make any other statements below!
 
+142/150
+
 # Instructor Feedback
 
 ### Data Model
