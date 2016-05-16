@@ -1,7 +1,7 @@
 # Community Involvement
 
 ## Being Visible
-  - List 3 conferences you would be interested in attending or speaking at (Check out [lanyrd](http://lanyrd.com/calls/))
+  - List 3 conferences you would be interested in attending or speaking at
     - For each conference:
       - When is their next CFP deadline
       - Do they have any scholarships you could apply to?
