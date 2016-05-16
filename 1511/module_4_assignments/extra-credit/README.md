@@ -1,6 +1,8 @@
 # Mod 4 Extra Credit
 
-To have your work be considered for extra credit - please submit a pull request into this repo folder containing a submission or proposal markdown file for work being done in the following categories.
+To have your work be considered for extra credit - please submit a pull request into this repo folder containing a submission or proposal markdown file for work being done in the categories below.
+
+Extra Credit requests can be submitted ***Until 8 a.m. on Monday or Week 6***
 
 ## Blog Posts (10 points)
 
@@ -8,9 +10,13 @@ To have your work be considered for extra credit - please submit a pull request 
 * Must be published on the Turing blog
 * Max 5 per module (because that's a lot of blog posts)
 
-## Community Involvement (10 to 50 points)
+## (External) Community Involvement (10 to 50 points)
 
 This section covers things outside of the Turing community - such as speaking at a meetup or conference.
+
+## (Internal) Community Involvement (10 to 50 points)
+
+This section covers going above and beyond the call of duty with a Turing posse.
 
 ## Open Source Contributions (10 to 50 points)
 
