@@ -32,13 +32,12 @@ Rotating cannon shooting at targets - score equals how many shots it took to cle
 - level 2 - two targets
 - level 3 - three moving targets,
 - level 4 - four randomly moving targets, etc...
+- optional powerups
 - AI challenger
 - Websocket challenger
 - Jorge mode
 
 ### What is your MVP, or 'this was harder than I thought' plan?
-
-e.g.
 
 - rotating cannon - you choose where to stop it
 - hitting the space bar allows you to choose the power level
