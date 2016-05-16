@@ -22,20 +22,21 @@
 [Your Commits](http://beesbeesbees.com/)
 
 ### Provide a Screenshot of your Application
-![revenge of the idea](images/brians_ideas.jpg)
+![spacejam](images/spacejam.jpg)
 
 ## Completion
 
 ### Were you able to complete the base functionality?
-* Yes, I had a bug last minute with my ideas populating but on than that all base functionality that I know of.
+* If not, list what functionality is missing.
+
+### Which extensions, if any, did you complete?
+
+### Attach a .gif, or images of any extensions work being used on the site.
 
 # Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-
-[edit idea code](http://beesbeesbees.com/)
-
-* I felt like I was able widdle these function down to maintain fucntionality
+* Why were you proud of this piece of code?
 
 ### Link to a specific block of your code on Github that you feel not great about
 * Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
