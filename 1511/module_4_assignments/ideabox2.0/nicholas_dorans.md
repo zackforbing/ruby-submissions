@@ -62,7 +62,7 @@
 
 # Instructor Feedback
 
-/150
+138/150
 
 Don't be embarrassed about testing at this point - most people tend to spike as their learning - it's hard to both test and be like 'what the heck is happening' at the same time and sometimes trying to do that actually wastes more time than it's worth. Just keep building on it as you go!
 
