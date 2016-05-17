@@ -34,7 +34,20 @@ project
 
 ### Points for first check in (base 50)
 
+50/50
+
 ### Instructor's goals for next check in
+
+
+- Clicking on the ball gives it a constant speed
+- Clean up the bumper boundaries so that ball doesn’t go through
+- Set up and have a few initial tests to drive collision detection
+
+### Extensions
+
+- Stops at the hole and game in some way reacts
+- Slowing down over time
 
 ### Feedback?
 
+Great progress so far!
