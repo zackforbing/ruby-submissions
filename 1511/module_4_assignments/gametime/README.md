@@ -7,10 +7,10 @@
 
 ### Submissions
 
-- [First Check In](bomber_person/check_in1.markdown)
-- [Second Check In](bomber_person/check_in2.markdown)
-- [Third Check In](bomber_person/check_in3.markdown)
-- [Submission Form](bomber_person/submission_form.markdown)
+- [First Check In](template/check_in1.markdown)
+- [Second Check In](template/check_in2.markdown)
+- [Third Check In](template/check_in3.markdown)
+- [Submission Form](template/submission_form.markdown)
 
 
 ![gametime](http://i.imgur.com/IsV5zM0.png)
