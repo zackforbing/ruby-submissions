@@ -5,17 +5,17 @@ Complete this Form before the final eval. Delete this line from your version.
 ## Basics
 
 ### Link to the Github Repository for the Project
-[Your Repo](http://imgur.com/a/Fur9a)
+[Your Repo](https://en.wikipedia.org/wiki/Atari_video_game_burial)
 
 ### Link to the Deployed Application
-[Your Application](https://www.youtube.com/watch?v=N1eNW7GG_Q8)
+[Your Application](http://www.playr.org/play/e.t._the_extra_terrestrial_-_escape_from_planet_earth/872)
 
 ### Link to Your Commits in the Github Repository for the Project
-[TeamMate1](http://ericsteinborn.com/github-for-cats/img/typing.gif)
-[TeamMate 2](http://ericsteinborn.com/github-for-cats/img/typing.gif)
+-[TeamMate1](http://ericsteinborn.com/github-for-cats/img/typing.gif)
+ -[TeamMate 2](http://45.media.tumblr.com/96975bc08e24a9876e62311fdd0c4a34/tumblr_ne4ehpSJ5z1qa747mo1_500.gif)
 
 ### Provide a Screenshot of your Game
-![spacejam](http://i.kinja-img.com/gawker-media/image/upload/s--I3c4ca1C--/18edh1v3ai4kcpng.png)
+-![spacejam](https://i.ytimg.com/vi/EFt-La3UUu0/maxresdefault.jpg)
 
 ---
 
@@ -25,12 +25,12 @@ Complete this Form before the final eval. Delete this line from your version.
  - If not, list what functionality is missing.
 
 ### What Extensions, as Requested By an Instructor, Did You Complete?
-Per Extension:
-- Describe the extension
-- Provide a .gif of the extension or a link to the relevant code
+- Per Extension:
+  - Describe the extension
+  - Provide a .gif of the extension or a link to the relevant code
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
-Per Feature:
+- Per Feature:
  - Describe the feature
  - Provide a .gif of the feature in action or a link to the relevant code
 
