@@ -71,7 +71,13 @@ Trust in the Julian / Allan combo!
 ## Instructor Section
 
 ### Points for first check in (base 50)
+55 (+5 for All The Tests!)
 
 ### Instructor's goals for next check in
+Goals for Thursday:
+- Collision detection (blocks, bombs, explosions)
+- Have a Bomber Person on screen that can be moved around with arrow keys
+- Bomb and explosion class written, not necessarily rendering on screen
 
 ### Feedback?
+Great idea to use sprites for character graphics.
