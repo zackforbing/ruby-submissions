@@ -45,7 +45,9 @@ Rotating cannon shooting at targets - score equals how many shots it took to cle
 - levels 1, 2, and 3
 
 ### What have you accomplished so far?
-
+  - Box shoots predetermined bullet
+  - Can rotate cannon - bullet stays at same trajectory
+  
 ### Questions, Comments, Concerns?
 
 -----
@@ -53,7 +55,13 @@ Rotating cannon shooting at targets - score equals how many shots it took to cle
 ## Instructor Section
 
 ### Points for first check in (base 50)
+  - +50 Points
 
 ### Instructor's goals for next check in
+  - Trajectory of projectiles
+  - Velocity power bar
+  - Collision Detection
+    - Projectile vs Tower
+  (Targets exist)
 
 ### Feedback?
