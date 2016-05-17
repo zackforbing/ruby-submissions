@@ -56,6 +56,19 @@ Block Party is a similar concept to flappy bird. A user moves an object up and d
 
 ### Points for first check in (base 50)
 
+50/50
+
 ### Instructor's goals for next check in
+
+- Clean up collision detection 
+  - Game stops when you hit a non-safe area
+  - Game visually responds correctly to passing through a safe area
+  - Game in some way begins to keep score
+- Have a plan for deploying the application - take a first pass - look at using node/express if continuing to use React
+
+# Extensions
+
+- Full color based game play
+- Game play ~ 50% tested
 
 ### Feedback?
