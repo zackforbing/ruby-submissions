@@ -61,6 +61,17 @@ How can we render the cat in each quadrant? Right now, looping through all y val
 
 ### Points for first check in (base 50)
 
+50/50
+
 ### Instructor's goals for next check in
+
+- Get testing set up, and test collision detection (a few other non-drawing methods)
+- Clean up collision detection
+- Begin implementing toasters
+
+### Extension
+
+- Test and render game reactions to toasters
+- Visual indication of score that resets
 
 ### Feedback?
