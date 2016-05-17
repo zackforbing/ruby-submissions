@@ -61,7 +61,7 @@ Rotating cannon shooting at targets - score equals how many shots it took to cle
   - Trajectory of projectiles
   - Velocity power bar
   - Collision Detection
-    - Projectile vs Tower
+    - Projectile vs Tower  
   (Targets exist)
 
 ### Feedback?
