@@ -5,8 +5,8 @@
 ### Team
 - [Adrienne Domingus](https://github.com/adriennedomingus)
 - [Erinna Chen](https://github.com/erinnachen)
-### Game Name
 
+### Game Name
 Bubble Bobble
 
 ### Give a Basic Description of the Game
@@ -44,8 +44,15 @@ Dinosaur shoots bubbles at windup toys and then pops those bubbles for various g
 - Bubbles give goodies and dinosaur can collect them for points
 
 ### What have you accomplished so far?
+- Dinosaur can move back and forth on screen
+- Dinosaur can shoot bubbles
+- Dinosaur can jump up and down but not super smoothly
+- Bubbles can move outwards and float, and they collect at the top of the screen
+- Unit tests on Bubble and Dinosaur
 
 ### Questions, Comments, Concerns?
+- How many levels should we build?
+- Test gaps: button pressing and the drawing.
 
 -----
 
