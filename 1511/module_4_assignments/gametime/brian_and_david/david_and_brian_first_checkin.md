@@ -65,7 +65,12 @@ Navigate copter through cave of obstacles
 ## Instructor Section
 
 ### Points for first check in (base 50)
+  - +50 Points
 
 ### Instructor's goals for next check in
-
+  - Dynamic borders
+  - Get everything tested
+  - Break out into different js files
+  - (Start Button)
+  
 ### Feedback?
