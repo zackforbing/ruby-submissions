@@ -55,7 +55,7 @@ Rendering background and Nyan cat image. Nyan cat moves up and down in fixed pos
 
 ### Questions, Comments, Concerns?
 How can we render the cat in each quadrant? Right now, looping through all y values when it goes up. Do we need a game loop? Also, we need to npm run build each time we make a change. Is this unusual?
------
+
 
 ## Instructor Section
 
