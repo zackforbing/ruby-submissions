@@ -64,6 +64,19 @@ Concerns: Writing logic for how to tell if fields are connected, ability to zoom
 
 ### Points for first check in (base 50)
 
+50/50
+
 ### Instructor's goals for next check in
+
+- Create your tile class
+- Limit number of tiles that can be pulled - which may involve a testable TileStore class or array.
+  - Calculate number of tiles remaining
+- Not allow user to place a tile on top of another tile
+
+### Extension
+
+- Not allow a user to place a tile where another tile isn't touching it
+- 50%ish test coverage of major logic
+- A pop up box of rules of the game that player can use, open, close, etc. 
 
 ### Feedback?
