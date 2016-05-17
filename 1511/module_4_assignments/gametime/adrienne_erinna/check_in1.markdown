@@ -59,7 +59,16 @@ Dinosaur shoots bubbles at windup toys and then pops those bubbles for various g
 ## Instructor Section
 
 ### Points for first check in (base 50)
+  - +50 Points 
 
 ### Instructor's goals for next check in
+  - Dinosaur vs bubble collision detection
+  - Wind up toys vs dinosaur collision detection
+  - Wind up toys and bubble collision detection
+  - Wind up toy functionality:
+    - Fall from sky and walk
+    - In bubble floats up 
+    - Toys/Bubbles can be popped
+
 
 ### Feedback?
