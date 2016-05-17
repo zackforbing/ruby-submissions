@@ -6,4 +6,4 @@
 - [July Tran](https://github.com/julyytran)
 
 ### Link to the Github Repository for the Project
-[Your Repo](https://www.youtube.com/watch?v=-CnNnlgEsLY)
+[Repo](https://github.com/cheljoh/game-time)
