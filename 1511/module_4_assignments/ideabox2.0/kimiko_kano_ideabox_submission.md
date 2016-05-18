@@ -69,7 +69,7 @@ https://github.com/ksk5280/js_idea_box/blob/master/spec/requests/api/v1/ideas_co
 
 # Instructor Feedback
 
-153 (143 + 10 for extension)/150
+151 (141 + 10 for extension)/150
 
 ### Data Model
 
