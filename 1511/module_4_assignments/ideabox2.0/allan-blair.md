@@ -35,6 +35,8 @@
 
 # Instructor Feedback
 
+110/150
+
 ### Data Model
 
 (5 points total.)
