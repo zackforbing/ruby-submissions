@@ -22,7 +22,7 @@
 [Commits](https://github.com/weilandia/idea_box/commits)
 
 ### Provide a Screenshot of your Application
-![ideabox](images/idea_box.png)
+![ideabox](images/weiland_ideabox.png)
 
 ## Completion
 
