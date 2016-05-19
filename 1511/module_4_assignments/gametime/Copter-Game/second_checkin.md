@@ -7,7 +7,7 @@
 [code](https://github.com/damwhit/helicopter-time/blob/master/lib/game.js)  
 __Questions, Comments, Concerns?__
 
-- Creating images and textures with the dame dimensions as current rects.
+- Creating images and textures with the game dimensions as current rects.
 
 ### All unit level testing up to date
 
