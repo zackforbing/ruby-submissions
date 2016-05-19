@@ -4,6 +4,11 @@ Repo:
 
 Notes:
 
+* first iterations built with TDD
+* TDD for round class got a little sketch
+* for runner class, hardcoded questions and answers, did not use iteration or dynamic values
+* classes built for first iterations were not used in runner file
+
 Scores:
 
 
