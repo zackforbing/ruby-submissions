@@ -1,52 +1,36 @@
-Assessed By:
+Assessed By: Horace
 
-Repo:
-
-Notes:
-
-Scores:
-
-
-Assessed By:
-
-Repo:
+Repo: https://github.com/tgisg/flashcards
 
 Notes:
 
-Scores:
+* clean and straightforward project structure
+* demonstrating really solid ruby fundamentals and mechanics -- seems like you're much more comfortable now with defining classes,
+defining methods, working instance variables, and tracing the interactions between a handful of classes
+* especially like the amount and variety of the tests -- seems like you are giving a lot of attention to thinking about different scenarios,
+trying out different inputs, etc etc
+* looked at a couple small style points -- avoiding unnecessarily verbose boolean expressions and not forgetting about methods you already wrote
+such that you end up reimplementing the same code in another place
+* finally talked about using small I/O / display helper methods to help break up the structure of a large I/O-intensive loop
 
+Scores:
 
 ### 1. Functional Expectations
 
-* 4: Application fulfills all expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality *as well as* two extensions.
 * 3: Application fulfills expectations of iterations 1 - 6 with no bugs, crashes, or missing functionality.
-* 2: Application is usable but has some missing functionality.
-* 1: Application crashes during normal usage.
 
 ### 2. Test-Driven Development
 
 * 4: Application is broken into components which are well tested in both isolation and integration using appropriate data.
-* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality.
-* 2: Application makes some use of tests, but the coverage is insufficient given projet requirements.
-* 1: Application does not demonstrate strong use of TDD.
 
 ### 3. Encapsulation / Breaking Logic into Components
 
-* 4: Application is expertly divided into logical components each with a clear, single responsibility.
 * 3: Application effectively breaks logical components apart but breaks the principle of SRP.
-* 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear.
-* 1: Application logic shows poor decomposition with too much logic mashed together.
 
 ### 4. Fundamental Ruby & Style
 
-* 4:  Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring.
 * 3:  Application shows strong effort towards organization, content, and refactoring.
-* 2:  Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring.
-* 1:  Application generates syntax error or crashes during execution.
 
 ### 5. Enumerable & Collections
 
-* 4: Application consistently makes use of the best-choice Enumerable methods
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
-* 2: Application demonstrates functional knowledge of Enumerable but only uses the most basic techniques
-* 1: Application demonstrates deficiencies with Enumerable and struggles with collections
