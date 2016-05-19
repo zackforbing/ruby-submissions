@@ -67,7 +67,22 @@ What do you feel the next steps should be?
 ## Instructor Section
 
 ### Points for Second Check In (base 50)
+52/50
 
 ### Instructor's Goals for Next Check In
+- have 2 players
+- Players take turns placing tiles and helpers on the board
+- the board/UI has some sort of visual indicator to show which player is active
+
+- have and place specific players meeples
+- Board shows number of followers available for each player and the number of tiles remaining
+
+- A pop up box of rules of the game that player can use, open, close, etc.
+- starting page/screen with logo where players enter their names and can start the game
+
+### Extension
+- some test coverage
+- players have the ability to increase and increase their own score (players control this themselves, the game doesn't automatically score at this point)
 
 ### Feedback?
+This looks great! I'm really excited to see it with meeples and more than one player.
