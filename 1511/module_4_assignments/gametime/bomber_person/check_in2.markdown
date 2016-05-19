@@ -44,7 +44,15 @@ talk about yet
 ## Instructor Section
 
 ### Points for Second Check In (base 50)
-
+  +50/50
+  
 ### Instructor's Goals for Next Check In
+  - Blocks explode with stuff
+  - Sprites
+  - MVP SHOULD BE DONE. BAM. 
+  - Get tests back up and running
+
+EXTENTIONS
+  - Web socket implementation
 
 ### Feedback?
