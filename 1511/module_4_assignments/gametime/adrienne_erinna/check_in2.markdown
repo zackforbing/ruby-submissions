@@ -1,5 +1,3 @@
-Complete this Form before the second check in. Delete this line from your version.
-
 # Game Time Check In # 2
 
 ## Instructor Goal Completion
@@ -38,6 +36,7 @@ A lot of goals, all in one Gif:
 - End game sequence
 
 ### General Questions, Comments, Concerns?
+* Testing "private" methods on a constructor/what to expose.
 
 -----
 
