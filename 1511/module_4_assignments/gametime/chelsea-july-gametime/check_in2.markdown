@@ -7,8 +7,7 @@
   - Provide a screenshot or gif or link to code for this goal
   
   - We ended up testing everything we have so far
-  - ![testing](tests_checkin_2.png)
-  
+  ![testing](tests_checkin_2.png)
   - Did you deviate from the instructions? Tell us about it.
   - Questions, Comments, Concerns?
 
@@ -23,7 +22,7 @@
 
 - Provide a screenshot or gif or link to code for this goal
 - We made toasters and poop and you lose lives when you eat them. Eat 3 and it's GAME OVER.
-- ![game_gif](gif_checkin_2.png)
+- ![game_gif](gif_checkin_2.gif)
 
 - Did you deviate from the instructions? Tell us about it.
 - Questions, Comments, Concerns?
