@@ -37,6 +37,8 @@ A lot of goals, all in one Gif:
 
 ### General Questions, Comments, Concerns?
 * Testing "private" methods on a constructor/what to expose.
+* Resources for deploying
+* Local Storage for scoring?
 
 -----
 
