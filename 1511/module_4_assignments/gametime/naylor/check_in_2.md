@@ -32,6 +32,21 @@
 
 ### Points for Second Check In (base 50)
 
+50/50
+
 ### Instructor's Goals for Next Check In
+
+- Have one level complete on the backend 
+  - One target - that can move back and forth
+  - Be able to hit the target - this is logged somehow
+  - Have points be allocated
+- More than 20 unit tests - spanning different files
+- Refactor code into the Game.js
+
+### Extensions
+
+- Have one level done with all visualizations
+- Create Additional Levels
+- When the bomb hits something, animation that causes a divot in the tower.
 
 ### Feedback?

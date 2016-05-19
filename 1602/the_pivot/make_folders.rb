@@ -1,0 +1,8 @@
+command = "cp template.md "
+puts command + "Ashwin_Patrick_Josh.md"
+puts command + "Jonathan_Bernesser_Chris_Sal_Chad.md"
+puts command + "Mark_Thomas_Kami.md"
+puts command + "Kris_Hedy_Jonathan_Liss_Jared.md"
+puts command + "Jeneve_Drew_Sunny.md"
+puts command + "Admir_Matt_Marina.md"
+puts command + "Ling_Ali_Alex_Claudia.md"
