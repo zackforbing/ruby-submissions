@@ -1,38 +1,44 @@
-Complete this Form before the second check in. Delete this line from your version.
-
 # Game Time Check In # 2
 
 ## Instructor Goal Completion
+* General note: I (Adrienne) suck at this game. Don't judge me from these gifs.
 
 ### GOAL 1
+  - Dinosaur vs bubble collision detection (bubble "pops" (disappears) when the dino collides with it).
 
-  - Provide a screenshot or gif or link to code for this goal
-  - Did you deviate from the instructions? Tell us about it.
-  - Questions, Comments, Concerns?
+  ![Gif](http://g.recordit.co/LX3uMCsKPt.gif)
 
 ### GOAL 2
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+- Wind up toys vs dinosaur collision detection (Dino loses a life. That has no repercussions yet, but it will! There is a 'timeout' period after he loses a life where he is immune. There will be visual demonstration of this as well.)
+
+![Gif](http://g.recordit.co/kJH1bhnB5H.gif)
 
 ### GOAL 3
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+A lot of goals, all in one Gif:
+- Wind up toys and bubble collision detection
+- Wind up toy functionality:
+  - Fall from sky and walk
+  - In bubble floats up
+  - Toys/Bubbles can be popped
 
-### GOAL 4
+(That's fruit falling from the sky, obviously)
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+![Gif](http://g.recordit.co/f9U1biQpXr.gif)
 
 ## Next Steps?
 
-- What do you feel the next steps should be?
+- Visualization: make windups and fruit and bubbles look like windups and fruit and bubbles
+- Levels. Shouldn't be too much of a stretch from current implementation of floors.
+- Deploy
+- Showing the Bob's scores and lives
+- End game sequence
 
 ### General Questions, Comments, Concerns?
+* Testing "private" methods on a constructor/what to expose.
+* Resources for deploying
+* Local Storage for scoring?
 
 -----
 
