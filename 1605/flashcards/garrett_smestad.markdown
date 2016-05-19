@@ -19,8 +19,7 @@ Scores:
 
 ### 3. Encapsulation / Breaking Logic into Components
 
-* 3: Application effectively breaks logical components apart but breaks the principle of SRP.
-
+4: Application is expertly divided into logical components each with a clear, single responsibility.
 
 ### 4. Fundamental Ruby & Style
 
