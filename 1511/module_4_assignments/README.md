@@ -24,3 +24,8 @@ In this folder, we will add yet another folder for each major assignment - and a
 #### Week 1
 * [IdeaBox 2.0](ideabox2.0/) (150 points)
 * [ES6 Assignment](https://gist.github.com/rrgayhart/8435729452a3e3ad8cd3) (5 points)
+* [Sorting Algoriths](https://gist.github.com/stevekinney/9e9cfeb225c8133fda73) (3 points)
+
+#### Week 2
+* [GameTime](gametime/)(300 points)
+* [The Concept of Require](https://gist.github.com/rrgayhart/dca2796a0aa3f43ccf98e43973dec933) (5 points)
