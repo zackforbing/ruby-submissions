@@ -42,7 +42,17 @@
 ## Instructor Section
 
 ### Points for Second Check In (base 50)
+  50/50
 
 ### Instructor's Goals for Next Check In
+  - Preload images
+  - Add instruction for adding name
+  
+### EXTENTSION/NOTES
+  - How to hide API key?  -- DID IT! Using external file exporting api keys and moving into .gitignore
+  - Lasers? 
 
 ### Feedback?
+  - Got moving background/sprites going!
+  - Speed increases, music, etc. Accomplished all goals
+  - Refactored multiple draw things into a draw object
