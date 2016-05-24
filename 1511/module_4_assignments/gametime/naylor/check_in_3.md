@@ -34,6 +34,19 @@
 
 ### Points for Second Check In (base 50)
 
+35/50
+
+- missing moving targets being hooked up
+- bugginess around collision detection
+
 ### Instructor's Goals for Next Check In
+
+- Refactor them codes
+- Test and fix collision detection
+- UI around beginning and end
+- Increase difficulty in some way - be it 10 points for target, minus one per shot or limited ammo.
+- 2nd level up and running.
+
+- Stretch Goal: 3rd level
 
 ### Feedback?
