@@ -46,6 +46,21 @@ A lot of goals, all in one Gif:
 
 ### Points for Second Check In (base 50)
 
+55/50
+
 ### Instructor's Goals for Next Check In
+
+- Most of Base Gameplay by Tuesday
+  - Either the code or the visualization is locked down
+- First pass at Levels - enough to have a Game prototype - 3
+- First pass at deploying
+- Showing Bob's scores and lives
+- End Game sequence
+
+### Extension
+
+- Getting a scoreboard for multiple players/over time
+- First pass at websockets
+- All visuals and code done for MVP
 
 ### Feedback?

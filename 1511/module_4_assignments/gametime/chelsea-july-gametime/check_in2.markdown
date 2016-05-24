@@ -54,7 +54,16 @@
 ## Instructor Section
 
 ### Points for Second Check In (base 50)
+  - +50 Points for Submission Form
 
 ### Instructor's Goals for Next Check In
+  - Difficulty Thing --> Speed changes
+  - Background moves, add music
+  - High Scores
+  - Start Screen & Replay Button
+
+EXTENSION
+  - Think about different modes --> Cat shoots laZers from eyes? 
 
 ### Feedback?
+  - Check on draw functionality in each class?
