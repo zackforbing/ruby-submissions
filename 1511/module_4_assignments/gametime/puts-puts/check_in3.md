@@ -1,4 +1,4 @@
-# Game Time Check In # 2
+# Game Time Check In # 3
 
 ## Instructor Goal Completion
 
@@ -46,7 +46,7 @@
 
 ## Instructor Section
 
-### Points for Second Check In (base 50)
+### Points for Third Check In (base 50)
 
 ### Instructor's Goals for Next Check In
 
