@@ -16,18 +16,17 @@
 
 ### Add High Scores
 
-![image-of-scoreboard](images/Scoreboard.png)
-
 - We keep track of high scores by using Firebase
 - Only top five are added
 - User can add their name if they wish. Not entirely clear when they need to do that.
 
+![image-of-scoreboard](images/Scoreboard.png)
+
 ### Start Screen and Replay Button
+- We have a start screen and a game over screen. Start screen has a "play game" button, game over screen has a "play again" button.
 
 ![image-of-start-screen](images/start-screen.png)
 ![image-of-start-screen](images/game-over.png)
-
-- We have a start screen and a game over screen. Start screen has a "play game" button, game over screen has a "play again" button.
 
 ## Next Steps?
 
