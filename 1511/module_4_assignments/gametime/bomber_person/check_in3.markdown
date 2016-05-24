@@ -65,6 +65,22 @@ I hate mocking && stubbing && sinon.
 
 ### Points for Second Check In (base 50)
 
+50/50
+
 ### Instructor's Goals for Next Check In
 
+Minimum to Meet Features
+
+- first screen that you hit to begin game
+- end screen that indicates who won
+- UI surrounding the project
+- Beefed up README
+
+Extensions
+
+- Websockets and having multiple player
+  - Some form of difficulty bomb radius growing.
+
 ### Feedback?
+
+Cool as shit.
