@@ -37,6 +37,21 @@ Complete this Form before the third check in. Delete this line from your version
 
 ### Points for Second Check In (base 50)
 
+50/50
+
 ### Instructor's Goals for Next Check In
+
+Recommendations:
+- Blog about this - specifically around building a game with React
+
+'Requirements':
+- readme
+- make BlockParty.js under 100 lines
+- revisit testing
+
+Extensions:
+- Colorpack changes (we really really like this one)
+- lateral movement
+- firebase for shared scores
 
 ### Feedback?
