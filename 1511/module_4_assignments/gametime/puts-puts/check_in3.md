@@ -47,7 +47,18 @@
 ## Instructor Section
 
 ### Points for Third Check In (base 50)
+  50/50
 
 ### Instructor's Goals for Next Check In
+  - Pull out collision detection class 
+  - End screen with final score
+  - Visual representation of ball direction
+  - Additional obstacles (like tunnels)
+  - Continue adding tests for math-heavy methods
+  
+EXTENSION
+  - Sounds! 
+  - Grass/Sand/More visual stuff
 
 ### Feedback?
+   - 25 Tests (vs roughly half from last checking)
