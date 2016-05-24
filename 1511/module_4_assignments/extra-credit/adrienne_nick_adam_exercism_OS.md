@@ -1,2 +1,0 @@
-Nick Weiland, Adam and I have submitted a PR to the exercism.io repo to create a new API endpoint to track a user's contributions (comments on other people's submissions). This is continuation of work we did to create the initial endpoint last module.
-The first pull request from last module is [here](https://github.com/exercism/exercism.io/pull/2818); the most recent endpoint PR can be found [here](https://github.com/exercism/exercism.io/pull/2907)
