@@ -74,20 +74,23 @@ What do you feel the next steps should be?
 
 ### General Questions, Comments, Concerns?
 
- 
-
 -----
 
 ## Instructor Section
 
 ### Points for Third Check In (base 50)
-
+  50/50
 
 ### Instructor's Goals for Next Check In
 
+  - Style rule div
+  - Check for illegal moves - adjacency of current tile
+  - Board grows as game grows
+  - More players
+  - Testing
 
 ### Extension
-
-
+  - Colors
+  - Check for illegal moves based on position of tile
 
 ### Feedback?
