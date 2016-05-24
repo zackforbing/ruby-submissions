@@ -84,3 +84,5 @@ Extensions
 ### Feedback?
 
 Cool as shit.
+
+Suggestion to change colors of players.
