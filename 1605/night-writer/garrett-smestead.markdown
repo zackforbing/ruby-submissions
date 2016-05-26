@@ -14,7 +14,7 @@ Scores:
 
 ### 1. Overall Functionality
 
-* 2: Application converts to Braille and back successfully
+* 2: Application converts to Braille and back successfully (Missing wrapping)
 
 ### 2. Fundamental Ruby & Style
 
