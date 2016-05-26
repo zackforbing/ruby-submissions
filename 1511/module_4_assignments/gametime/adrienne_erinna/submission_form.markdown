@@ -82,3 +82,34 @@ I'm going to go with zero.
 ## Instructor Feedback
 
 - Points: (base 300)
+- 
+150 out of a total of 300 points are included in the rubric below. The additional 150 feature points will be determined during iteration planning with instructors during check-ins.
+
+### Functional Expectations
+* **35 points** - Application is fully playable and exceeds the expecations set by instructors
+
+### User Interface
+* **15 points** - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor _without_ guidance from the developer.
+
+### Testing
+* **25 points** - Project has a running test suite that tests and multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.
+
+### JavaScript Style
+* **20 points** - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### Workflow
+* **25 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+### Code Sanitation
+
+The output from JSHint shows…
+* **15 points** - Zero complaints
+
+### TOTAL POINTS
+ - ChekIns: 155
+ - Subtotal: 145
+ - Extensions: 10
+ - **Total: 310**
+
+
+

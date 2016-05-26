@@ -96,3 +96,30 @@ We're tired. We need some sleep.
 ## Instructor Feedback
 
 - Points: (base 300)
+
+### Functional Expectations
+  - 35 points - Application is fully playable and exceeds the expecations set by instructors
+
+### User Interface
+  - 10 points - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+
+
+### Testing
+  - 25 points - Project has a running test suite that tests and multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.
+
+### JavaScript Style
+  - 27 points - Some chances to refactor loops of death etc. 
+
+### Workflow
+  - 25 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+### Code Sanitation
+The output from JSHint shows…  
+  - 15 points - Zero complaints
+
+### Final Scores
+  - Final Assessment: 137
+  - Completed Checkins: 150  + 5 Extra
+  - SubTotal: 292
+  - +5 for Extensions
+  - **Total: 297**
