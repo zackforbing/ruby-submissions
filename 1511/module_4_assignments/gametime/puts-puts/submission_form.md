@@ -16,7 +16,7 @@ Complete this Form before the final eval. Delete this line from your version.
  - [Brennan's Commits](https://github.com/brennanholtzclaw/game_time/commits/master?author=brennanholtzclaw)
 
 ### Provide a Screenshot of your Game
-![Get in your hole!](blob:https%3A//drive.google.com/6bdeacd1-8e5b-4b75-9365-202aa9a419de "Fun for the whole family!")
+![Get in your hole!](https://drive.google.com/file/d/0BzOa44Ah0W0IaTZ6aWtPeUdRUVU/view?usp=sharing "Fun for the whole family!")
 
 ---
 
