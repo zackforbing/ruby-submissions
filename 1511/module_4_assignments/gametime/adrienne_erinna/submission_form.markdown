@@ -13,6 +13,8 @@
 ### Provide a Screenshot of your Game
 ![Single Player](http://g.recordit.co/u35EwWHzXw.gif)
 
+![Battle Zone](http://recordit.co/CAgkMS6US1.gif)
+
 ## Completion
 
 ### Do You Consider the Application to be Fully Playable?
