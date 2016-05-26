@@ -32,11 +32,11 @@
 
 - What risks did you feel you took on this project?
 
-The project concept in general was more complicated than it needed to be to meet base project requirements. I don't know that much else felt "risky". We just kept working until it was due, and got done what we got done, which happened to be beyond the project spec.
+The project concept in general was more complicated than it needed to be to meet base project requirements - with a lot of moving pieces. The two most challenging pieces were creating a jump that looked natural (there are a lot of "phases" to the jump with different behavior in each of them), and not allowing him to walk through the vertical walls in level three. (Most collision looked for general overlap, while that required specific left:right edge and right:left edge collision).
 
 - How do you feel about those risks?
 
-Good. I think we would have gotten bored if we hadn't taken them.
+Good. I think we would have gotten bored if we hadn't taken them. However, our code quality did suffer in order to complete the features we did, and has more redundancy than we would like.
 
 ## Code Quality
 
