@@ -20,7 +20,7 @@
 
 ### Do You Consider the Application to be Fully Playable?
 
- - Yes, very user friendly and easy to understand! Simply move up and down and use spacebar to deploy bombs.
+ - Yes, very user friendly and easy to understand! Simply move up and down to eat sushi or avoid trash. Use spacebar to deploy bomb and clear all sprites.
 
 ### What Extensions, as Requested By an Instructor, Did You Complete?
 
@@ -30,13 +30,13 @@
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
 
- - Bombs, cat gif, audio, and moving background. See above gif!
+ - Bombs, cat gif, audio, Firebase, and moving background. See above gif!
 
 ## Risk Taking
 
 - What risks did you feel you took on this project?
 
-Adding a moving background involved stacking two canvases on top of each other and increasing overall complexity of the game. Moving cat gif also increased complexity for collision and drawing the object.
+Adding a moving background involved stacking two canvases on top of each other and increasing overall complexity of the game. Moving cat gif also increased complexity for collision and drawing the object. We also spent a lot of time configuring Firebase and allowing users to enter their name.
 
 - How do you feel about those risks?
 
@@ -46,14 +46,14 @@ Learned a lot from them! Glad we did them.
 
 ### Link to a specific block of your code on Github that you are proud of
 
-[ScoreboardHelpers](https://github.com/cheljoh/game-time/blob/master/lib/scoreboard-helpers.js#L1-L29)
+[refreshSprites](https://github.com/cheljoh/game-time/blob/refactoring-party-3/lib/game.js#L64-L74)
 - Why were you proud of this piece of code?
 
-Small functions that assist the Scoreboard class. Easier to test.
+Small function that is very important to the game. We reset sprites array in each frame so we don't have a memory issue. 
 
 ### Link to a specific block of your code on Github that you feel not great about
 
-[refreshSprites](https://github.com/cheljoh/game-time/blob/master/lib/game.js#L63-L86)
+[moveSpites](https://github.com/cheljoh/game-time/blob/refactoring-party-3/lib/game.js#L76-L92)
 
 - Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
 
@@ -61,13 +61,14 @@ This is a important function that is long by necessity and difficult to test. We
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
-![Test Suite](http://i.imgur.com/w794jR9.png?1)
+![Test Suite](images/test-suite.png)
 
 ### Test Breakdown
 - How Many Unit Tests?
+40
 
-
-- How Many Feature/Integration Tests? //integration for moving cat in game
+- How Many Feature/Integration Tests?
+1
 
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
