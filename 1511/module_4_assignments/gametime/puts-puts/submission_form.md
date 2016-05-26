@@ -16,7 +16,7 @@ Complete this Form before the final eval. Delete this line from your version.
  - [Brennan's Commits](https://github.com/brennanholtzclaw/game_time/commits/master?author=brennanholtzclaw)
 
 ### Provide a Screenshot of your Game
-![Get in your hole!](https://lh3.googleusercontent.com/Op-YTA31JJJZGMX65HDrJmvrmgS6G9Xr6q6L-vsmnFCu306ijqUGwwlVZyVd9Q_kfyzN3ZSZbhu_Pc4djwRGXDUEXFadjI9Di3hF4fWtLIWUVj34m3AZLBpt1GqEuv7llpnat07_NcZqScd2Pp68rrBpBFjAXnk-U-8tpjz3jApNZVQ-hIflbHDn6Qfk4DNZIvF9YgvvRD9gBHL3mz22GYsGcpZ14pPIFYaLQMKuLdQoUOlcSxKvnfDWb0ox5uXeJbUO3UpRI1WqA0IfB29UUB3FyJOa573l9diuXSNXrMlq0xeBKSziNipe_N_S2oMwLCi947zDq3Iqde4neJPQhStWqP-U_pi2bau49DIxvVy2SNX9FT4vRIMJaSW-1M5suere6Zh-mfgcg1OtHBm_yyToGFli_izSg-pZ-pr-FCIGmyCPadMNEkoCNeEh0QEv1URbRRZ0D6xYLnHsBFU5ZwGoDf3ovdmUeF1BVMzSRCvMOZW_xwEA5ttcwf40VEEJ3GPTMKGqJXNaKip8l9d71NT9kHOoZda1m3PNwW9_rttXeRxGba14_DOprkfb8sNfjIF_UKngx65y0sz0GKraqewtRiDrKl4=w2550-h1306-no "Fun for the whole family!")
+![Get in your hole!](blob:https%3A//drive.google.com/6bdeacd1-8e5b-4b75-9365-202aa9a419de "Fun for the whole family!")
 
 ---
 
@@ -39,12 +39,10 @@ While this was a pattern we saw used elsewhere, level creation required customiz
 
 ## Risk Taking
 - What risks did you feel you took on this project?
-
-* I think the biggest risk we took was trying to write certain functions for ourselves. When it comes to collision detection, a ball slowing down or being affected by a trap, or even drawing multiple objects, those problems are all solved. We decided we wanted to try and figure them out on our own though to make sure we learned the most we could.
+     I think the biggest risk we took was trying to write certain functions for ourselves. When it comes to collision detection, a ball slowing down or being affected by a trap, or even drawing multiple objects, those problems are all solved. We decided we wanted to try and figure them out on our own though to make sure we learned the most we could.
 
 - How do you feel about those risks?
-
-* Because we had to struggle through some areas that could possibly have been solved faster, I don't think we got as far as we hoped. There are other obstacles that should be much easier to implement now, and other features that we could probably get to fairly quickly, but time escaped us.
+    Because we had to struggle through some areas that could possibly have been solved faster, I don't think we got as far as we hoped. There are other obstacles that should be much easier to implement now, and other features that we could probably get to fairly quickly, but time escaped us.
 ----
 
 ## Code Quality
