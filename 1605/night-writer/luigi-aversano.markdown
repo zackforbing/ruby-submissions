@@ -3,7 +3,9 @@ Assessed By: Jhun
 Repo: https://github.com/luigiaversano/nightwriter
 
 Notes: - strived to break things into SRP could refactor to solidify concept a little more 
-       - Code is readable and doesn't have too many long met
+       
+       - Code is readable and doesn't have too many long methods
+       
        - could of easily gotten the 3 but student was sick. 
 
 Scores:
