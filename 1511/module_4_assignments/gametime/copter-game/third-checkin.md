@@ -49,7 +49,7 @@ __Music__
 ### General Questions, Comments, Concerns?
 
 - Style is not compiling on production
-- index.js being ran in package.json?^
+- index.js being ran in package.json  ?^
 - Improving performance of animation loop
 - Firebase
 - Sprites for chopper blade and contrails
