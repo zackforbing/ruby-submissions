@@ -10,6 +10,7 @@ Notes:
 * pull file writing class to its own file to DRY
 * need some tests for file writing
 * loved the fact everything was in one converter class
+* code accidentally capitalizes when converting to braille
 
 
 Scores:
