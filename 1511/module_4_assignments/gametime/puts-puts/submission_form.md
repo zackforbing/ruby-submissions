@@ -31,9 +31,9 @@ Complete this Form before the final eval. Delete this line from your version.
   - [Sand Trap!](http://g.recordit.co/wTpqyHbhtS.gif)
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
-- Per Feature:
- - Describe the feature
- - Provide a .gif of the feature in action or a link to the relevant code
+* Easy addition of new levels
+While this was a pattern we saw used elsewhere, level creation required customizing for our own needs. It allows all required elements to be created in a easily repeatable pattern. 
+[Link](https://github.com/brennanholtzclaw/game_time/tree/master/lib/levels)
 
 ----
 
@@ -63,15 +63,19 @@ This code not only iterates over the bumbers and obstacles to detect a collision
 Declaring that many variables in the top of a file is the smelliest of code smells that things need to be pulled out into new files/functions, and required differently. Also in this file is the animation loop. Nate did a great job refactoring that, but the whole index is still pretty cluttered with things that need some desperate pruning. We just ran into problems getting specific functions pulled out, and still working correctly in our loop.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
+[Link to pastebin](http://pastebin.com/KQPqpvCu)
+I was not able to debug this, but one file of my tests only runs when run solo, and fails as a suite. I suspect it's something to do with clean up on the tests, but wasn't able to identify it. This only represents 5 tests.
 
 ### Test Breakdown
 - How Many Unit Tests?
-
+Roughly 31
 
 - How Many Feature/Integration Tests?
+- Roughly 9
 
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
+[Unit test of collision detection on (literally) a corner case](https://github.com/brennanholtzclaw/game_time/blob/master/test/balls_in_obstacles_test.js)
 
 ### Provide a link to an example, if you have one, of a feature test that covers an 'edge case' or 'unhappy path'
 
