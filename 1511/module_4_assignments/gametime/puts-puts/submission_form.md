@@ -39,9 +39,11 @@ While this was a pattern we saw used elsewhere, level creation required customiz
 
 ## Risk Taking
 - What risks did you feel you took on this project?
+
      I think the biggest risk we took was trying to write certain functions for ourselves. When it comes to collision detection, a ball slowing down or being affected by a trap, or even drawing multiple objects, those problems are all solved. We decided we wanted to try and figure them out on our own though to make sure we learned the most we could.
 
 - How do you feel about those risks?
+
     Because we had to struggle through some areas that could possibly have been solved faster, I don't think we got as far as we hoped. There are other obstacles that should be much easier to implement now, and other features that we could probably get to fairly quickly, but time escaped us.
 ----
 
