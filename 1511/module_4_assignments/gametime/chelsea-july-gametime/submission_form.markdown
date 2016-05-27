@@ -3,97 +3,141 @@
 ## Basics
 
 ### Link to the Github Repository for the Project
-[Your Repo](https://github.com/PenneyGadget/game-time)
+[Repo](https://github.com/cheljoh/game-time)
 
 ### Link to the Deployed Application
-[Your Application](http://penneygadget.github.io/game-time/)
+[Game Link](http://cheljoh.github.io/game-time/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Penney](https://github.com/PenneyGadget/game-time/commits?author=PenneyGadget)
+[Chelsea](https://github.com/cheljoh/game-time/commits/master?author=cheljoh)
 
-[Beth](https://github.com/PenneyGadget/game-time/commits?author=bethsebian)
+[July](https://github.com/cheljoh/game-time/commits/master?author=julyytran)
 
 ### Provide a Screenshot of your Game
-![Infinite Loop](http://i.imgur.com/twLFagW.png?1)
+![GO GO NYAN CAT](http://g.recordit.co/Wt9UG9rpVn.gif)
 
 ## Completion
 
 ### Do You Consider the Application to be Fully Playable?
 
- - Yes absolutely. We are super proud of this project and considered it complete even
- _before_ Beth built out the algorithm for levels to auto-generate themselves. In 24 hours
- no less. Amazeballs.
+ - Yes, very user friendly and easy to understand! Simply move up and down to eat sushi or avoid trash. Use spacebar to deploy bomb and clear all sprites.
 
 ### What Extensions, as Requested By an Instructor, Did You Complete?
 
-- Timing the player - you can see in the above screenshot that as a player finishes putting a pattern back together they are told how long it took them to complete the level.
-- [Starting Timer](https://github.com/PenneyGadget/game-time/blob/master/lib/scripts/game.js#L111-L113#L139-L142)
-- [Ending Timer/Game Length Calculation](https://github.com/PenneyGadget/game-time/blob/master/lib/scripts/game.js#L139-L142)
+- We discussed hiding an API key which we were able to successfully complete. We also discussed having lasers or bombs- we decided on bombs. July also worked on having a moving cat gif to the game- adds a lot! Moving background was also  not completely necessary but it adds a lot to the experience.
+- See above gif for bombs and moving cat gif. We wouuld add a link to how we hid API key, but it's in .gitignore- SUCCESS!
 
-
-- We also added audio.
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
 
- - Automatic level generator
- - [Pattern Generator Class](https://github.com/PenneyGadget/game-time/blob/master/lib/scripts/pattern-generator.js)
+ - Bombs, cat gif, audio, Firebase, and moving background. See above gif!
 
 ## Risk Taking
 
 - What risks did you feel you took on this project?
 
-Automating levels for sure. Beth took this on in the last 36 hours and rocked it. In that time I refactored, dealt with production, and added the level timer. It was really nice to be able to be the support and take care of "the laundry" while she explored her creative vision for finishing up the game. It was a huge risk because it very much could have failed, but it didn't and I'm so glad we went for it!
+Adding a moving background involved stacking two canvases on top of each other and increasing overall complexity of the game. Moving cat gif also increased complexity for collision and drawing the object. We also spent a lot of time configuring Firebase and allowing users to enter their name.
 
 - How do you feel about those risks?
 
-Awesome. Beth and I had a great dynamic. She is by far my favorite person I've worked with at Turing and I learned tons from her on this project.
+Learned a lot from them! Glad we did them.
 
 ## Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
 
-[Tadpoles!](https://github.com/PenneyGadget/game-time/blob/master/lib/scripts/tadpole.js)
+[refreshSprites](https://github.com/cheljoh/game-time/blob/refactoring-party-3/lib/game.js#L64-L74)
 - Why were you proud of this piece of code?
 
-Because of the logistical challenge it presented.
+Small function that is very important to the game. We reset sprites array in each frame so we don't have a memory issue. 
 
 ### Link to a specific block of your code on Github that you feel not great about
 
-The 2 classes of code above... (Tadpole and Pattern Generator)
+[moveSpites](https://github.com/cheljoh/game-time/blob/refactoring-party-3/lib/game.js#L76-L92)
+
 - Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
 
-Simply because this was done in a bit of a haste / in the 11th hour ad we have not yet had the chance to walk back through it to refactor.
-
-[Game Class](https://github.com/PenneyGadget/game-time/blob/master/lib/scripts/game.js)
-
-The above class could still use cleaning up and refactoring, despite the fact that (believe it or not), it has already been heavily refactored. The `playLevel` function used to be 2-3 times longer and, while it felt super great to extract the logic out of there, I know there's more that could be done and more that could be extracted from this class in general.
+This is a important function that is long by necessity and difficult to test. We broke out as many functions as we could.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
-![Test Suite](http://i.imgur.com/w794jR9.png?1)
+![Test Suite](images/test-suite.png)
 
 ### Test Breakdown
 - How Many Unit Tests?
-
-16
+40
 
 - How Many Feature/Integration Tests?
+1
 
-What was that? I can't hear you.
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
 
-Could you please stop mumbling? I have no idea what you're saying.
+[Sad path](https://github.com/cheljoh/game-time/blob/refactoring-party-3/test/cat-test.js#L29-L40)
 
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
 
-JavaScript yeeeeaaaahhHH!
-Oh, why isn't my audio file working in production????
 
 -----
 
 ## Instructor Feedback
 
 - Points: (base 300)
+
+#### Playability Features
+
+We want your game to be full-featured and playable -- not just a proof of concept of the gameplay and rendering features.
+
+To this end, make sure to include sufficient UX to allow the user to fully interact with the game. This would include:
+
+Indicate when the game is over and won or lost
+Allow the user to start a new game
+Include a clean UI surrounding the actual game interface itself
+Score Tracking: How this works will vary by game, but at the end of the game, generate a score for the winning player
+Scoreboard -- track scores across multiple game sessions. Since we aren't incorporating a server for our games, client-side storage like a cookie or LocalStorage will suffice.
+Create multiple rounds of difficulty. (consider increasing factors such as game speed, randomness of starting setup, etc)
+
+#### Extensions
+
+Create an AI player that can play as the second player (except in 2048).
+Multiplayer support -- either by sharing a keyboard (2 sets of key inputs) or, as an extra-difficult extension, via websockets between multiple browsers
+
+#### Evaluation Rubric
+
+There are 300 total available points for this project.
+
+150 are available at each of three check-ins and are at instructor descretion.
+
+Teams must complete the submission form prior to each check-in.
+
+150 out of a total of 300 points are included in the rubric below. The additional 150 feature points will be determined during iteration planning with instructors during check-ins.
+
+#### Functional Expectations
+
+35 points - Application is fully playable and exceeds the expecations set by instructors
+- Bombs are a great addition, really fun game, works very well. Great job!
+
+#### User Interface
+
+15 points - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor without guidance from the developer.
+- SO GOOD. Great use of imagery, good color use, really great job. Very fun game.
+
+#### Testing
+
+30 points - Project has a running test suite that exercises the application at multiple levels. The test suite convers almost all aspects of the application and uses mocks and stubs when appropriate.
+
+#### JavaScript Style
+
+25 points - Application has exceptionally well-factored code with little or now duplication and all components separated out into logical components. There zero instances where an instructor would recommend taking a different approach.
+
+#### Workflow
+
+25 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+#### Code Sanitation
+
+The output from JSHint shows…
+
+15 points - Zero complaints
