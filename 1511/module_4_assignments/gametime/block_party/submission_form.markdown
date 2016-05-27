@@ -88,4 +88,4 @@ We don't love this function. We had it so it changed levels dynamically but then
 
 ## Instructor Feedback
 
-- Points: (base 300)
+- Points: 160/150
