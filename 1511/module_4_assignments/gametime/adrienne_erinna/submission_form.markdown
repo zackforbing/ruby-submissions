@@ -3,97 +3,113 @@
 ## Basics
 
 ### Link to the Github Repository for the Project
-[Your Repo](https://github.com/PenneyGadget/game-time)
+[The Repo](https://github.com/adriennedomingus/bubble_bobble/)
 
 ### Link to the Deployed Application
-[Your Application](http://penneygadget.github.io/game-time/)
+[Bubble Bobble Redux](http://bubble-bobble-redux.herokuapp.com/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Penney](https://github.com/PenneyGadget/game-time/commits?author=PenneyGadget)
-
-[Beth](https://github.com/PenneyGadget/game-time/commits?author=bethsebian)
-
+[All the commits](https://github.com/adriennedomingus/bubble_bobble/commits/master)
 ### Provide a Screenshot of your Game
-![Infinite Loop](http://i.imgur.com/twLFagW.png?1)
+![Single Player](http://g.recordit.co/u35EwWHzXw.gif)
+
+![Battle Zone](http://recordit.co/CAgkMS6US1.gif)
 
 ## Completion
 
 ### Do You Consider the Application to be Fully Playable?
 
- - Yes absolutely. We are super proud of this project and considered it complete even
- _before_ Beth built out the algorithm for levels to auto-generate themselves. In 24 hours
- no less. Amazeballs.
+ - Yes, though it feels like we could work on the project for a year, and maybe be finished - there's always more features to add. There are some minor playability issues: mostly styling - it could be clearer to the user what is happening and to whom (level transitions, who which scores belong to in 2 player mode, etc.)
 
 ### What Extensions, as Requested By an Instructor, Did You Complete?
 
-- Timing the player - you can see in the above screenshot that as a player finishes putting a pattern back together they are told how long it took them to complete the level.
-- [Starting Timer](https://github.com/PenneyGadget/game-time/blob/master/lib/scripts/game.js#L111-L113#L139-L142)
-- [Ending Timer/Game Length Calculation](https://github.com/PenneyGadget/game-time/blob/master/lib/scripts/game.js#L139-L142)
-
-
-- We also added audio.
+* Two player mode  
+* Moving app to Express
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
 
- - Automatic level generator
- - [Pattern Generator Class](https://github.com/PenneyGadget/game-time/blob/master/lib/scripts/pattern-generator.js)
+-I'm not totally clear on what extensions were "required" vs. not. Those mentioned above were beyond the scope of the project spec.
 
 ## Risk Taking
 
 - What risks did you feel you took on this project?
 
-Automating levels for sure. Beth took this on in the last 36 hours and rocked it. In that time I refactored, dealt with production, and added the level timer. It was really nice to be able to be the support and take care of "the laundry" while she explored her creative vision for finishing up the game. It was a huge risk because it very much could have failed, but it didn't and I'm so glad we went for it!
+The project concept in general was more complicated than it needed to be to meet base project requirements - with a lot of moving pieces. The two most challenging pieces were creating a jump that looked natural (there are a lot of "phases" to the jump with different behavior in each of them), and not allowing him to walk through the vertical walls in level three. (Most collision looked for general overlap, while that required specific left:right edge and right:left edge collision).
 
 - How do you feel about those risks?
 
-Awesome. Beth and I had a great dynamic. She is by far my favorite person I've worked with at Turing and I learned tons from her on this project.
+Good. I think we would have gotten bored if we hadn't taken them. However, our code quality did suffer in order to complete the features we did, and has more redundancy than we would like.
 
 ## Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
 
-[Tadpoles!](https://github.com/PenneyGadget/game-time/blob/master/lib/scripts/tadpole.js)
+[A jumping dinosaur](https://github.com/adriennedomingus/bubble_bobble/blob/3d2ca8d69921d6b3f05d6f49bb7a9b577d69bf6e/lib/dinosaur.js#L119-L129)
 - Why were you proud of this piece of code?
 
-Because of the logistical challenge it presented.
+All of the logic has been pulled out into small, reusable pieces of code, that makes this specific block very human-readable. It is clear what is going on in each branch of the flow control
 
 ### Link to a specific block of your code on Github that you feel not great about
 
-The 2 classes of code above... (Tadpole and Pattern Generator)
-- Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+[The Game Play Class](https://github.com/adriennedomingus/bubble_bobble/blob/3d2ca8d69921d6b3f05d6f49bb7a9b577d69bf6e/lib/game.js)
 
-Simply because this was done in a bit of a haste / in the 11th hour ad we have not yet had the chance to walk back through it to refactor.
-
-[Game Class](https://github.com/PenneyGadget/game-time/blob/master/lib/scripts/game.js)
-
-The above class could still use cleaning up and refactoring, despite the fact that (believe it or not), it has already been heavily refactored. The `playLevel` function used to be 2-3 times longer and, while it felt super great to extract the logic out of there, I know there's more that could be done and more that could be extracted from this class in general.
+I would argue that this is less than our best showing in general. It was in significantly better shape before we added two-player mode, which introduced a host of duplication. Since that happened so late, we didn't have the opportunity to refactor we might have liked.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
-![Test Suite](http://i.imgur.com/w794jR9.png?1)
+![Part One](https://docs.google.com/drawings/d/1QcVbXVdySJa_pd_7FY7YUkX9HWl8CvK2PVnEjx4BALI/pub?w=960&h=503)
+![Part Two](https://docs.google.com/drawings/d/10OA3PvmZw7vaenePhieCJ3bFJnSktEhT_DcPQLXoQpc/pub?w=969&h=481)
 
 ### Test Breakdown
 - How Many Unit Tests?
 
-16
+43
 
 - How Many Feature/Integration Tests?
 
-What was that? I can't hear you.
+I'm going to go with zero.
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
 
-Could you please stop mumbling? I have no idea what you're saying.
+[Bub and Bob unfortunately cannot walk through walls.](https://github.com/adriennedomingus/bubble_bobble/blob/3d2ca8d69921d6b3f05d6f49bb7a9b577d69bf6e/test/dinosaur-test.js#L55-L60) They only wish they could
 
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
-
-JavaScript yeeeeaaaahhHH!
-Oh, why isn't my audio file working in production????
 
 -----
 
 ## Instructor Feedback
 
 - Points: (base 300)
+- 
+150 out of a total of 300 points are included in the rubric below. The additional 150 feature points will be determined during iteration planning with instructors during check-ins.
+
+### Functional Expectations
+* **35 points** - Application is fully playable and exceeds the expecations set by instructors
+
+### User Interface
+* **15 points** - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor _without_ guidance from the developer.
+
+### Testing
+* **25 points** - Project has a running test suite that tests and multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.
+
+### JavaScript Style
+* **20 points** - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### Workflow
+* **25 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+### Code Sanitation
+
+The output from JSHint shows…
+* **15 points** - Zero complaints
+
+### TOTAL POINTS
+ - ChekIns: 155
+ - Subtotal: 145
+ - Extensions: 10
+ - **Total: 310**
+
+
+

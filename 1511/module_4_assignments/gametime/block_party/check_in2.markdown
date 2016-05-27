@@ -45,7 +45,18 @@
 ## Instructor Section
 
 ### Points for Second Check In (base 50)
-
+ +  50/50
+  
 ### Instructor's Goals for Next Check In
+ +  Increase speed and distance between pipes
+ +  Implement some type of level change
+ +  For example, 5 then sample
+ +  Add additional colors
+ +  Pause Game/Start Game
+ +  Talk about gravity and movement along x axis
 
+ EXTENSION
+ +  Web sockets and figure out how you want to start the game
+  
 ### Feedback?
+ +  Figured out the issue with npm run build and pushing to production. All is well in production world. 

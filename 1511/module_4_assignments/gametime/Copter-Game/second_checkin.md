@@ -55,8 +55,8 @@ __Questions, Comments, Concerns?__
 50
 
 ### Instructor's Goals for Next Check In
-- graphic for helicoptor
-- style "buildings" and "clouds" (top and bottom barriers)
+- graphic for helicopter
+- style "buildings" and  "clouds" (top and bottom barriers)
 - style start button so it is the Most Beautiful Button
 - score counter & leader boards
 - increased difficulty (speed + number of obstacles)
@@ -64,7 +64,7 @@ __Questions, Comments, Concerns?__
 
 
 ### Possible extensions (not required but nice to have):
-- enable copter to gain ability to shoot and destroy obsticals
+- enable copter to gain ability to shoot and destroy obstacles
 
 ### Feedback?
-- possible extension ideas: rather than two be player, have moving enemy trying to shoot you down & you have to shoot them, or changing to Danger Theme which makes it harder (maybe you hit a bad obstical because it puts you into the danger theme, but you cna get out of it). Hero mode vs. Danger mode.
+- possible extension ideas: rather than two be player, have moving enemy trying to shoot you down & you have to shoot them, or changing to Danger Theme which makes it harder (maybe you hit a bad obstacles because it puts you into the danger theme, but you can get out of it). Hero mode vs. Danger mode.
