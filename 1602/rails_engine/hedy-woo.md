@@ -1,22 +1,20 @@
 
-Student:
-Evaluator:
+Student: Hedy Woo
+Evaluator: Brenna
+
+Notes:
+  - Spec Harness:   5 Failing Tests
+  - Test Suite:     74 Tests, 91.7% Coverage
 
 #### 1. Completion
 
-4: Project completes all base requirements according to the spec harness.  
 3: Project completes most requirements but fails 5 or fewer spec harness tests.  
-2: Project completes most requirements but fails 10 to 6 spec harness tests.  
-1: Project fails more than 10 spec harness tests.  
 
 # Technical Quality
 
 #### 1. Test-Driven Development
 
 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.  
-3: Project demonstrates high test coverage (>80%) and tests at the controller and unit levels.  
-2: Project demonstrates high test coverage (>70%) but does not adequately balance controller and unit tests.  
-1: Project does not have 70% test coverage.  
 
 #### 2. Code Quality
 
@@ -35,6 +33,6 @@ Evaluator:
 #### 4. Queries
 
 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as joins and includes.  
-2: Project has some gaps in ActiveRecord usage, including numerous business methods that rely on ruby enumerables to find the appropriate data.  
 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.  
+2: Project has some gaps in ActiveRecord usage, including numerous business methods that rely on ruby enumerables to find the appropriate data.  
 1: Project struggles to establish a coherent ActiveRecords schema, including missing relationships or dysfunctional queries.
