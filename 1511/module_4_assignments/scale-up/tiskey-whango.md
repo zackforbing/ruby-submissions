@@ -1,53 +1,6 @@
 # Tiskey Whango Submission Form
 [Project Spec: Tiskey Whango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
 
-* Fork this repo, if you haven't already and check out a branch
-* Use this README as a template to create a file in this folder with your name as the title.
-* Submit a pull request
-* Pro Tip: You can use [recordit.co](http://recordit.co/) to record interaction gifs.
-* Secondary Pro Tip: [Here's how to link to specific line number(s) in Github](http://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github)
-* Tertiary Pro Tip: You can re-use some of these things in your portfolio/resume
-
-------
-
-# Independent Study
-
-## The Project
-
-The goals of the project are to:
-- Spend a week or two digging into an area of interest
-- Replicate the difficulty of Boxtrot and Fecho projects (i.e. there should be unique code produced, not just completing a set of tutorials)
-
-### Pre-Work
-
-  Determined by student
-
-## Requirements
-
-### Tracking hours
-
-Students will be expected to track their hours in Harvest on a daily basis. Aim to complete 8 working hours per work day (times are flexible). Self study and classes that you attend count towards your 8 daily hours (as long as it is relevant to the work you're doing).
-
-### Blog Posts
-
-One of the goals of this project is strengthen your portfolio and there is no better way to do that than to showcase your expertise in an area that not may other people know about. In addition to programming, you'll be writing a blog post on the features you choose to implement or research.
-
-**Important Note**: It's easy to complain how stuff is hard in a blog post. Not only is that not particularly helpful to anyone who reads your post, it turns out that most open source software is created by humans and humans have a tendency to feel really bad when you complain about their donated efforts.
-
-### Daily Stand Ups
-
-You will be expected to attend and discuss where you are at with the team in a daily standup. We will hold our stand ups daily, before classes start in the afternoon, so come prepared to give examples and speak for at least 5 minutes about what you have accomplished.
-
-### Pull Requests
-
-You will be expected to work in a pull request process on your code and within your team. All major work should be pull requested in to your repo and you should expect to tag relevant mentors/students and drop PRs in slack. It's your code, so you do not have to wait for someone to 'approve' your PR before you merge it, but please be responsive and respectful towards any code reviews you receive.
-
-You should expect to spend some time reviewing pull requests of others - a good metric is to select a PR a day to look over in depth from other teammates.
-
-### Code
-
-The exact code takeaway will be determined by the student, but there should be _unique_ code produced as a part of this assignment.
-
 ---------
 
 # Rubric
