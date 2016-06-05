@@ -1,58 +1,55 @@
-Assessed By:
+Assessed By: Jeff
 
-github_repo:
+github_repo: https://github.com/MsJennyGiraffe/rush-hour-skeleton
 
-## Evaluation Rubric
+## Rush Hour Evaluation
 
-The project will be assessed with the following rubric:
+#### Notes:
+
+* Tests: 73 runs, 103 assertions
+*  Overall testing good. One thing: change of state is what we are seeking to figure out in the test, so for a test that displays an error when a duplicate payload request is submitted, for instance, add an additional assertion to confirm that the error does not appear until repeat request sent. 
+*  As you get more experienced with TDD and programming process, you'll come to anticipate small potential errors of aspects of the program in advance. For instance, you could have added edge cases like substrings that had occurred in a previous request. Each minor function of a program in the industry commonly has two plus tests.
+* When testing, remember that you're often watching state change. 
+  * Assert that something exists before creating a duplication and checking for an error.
+* Would have liked to see more tests that reveal how program actually works, not just spec functionality.
+  * Each minor piece of functionality should have two tests.
+* With data breakdowns, it's a good idea to include percentages.
+* Always test error pages. 
+* Feature tests often get long when you're thoroughly testing, so group by scenario.
+* Some of your tests have walls of data, and it's hard to tell what's unique for each instance. Create a base_payload and change only the element you want to change between payload requests so we can see what information is unique.
+  * You can use merge({key: "change"}) to make and highlight changes that come from the same base hash.
+* Functionality good.
+* Well broken apart
+* Could use more file structure.
+  * As soon as models has 13 files, maybe it's time to further organize them.
+* Think about ownership and push logic down the stack.
+* Presentational should be in the views, not models.
+* Stay away from magic numbers.
+* Like the use of modules to make the server skinny. Instead of putting server modules in models, put them in a separate folder, their own (server_models)
+* Components not quite isolated and pushed down stack enough - URL knows too much about payload_requests
+* Like the simplicity of the web interface and use of tables.
+* Impressed by effective use of ActiveRecord methods for the time you've been introduced to them.
 
 #### 1. Functional Expectations
 
-* 4: Application fulfills base expectations and adds two extensions
 * 3: Application fulfills base expectations
-* 2: Application has some small missing base functionality
-* 1: Application is not usable
 
 #### 2. Test-Driven Development
 
-* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
 * 3: Application is well tested but does not balance isolation and integration/feature tests
-* 2: Application makes some use of tests, but the coverage is insufficient
-* 1: Application does not demonstrate strong use of TDD
 
 #### 3. Encapsulation / Breaking Logic into Components
 
 * 4: Application is expertly divided into logical components each with a clear, single responsibility
-* 3: Application effectively breaks logical components apart but breaks the principle of SRP
-* 2: Application shows some effort to break logic into components, but the divisions are inconsistent or unclear
-* 1: Application logic shows poor decomposition with too much logic mashed together
 
 #### 4. Fundamental Ruby & Style
 
-* 4: Application demonstrates excellent knowledge of Ruby syntax, style, and refactoring
 * 3: Application shows strong effort towards organization, content, and refactoring
-* 2: Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
-* 1: Application generates syntax error or crashes during execution
 
 #### 5. Sinatra / Web and Business Logic
 
 * 4: Application takes advantage of all the features Sinatra has to offer and effectively separates the web application from the business logic.
-* 3: Application makes good use of Sinatra but has some mixing of the web and business logic.
-* 2: Application has web and business logic totally mixed together
-* 1: Application demonstrates a weak understanding of Sinatra and how applications should be built.
 
 #### 6. View Layer
 
-* 4: Application expertly breaks components out to view partials and makes use of both built-in and custom-written view helpers.
 * 3: Application breaks components out to view partials but has some logic or complexity leaking into the view
-* 2: Application has messy views that mix logic and presentation
-* 1: Application shows a lack of understanding around view templates and how they should be used/constructed.
-
-While you won't be graded on workflow for Rush Hour, here's an example of how you will be evaluated on workflow later in the module:
-
-#### Workflow (NOT GRADED)
-
-* 4: Excellent use of branches, pull requests, and a project management tool.
-* 3: Good use of branches, pull requests, and a project-management tool.
-* 2: Sporadic use of branches, pull requests, and/or project-management tool.
-* 1: Little use of branches, pull requests, and/or a project-management tool.
