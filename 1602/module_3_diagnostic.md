@@ -55,7 +55,7 @@
   Repo: https://github.com/marinacor1/module_3_diagnostic
 
 ### Mark Miranda
-  Repo: 
+  Repo: https://github.com/notmarkmiranda/module_3_diagnostic.git
 
 ### Matt Pindell
   Repo: https://github.com/pindell-matt/module_3_diagnostic
