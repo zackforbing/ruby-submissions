@@ -16,7 +16,7 @@
   Repo: 
 
 ### Chad Ellison
-  Repo: 
+  Repo: https://github.com/chadellison/module_3_diagnostic
 
 ### Claudia Kiesenhofer
   Repo: 
