@@ -49,7 +49,7 @@
   Repo: 
 
 ### Ling Tran
-  Repo: 
+  Repo: https://github.com/lingtran/module_3_diagnostic
 
 ### Marina Corona
   Repo: 
