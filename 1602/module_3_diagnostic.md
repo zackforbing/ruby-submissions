@@ -7,7 +7,7 @@
   Repo: https://github.com/Salvi6God/module_diagnostics_1602
 
 ### Alireza Andersen
-  Repo: 
+  Repo: https://github.com/alirezaandersen/module_3_diagnostic.git
 
 ### Andrew Thompson
   Repo: https://github.com/drew-t/module_3_diagnostic
