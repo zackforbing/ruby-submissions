@@ -61,7 +61,7 @@
   Repo: https://github.com/pindell-matt/module_3_diagnostic
 
 ### Patrick Hardy
-  Repo: 
+  Repo: https://github.com/patrickwhardy/module_3_diagnostic
 
 ### Sal Espinosa
   Repo: https://github.com/s-espinosa/module_3_diagnostic
