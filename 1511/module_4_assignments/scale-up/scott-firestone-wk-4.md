@@ -9,7 +9,10 @@
 
 150 total points
 
-Score: 130/150
+Score: 150/150
+
+AMENDED ON MONDAY:
+Plan & Code given.
 
 ### Blog Post Draft (25 Points)  
 
