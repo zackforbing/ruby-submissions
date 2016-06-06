@@ -40,7 +40,7 @@
   Repo: 
 
 ### Joshua Washke
-  Repo: 
+  Repo: https://github.com/jwashke/module_3_diagnostic.git
 
 ### Kami Boers
   Repo: 
