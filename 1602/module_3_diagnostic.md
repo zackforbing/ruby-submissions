@@ -19,7 +19,7 @@
   Repo: https://github.com/chadellison/module_3_diagnostic
 
 ### Claudia Kiesenhofer
-  Repo: 
+  Repo: https://github.com/Claudia108/module_3_diagnostic
 
 ### Gurusundesh Khalsa
   Repo: 
