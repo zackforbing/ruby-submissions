@@ -55,7 +55,7 @@
   Repo: 
 
 ### Mark Miranda
-  Repo: 
+  Repo: https://github.com/notmarkmiranda/module_3_diagnostic.git
 
 ### Matt Pindell
   Repo: 
