@@ -25,7 +25,7 @@
   Repo: 
 
 ### Hedy Woo
-  Repo: 
+  Repo: https://github.com/thePaulista/module_3_diagnostic
 
 ### Jared Roth
   Repo: https://github.com/JaredRoth/module_3_diagnostic.git
