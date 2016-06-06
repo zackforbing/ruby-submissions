@@ -58,7 +58,7 @@
   Repo: 
 
 ### Matt Pindell
-  Repo: 
+  Repo: https://github.com/pindell-matt/module_3_diagnostic
 
 ### Patrick Hardy
   Repo: 
