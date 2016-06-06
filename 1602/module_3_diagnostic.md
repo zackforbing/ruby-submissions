@@ -22,7 +22,7 @@
   Repo: 
 
 ### Gurusundesh Khalsa
-  Repo: 
+  Repo: https://github.com/GKhalsa/module_3_diagnostic
 
 ### Hedy Woo
   Repo: 
