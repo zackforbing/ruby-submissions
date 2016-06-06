@@ -31,7 +31,7 @@
   Repo: 
 
 ### Jeneve Parrish
-  Repo: 
+  Repo: https://github.com/jeneve/module_3_diagnostic
 
 ### Jonathan Bernesser
   Repo: 
