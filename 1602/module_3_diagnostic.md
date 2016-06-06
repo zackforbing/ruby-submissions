@@ -1,7 +1,7 @@
 # Module 3 Diagnostic
 
 ### Admir Draganovic
-  Repo: 
+  Repo: https://github.com/Draganovic/module_3_diagnostic.git
 
 ### Alex Navarrete
   Repo: https://github.com/Salvi6God/module_diagnostics_1602
