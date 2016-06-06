@@ -43,7 +43,7 @@
   Repo: 
 
 ### Kami Boers
-  Repo: 
+  Repo: https://github.com/kamiboers/module_3_diagnostic
 
 ### Kris Foss
   Repo: 
