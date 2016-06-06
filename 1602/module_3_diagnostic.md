@@ -61,7 +61,7 @@
   Repo: 
 
 ### Patrick Hardy
-  Repo: 
+  Repo: https://github.com/patrickwhardy/module_3_diagnostic
 
 ### Sal Espinosa
   Repo: 
