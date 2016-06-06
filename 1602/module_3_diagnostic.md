@@ -67,5 +67,4 @@
   Repo: https://github.com/s-espinosa/module_3_diagnostic
 
 ### Thomas Pickett
-  Repo: 
-
+  Repo: https://github.com/thompickett/module_3_diagnostic
