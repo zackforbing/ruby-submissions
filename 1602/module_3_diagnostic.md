@@ -46,7 +46,7 @@
   Repo: 
 
 ### Kris Foss
-  Repo: 
+  Repo: https://github.com/kristindiannefoss/module_3_diagnostic
 
 ### Ling Tran
   Repo: 
