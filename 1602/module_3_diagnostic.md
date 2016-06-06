@@ -10,7 +10,7 @@
   Repo: 
 
 ### Andrew Thompson
-  Repo: 
+  Repo: https://github.com/drew-t/module_3_diagnostic
 
 ### Ashwin Rao
   Repo: 
