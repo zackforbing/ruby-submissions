@@ -28,7 +28,7 @@
   Repo: 
 
 ### Jared Roth
-  Repo: 
+  Repo: https://github.com/JaredRoth/module_3_diagnostic.git
 
 ### Jeneve Parrish
   Repo: 
