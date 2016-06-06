@@ -37,7 +37,7 @@
   Repo: 
 
 ### Jonathan Liss
-  Repo: 
+  Repo: https://github.com/jdliss/module_3_diagnostic
 
 ### Joshua Washke
   Repo: 
