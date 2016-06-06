@@ -3,8 +3,8 @@
 ### Admir Draganovic
   Repo: 
 
-### Alex Navarette
-  Repo: 
+### Alex Navarrete
+  Repo: https://github.com/Salvi6God/module_diagnostics_1602
 
 ### Alireza Andersen
   Repo: 
