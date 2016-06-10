@@ -7,4 +7,6 @@
 - Create weekly student survey
 - Help facility retro to drive conversation in  a productive direction
 
-__Estimated Hours: ~15__ 
+__Estimated Hours: ~15__
+
+Requested points: 20
