@@ -1,3 +1,5 @@
+## July Tran Extra Credit
+
 ## (External) Community Involvement (10 to 50 points)
 - Part of panel for prospective students on May 31
 - Participated in Code for Denver's National Day of Civic Hacking on Jun 4
