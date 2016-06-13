@@ -69,12 +69,16 @@ feedback you have to take your time on reviewing others PRs.
 
 Instructor Evaluation:
 
+Tackling testing and deployment for this was a big job -- you did a great job trouble shooting and figuring out how to do what was needed here. It was obvious that you were very involved with the team, we saw you popping up in PR reviews and Slack conversations a lot. It's great to see a team working together so well this late in the program when everyone is tired and the end is in sight. Good job!
+
+**Final Points: 110/150 (blog post score of 0. submit blog post by tuesday AM for this score to be updated.)**
+
 Points: (max 150)
 
 ### Blog Post (40 Points)
-  * 40: Developer has >= 2 blog posts documenting something they have worked on for their independent study or has one in depth blog post.
-  * 25: Developer has one blog post less than 500 words long.
-  * 0: Developer created no blog posts.
+  <!--* 40: Developer has >= 2 blog posts documenting something they have worked on for their independent study or has one in depth blog post.-->
+  <!--* 25: Developer has one blog post less than 500 words long.-->
+  * 0: Developer created no blog posts. **(score of 0. submit blog post by tuesday AM for this score to be updated.)**
 
 ### Team Participation (40 points)
 
