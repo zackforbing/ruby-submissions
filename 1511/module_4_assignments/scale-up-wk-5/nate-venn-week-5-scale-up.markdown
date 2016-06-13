@@ -3,7 +3,7 @@
 ## Basics
 
 ### Link(s) to the PRs or Issues You Picked Up
--[#33 testing with enzyme/mocha](https://github.com/LookingForMe/lookingForFrontEnd/issues/33)
+-[#49 testing with enzyme/mocha](https://github.com/LookingForMe/lookingForFrontEnd/pull/49)
 
 -[#46 Deploy to Heroku](https://github.com/LookingForMe/lookingForFrontEnd/pull/46)
 
@@ -34,7 +34,7 @@ a production webpack config file.
 more.
 
 ### Hours logged this week?
-* 37
+* 32.5
 
 ### Talk about something from the pre-work that you didn't know about before this week.
 * I learned the difference between state and props. The big difference is that
