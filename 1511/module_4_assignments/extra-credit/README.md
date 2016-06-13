@@ -2,7 +2,7 @@
 
 To have your work be considered for extra credit - please submit a pull request into this repo folder containing a submission or proposal markdown file for work being done in the categories below.
 
-Extra Credit requests can be submitted ***Until 8 a.m. on Monday or Week 6***
+Extra Credit requests can be submitted ***Until 8 a.m. on Monday of Week 6***
 
 ## Blog Posts (10 points)
 
