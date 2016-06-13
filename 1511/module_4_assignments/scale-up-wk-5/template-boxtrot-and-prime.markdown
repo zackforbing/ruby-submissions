@@ -28,7 +28,7 @@ Instructor Evaluation:
 
 Points: (max 150)
 
-### Blog Post (40 Points)  
+### Blog Post (40 Points)
   * 40: Developer has >= 2 blog posts documenting something they have worked on for their independent study or has one in depth blog post.
   * 25: Developer has one blog post less than 500 words long.
   * 0: Developer created no blog posts.
