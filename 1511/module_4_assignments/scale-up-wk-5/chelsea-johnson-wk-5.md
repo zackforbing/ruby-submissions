@@ -3,6 +3,7 @@
 ## Basics
 
 ### Link(s) to the PRs or Issues You Picked Up
+- [#31 Search By Tech Stack](https://github.com/LookingForMe/lookingForFrontEnd/pull/50)
 - [#45 Format Landing page](https://github.com/LookingForMe/lookingForFrontEnd/pull/48)
 - [#44 Add New Endpoints](https://github.com/LookingForMe/lookingForFrontEnd/pull/44)
 - [#37 Search By Location](https://github.com/LookingForMe/lookingForFrontEnd/pull/41)
