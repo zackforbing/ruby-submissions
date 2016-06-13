@@ -37,15 +37,17 @@ I had a great time participating in daily standups.  It is cool to see what ever
 
 Please feel free to ask any other questions or make any other statements below!
 
-Instructor Evaluation:
+## Instructor Evaluation:
+Overall
+
 Points: (max 150)
 
-Blog Post (40 Points)
+### Blog Post (40 Points)
 
 40: Developer has >= 2 blog posts documenting something they have worked on for their independent study or has one in depth blog post.
 25: Developer has one blog post less than 500 words long.
 0: Developer created no blog posts.
-Team Participation (40 points)
+### Team Participation (40 points)
 
 40: Developer participated daily in stand ups with the group (remote or in person). Developer was able to speak to their work in stand ups in a way that was clear and informative. Developer was involved in pull request reviews.
 30: Developer participated daily in stand ups with the group (remote or in person). Developer has difficulty speaking to their work in stand ups.
