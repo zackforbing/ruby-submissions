@@ -16,7 +16,11 @@
  * 32
 
 ### Talk about something from the pre-work that you didn't know about before this week.
- * How React components are structured. For example, you can have a Main component that renders the rest of the components. We ended up using this structure. I also learned about keys, state, and props. State is reserved for data that triggers a UI change, props are passed to child elements, and keys help React components render more quickly.
+ * I finally have class functions for my React components- for some reason last week I kept getting syntax errors when trying to implement. They are pretty simple, however:
+
+ `handleChange(event) {this.setState({inputValue: event.target.value});}`
+ 
+You call the function by using `this.handleChange` like you would for a regular JavaScript class function.
 
 ### Link to blog post(s) submitted
 - [React: State, Props, and Keys](https://medium.com/@cheljoh/react-state-props-and-keys-4363901d9948#.9bicmmffm)
@@ -29,7 +33,10 @@
 - I liked them, they allowed us to keep in touch with the back end team. There were times we may have needed to reserve discussions for after stand up if they were only between 2-3 people (and not the entire group).
 
 ### What features would you like to see LookingFor have in the future?
-- Elastic search instead of current location/tech search. Would also like to be able to go back to the job search with listings after viewing details for a job (right now they disappear and are replaced with sample jobs- page reloads). More testing would be nice, and refactoring of components (break out SearchBarAndListings component into two separate components.).
+- Elastic search instead of current location/tech search. 
+- When you view details for a job resulting from a search and go back to the root page, your previous search results disappear. May need to implement some kind of caching. 
+- More testing would be nice, do not have tests for all components right now. 
+- Refactoring of components (break out SearchBarAndListings component into two separate components.).
 
 ### Please feel free to ask any other questions or make any other statements below!
 - Don't have any, was a good experience!
