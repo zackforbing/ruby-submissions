@@ -41,3 +41,32 @@ In the Invite Fixing PR that I mentioned above, Adrienne asked about why I was u
 
 ### Discuss: your experience doing daily stand ups
   I quite enjoyed the stand ups I was able to attend. Unfortunately I missed several in person stand ups.
+
+
+-----
+
+# Instructor Evaluation:
+
+You did a great job on this project. Despite what was going on outside of Turing, you powered through and you did a **great job**. We are **so** impressed with how you handled the last couple of weeks and what you accomplished. It's hard to get back into an older (potentially messy) project and refactor it. You worked through frustration and feeling discouraged, hit major speed bumps, and overcame them to end up with something that will be fantastic to talk about in interviews. Really good job. Infinity high fives.
+
+Final Score: 150/150
+
+Points: (max 150)
+
+### Blog Post (40 Points)  
+
+  * 40: Developer has >= 2 blog posts documenting something they have worked on for their independent study or has one in depth blog post.
+
+### Team Participation (40 points)
+
+  * 40: Developer participated daily in stand ups with the group (remote or in person). Developer was able to speak to their work in stand ups in a way that was clear and informative. Developer was involved in pull request reviews. **(provided a write up of what you'd been up to and next steps for missed in-person standups)**
+
+### Hourly Work (30 points)
+
+  * 30: Developer logged 7 to 8 hours per working day. Developer can speak to work completed during those hours.
+
+### Risk Taking and Creativity (40 points)
+
+  Instructor/Developer will select one feature in the project to review for this section of the rubric.
+
+  * 40: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.
