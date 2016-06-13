@@ -26,9 +26,9 @@ I don't know what this question is trying to ask me, but I guess I would say "Ja
 
 ### Link to blog post(s) submitted
 
--[NokogiriVSFeedjira](https://gist.github.com/NickyBobby/a47b6749653c8b26b10be28aa33a2ce8)
+-[NokogiriVSFeedjira](https://medium.com/@NickyNoNaps/nokogiri-vs-feedjira-1725fb894b71#.w2d8j83qb)
 
--[GameTimeMaths](https://gist.github.com/NickyBobby/b5e3e0f451481b2a249c453a3c43eb05)
+-[GameTimeMaths](https://medium.com/@NickyNoNaps/recently-i-learned-javascript-and-while-i-was-two-weeks-into-the-learning-of-js-i-wrote-a-game-67bde19df9b5#.9qs0ntp2e)
 
 ### Discuss: your experience doing PR reviews and getting PR feedback
 
