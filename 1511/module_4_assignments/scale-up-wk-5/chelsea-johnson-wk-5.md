@@ -36,7 +36,7 @@ You call the function by using `this.handleChange` like you would for a regular 
 - Elastic search instead of current location/tech search. 
 - When you view details for a job resulting from a search and go back to the root page, your previous search results disappear. May need to implement some kind of caching. 
 - More testing would be nice, do not have tests for all components right now. 
-- Refactoring of components (break out SearchBarAndListings component into two separate components.).
+- Refactoring of components (break out SearchBarAndListings component into two separate components).
 
 ### Please feel free to ask any other questions or make any other statements below!
 - Don't have any, was a good experience!
