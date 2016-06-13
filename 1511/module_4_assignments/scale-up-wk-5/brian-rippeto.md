@@ -7,6 +7,7 @@
 - [#10 Create header component](https://github.com/LookingForMe/lookingForFrontEnd/pull/10)
 - [#47 Searchbar](https://github.com/LookingForMe/lookingForFrontEnd/pull/47)
 - [#31 Search by tech stack](https://github.com/LookingForMe/lookingForFrontEnd/issues/31)
+
 ### Summarize what you worked on the last two weeks
 - I tackled the large majority of styling with react-bootstrap. This was a weak point in my skill set and I feel I largely improved my CSS skills throughout this project. There were many requests for small changes from my team that I was able implement in a timely manner.
 - Search by technologies feature.
