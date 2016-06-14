@@ -80,7 +80,7 @@
 
 ## Sal Espinosa
 
-  - Repo: 
+  - Repo: https://github.com/s-espinosa/module_3_assessment
 
 ## Thomas Pickett
 
