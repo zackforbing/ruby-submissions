@@ -2,9 +2,9 @@
 
   - Repo: 
 
-## Alex Navarette
+## Alex Navarrete
 
-  - Repo: 
+  - Repo: https://github.com/Salvi6God/module_3_assessment_1602
 
 ## Alireza Andersen
 
