@@ -36,7 +36,7 @@
 
 ## Jeneve Parrish
 
-  - Repo: 
+  - Repo: https://github.com/jeneve/module_3_assessment
 
 ## Jonathan Bernesser
 
