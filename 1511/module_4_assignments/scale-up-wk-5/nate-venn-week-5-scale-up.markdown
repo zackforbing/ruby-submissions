@@ -43,7 +43,7 @@ Props is the data from the state that gets passed down to child components and
 should never be changed.
 
 ### Link to blog post(s) submitted
-* comming soon!
+* Blog post [link](http://natevenn.github.io/2016/06/13/react-flux-patterns.html)
 
 ### Discuss: your experience doing PR reviews and getting PR feedback
 * This was a positive experience. I found that getting extra eyes on my worked
