@@ -20,7 +20,7 @@
 
 ## Chad Ellison
 
-  - Repo: 
+  - Repo: https://github.com/chadellison/module_3_assessment
 
 ## Claudia Kiesenhofer
 
