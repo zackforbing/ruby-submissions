@@ -59,9 +59,9 @@ For each goal:
   - Why is this goal important to you?
 
 
-  #### 2-Job Hunting
+#### 2-Job Hunting
 
- Companies I want to work for: <br>
+Companies I want to work for: <br>
 
 Zerista
 
