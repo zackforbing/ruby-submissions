@@ -76,7 +76,7 @@
 
 ## Patrick Hardy
 
-  - Repo: 
+  - Repo: git@github.com:patrickwhardy/module_3_assessment.git
 
 ## Sal Espinosa
 
