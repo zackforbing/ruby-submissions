@@ -40,7 +40,7 @@
 
 ## Jonathan Bernesser
 
-  - Repo: 
+  - Repo: https://github.com/Jbern16/module_3_assessment
 
 ## Jonathan Liss
 
