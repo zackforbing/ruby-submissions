@@ -61,9 +61,9 @@ For each goal:
 
   #### 2-Job Hunting
 
-  Companies I want to work for: <br>
+ Companies I want to work for: <br>
 
- Zerista
+Zerista
 
   - No Turing/gSchool grads I know of
   - I have a second degree connection with one of the iOS developers
@@ -82,7 +82,7 @@ For each goal:
   - Next step: contact someone within the company. Already applied. <br>
 
 
- TeamSnap
+TeamSnap
 
   - Used to have a Turing alumni, she has since left
   - I don't know anyone who works there personally, but I have a lot of shared connections.
@@ -99,7 +99,7 @@ For each goal:
   - Next step: contact one of the tech recruiters or engineering managers. Already applied.
 
 
- - Twitch
+ Twitch
 
   - No Turing grads I know of
   - Apparently Mike Dao has some connections
@@ -118,7 +118,7 @@ For each goal:
     - Next steps- talk to Mike about who to contact <br>
 
 
- iPad Receptionist
+iPad Receptionist
 
   - No Turing grads, have some second degree connections on LinkedIn
   - No GitHub account or open source
@@ -133,7 +133,7 @@ For each goal:
     - May not have as many opportunities to do front end JS <br>
 
 
- Gorilla Logic
+Gorilla Logic
 
   - No Turing grads, but I have some second degree connections
   - Didn't see a Github page, but saw some open source projects like [this](https://github.com/alexnauda/monkeytalk)
