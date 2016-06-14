@@ -24,7 +24,7 @@
 
 ## Claudia Kiesenhofer
 
-  - Repo: 
+  - Repo: https://github.com/Claudia108/module_3_assessment
 
 ## Gurusundesh Khalsa
 
