@@ -2,7 +2,9 @@
 
 ### Which Assignments and Why?
 - Which assignments did you choose to complete this week?
+ - I chose to work on goals and job hunt. 
 - Why did you choose these assignments?
+ - The goals are great for keeping me motivated to learn new technologies, while the job hunt assignment helped me to investigate good jobs in a structured manner. 
 
 ### Submitted Assignments
 
