@@ -56,7 +56,7 @@
 
 ## Kris Foss
 
-  - Repo: 
+  - Repo: https://github.com/kristindiannefoss/module_3_assessment
 
 ## Ling Tran
 
