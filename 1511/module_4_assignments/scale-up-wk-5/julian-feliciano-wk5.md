@@ -48,7 +48,7 @@ view.
 
 ### Link to blog post(s)
 
-**Coming Tuesday Morning!**
+[Using React Router](http://julsfelic.github.io//2016/06/13/using-react-router.html)
 
 ### Discuss: your experience doing PR reviews and getting PR feedback
 
@@ -90,7 +90,7 @@ Final Score: 110/150 (score will be adjusted when blog post is submitted)
 
 Points: (max 150)
 
-### Blog Post (40 Points)  
+### Blog Post (40 Points)
 
   <!--* 40: Developer has >= 2 blog posts documenting something they have worked on for their independent study or has one in depth blog post.-->
   <!--* 25: Developer has one blog post less than 500 words long.-->
