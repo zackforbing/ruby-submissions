@@ -82,6 +82,7 @@ For each goal:
 
 
    - TeamSnap
+
     - Used to have a Turing alumni, she has since left
     - I don't know anyone who works there personally, but I have a lot of shared connections.
     - They have APIs you can access if you have tokens. [GitHub](https://github.com/teamsnap/teamsnap_rb)
@@ -96,24 +97,28 @@ For each goal:
       - One reviewer stated engineers that don't fit the white/male archetype don't do well.
     - Next step: contact one of the tech recruiters or engineering managers. Already applied.
 
+
    - Twitch
+
     - No Turing grads I know of
     - Apparently Mike Dao has some connections
     - [GitHub](https://github.com/justintv/Twitch-API)
-     - [open source](http://help.twitch.tv/customer/portal/articles/1262922-open-broadcaster-software)
-   - Their web APIs and Web Interface uses Go and Rails, and Ember. I know Rails, but not Go and Ember.
-   - There are a lot of Twitch meetups, nothing in Denver however
-   - Tech interviews- sounds like they ask about web technologies and CS/math topics (nth prime)
-   - pros
-    - Cool company
-    - Neat product
-    - Good reviews
-  - cons
-    - ... San Francisco
-    - Uses tech I don't know (yet)
-  - Next steps- talk to Mike about who to contact
+      - [open source](http://help.twitch.tv/customer/portal/articles/1262922-open-broadcaster-software)
+     - Their web APIs and Web Interface uses Go and Rails, and Ember. I know Rails, but not Go and Ember.
+     - There are a lot of Twitch meetups, nothing in Denver however
+     - Tech interviews- sounds like they ask about web technologies and CS/math topics (nth prime)
+     - pros
+      - Cool company
+      - Neat product
+      - Good reviews
+    - cons
+      - ... San Francisco
+      - Uses tech I don't know (yet)
+      - Next steps- talk to Mike about who to contact
+
 
    - iPad Receptionist
+
     - No Turing grads, have some second degree connections on LinkedIn
     - No GitHub account or open source
     - Tech stack- Rails and iOS. Know Rails, not iOS
@@ -126,5 +131,19 @@ For each goal:
     - cons
       - May not have as many opportunities to do front end JS
 
+
    - Gorilla Logic
-    - No Turing grads
+
+    - No Turing grads, but I have some second degree connections
+    - Didn't see a Github page, but saw some open source projects like [this](https://github.com/alexnauda/monkeytalk)
+    - tech stack- Node.js, Angular, JS, koa
+    - I know Node, JS, but not Koa or Angular
+    - I did not see any meetups they sponsor
+    -  Didn't see very much info on technical interview questions, apparently they ask about lazy loading in iOS development
+    - pros
+      - good reviews on Glassdoor
+      - lots of JS
+    - cons
+      - all front end
+      - unfamiliar tech
+    - next steps- apply and reach out to second degree connections
