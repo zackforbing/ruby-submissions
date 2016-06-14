@@ -52,7 +52,7 @@
 
 ## Kami Boers
 
-  - Repo: 
+  - Repo: https://github.com/kamiboers/module_3_assessment
 
 ## Kris Foss
 
