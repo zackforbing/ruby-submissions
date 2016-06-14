@@ -21,7 +21,7 @@ I was not aware of the technique of using Sinatra to create a fake service for t
 While I didn't get around to pulling an issue on Boxtrot to test using Sinatra, I did look over the ones that were already implemented.
 
 ### Link to blog post(s) submitted
-Will be providing this link before Tues am.
+[Benchmarking and profiling data: two takes](http://hhoopes.github.io/2016/06/13/benchmarking-data-in-rails/)
 
 ### Discuss: your experience doing PR reviews and getting PR feedback
 I was curious what this experience would be like since I thought doing group projects would have prepared me for a bigger team. However, I found that I was often lacking context for a PR I was supposed to review, especially early in the project when I was working on entirely different topics. By forcing myself to switch contexts and thoroughly read and test the PR, it left me in a better place when I did move onto issues more relevant to the whole team.
