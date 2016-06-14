@@ -84,5 +84,5 @@
 
 ## Thomas Pickett
 
-  - Repo: 
+  - Repo: https://github.com/thompickett/module_3_assessment
 
