@@ -57,3 +57,74 @@ For each goal:
     - List ideas for lightning talks or conference talks that you could give on this topic. (check out the community involvement assignment)
     - List open source projects that relate to this goal (check out the open source assignment)
   - Why is this goal important to you?
+
+
+  #### 2-Job Hunting
+
+  Companies I want to work for:
+   - Zerista
+
+    - No Turing/gSchool grads I know of
+    - I have a second degree connection with one of the iOS developers
+    - No GitHub account that I could view, no open source projects
+    - Rails, PostgreSQL, Git. I am familiar with all these technologies.
+    - They do not sponsor meetups. Since they are a Rails company, Denver.rb is probably a good meetup to attend.
+    - Based on some GitHub repos I found, looks like the technical interview focuses on Rails apps.
+    - pros
+      - Rails stack
+      - Good economic forecast
+      - Good reviews on Glassdoor
+      - Downtown Denver
+    - cons
+      - According to Glassdoor, wear many hats
+      - Not the most exciting product (conference app)
+    - Next step: contact someone within the company. Already applied.
+
+
+   - TeamSnap
+    - Used to have a Turing alumni, she has since left
+    - I don't know anyone who works there personally, but I have a lot of shared connections.
+    - They have APIs you can access if you have tokens. [GitHub](https://github.com/teamsnap/teamsnap_rb)
+    - Tech stack is Rails and JS, which I am familiar with
+    - Could not find any meetups they support, but the Boulder Ruby Group would be a good meetup to attend.
+    - A Glassdoor post about their tech interviews didn't go into specifics about the process, just stated you meet with recruiter, VP of engineering, and the team you would work with.
+    - pros
+      - Good reviews for most part
+      - In Boulder, remote options
+      - Good benefits
+    - cons
+      - One reviewer stated engineers that don't fit the white/male archetype don't do well.
+    - Next step: contact one of the tech recruiters or engineering managers. Already applied.
+
+   - Twitch
+    - No Turing grads I know of
+    - Apparently Mike Dao has some connections
+    - [GitHub](https://github.com/justintv/Twitch-API)
+     - [open source](http://help.twitch.tv/customer/portal/articles/1262922-open-broadcaster-software)
+   - Their web APIs and Web Interface uses Go and Rails, and Ember. I know Rails, but not Go and Ember.
+   - There are a lot of Twitch meetups, nothing in Denver however
+   - Tech interviews- sounds like they ask about web technologies and CS/math topics (nth prime)
+   - pros
+    - Cool company
+    - Neat product
+    - Good reviews
+  - cons
+    - ... San Francisco
+    - Uses tech I don't know (yet)
+  - Next steps- talk to Mike about who to contact
+
+   - iPad Receptionist
+    - No Turing grads, have some second degree connections on LinkedIn
+    - No GitHub account or open source
+    - Tech stack- Rails and iOS. Know Rails, not iOS
+    - Do not sponsor any meetups
+    - Classmate interviewed with them, stated the tech interview is mostly Rails
+    - No Glassdoor reviews since it is such a small company
+    - pros
+      - can work remotely
+      - Rails stack
+    - cons
+      - May not have as many opportunities to do front end JS
+
+   - Gorilla Logic
+    - No Turing grads
