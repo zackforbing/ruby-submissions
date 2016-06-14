@@ -60,7 +60,7 @@
 
 ## Ling Tran
 
-  - Repo: 
+  - Repo: https://github.com/lingtran/module_3_assessment
 
 ## Marina Corona
 
