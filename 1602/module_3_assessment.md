@@ -28,7 +28,7 @@
 
 ## Gurusundesh Khalsa
 
-  - Repo: 
+  - Repo: https://github.com/GKhalsa/module_3_assessment
 
 ## Jared Roth
 
