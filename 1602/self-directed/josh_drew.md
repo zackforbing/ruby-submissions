@@ -2,15 +2,16 @@ Assessor: Josh M.
 
 Notes:
 
-* Solid project
-* Testing isn't true end-to-end and there are some gaps in important functionality
-* Could use more instance methods instead of class methods
-* Great use of PORO to manage Spotify playlists and clean up controllers
+* Really solid tests at multiple levels of the app
+* Send over only 1 instance variable from controllers
+* Split out CSV creation and Importing to different classes
+* Would have benefitted from using background workers for uploads
+* Great final product
 
 **1. Completion**
 
-* 4: Developer completed all the user stories and requirements set by the client in timely manner.
-* **3: Developer completed all the user stories and requirements set by the client.**
+* **4: Developer completed all the user stories and requirements set by the client in timely manner.**
+* 3: Developer completed all the user stories and requirements set by the client.
 * 2: Developer completed most of the user stories and requirements set by the client.
 * 1: Developer completed the user stories and requirements partially.
 
@@ -25,9 +26,9 @@ Notes:
 
 **1. Test-Driven Development**
 
-* 4: Project shows exceptional use of testing at different layers (above 95% coverage).
+* **4: Project shows exceptional use of testing at different layers (above 95% coverage).**
 * 3: Project shows adequate testing (90% - 95% coverage).
-* **2: Project shows gaps in test usage/coverage/design (85 - 90% coverage).**
+* 2: Project shows gaps in test usage/coverage/design (85 - 90% coverage).
 * 1: Project lacks sufficient testing (under 85% coverage).
 
 **2. Code Quality**
@@ -41,14 +42,14 @@ Notes:
 
 **1. User Experience**
 
-* 4: Project exhibits a production-ready and polished UX.
-* **3: Project exhibits a production-ready user experience.**
+* **4: Project exhibits a production-ready and polished UX.**
+* 3: Project exhibits a production-ready user experience.
 * 2: Project exhibits some gaps in the UX.
 * 1: Project exhibits inattention to the user experience.
 
 **2. Performance**
 
 * 4: Project pages load on average under 300 milliseconds.
-* **3: Project pages load on average under 400 milliseconds.**
-* 2: Project pages load on average under 500 milliseconds.
+* 3: Project pages load on average under 400 milliseconds.
+* **2: Project pages load on average under 500 milliseconds.**
 * 1: Project pages load on average over 500 milliseconds.

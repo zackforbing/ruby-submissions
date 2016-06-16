@@ -2,10 +2,8 @@ Assessor: Josh M.
 
 Notes:
 
-* Solid project
-* Testing isn't true end-to-end and there are some gaps in important functionality
-* Could use more instance methods instead of class methods
-* Great use of PORO to manage Spotify playlists and clean up controllers
+* Controllers are clean and logic is pushed into models and services
+* Testing was lower (%85) but tests were good and some of the stuff that wasn't tested was JS
 
 **1. Completion**
 
@@ -26,15 +24,15 @@ Notes:
 **1. Test-Driven Development**
 
 * 4: Project shows exceptional use of testing at different layers (above 95% coverage).
-* 3: Project shows adequate testing (90% - 95% coverage).
-* **2: Project shows gaps in test usage/coverage/design (85 - 90% coverage).**
+* **3: Project shows adequate testing (90% - 95% coverage).**
+* 2: Project shows gaps in test usage/coverage/design (85 - 90% coverage).
 * 1: Project lacks sufficient testing (under 85% coverage).
 
 **2. Code Quality**
 
 * 4: Project demonstrates exceptionally well factored code.
-* **3: Project demonstrates solid code quality and MVC principles.**
-* 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
+* 3: Project demonstrates solid code quality and MVC principles.
+* **2: Project demonstrates some gaps in code quality and/or application of MVC principles.**
 * 1: Project demonstrates poor factoring and/or understanding of MVC.
 
 ### Product Experience
