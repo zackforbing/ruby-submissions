@@ -26,11 +26,11 @@ The project will be assessed with the following guidelines:
 
 ### 1. Functional Expectations
 * 1: Application crashes during normal usage
-Reassessment score: 1 (Considering the spec harness failed during the assessment and when we reviewed the code later, the reassessment score remains a 1)
+* Reassessment score: 1 (Considering the spec harness failed during the assessment and when we reviewed the code later, the reassessment score remains a 1)
 
 ### 2. Test-Driven Development
 * 0: Pending re-eval
-Reassessment score: 2 (Application makes some use of tests, but the coverage is insufficient)
+* Reassessment score: 2 (Application makes some use of tests, but the coverage is insufficient)
 
 ### 3. Encapsulation / Breaking Logic into Components
 * 3: Application effectively breaks logical components apart but breaks the principle of SRP
