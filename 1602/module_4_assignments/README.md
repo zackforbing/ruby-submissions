@@ -20,3 +20,8 @@ In this folder, we will add yet another folder for each major assignment - and a
 #### Intermission Week
 
 * [1511 Intermission Assignments](https://github.com/turingschool/intermission-assignments/issues?q=is%3Aopen+is%3Aissue+label%3A1602) (Due EOD 1/1/16)
+
+#### Week 1
+
+* [IdeaBox 2.0](ideabox2.0/) (150 points)
+* [ES6 Assignment](https://gist.github.com/rrgayhart/67ed81f58a9b9295136c619a5186e71b) (5 points)
