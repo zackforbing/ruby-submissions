@@ -1,20 +1,17 @@
 # Basics
 
-### Link to the Github Repository for the Project
-[Boxes of Ideas](http://github.com/JaredRoth/idea-box)
+### [Boxes of Ideas Repo](http://github.com/JaredRoth/idea-box)
 
-### Link to the Deployed Application
-[Boxes of Ideas](http://boxes-of-ideas.herokuapp.com/)
+### [Boxes of Ideas App](http://boxes-of-ideas.herokuapp.com/)
 
-### Link to Your Commits in the Github Repository for the Project
-[Commits](https://github.com/JaredRoth/idea-box/commits/master)
+### [Commits](https://github.com/JaredRoth/idea-box/commits/master)
 
 ### Provide a Screenshot of your Application
 ![Boxes of Ideas](images/screenshot.jpg)
 
 ## Completion
 
-### All base functionality os complete
+### All base functionality is complete
 
 ### No extensions
 
@@ -24,7 +21,7 @@
 * Was able to specify the direction of the vote and then have the method handle it appropriately.
 
 ### [Feels too large](https://github.com/JaredRoth/idea-box/blob/770257083d67ccdb0d053dc132b4e61e5e752c03/app/assets/javascripts/idea_box.js#L70-L90)
-* Besides the fact that everything just lives in one file, there's a lot going on in this method and I wasn;t sure how to break it up better.
+* Besides the fact that everything just lives in one file, there's a lot going on in this method and I wasn't sure how to break it up better.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
