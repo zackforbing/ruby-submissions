@@ -174,28 +174,9 @@ let's provide them with a filtering interface on the idea list.
 * As a user types in the search box, the list of ideas should filter in real time to only display ideas whose title or body include the user's text. The page _should not_ reload. (6 points)
 * Clearing the search box should restore all the ideas to the list. (6 points)
 ​
-### Extensions
+
 ​
-Extensions are a great way to earn additional points beyond the 150 available in this project. That said, awarding points for delivering a given extension is up to the instructor, who may only award partial points depending on the quality of the implementation. The points listed below represent the maximum number of points. Extensions can _not_ be done after the fact without instructor permission in advance.
-​
-#### Tagging
-​
-(20 additional points.)
-​
-Add an optional third text field upon idea creation for "Tags". Tags should be a comma-separated list of short text tags, and should be processed on the server such that any existing tags are re-used, and any new ones are created. Once there are tags to display, a list of existing tags should appear at the top of the idea list. Clicking one of these tags should show only ideas that include it. When viewing ideas filtered by tag, be sure to include a link to take the user back to "All Ideas". This filtering could be implemented either as a separate page or via javascript within the same interface.
-​
-#### Sorting
-​
-(10 additional points.)
-​
-When viewing the ideas list, the user should have the option to sort ideas by Quality. The default sort should be descending ("genius" → "plausible" → "swill"), and clicking the sort a second time should reverse it. The Idea list should be sorted client-side without reloading the page.
-​
-#### Student Directed Extension
-​
-(10 additional points.)
-​
-Student chooses an additional feature or performance optimization to add to the project. The extension must be intuitive and should not detract from the user's experience in any major way (i.e. not buggy or incomplete).
-​
+
 ## Instructor Evaluation Points
 ​
 ### Specification Adherence
@@ -228,9 +209,9 @@ Student chooses an additional feature or performance optimization to add to the 
 ​
 ### Workflow
 ​
-* **4 points** - The developer makes large commits covering multiple features that make it difficult for the evaluator to determine the evolution of the application.
+* **7 points** - The developer makes large commits covering multiple features that make it difficult for the evaluator to determine the evolution of the application.
 
 
 ### Please feel free to ask any other questions or make any other statements below!
 
-### total score : 140
+### total score : 143
