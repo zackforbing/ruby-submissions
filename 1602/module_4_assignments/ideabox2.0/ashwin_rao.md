@@ -91,3 +91,5 @@ I learned a lot in this project. It was a hard project because I hadn't really u
 * **8 points** - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
 ### Workflow
 * **10 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+### Final Score: 143/150
