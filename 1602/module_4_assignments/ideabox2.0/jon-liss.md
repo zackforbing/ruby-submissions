@@ -51,7 +51,7 @@ We'll be primarily working with _Idea_ objects.
 ​
 #### Viewing ideas
 ​
-(8 points total.) - doesnt truncate to nearest word
+(5 points total.) - doesnt truncate to nearest word
 ​
 #### Adding a new idea
 ​
