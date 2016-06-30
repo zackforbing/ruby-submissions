@@ -8,7 +8,7 @@
 [My Commits](https://github.com/Jbern16/ideabox/commits/master)
 
 ### Provide a Screenshot of your Application
-![awesome design!](images/ideabox.png)
+![Awesome Design!](images/ideabox.png)
 
 ## Completion
 
