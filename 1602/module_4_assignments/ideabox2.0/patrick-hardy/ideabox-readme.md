@@ -56,6 +56,10 @@ Patricks-MacBook-Pro-2:idea_box patrickwhardy$
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
+[Idea Test](https://github.com/patrickwhardy/idea_box/blob/master/test/models/idea_test.rb)
+
+* This refutes saving an idea with invalid attributes.
+
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
