@@ -118,3 +118,5 @@
 ### Workflow
 
 * **10 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+* 
+### Total Points: 147/150
