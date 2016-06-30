@@ -64,57 +64,30 @@ I learned a lot in this project. It was a hard project because I hadn't really u
 
 ### PROJECT EVALUTATION
 ### Data Model
-​
 (5 points total.)
-​
 ### User Flows
-​
 #### Viewing ideas
-​
 (5 Points) - missing truncation
-​
 #### Adding a new idea
-​
 (15 points total.)
-​
 #### Deleting an existing idea
-​
 (15 points total.)
-​
 #### Changing the quality of an idea
-​
 (15 points total.)
-​
 #### Editing an existing idea
-​
 (20 points total.)
-
 #### Idea Filtering and Searching
-​
 (15 points total.)
-​
 ## Instructor Evaluation Points
-​
 ### Specification Adherence
-​
 * **10 points**:
-​
 ### User Interface
-​
 * **5 points** - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor _without_ guidance from the developer.
-​
 ### Testing
-​
 * **10 points** - Project has a running test suite that exercises the application at multiple levels including JavaScript tests.
-​
 ### Ruby and Rails Quality
-​
 * **10 points**
-​
 ### JavaScript Style
-​
 * **8 points** - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
-
 ### Workflow
-​
 * **10 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
