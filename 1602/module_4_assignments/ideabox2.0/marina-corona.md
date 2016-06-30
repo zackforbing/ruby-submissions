@@ -102,3 +102,4 @@ I didn't understand how to debug this and wasn't able to finish it.
 
 * **10 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 
+### Total Score: 123/150
