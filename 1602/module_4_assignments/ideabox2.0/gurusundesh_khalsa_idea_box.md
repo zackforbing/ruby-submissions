@@ -47,7 +47,7 @@
 ​
 #### Viewing ideas
 ​
-8 Points
+5 Points - doesn't truncate
 ​
 #### Adding a new idea
 ​
