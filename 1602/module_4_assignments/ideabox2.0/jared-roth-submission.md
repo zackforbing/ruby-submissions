@@ -54,7 +54,8 @@
 
 #### Idea Filtering and Searching
 
-(7 points total.) -- pending fix - cant search for title
+(15 points) -- Originally 7, developer fixed search functionality
+
 
 ## Instructor Evaluation Points
 
