@@ -14,7 +14,7 @@
 [Your Commits](https://github.com/patrickwhardy/idea_box/commits/master)
 
 ### Provide a Screenshot of your Application
-![spacejam](http://recordit.co/XYSMrOeAnU)
+![Ideabox Gif](http://recordit.co/XYSMrOeAnU.gif)
 
 ## Completion
 
