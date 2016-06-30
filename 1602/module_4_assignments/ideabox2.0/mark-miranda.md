@@ -209,9 +209,9 @@ let's provide them with a filtering interface on the idea list.
 ​
 ### Workflow
 ​
-* **7 points** - The developer makes large commits covering multiple features that make it difficult for the evaluator to determine the evolution of the application.
+* **4 points** - The developer makes large commits covering multiple features that make it difficult for the evaluator to determine the evolution of the application.
 
 
 ### Please feel free to ask any other questions or make any other statements below!
 
-### total score : 143
+### total score : 140
