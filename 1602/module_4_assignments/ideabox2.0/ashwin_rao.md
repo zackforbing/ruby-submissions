@@ -71,7 +71,7 @@ I learned a lot in this project. It was a hard project because I hadn't really u
 ​
 #### Viewing ideas
 ​
-(8 Points)
+(5 Points) - missing truncation
 ​
 #### Adding a new idea
 ​
