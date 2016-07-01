@@ -101,3 +101,5 @@ We'll be primarily working with _Idea_ objects.
 ### Workflow
 ​
 * **10 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+### Total Score: 140/150
