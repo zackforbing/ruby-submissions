@@ -1,5 +1,6 @@
 # Adam Hundley & Brian Rippeto
 
+
 **Instructor:** Horace
 
 **Repo Url:** https://github.com/adamhundley/black_thursday
