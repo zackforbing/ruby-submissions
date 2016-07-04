@@ -26,3 +26,8 @@ In this folder, we will add yet another folder for each major assignment - and a
 * [IdeaBox 2.0](ideabox2.0/) (150 points)
 * [ES6 Assignment](https://gist.github.com/rrgayhart/67ed81f58a9b9295136c619a5186e71b) (5 points)
 * [Implementing Testing - Resources and Assignment](https://gist.github.com/rrgayhart/a15d8017cad3ce4ab58bc4f50afd1c86) (15 points)
+
+#### Week 2
+
+* [Game Time](/gametime)
+* [The Concept of Require](https://gist.github.com/rrgayhart/ecfef18b681d0dca6ec2929c71e7c505) (5 points)
