@@ -10,7 +10,7 @@ Complete this Form and the README.md before the first check in. Delete this line
 
 ### Game Name
 
-Snek
+Asteroids
 
 ### Give a Basic Description of the Game
 
