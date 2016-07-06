@@ -47,11 +47,12 @@ Q*bert hops from square to square avoiding bouncing balls and bad guys. The goal
 
 ### What have you accomplished so far?
 
-We have decided on a game, forked the repo, added all teammates as collaborators, set up Waffle.io and discussed goals as well as having a general DTR discussion for the group.
+We have decided on a game, forked the repo, added all teammates as collaborators, set up Waffle.io and discussed goals as well as having a DTR discussion for the group. We've discussed strategies for the game board and begun to code the cube class and drawing.
 
 ### Questions, Comments, Concerns?
 
 - Are there any factors that we haven't taken into account?
+- When do you want to see things on production?
 
 ## Instructor Section
 
