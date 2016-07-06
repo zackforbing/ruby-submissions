@@ -80,7 +80,7 @@ Play has to correctly and speedily type words on the screen to keep the bird out
 	- Side scrolling background
 	- Bird is on own canvas with transparent background
 
-	- By Thursday:
+	- By Friday:
 		- Bird falls slowly
 		- Game start functionality
 		- Decision on how game/level ends
