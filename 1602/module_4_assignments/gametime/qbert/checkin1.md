@@ -57,7 +57,9 @@ We have decided on a game, forked the repo, added all teammates as collaborators
 ## Instructor Section
 
 ### Points for first check in (base 50)
-
+ 50 points
 ### Instructor's goals for next check in
-
+- map (collection of pieces)
+- status of pieces changes 
+- tests 
 ### Feedback?
