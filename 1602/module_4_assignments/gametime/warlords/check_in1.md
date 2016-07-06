@@ -65,4 +65,76 @@ The winner is the last player standing.
 
 ### Instructor's goals for next check in
 
+#### Drew
+
+- Node server started or (code) spike on websockets being used with webpack
+  - If Node:
+    - Replicate base functionality of Webpack
+      - Mocha testing wired up with dummy code
+      - .jshintrc
+      - Ability to use babel/es6
+      - Match ability to use CSS/Sass (if team is using sass)
+      - First pass at deploying to heroku or other deployment
+- Initial spike on Websockets
+
+Extra Credit
+  - Port over and get working the code of team members in this server
+
+#### Jared
+
+- If implementing Game class, pair on this
+
+- Moving the ball logic into the project
+  - Refactoring as a function of adding testing
+  - Rendering within the project
+  - Ball starts moving when it shows up on screen
+  - Ball bounces off wall (maybe infinite loop instead)
+  - Ball reacting to a set of bricks
+
+#### Josh
+
+- If implementing Game class, pair on this
+
+- Paddle Object
+    - Responds to key events
+    - Has an axis/track it can move on
+    - Can't move past borders or track
+    - Testing for something in here, yo
+
+Extra Credit
+
+Hooking up the collision detection between the paddle and the ball - with a ball reaction
+
 ### Feedback?
+
+Entire Damn Thing
+ 
+- Rendering in a purdy way
+- Score per player which is rendered on the screen
+  - Some way, since websockets/multiple players drive difficulty to make the game compelling - drive competition
+- Actual mechanics of deploying and managing multiple players
+- Testing! Woo!
+
+- Board Drawn on Canvas
+  - Single Player Object
+    - has flag
+    - has zone of wall pieces
+    - has paddle
+    - if zone of wall pieces is compromised (ball hits flag zone) then lose condition
+  - Paddle Object
+    - Can collide with the ball
+    - responds to key events
+    - Has an axis/track it can move on
+    - Can't move past borders or track
+    - Four players control paddles
+      - Seperate key inputs
+      - Next step - feed that data in by websockets
+  - Ball Object
+    - Ball starts moving when it shows up on screen
+    - Ball bounces off wall (maybe infinite loop instead)
+    - spawned on screen
+    - just one for initial mvp
+    - Can be hit by player's paddle
+    - Ball changes movement based on paddle location
+    - Collides with blocks
+    - Speed variation on ball to increase difficulty
