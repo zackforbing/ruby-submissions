@@ -63,6 +63,8 @@ The winner is the last player standing.
 
 ### Points for first check in (base 50)
 
+50/50
+
 ### Instructor's goals for next check in
 
 #### Drew
