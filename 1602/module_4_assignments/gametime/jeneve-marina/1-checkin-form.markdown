@@ -72,7 +72,17 @@ Play has to correctly and speedily type words on the screen to keep the bird out
 ## Instructor Section
 
 ### Points for first check in (base 50)
+50/50
 
-### Instructor's goals for next check in
+### Instructor's goals for next check in/conversation about functionality hopes and dreams
+	- How a level ends
+	- Possibly serving up API with a backend — Check with Meeka about using Rails 
+	- Side scrolling background
+	- Bird is on own canvas with transparent background
+
+	- By Thursday:
+		- Bird falls slowly
+		- Game start functionality
+		- Decision on how game/level ends
 
 ### Feedback?
