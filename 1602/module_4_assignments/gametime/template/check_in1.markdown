@@ -5,55 +5,53 @@ Complete this Form and the README.md before the first check in. Delete this line
 ## Basics
 
 ### Team
-- [Patrick](https://github.com/patrickwhardy)
-- [Chad](https://github.com/chadellison)
+- [TeamMate1](https://github.com/tenderlove)
+- [TeamMate2](https://github.com/wycats)
 
 ### Game Name
 
-Asteroids
+Snek
 
 ### Give a Basic Description of the Game
 
-Player avoids and destroys asteroids from a space ship. Asteroids float around the screen and break into smaller pieces when shot.
+Snek eats pellets - grows and tries not to run into itself
 
 ### Include a Link to or Screen Shot of the Game
-[Classic Asteroids](http://www.mspacman4u.com/asteroids/)
-[Multiplayer Asteroids](http://demos.seb.ly/MMOsteroids.html)
+
+[Snek](http://imgur.com/gallery/owNiA)
 
 ### Link to the Github repository for the project
-[Your Repo](https://github.com/patrickwhardy/asteroids.git)
+[Your Repo](https://youtu.be/kZSfPPJ4Fk8)
 
 ## The Plan
 
 ### Describe Your goals for the finished product
 
-###MVP
-- Spaceship accelerates in the direction it's aimed
-- Spaceship shoots from the front; arrow keys dictate direction of ship
-- Bullets only travel 50 % of the canvas width
-- When an asteroid is hit, it splits into smaller asteroids or is destroyed
-- Upon collision of asteroid, player looses a life
-- When objects travel off of the canvas they reappear on the opposite side with the same velocity
-- Increased difficulty is a greater rate of asteroid appearance
-- Game is over when player has lost all their lives, high score is based on time
+e.g.
 
-### Single Player Extensions
-- Asteroids have three sizes. When the smallest size is hit, it disintegrates
-- Add enemy ships that shoot back - can be shot/destroyed
-- Player looses a life when shot
-- Player can pick up various weapons
-  - e.g. shotgun effect, speed boost, rapid fire, laser
+- Snake moves around screen
+- Snake can eat pellets
+- When a pellet is eaten, the snake grows in length
+- If the snake hits itself, the game ends
+- Snake is rainbow colored, changes color throughout game
+- If the user navigates away, snake game pauses
+- Crazy Mode makes the snake change speeds randomly
+- Pellets are instructor's faces and they make a sound when they get eaten
+- Cat mode turns the snake into Nyan Cat
 
-### Multiplay Extensions
-- Multiplayer option (sockets)
-- Two players are on the same canvas and they can shoot/destroy each other
-  - asteroids would still be present, you just can also get killed by your opponent
+### What is your MVP, or 'this was harder than I thought' plan?
+
+e.g.
+
+- Snake moves around screen
+- Snake can eat pellets
+- When a pellet is eaten, the snake grows in length
+- Is the snake hits itself, the game ends
 
 ### What have you accomplished so far?
 
 ### Questions, Comments, Concerns?
-how to use images as placeholders for objects in the game?
-how to structure js files
+
 -----
 
 ## Instructor Section
