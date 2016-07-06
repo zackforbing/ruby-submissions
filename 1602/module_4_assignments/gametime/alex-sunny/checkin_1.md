@@ -65,7 +65,13 @@ e.g.
 ## Instructor Section
 
 ### Points for first check in (base 50)
+50/50
+
 
 ### Instructor's goals for next check in
+  - Collision detection on bullets
+  - Enemy plane movement and shooting ability
+  - Collision detection with enemies/enemy bullets and user
 
 ### Feedback?
+  - Really good start. Has movement on user's plane and bullets - working on refactoring file structure and how bullets are handled. 
