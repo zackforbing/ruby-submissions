@@ -73,6 +73,22 @@ You fly a plane and try to shoot down enemy planes increasing your score for eve
 
 ### Points for first check in (base 50)
 
+50/50
+
 ### Instructor's goals for next check in
+
+- Begin refactoring the plane class or function
+  - Move it out of the index
+  - See if you can get it rendering and moving within a game loop instead of adhoc
+  - First pass at testing plane movement
+
+- Figure out jshint story
+
+- First pass at enemy crossing screen
+  - Doesn't have to be visually rendered per se, but should be moving x and y coordinates appropriately
+
+Extra Credit
+
+- Refactoring the script.js such that almost all logic is removed - should only be animation loop, finding the canvas, and event listeners (but minimal logic around what event listeners do)
 
 ### Feedback?
