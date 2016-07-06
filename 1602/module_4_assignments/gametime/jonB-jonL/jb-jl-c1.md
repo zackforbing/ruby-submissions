@@ -3,12 +3,12 @@
 ## Basics
 
 ### Team
-- [TeamMate1](https://github.com/Jbern16)
-- [TeamMate2](https://github.com/jdliss)
+- [Jonathan Bernesser](https://github.com/Jbern16)
+- [Jonathan Liss](https://github.com/jdliss)
 
 ### Game Name
 
-Zombie Fun Game
+Zombie Fun Time
 
 ### Give a Basic Description of the Game
 
@@ -16,7 +16,7 @@ Survive Increasingly Amount of Zombies. Top-down.
 
 ### Include a Link to or Screen Shot of the Game
 
-[I Made a Game with Zombies In It](https://indiegamerchick.files.wordpress.com/2011/08/screen34.jpg)
+[We got a Red Square!](http://imgur.com/HGsRS8y)
 
 ### Link to the Github repository for the project
 [Your Repo](https://github.com/jdliss/game-time)
@@ -34,6 +34,8 @@ Survive Increasingly Amount of Zombies. Top-down.
 -Zombies spawn in random places
 
 ### IDEAL EXT:
+
+-Varying types of zombies
 
 -Particle Effects(GORE!)
 
