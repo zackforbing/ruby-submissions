@@ -57,7 +57,10 @@ ClickyTrollaPootzleh is better in every way.  I am concerned.  (var I = krisFoss
 ## Instructor Section
 
 ### Points for first check in (base 50)
+50 
 
 ### Instructor's goals for next check in
-
+- Board built out (gride size, collection pieces  )
+- Pieces built out(talks to the board)
+- Have piece clickable (console.log)
 ### Feedback?
