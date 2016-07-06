@@ -60,7 +60,13 @@ how to listen for more key strokes when acceleration button is pressed
 ## Instructor Section
 
 ### Points for first check in (base 50)
+50/50
 
 ### Instructor's goals for next check in
-
+	For Friday
+	- Bullets/Shooting/Ship movement 
+	- Some testing?
+	- Collision detection against other objects on canvas
+	- Smaller files for objects
+	
 ### Feedback?
