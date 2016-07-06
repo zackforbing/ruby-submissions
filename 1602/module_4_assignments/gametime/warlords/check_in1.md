@@ -53,8 +53,10 @@ The winner is the last player standing.
 
 ### What have you accomplished so far?
 
-### Questions, Comments, Concerns?
+- we individually worked through a couple appropriate tutorials (like the mozilla breakout tutorial and another for websocket basics)
+- other than that, we only did some additional research and messed around with some concepts. No actual work on the project.
 
+### Questions, Comments, Concerns?
 -----
 
 ## Instructor Section
