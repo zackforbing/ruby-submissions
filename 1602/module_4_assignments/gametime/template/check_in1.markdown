@@ -5,12 +5,12 @@ Complete this Form and the README.md before the first check in. Delete this line
 ## Basics
 
 ### Team
-- [Patrick](https://github.com/patrickwhardy)
-- [Chad](https://github.com/chadellison)
+- [TeamMate1](https://github.com/tenderlove)
+- [TeamMate2](https://github.com/wycats)
 
 ### Game Name
 
-Asteroids
+Snek
 
 ### Give a Basic Description of the Game
 
