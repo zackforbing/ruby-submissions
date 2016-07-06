@@ -64,6 +64,23 @@ Created the fullscreen canvas and frame. Further, created a dynamic canvas based
 
 ### Points for first check in (base 50)
 
+50/50
+
 ### Instructor's goals for next check in
+
+- Finish the rendering of initial canvas
+  - Loops - taking into account frames per second
+
+- Initial Zombie class
+  - Use this to test out the loop above
+  - Use this to spike on setting up testing (that zombie moves towards central point is an option)
+
+- Initial README with tech stack, (how to run things?), etc
+
+Extra Credit
+
+- Visual representation of swarming zombies towards the middle point
+or
+- Visual represented rotating player which reacts to click events
 
 ### Feedback?
