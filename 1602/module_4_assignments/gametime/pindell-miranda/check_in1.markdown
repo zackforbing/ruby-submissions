@@ -58,7 +58,12 @@ The classic version of Pacman, but in 3D!
 ## Instructor Section
 
 ### Points for first check in (base 50)
-
+50 
 ### Instructor's goals for next check in
+- map 
+- player can't go through walls (console log hit a wall)
+- pellet object 
+- player can hit pellets (console log it hit a pellet) 
+- a couple of tests
 
 ### Feedback?
