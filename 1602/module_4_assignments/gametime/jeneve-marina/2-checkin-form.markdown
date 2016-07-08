@@ -50,6 +50,19 @@ _____
 
 ### Points for Second Check In (base 50)
 
+50/50
+
 ### Instructor's Goals for Next Check In
+
+- Scrolling background 
+  - Implies two canvases
+- Continue refactoring existing code and unit testing the logic therein
+- Style for the bird sprite - making animated (semi optional)
+- Beef up general styling around the page
+
+Extra Credit
+
+- MVP is all completed sans high score
+- Feature Testing
 
 ### Feedback?
