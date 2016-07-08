@@ -5,6 +5,7 @@ Repo: https://github.com/NateAnderson1780/jungle_beats
 Notes:
 - Completed 2 extensions
 - Built with TDD, thorough suite of tests
+- Opp to improve with test names
 - Nice extraction of methods in some cases, would like to see that process applied consistently across code
 - Some refactoring needed, minor opportunities to make code more readable
 - Watch using data structure labels in variable names
