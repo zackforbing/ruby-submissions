@@ -26,7 +26,7 @@
 ### GOAL 3 - First pass at enemy crossing screen
 
 - Provide a screenshot or gif or link to code for this goal
-  - ![Computer plane animation](http://recordit.co/XzbqJcFRO2)
+  - [Computer plane animation](http://recordit.co/XzbqJcFRO2)
 - Did you deviate from the instructions? Tell us about it.
   - No, we did more
 - Questions, Comments, Concerns?
