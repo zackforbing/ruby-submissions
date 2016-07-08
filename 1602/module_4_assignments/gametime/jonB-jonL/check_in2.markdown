@@ -36,7 +36,12 @@ After that we want to delve into collision detection, then into the bullets/shoo
 ## Instructor Section
 
 ### Points for Second Check In (base 50)
+55/50
 
 ### Instructor's Goals for Next Check In
+- movable player instead of a stationary one 
+- have some sort collision detection for the player 
+- bullet class. 
+- extra credit rotating character 
 
 ### Feedback?
