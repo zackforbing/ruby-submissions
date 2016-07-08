@@ -1,39 +1,74 @@
-Complete this Form before the second check in. Delete this line from your version.
-
 # Game Time Check In # 2
 
 ## Instructor Goal Completion
 
-### GOAL 1
-
-  - Provide a screenshot or gif or link to code for this goal
-  - Did you deviate from the instructions? Tell us about it.
-  - Questions, Comments, Concerns?
-
-### GOAL 2
+### GOAL 1 - Refactor plane class
 
 - Provide a screenshot or gif or link to code for this goal
+  - [Refactor out plane class](https://github.com/theonlyrao/1942/blob/24_animate-computer-plane/lib/javascripts/plane.js)
+  - [Rendered from game loop](https://github.com/theonlyrao/1942/blob/24_animate-computer-plane/lib/javascripts/scripts.js#L10-L15)
+  - [Testing of plane class](https://github.com/theonlyrao/1942/blob/24_animate-computer-plane/test/plane_moves_test.js)
+
 - Did you deviate from the instructions? Tell us about it.
+  - Nope we're rule followers so far
+- Questions, Comments, Concerns?
+  - Is there a better way to set the initial states of the player and computer plane than the conditionals?
+### GOAL 2 - Figure out JShint
+
+- Provide a screenshot or gif or link to code for this goal
+  - `npm install -g jshint`
+  - `jshint lib/javascripts/*`
+- Did you deviate from the instructions? Tell us about it.
+  - Nope, nothing to deviate on
 - Questions, Comments, Concerns?
 
-### GOAL 3
+### GOAL 3 - First pass at enemy crossing screen
 
 - Provide a screenshot or gif or link to code for this goal
+  - ![Computer plane animation](http://recordit.co/XzbqJcFRO2)
 - Did you deviate from the instructions? Tell us about it.
+  - No, we did more
 - Questions, Comments, Concerns?
 
-### GOAL 4
+### GOAL 4 - Extra Credit
 
 - Provide a screenshot or gif or link to code for this goal
+  -[Refactor scripts.js file](https://github.com/theonlyrao/1942/blob/24_animate-computer-plane/lib/javascripts/scripts.js)
 - Did you deviate from the instructions? Tell us about it.
+  - No
 - Questions, Comments, Concerns?
 
 ## Next Steps?
 
 - What do you feel the next steps should be?
-
+  - Planes can shoot(#7)
+    - Friday
+  - Collision detection(#8)
+    - Friday/Saturday
+  - Multiple enemies(#9)
+    - Saturday
+  - Scoring(#12)
+    - Saturday
+  - Start and end game(#13)
+    - Saturday
+  - Boss Plane(#11) - Reach
+  - Enemies can't hurt each other(#10) - Reach
+  - Levels(#15)
+    - Monday
+  - Leaderboard(#14)
+    - Monday/Tuesday
+  - Two Player
+    - Tuesday/Wednesday
+  - Styling
+    - Monday-Wednesday
+  - Weapons packages
+    - ?
 ### General Questions, Comments, Concerns?
 
+  - Styling?
+    - We feel self conscious
+    - What should we aim for?
+  - Start Button/Layering on our canvas implementation
 -----
 
 ## Instructor Section
