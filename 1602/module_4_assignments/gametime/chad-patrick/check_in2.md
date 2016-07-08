@@ -33,6 +33,23 @@
 
 ### Points for Second Check In (base 50)
 
+50/50
+
 ### Instructor's Goals for Next Check In
+
+- setup new Game on start
+  - corresponding interface 
+- setup # of player lives
+  - corresponding interface (decrementing lives)
+  - collision of ship and asteroid decrements lives
+- A basic end game scenario
+- Ship is removed from screen when killed - reacts to death - comes back
+- First pass of how you define high score
+- First pass of drawing polyshape asteroid
+
+Extra Credit
+
+- refactor acceleration incorporate drift and test happy and sad paths (from stand still, from movement, etc)
+- MVP features as defined in Next Steps all completed
 
 ### Feedback?
