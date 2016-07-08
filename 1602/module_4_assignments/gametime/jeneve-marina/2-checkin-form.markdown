@@ -20,7 +20,7 @@ _We'd like to remove all need for the mouse, use key commands instead to start t
 
 ### Decision on how game/level ends
 
-#### [screen recording](http://g.recordit.co/kWsORZPTdL.gif)
+#### ![screen recording](http://g.recordit.co/kWsORZPTdL.gif)
 
 ##### Did you deviate from the instructions? Tell us about it.
 
