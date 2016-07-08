@@ -37,8 +37,20 @@ Complete this Form before the second check in. Delete this line from your versio
 
 ## Instructor Section
 
-### Points for Second Check In (base 50)
+### Points for first check in (base 50)
+50/50
 
-### Instructor's Goals for Next Check In
+### Steps for Next Checkin
+- Game Start/Instructions
+- Game End
+- Increase of difficulty
+- Game End Scoreboard - Time + User Points/Something to score my game
+ - Phase 1: Hit ghost (figure out colliison detection with ghost and user) game ends. 
+ - Phase 2: Multiple lives, game resets to level you're on.
+- Keep Testing :)
+ 
+Extensions:
+- Graphics
+- Input personal map
 
 ### Feedback?
