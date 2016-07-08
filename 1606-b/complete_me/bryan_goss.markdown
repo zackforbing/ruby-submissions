@@ -1,23 +1,22 @@
-Evaluated By: Mike
+Assessed By: Jeff
 
-Repo:A http://github.com/roscalabrin/headcount
+Repo:
 
 Notes:
-* 45 tests, 87 assertions, 95 percent coverage
-* Overall tested well, could have used some more tests that cover alternate
-or sad path testing.
-* look at not exposing the entire attributes hash of an object, and rahter
-creating your own tight interfaces
 
-Scores:
+* Looking at CompleteMe
+* Spec harness passes
+* Project tests have a good progression of thinking
+* Would like to see more edge cases and unhappy-path tests
+* Implementation code looks good with some tiny areas for improvement
+* Research what a recursive implementation would look like
+* Did the addresses extension, added SimpleCov
 
 ## Evaluation Rubric
 
-The project will be assessed with the following guidelines:
-
 ### 1. Functional Expectations
 
-* 3: Application fulfills expectations of Iterations 0 - 4 *as well as* one of Iterations 5 or 6
+* 4: Application fulfills all base expectations and one extension
 
 ### 2. Test-Driven Development
 
@@ -34,10 +33,3 @@ The project will be assessed with the following guidelines:
 ### 5. Enumerable & Collections
 
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
-
-### 6. Code Sanitation
-
-The output from `rake sanitation:all` shows...
-
-* 1: More than ten complaints
-

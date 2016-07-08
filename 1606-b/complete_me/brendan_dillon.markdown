@@ -1,23 +1,26 @@
-Evaluated By: Mike
+Assessed By: Mike
 
-Repo:A http://github.com/roscalabrin/headcount
+Repo: http://github.com/brendandillon/complete_me
 
 Notes:
-* 45 tests, 87 assertions, 95 percent coverage
-* Overall tested well, could have used some more tests that cover alternate
-or sad path testing.
-* look at not exposing the entire attributes hash of an object, and rahter
-creating your own tight interfaces
 
-Scores:
+* Spec harness passes, 41s.
+* Uses some metaprogramming like ideas in order to insert
+* Good out of the box thinking
+* Would like to have seen a Trie class to abstract out a number of functions that are all in completeme
+* Because of that completeme is a bit long
+* But there are a good number of ideas broken out into small chunks.
+
+
 
 ## Evaluation Rubric
 
-The project will be assessed with the following guidelines:
+The project will be assessed with the following rubric:
 
 ### 1. Functional Expectations
 
-* 3: Application fulfills expectations of Iterations 0 - 4 *as well as* one of Iterations 5 or 6
+
+* 3: Application fulfills all base expectations
 
 ### 2. Test-Driven Development
 
@@ -34,10 +37,3 @@ The project will be assessed with the following guidelines:
 ### 5. Enumerable & Collections
 
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
-
-### 6. Code Sanitation
-
-The output from `rake sanitation:all` shows...
-
-* 1: More than ten complaints
-
