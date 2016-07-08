@@ -7,7 +7,6 @@ Notes:
 - Long conversation about testing. Coverage helps you find the things you're missing. The tests you've written provide good value for the things they're testing. TDD feels unnatural for you, so keep experimenting. Find your inner TDD.
 - Could use scopes. Active is the only reasonable default scope, but listen to whatever your boss tells you.
 - Look into decorators if you like. Josh likes Presenters.
-- 
 
 
 ### Feature Delivery
