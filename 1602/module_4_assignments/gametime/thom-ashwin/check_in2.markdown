@@ -27,7 +27,7 @@
 
 - Provide a screenshot or gif or link to code for this goal
 
-![Computer plane animation](http://recordit.co/XzbqJcFRO2)
+![Computer plane animation](http://recordit.co/XzbqJcFRO2.gif)
 
 
 - Did you deviate from the instructions? Tell us about it.
