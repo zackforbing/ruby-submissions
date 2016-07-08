@@ -93,3 +93,4 @@
 - Loved test coverage 
 - Would like to see the plane 'super' class built out 
 - group is in a good head space 
+- I would like to see some repeative code refactored down.
