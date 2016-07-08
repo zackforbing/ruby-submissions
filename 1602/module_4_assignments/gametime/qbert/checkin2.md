@@ -10,7 +10,7 @@ Complete this Form before the second check in. Delete this line from your versio
 
 ### Status of blocks changes from inactive to active
 
-(Movement)![http://g.recordit.co/RjTM1KFS6M.gif]
+![http://g.recordit.co/RjTM1KFS6M.gif]
 - We went a little bit beyond this requirement to add a mock character that moves from block to block, activating them as it moves.
 
 ### Begin testing suite
