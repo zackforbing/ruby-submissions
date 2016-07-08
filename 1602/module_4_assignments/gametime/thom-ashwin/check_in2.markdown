@@ -64,12 +64,14 @@
     - Monday-Wednesday
   - Weapons packages
     - ?
+
 ### General Questions, Comments, Concerns?
 
   - Styling?
     - We feel self conscious
     - What should we aim for?
   - Start Button/Layering on our canvas implementation
+  
 -----
 
 ## Instructor Section
