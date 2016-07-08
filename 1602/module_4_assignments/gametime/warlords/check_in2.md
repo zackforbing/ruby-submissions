@@ -6,34 +6,37 @@ Complete this Form before the second check in. Delete this line from your versio
 
 ### GOAL 1
 
-  - Provide a screenshot or gif or link to code for this goal
-  - Did you deviate from the instructions? Tell us about it.
-  - Questions, Comments, Concerns?
+- [aws elasticbeanstalk] (http://warlordsnode-env.us-west-2.elasticbeanstalk.com/)
+- [heroku] (http://still-tundra-75849.herokuapp.com/?)
+- [github] (https://github.com/drew-t/node-gametime/tree/heroku_test)
+
+I did not deviate.  Need to figure out static file requiring in Node/Express.  Or move to 2 separate projects.
+
 
 ### GOAL 2
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+- [github] (https://github.com/drew-t/gametime/tree/paddle)
+
+No.  None.
+
 
 ### GOAL 3
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+- [github] (https://github.com/drew-t/gametime/tree/collision-test)
 
-### GOAL 4
+No. Testing private methods vs. assigning to object.  Refactoring ideas?
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
 
 ## Next Steps?
 
-- What do you feel the next steps should be?
+- Get sockets going with relevant information so that we can start using them for the actual project.
+- Integrate ball and paddles
+- Add walls/flag(player)
+- Have fun.
 
 ### General Questions, Comments, Concerns?
 
+To split or not to split, that is the question.
 -----
 
 ## Instructor Section
