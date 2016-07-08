@@ -32,7 +32,17 @@ Complete this Form before the second check in. Delete this line from your versio
 ## Instructor Section
 
 ### Points for Second Check In (base 50)
+50/50
 
 ### Instructor's Goals for Next Check In
+- Game Start
+- Game End
+- Death feature
+- Scoring/how you win/lose
+- Collision Detection between enemies and character
+
+- Extension - Animation of characters between squares.
+- Extension - Adding randomized enemies.
+- Extension - Scoreboard/Difficult with changing square colors/snakes
 
 ### Feedback?
