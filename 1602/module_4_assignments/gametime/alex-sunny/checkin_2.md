@@ -37,6 +37,25 @@ We are having trouble breaking stuff into other files during our refactoring pro
 
 ### Points for Second Check In (base 50)
 
+50/50
+
 ### Instructor's Goals for Next Check In
+
+- Finish refactor and test existing code
+- Multiple enemies
+  - Have all enemies respond to being hit
+  - Render enemies with sprites (?)
+  - Enemies come towards the ship - either planes move or the background moves
+
+- Decision on top down with levels vs increasing difficulty without rounds
+  - First pass on increasing difficulty in the code
+
+- Keep track of score
+
+Extra Credit
+
+- Form of upgrade - buy upgrade between levels or collect coins
+- Different enemy styles - different bullet styles
+- Boss enemy - big ship - has health and can't be killed immediately
 
 ### Feedback?
