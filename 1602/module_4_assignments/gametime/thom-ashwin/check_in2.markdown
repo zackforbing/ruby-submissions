@@ -13,6 +13,7 @@
   - Nope we're rule followers so far
 - Questions, Comments, Concerns?
   - Is there a better way to set the initial states of the player and computer plane than the conditionals?
+  
 ### GOAL 2 - Figure out JShint
 
 - Provide a screenshot or gif or link to code for this goal
