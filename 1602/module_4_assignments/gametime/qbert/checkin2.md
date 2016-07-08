@@ -40,6 +40,7 @@ Complete this Form before the second check in. Delete this line from your versio
 - Death feature
 - Scoring/how you win/lose
 - Collision Detection between enemies and character
+- TESTING
 
 - Extension - Animation of characters between squares.
 - Extension - Adding randomized enemies.
