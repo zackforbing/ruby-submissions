@@ -42,7 +42,16 @@ To split or not to split, that is the question.
 ## Instructor Section
 
 ### Points for Second Check In (base 50)
+50/50
 
 ### Instructor's Goals for Next Check In
+- Get sockets going with relevant information so that we can start using them for the actual project.
+- Integrate ball and paddles
+- Add walls/flag(player)
+- Refactor long methods in each class 
 
 ### Feedback?
+- continue with good communication (have stand up)
+- the pieces are there it's just getting to work together. 
+- continue refactoring long methods 
+- still figuring out what it's going to look like to get the sockets completely implemented. 
