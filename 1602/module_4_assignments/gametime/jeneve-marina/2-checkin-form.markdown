@@ -4,7 +4,7 @@
 
 ### Bird falls slowly
 
-#### [screen recording](http://g.recordit.co/TzUXZaA7bP.gif)
+#### ![screen recording](http://g.recordit.co/TzUXZaA7bP.gif)
 #### Did you deviate from the instructions? Tell us about it.
 _no, the bird falls by default, if the player types correctly the bird rises, if the player types incorrectly, the bird falls more_
 #### Questions, Comments, Concerns?
