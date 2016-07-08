@@ -33,8 +33,8 @@
 
 ### GOAL 4 - Extra Credit
 
-- Provide a screenshot or gif or link to code for this goal
-  -[Refactor scripts.js file](https://github.com/theonlyrao/1942/blob/24_animate-computer-plane/lib/javascripts/scripts.js)
+- Provide a screenshot or gif or link to code for this goal  
+  - [Refactor scripts.js file](https://github.com/theonlyrao/1942/blob/24_animate-computer-plane/lib/javascripts/scripts.js)
 - Did you deviate from the instructions? Tell us about it.
   - No
 - Questions, Comments, Concerns?
