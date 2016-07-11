@@ -3,25 +3,28 @@
 ## Instructor Goal Completion
 
 ### Game Start & End:
+
 	Start:
-	![http://g.recordit.co/BEZNsuVgDa.gif]
+	![Start](http://g.recordit.co/BEZNsuVgDa.gif)
 
 	End:
-	![http://g.recordit.co/pdY04ny2aY.gif]
+	![End](http://g.recordit.co/pdY04ny2aY.gif)
 
 ### Death Feature:
 
-	![http://g.recordit.co/wokwjcdOEk.gif]
+	![Death](http://g.recordit.co/wokwjcdOEk.gif)
 
 ### Scoring:
 
-	![http://g.recordit.co/3NZZ3Ba2QQ.gif]
+	![Scoring](http://g.recordit.co/3NZZ3Ba2QQ.gif)
 
 ### Collision Detection:
-	![http://g.recordit.co/s2yUuhlSC4.gif]
-	- Collisions between enemies and Qbert result in DEATH!
+
+	![Collisions](http://g.recordit.co/s2yUuhlSC4.gif)
+	- Collisions between enemies and Qbert result in DEATH
 
 ### Testing:
+
 	[Test Suite](http://www.github.com/s-espinosa/qbert/test)
 
 ### Extensions:
