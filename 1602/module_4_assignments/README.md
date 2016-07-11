@@ -31,3 +31,7 @@ In this folder, we will add yet another folder for each major assignment - and a
 
 * [Game Time](/gametime)
 * [The Concept of Require](https://gist.github.com/rrgayhart/ecfef18b681d0dca6ec2929c71e7c505) (5 points)
+
+#### Week 3
+
+* [Pizza Express](https://gist.github.com/rrgayhart/20a39fe470cad4a45da99dcda19c7f6b) (30 points)
