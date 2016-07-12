@@ -54,7 +54,10 @@ then....
 - fix the highsore bug 
 - fix bugs in keystroke scoring
 -  header and footer
+-  deploy to gh-pages
+
 ### Feedback?
 game concept is rad! 
 could look into delegating responsibility to other methods 
 I like the dom stuff!
+
