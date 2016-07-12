@@ -52,7 +52,8 @@ https://github.com/patrickwhardy/asteroids/blob/master/lib/asteroid.js#L33-L56
 - how to investigate for frame rate glitch?
 - steps for migrating to node
 
------
+### Extra Credit
+- MVP features as defined in Next Steps all completed
 
 ## Instructor Section
 
