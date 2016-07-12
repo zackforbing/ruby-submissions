@@ -47,6 +47,13 @@ Collisions between enemies and Qbert result in DEATH
 
 ### Points for Second Check In (base 50)
 
+50/50
+
 ### Instructor's Goals for Next Check In
+
+- Saving scores in local storage.
+- Level completion graphics and UI/graphics tweaks.
+- More complex enemies as levels increase.
+- Light refactoring as a group/adding some more testing
 
 ### Feedback?
