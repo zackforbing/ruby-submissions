@@ -10,7 +10,7 @@ Board built out (grid size, collection pieces )
 
   - Provide a screenshot or gif or link to code for this goal
 
-  
+
   ![screenshot](puzzlenary_screen_shot_ckin2.png)
 
 
@@ -62,7 +62,13 @@ Console log records individual cell ids.
 ## Instructor Section
 
 ### Points for Second Check In (base 50)
+- 50/50
 
 ### Instructor's Goals for Next Check In
+  - Random colors show up/flash
+  - Start Screen
+  - End Screen
+  - 3 Lives and a Game Over - Functionality of losing a life/Game Over
+  - Extension: ScoreBoard/Timed Game
 
 ### Feedback?
