@@ -37,7 +37,20 @@ Concerns:
 ## Instructor Section
 
 ### Points for Second Check In (base 50)
+50/50
 
 ### Instructor's Goals for Next Check In
+- Start Screen
+- Instructions
+- End Screen
+- Difficulty Level Increase/More Balls
+- Refactoring
+
+Bugs
+  - Jitter on paddle
+
+Extensions
+- Web Sockets
+- Choice Between Local/Online
 
 ### Feedback?
