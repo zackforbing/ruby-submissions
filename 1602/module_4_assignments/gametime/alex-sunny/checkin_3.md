@@ -45,8 +45,20 @@ Decision on top down with levels vs increasing difficulty without rounds
 
 ## Instructor Section
 
+
 ### Points for Second Check In (base 50)
+60/50
 
 ### Instructor's Goals for Next Check In
+  
+  - The time between now and when it's due should be spent polishing the application, adding tests, and looking at managing code quality(methods being refactored)
+  - look into partial functions, currying, and even closures 
+  - build out landing page for game 
+  - game page should explain how to play the game and it should have some styling.
+  - deployed to github pages.
+
 
 ### Feedback?
+  - great job reaching all of your goals 
+  - loved the drops. 
+  - if you have time look into the wing man and getting the drop to be bigger.
