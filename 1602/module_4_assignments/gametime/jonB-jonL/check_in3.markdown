@@ -24,7 +24,6 @@ http://recordit.co/Y74HaErlxX.gif
 
 ### GOAL 4 - Extra Credit 
 
-
 Rotating
 
 http://recordit.co/Y74HaErlxX.gif
@@ -43,7 +42,13 @@ Spawning Zombies. Score/Timer. Start and Game Over Screen. Make bullets dissapea
 ## Instructor Section
 
 ### Points for Second Check In (base 50)
+50/50
 
 ### Instructor's Goals for Next Check In
+- Start Screen
+- End Screen
+- Level Issue - Spawning Zombies/Increase in Difficulty
+- Instructions
+- Points/Score
 
 ### Feedback?
