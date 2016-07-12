@@ -13,26 +13,30 @@
 ### GOAL 2 - Collision detection for each plane  
 
 - Provide a screenshot or gif or link to code for this goal  
-  ![Computer plane animation](http://recordit.co/Fak86xvZbB.gif)  
+
+![Computer plane animation](http://recordit.co/Fak86xvZbB.gif)   
+
 - Did you deviate from the instructions? Tell us about it.  
-  - Nope  
-- Questions, Comments, Concerns?
+  - Nope   
+- Questions, Comments, Concerns?  
 
-### GOAL 3 - Bullet class built out and ready to go
+### GOAL 3 - Bullet class built out and ready to go 
 
-- Provide a screenshot or gif or link to code for this goal  
-  - [Bullet class file file](https://github.com/theonlyrao/1942/blob/36_refactor-planes/lib/javascripts/bullet.js)
-- Did you deviate from the instructions? Tell us about it.
-  - No
-- Questions, Comments, Concerns?
+- Provide a screenshot or gif or link to code for this goal   
+  - [Bullet class file file](https://github.com/theonlyrao/1942/blob/36_refactor-planes/lib/javascripts/bullet.js)  
+- Did you deviate from the instructions? Tell us about it.  
+  - No  
+- Questions, Comments, Concerns?  
 
 ### GOAL 4 - Multiple enemies
 
 - Provide a screenshot or gif or link to code for this goal  
-  - ![Computer plane animation](http://recordit.co/Fak86xvZbB.gif)  
+
+![Computer plane animation](http://recordit.co/ywc72w0Cp6.gif)  
+
 - Did you deviate from the instructions? Tell us about it.
-  - No
-- Questions, Comments, Concerns?
+  - No  
+- Questions, Comments, Concerns?  
 
 ## Next Steps?
 
