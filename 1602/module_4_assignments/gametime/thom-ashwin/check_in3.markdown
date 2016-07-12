@@ -59,7 +59,15 @@
 ## Instructor Section
 
 ### Points for Second Check In (base 50)
+50/50
 
 ### Instructor's Goals for Next Check In
+For Thursday
+  - You Won Screen
+  - Instructions/High Score (Increase in number of planes/frequency)
+  - Fix JSHint Errors
+  - Style Upgrades
+  - Refactoring
+  - Two Player (Extension)
 
 ### Feedback?
