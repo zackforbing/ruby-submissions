@@ -58,7 +58,16 @@ https://github.com/patrickwhardy/asteroids/blob/master/lib/asteroid.js#L33-L56
 ## Instructor Section
 
 ### Points for Second Check In (base 50)
-
+62/50
 ### Instructor's Goals for Next Check In
+- deploy to github pages 
+- style the page and have instructions on how to play 
+- define conrols 
+- refactor some of the large methods. 
 
 ### Feedback?
+
+game ui and ux are great! 
+logic behind game is also super great 
+look into adding your extesnion if you have time. 
+check out higher order functions in javascript
