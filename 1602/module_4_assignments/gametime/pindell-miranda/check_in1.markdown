@@ -66,4 +66,3 @@ The classic version of Pacman, but in 3D!
 - player can hit pellets (console log it hit a pellet) 
 - a couple of tests
 
-### Feedback?
