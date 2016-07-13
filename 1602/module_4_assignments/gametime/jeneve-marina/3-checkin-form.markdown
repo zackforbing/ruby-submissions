@@ -47,6 +47,17 @@ then....
 
 ### Points for Second Check In (base 50)
 
+55/50 
 ### Instructor's Goals for Next Check In
 
+- move the human interaction in the index.js into another class 
+- fix the highsore bug 
+- fix bugs in keystroke scoring
+-  header and footer
+-  deploy to gh-pages
+
 ### Feedback?
+game concept is rad! 
+could look into delegating responsibility to other methods 
+I like the dom stuff!
+
