@@ -61,6 +61,8 @@ More colors, good and bad, really hard level with 15 colors
 
 ### Points for Second Check In (base 50)
 
+55/50
+
 ### Instructor's Goals for Next Check In
 
 ### Feedback?
