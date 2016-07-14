@@ -1,5 +1,3 @@
-Complete this Form before the second check in. Delete this line from your version.
-
 # Game Time Check In # 2
 
 ## Instructor Goal Completion
@@ -48,10 +46,10 @@ To split or not to split, that is the question.
 - Get sockets going with relevant information so that we can start using them for the actual project.
 - Integrate ball and paddles
 - Add walls/flag(player)
-- Refactor long methods in each class 
+- Refactor long methods in each class
 
 ### Feedback?
 - continue with good communication (have stand up)
-- the pieces are there it's just getting to work together. 
-- continue refactoring long methods 
-- still figuring out what it's going to look like to get the sockets completely implemented. 
+- the pieces are there it's just getting to work together.
+- continue refactoring long methods
+- still figuring out what it's going to look like to get the sockets completely implemented.
