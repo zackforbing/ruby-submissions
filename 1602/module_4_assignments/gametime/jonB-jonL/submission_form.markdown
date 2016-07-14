@@ -15,7 +15,7 @@
  -[JonL](https://github.com/jdliss/game-time/commits?author=jdliss)
 
 ### Provide a Screenshot of your Game
--[Gameplay!](http://recordit.co/2mlKV4JWsB/gif/notify)
+-![Gameplay!](http://recordit.co/2mlKV4JWsB/gif/notify)
 
 ---
 
