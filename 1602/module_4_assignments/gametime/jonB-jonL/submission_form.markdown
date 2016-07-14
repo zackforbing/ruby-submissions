@@ -1,4 +1,4 @@
-Complete this Form before the final eval. Delete this line from your version.
+
 
 # GameTime Submission Form
 
