@@ -82,10 +82,42 @@ We had trouble figuring out a way for squares to swarm properly if they dont sta
 
 -----
 
+
+
 ### Please feel free to ask any other questions or make any other statements below!
 
 -----
 
 ## Instructor Feedback
 
-- Points: (base 300)
+- Points: 170/150
+
+### Functional Expectations
+
+* **35 points** - Application is fully playable and exceeds the expecations set by instructors
+
+### User Interface
+
+* **15 points** - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor _without_ guidance from the developer.
+
+### Testing
+
+* **25 points** - Project has a running test suite that tests and multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.
+
+### Java Style
+
+* **30 points** - Application has exceptionally well-factored code with little or now duplication and all components separated out into logical components. There _zero_ instances where an instructor would recommend taking a different approach.
+
+### Workflow
+
+* **25 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+### Code Review Feedback
+
+Did issues created by code reviewer get addressed
+
+* **15 points** - Yes
+
+### Extra Credit
+
+**25 points** Went above and beyond with working with mentors, code refactoring, best practices and understanding the language above just copying and pasting code that 'works' or bringing in 3rd party libraries in an unfamiliar language.
