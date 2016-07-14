@@ -1,68 +1,74 @@
-Complete this Form before the final eval. Delete this line from your version.
-
 # GameTime Submission Form
 
 ## Basics
 
 ### Link to the Github Repository for the Project
-[Your Repo](https://en.wikipedia.org/wiki/Atari_video_game_burial)
+[Your Repo](https://github.com/theonlyrao/1942)
 
 ### Link to the Deployed Application
-[Your Application](http://www.playr.org/play/e.t._the_extra_terrestrial_-_escape_from_planet_earth/872)
+[Your Application](https://theonlyrao.github.io/1942/)
 
 ### Link to Your Commits in the Github Repository for the Project
--[TeamMate1](http://ericsteinborn.com/github-for-cats/img/typing.gif)
- -[TeamMate 2](http://45.media.tumblr.com/96975bc08e24a9876e62311fdd0c4a34/tumblr_ne4ehpSJ5z1qa747mo1_500.gif)
+[Thom's commits](https://github.com/theonlyrao/1942/commits/master?author=thompickett)
+
+[Ashwin's commits](https://github.com/theonlyrao/1942/commits/master?author=theonlyrao)
 
 ### Provide a Screenshot of your Game
--![spacejam](https://i.ytimg.com/vi/EFt-La3UUu0/maxresdefault.jpg)
+![1942](./images/1942_screenshot.png)
 
 ---
 
 ## Completion
 
 ### Do You Consider the Application to be Fully Playable?
- - If not, list what functionality is missing.
+Yes, the application is fully functional.
 
 ### What Extensions, as Requested By an Instructor, Did You Complete?
-- Per Extension:
-  - Describe the extension
-  - Provide a .gif of the extension or a link to the relevant code
+We did not complete any extensions.
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
-- Per Feature:
- - Describe the feature
- - Provide a .gif of the feature in action or a link to the relevant code
+We did exetensive refactoring of plane classes in order to dry up our code and also to take advantage of new ES6 syntacical sugar. It is difficult to link to particular code that shows this, but the plane directory is [here](https://github.com/theonlyrao/1942/tree/master/lib/javascripts/planes).
 
 ----
 
 ## Risk Taking
-- What risks did you feel you took on this project?
-- How do you feel about those risks?
+The risks we took in this project are mostly under the surface. There are a lot of moving pieces in this game, as well as a need to inject randomness in order to make the game exciting. Building these features while also following good OOP design patterns was difficult.
 
 ----
 
 ## Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- Why were you proud of this piece of code?
+We are proud of our [collision detector](https://github.com/theonlyrao/1942/blob/master/lib/javascripts/collision_detector.js). First, we did it by hand in order to deal with the fact that our objects are not rectangles. Second, we did a lot of work to optimze the detection, such as limiting the cases in which detection was necessary.
+
+We also saw the benefits of TDD in this class. Because we knew that we simply wanted to be able to give it two objects and have it tell us whether they were going to collide or not, we were able to separate this class out and keep our code that much simpler.
 
 ### Link to a specific block of your code on Github that you feel not great about
-- Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+We are not thrilled about how we handle the creation of [levels](https://github.com/theonlyrao/1942/blob/master/lib/javascripts/level.js#L23-L37). There is too much happening in this particular function, because it is being asked to determine how many planes are created, what kinds of planes those are, and when they are "launched" into the game.
+
+We would very much have liked to apply SRP in this class. However, we did not implement levels until after we had all other elements in place. Although we tried to prepare for the implementation of levels, there were some things we didn't anticipate that resulted in this mishmash of code.
+
+This class is definitely an area we would have done very differently if we did this project again.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
+Test Suite Output
+![test suite output](./images/test_suite.png)
 
 ### Test Breakdown
-- How Many Unit Tests?
-- How Many Feature/Integration Tests?
+- 26 unit tests
+
+- 2 integration tests
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
+[Testing that plane can't move past bottom edge of canvas](https://github.com/theonlyrao/1942/blob/master/test/plane_moves_test.js#L74-L78)
 
 ### Provide a link to an example, if you have one, of a feature test that covers an 'edge case' or 'unhappy path'
+[Testing that collisions are detected even if touching at just one point](https://github.com/theonlyrao/1942/blob/master/test/destroy_planes_test.js#L6-L23)
 
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+It was great to go from knowing no javascript to feeling like we have some ability to write good OOP javascript.
 
 -----
 

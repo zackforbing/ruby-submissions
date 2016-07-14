@@ -10,7 +10,7 @@ Board built out (grid size, collection pieces )
 
   - Provide a screenshot or gif or link to code for this goal
 
-  
+
   ![screenshot](puzzlenary_screen_shot_ckin2.png)
 
 
