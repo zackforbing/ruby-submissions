@@ -177,3 +177,41 @@
 ## Instructor Feedback
 
 - Points: (base 300)
+
+## Evaluation Rubric
+
+155/150
+
+### Extra Credit
+
+* **50 points**
+
+Two different forms/repos for the multiplayer functionality 
+
+### Functional Expectations
+
+* **35 points** - Application is fully playable and exceeds the expecations set by instructors
+
+### User Interface
+
+* **10 points** - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+
+### Testing
+
+* **15 points** - Project has sporadic use of tests and multiple levels. The application contains numerous holes in testing and/or many features are untested.
+
+Testing is A+ on clientside - Testing is F- on Node. 
+
+### JavaScript Style
+
+* **20 points** - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### Workflow
+
+* **20 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+### Code Sanitation
+
+The output from JSHint shows…
+
+* **5 points** - Six to ten complaints
