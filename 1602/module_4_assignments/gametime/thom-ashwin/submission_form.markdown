@@ -1,5 +1,3 @@
-Complete this Form before the final eval. Delete this line from your version.
-
 # GameTime Submission Form
 
 ## Basics
@@ -11,11 +9,12 @@ Complete this Form before the final eval. Delete this line from your version.
 [Your Application](https://theonlyrao.github.io/1942/)
 
 ### Link to Your Commits in the Github Repository for the Project
--[Thom](https://github.com/theonlyrao/1942/commits/master?author=thompickett)
- -[Ashwin](https://github.com/theonlyrao/1942/commits/master?author=theonlyrao)
+[Thom's commits](https://github.com/theonlyrao/1942/commits/master?author=thompickett)
+
+[Ashwin's commits](https://github.com/theonlyrao/1942/commits/master?author=theonlyrao)
 
 ### Provide a Screenshot of your Game
--![1942](./images/1942_screenshot.png)
+![1942](./images/1942_screenshot.png)
 
 ---
 
