@@ -106,6 +106,8 @@ Spaceship
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
 
+[check ship collision](https://github.com/patrickwhardy/asteroids/blob/troubleshoot/test/game.js#L92-L114)
+
 ### Provide a link to an example, if you have one, of a feature test that covers an 'edge case' or 'unhappy path'
 
 -----
