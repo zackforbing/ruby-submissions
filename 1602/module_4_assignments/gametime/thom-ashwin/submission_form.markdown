@@ -15,7 +15,7 @@ Complete this Form before the final eval. Delete this line from your version.
  -[Ashwin](https://github.com/theonlyrao/1942/commits/master?author=theonlyrao)
 
 ### Provide a Screenshot of your Game
--![1942](/images/1942_screenshot.png)
+-![1942](./images/1942_screenshot.png)
 
 ---
 
@@ -40,7 +40,6 @@ The risks we took in this project are mostly under the surface. There are a lot 
 ## Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- Why were you proud of this piece of code?
 We are proud of our [collision detector](https://github.com/theonlyrao/1942/blob/master/lib/javascripts/collision_detector.js). First, we did it by hand in order to deal with the fact that our objects are not rectangles. Second, we did a lot of work to optimze the detection, such as limiting the cases in which detection was necessary.
 
 We also saw the benefits of TDD in this class. Because we knew that we simply wanted to be able to give it two objects and have it tell us whether they were going to collide or not, we were able to separate this class out and keep our code that much simpler.
@@ -54,22 +53,18 @@ This class is definitely an area we would have done very differently if we did t
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 Test Suite Output
-![test suite output](/images/test_suite.png)
+![test suite output](./images/test_suite.png)
 
 ### Test Breakdown
-- How Many Unit Tests?
-26 unit tests
+- 26 unit tests
 
-- How Many Feature/Integration Tests?
-2 integration tests
+- 2 integration tests
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
-Testing that plane can't move past bottom edge of canvas
-![bottom edge](https://github.com/theonlyrao/1942/blob/master/test/plane_moves_test.js#L74-L78)
+[Testing that plane can't move past bottom edge of canvas](https://github.com/theonlyrao/1942/blob/master/test/plane_moves_test.js#L74-L78)
 
 ### Provide a link to an example, if you have one, of a feature test that covers an 'edge case' or 'unhappy path'
-Testing that collisions are detected even if touching at just one point
-![corner collision](https://github.com/theonlyrao/1942/blob/master/test/destroy_planes_test.js#L6-L23)
+[Testing that collisions are detected even if touching at just one point](https://github.com/theonlyrao/1942/blob/master/test/destroy_planes_test.js#L6-L23)
 
 -----
 
