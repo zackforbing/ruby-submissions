@@ -38,6 +38,14 @@
 
 ### Points for Second Check In (base 50)
 
+50/50
+
 ### Instructor's Goals for Next Check In
+
+- Some way to kill the ghosts - shoot or interact with scenery
+- Mechanic of ghost disappearing - confusing visually, suggest sprites and a fade effect 
+- Scoring - show score throughout game
+- End of game, show score - show if you’re the high score 
+- Start and end could be directly on canvas
 
 ### Feedback?
