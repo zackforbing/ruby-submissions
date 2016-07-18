@@ -35,3 +35,8 @@ In this folder, we will add yet another folder for each major assignment - and a
 #### Week 3
 
 * [Pizza Express](https://gist.github.com/rrgayhart/20a39fe470cad4a45da99dcda19c7f6b) (30 points)
+* [Websockets Workshop]() (30 points)
+
+#### Week 4
+
+* [Refactor Tractor](https://gist.github.com/rrgayhart/49dcbed1f65d51e5a92e4ea1afb58e2e) (25 points)
