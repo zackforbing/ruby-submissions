@@ -72,7 +72,7 @@
 
 ## Instructor Feedback
 
-/150
+165/150
 
 ## Playability Features
 
