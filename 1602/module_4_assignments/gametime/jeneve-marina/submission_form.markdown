@@ -13,7 +13,7 @@
 #### [Marina's commits](https://github.com/jeneve/typrr-burn/commits/master?author=marinacor1)
 
 ### Provide a Screenshot of your Game
-#### ![TyprrBurn Screen Recording](http://recordit.co/bni8wbO2My)
+#### [TyprrBurn Screen Recording](http://recordit.co/bni8wbO2My)
 
 ---
 
@@ -23,7 +23,7 @@
 #### Yes, there are 6 levels, each increases in difficulty. The instructions are clear and gameplay is intuitive.
 
 ### What Extensions, as Requested By an Instructor, Did You Complete?
-#### ![he bird and the background are animated](http://recordit.co/hsVk47AOD8)
+#### [he bird and the background are animated](http://recordit.co/hsVk47AOD8)
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
 #### Concept:
