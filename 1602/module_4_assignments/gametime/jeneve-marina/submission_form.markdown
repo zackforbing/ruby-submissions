@@ -13,7 +13,7 @@
 #### [Marina's commits](https://github.com/jeneve/typrr-burn/commits/master?author=marinacor1)
 
 ### Provide a Screenshot of your Game
-#### ![TyprrBurn Screen Recording](http://recordit.co/bni8wbO2My)
+#### [TyprrBurn Screen Recording](http://recordit.co/bni8wbO2My)
 
 ---
 
@@ -23,7 +23,7 @@
 #### Yes, there are 6 levels, each increases in difficulty. The instructions are clear and gameplay is intuitive.
 
 ### What Extensions, as Requested By an Instructor, Did You Complete?
-#### ![he bird and the background are animated](http://recordit.co/hsVk47AOD8)
+#### [he bird and the background are animated](http://recordit.co/hsVk47AOD8)
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
 #### Concept:
@@ -72,4 +72,36 @@
 
 ## Instructor Feedback
 
-- Points: (base 300)
+165/150
+
+## Playability Features
+
+## Extensions
+
+* **25 points** - Playable and unique game - beyond expectations
+
+### Functional Expectations
+
+* **35 points** - Application is fully playable and exceeds the expecations set by instructors
+
+### User Interface
+
+* **15 points** - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor _without_ guidance from the developer.
+
+### Testing
+
+* **30 points** - Project has a running test suite that exercises the application at multiple levels. The test suite convers almost all aspects of the application and uses mocks and stubs when appropriate.
+
+### JavaScript Style
+
+* **20 points** - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### Workflow
+
+* **25 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+### Code Sanitation
+
+The output from JSHint shows…
+
+* **15 points** - Zero complaints
