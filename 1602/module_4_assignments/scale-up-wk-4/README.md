@@ -18,7 +18,7 @@
 
 ### Hours
 
-- Document your general hours below (or planned hours)
+Document your general hours below (or planned hours)
 
 - Mon (8 hours):
 - Tuesday (8 hours):
