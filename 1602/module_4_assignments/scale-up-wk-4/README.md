@@ -25,6 +25,7 @@ Document your general hours below (or planned hours)
 - Wednesday (8 hours):
 - Thursday (8 hours):
 - Friday (0 hours):
+- Weekend (0 hours):
 
 ### Participation
 
