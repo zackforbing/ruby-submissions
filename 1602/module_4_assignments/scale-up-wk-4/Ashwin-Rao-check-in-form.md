@@ -4,14 +4,11 @@
 
 # Student Feedback
 
-### Blog draft
+### Blog topics
 
-"How to animate CSS shapes using React"
+1. **How to create CSS shapes** - detailed look at what the `border-top`, `border-left`, and `border-bottom` attributes are doing in the css. There are several sites that use these attributes, but I haven't found a good explanation of what's going on with them anywhere.
 
-1. How to create CSS shapes (*will know how to do this by Friday pm*)
-2. How to use React to render the shapes (*same*)
-3. How to animate the shapes (*start on this over the weekend*)
-4. How to use React to animate the shapes (*figure this out next week*)
+2. **How to animate CSS shapes** - I think that animating the transition from one letter to another will require setting the starting and ending attributes of the shapes, controlling the transition, and setting a trigger. As a result, it would make for a useful smaller post.
 
 ### Hours
 
