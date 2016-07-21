@@ -2,33 +2,31 @@
 
 - [Project Spec: Whiskey Tango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
 
+
 # Student Feedback
 
 ### Blog draft
 
-[Blog Outlines] (https://gist.github.com/alirezaandersen/6403d2d1bfa623d8b06b1350c90e1ba0)
+* [https://medium.com/p/523c11c657a2/edit](https://medium.com/p/523c11c657a2/edit)
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
-- Past Weekend (3 Hours)
-- Mon (10 hours): (https://turingschool1.harvestapp.com/time/day/2016/07/18/1338967)
-- Tuesday (9.5 hours): (https://turingschool1.harvestapp.com/time/day/2016/07/19/1338967)
-- Wednesday (10.5 hours): (https://turingschool1.harvestapp.com/time/day/2016/07/20/1338967)
-- Thursday (8+TBD hours): (https://turingschool1.harvestapp.com/time/day/2016/07/21/1338967)
-- Friday (8 hours): (focus will be to able to access first api from outdoor adventure) No style just aiming for functionality
-- Weekend (TBD hours): (have to work this weekend, so my extra time will be spent on figuring out any blockers that I face tomorrow)
+- Mon (8 hours): 5:02
+- Tuesday (8 hours): 7:41
+- Wednesday (8 hours): 9:21
+- Thursday (8 hours): 2:26 (WIP)
+- Friday (0 hours):
+- Weekend (0 hours): 2:36
 
 ### Participation
 
-Speak to your participation in PRs (links would be nice) and in your project groups.
-
-Tino Esperanza - was a huge help assisting me trouble shooting. Even though he couldn't help me figure it out. The process of elimination of what could be wrong led me to find the solutions. Mad Shout out to Tino(1412).
-
+* https://github.com/patrickwhardy/webkeys/pull/1
 
 ### Work Completed
-The past few days have been nothing but tutorials mostly focused on React, my main obsitical that took me over 7 hours to figure out was the trouble Shooting of Android Studio. Finally after overcomming this on tuesday I spent Tuesday night and Wednesday going over React.native tutorials and am very happy to report I was able to get an API!!!!!!! However with that said I was not able to grab the API's I needed from my website. Not sure why, I think its a http versus an https thing. This week has been challenging by far, I am use to being able to produce some sort of progress in building my app. However with a language so new and very little guidence, I haven't been able to get the app going. The stress is high as I have only a week to finish this project.
+
+* [Repo](https://github.com/lingtran/girlsquad)
 
 # Instructor feedback
 

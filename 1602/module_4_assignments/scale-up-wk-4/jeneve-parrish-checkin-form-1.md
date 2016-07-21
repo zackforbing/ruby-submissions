@@ -1,34 +1,32 @@
-# Scale Up Submission Form (Check In) Instructions
+# Scale Up Submission Form (Check In)
 
-- [Project Spec: Whiskey Tango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
+- [Project Spec: Looking For Front End](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/boxtrot_prime_project.markdown)
 
 # Student Feedback
 
-### Blog draft
+### Blog outline
 
-[Blog Outlines] (https://gist.github.com/alirezaandersen/6403d2d1bfa623d8b06b1350c90e1ba0)
+- [Make an animated logo with Sketch and svg](https://gist.github.com/jeneve/d6ff2ade14b339c8f81613c09bdf0e16)
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
-- Past Weekend (3 Hours)
-- Mon (10 hours): (https://turingschool1.harvestapp.com/time/day/2016/07/18/1338967)
-- Tuesday (9.5 hours): (https://turingschool1.harvestapp.com/time/day/2016/07/19/1338967)
-- Wednesday (10.5 hours): (https://turingschool1.harvestapp.com/time/day/2016/07/20/1338967)
-- Thursday (8+TBD hours): (https://turingschool1.harvestapp.com/time/day/2016/07/21/1338967)
-- Friday (8 hours): (focus will be to able to access first api from outdoor adventure) No style just aiming for functionality
-- Weekend (TBD hours): (have to work this weekend, so my extra time will be spent on figuring out any blockers that I face tomorrow)
+- Mon (4:20 hours): Kick-off meeting, Creact tutorial, Refactor Tractor,
+- Tuesday (8 hours): React class part 1, Pair Programming with the team, Stand-up, Research into building an animated logo.
+- Wednesday (7.5 hours): Continued research (see above), React class part 2, Stand-up, Code Review, Pair Programming with the team, preparing for check-in (writing blog-post outline), working solo on de-coupling the search-bar component from the jobs-index.
+- Thursday (8 hours _planned_): CSS class, pair-programming with the team, solo work on animated logo and other issues, check-in
+- Friday (4 hours _planned_): pair-programming with the team, solo work on animated logo and other issues.
+- Weekend (8.2 hours _planned_): pair-programming with the team, solo work on animated logo and other issues.
 
 ### Participation
 
-Speak to your participation in PRs (links would be nice) and in your project groups.
-
-Tino Esperanza - was a huge help assisting me trouble shooting. Even though he couldn't help me figure it out. The process of elimination of what could be wrong led me to find the solutions. Mad Shout out to Tino(1412).
-
+I've reviewed the pull-requests made by [our team](https://github.com/LookingForMe/lookingForFrontEnd/pull/61) and the [back-end team](https://github.com/LookingForMe/lookingfor/pull/108), and have participated in several face to face conversations with the back-end team about what we needed from the new end-point they built. Many of the conversations surrounding our team's pull request have resulted in new issues- which seems cool.
 
 ### Work Completed
-The past few days have been nothing but tutorials mostly focused on React, my main obsitical that took me over 7 hours to figure out was the trouble Shooting of Android Studio. Finally after overcomming this on tuesday I spent Tuesday night and Wednesday going over React.native tutorials and am very happy to report I was able to get an API!!!!!!! However with that said I was not able to grab the API's I needed from my website. Not sure why, I think its a http versus an https thing. This week has been challenging by far, I am use to being able to produce some sort of progress in building my app. However with a language so new and very little guidence, I haven't been able to get the app going. The stress is high as I have only a week to finish this project.
+
+[here's a boiler-plate svg I created in Sketch while working through a tutorial](https://codepen.io/jeneve/pen/YWaVBq)
+[here's the added functionality of hitting enter to filter jobs that we added](https://github.com/LookingForMe/lookingForFrontEnd/blob/master/lib/components/SearchBarAndListings.js#L33)
 
 # Instructor feedback
 
