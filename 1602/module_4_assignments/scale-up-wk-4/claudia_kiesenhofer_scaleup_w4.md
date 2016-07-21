@@ -6,8 +6,8 @@
 
 ### Blog draft
 
- [Redirect Solution](https://gist.github.com/Claudia108/3db665ef12246ec0b782ac1cab9941c2)
- [Integrating React in Rails](https://gist.github.com/Claudia108/decc0f0d8ec682173fdac2a252ab006d)
+ * [Redirect Solution](https://gist.github.com/Claudia108/3db665ef12246ec0b782ac1cab9941c2)
+ * [Integrating React in Rails](https://gist.github.com/Claudia108/decc0f0d8ec682173fdac2a252ab006d)
 
 ### Hours
 
