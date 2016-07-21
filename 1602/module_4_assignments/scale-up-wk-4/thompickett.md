@@ -22,13 +22,13 @@ Document your general hours below (or planned hours)
 
 ### Participation
 
-I went to all my stand ups
-[Inline Comment on Ling's React App](https://github.com/lingtran/girlsquad/pull/3/files)
+I went to all my stand ups  
+[Inline Comment on Ling's React App](https://github.com/lingtran/girlsquad/pull/3/files)  
 
 ### Work Completed
 
-[Notes](https://gist.github.com/thompickett/1edb8218769b211126ed291093fe6aaa)
-[Playground](https://github.com/thompickett/webGl/tree/master/webgl-book-tutorial/1727_02/js)
+[Notes](https://gist.github.com/thompickett/1edb8218769b211126ed291093fe6aaa)  
+[Playground](https://github.com/thompickett/webGl/tree/master/webgl-book-tutorial/1727_02/js)  
 
 # Instructor feedback
 
