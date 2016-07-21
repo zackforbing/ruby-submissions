@@ -6,6 +6,7 @@
 - [Drew](https://github.com/drew-t)
 - [Josh](https://github.com/jwashke)
 
-### [Project Repo](https://github.com/drew-t/gametime)
-
-### [Project App](https://s-media-cache-ak0.pinimg.com/236x/a3/80/7e/a3807e09afab6d37ff5352a270a467b4.jpg)
+### [Websockets Repo](github.com/drew-t/node-gametime/)
+### [Websockets App](warlords1602.herokuapp.com)
+### [Local Multiplayer Repo](https://github.com/drew-t/gametime)
+### [Local Multiplayer App](jaredroth.github.io/warlords.html)
