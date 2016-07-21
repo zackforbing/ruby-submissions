@@ -23,7 +23,8 @@ Document your general hours below (or planned hours)
 ### Participation
 
 I went to all my stand ups  
-[Inline Comment on Ling's React App](https://github.com/lingtran/girlsquad/pull/3/files)  
+[Inline Comment on Ling's React App](https://github.com/lingtran/girlsquad/pull/3#discussion_r71765560)  
+[Inline Comment on Patrick's App](https://github.com/patrickwhardy/webkeys/pull/1#discussion_r71769673)  
 
 ### Work Completed
 
