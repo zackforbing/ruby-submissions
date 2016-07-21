@@ -80,7 +80,17 @@
 ## Instructor Section
 
 ### Points for Second Check In (base 50)
+55/50 
 
 ### Instructor's Goals for Next Check In
+- have the class that all planes inherit from built out
+- collision detection for each plane 
+- bullet class built out and ready to go 
+- Multiple enemies 
 
 ### Feedback?
+- I love how the classes are seperated 
+- Loved test coverage 
+- Would like to see the plane 'super' class built out 
+- group is in a good head space 
+- I would like to see some repeative code refactored down.
