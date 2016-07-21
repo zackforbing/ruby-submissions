@@ -14,32 +14,25 @@
 
 ### Blog outline
 
-- https://gist.github.com/marinacor1/09d79b8528e70293cbfff4fea9e688f2
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
-- Mon (8 hours): 7
-- Tuesday (8 hours): 7.5
-- Wednesday (8 hours): 8
-- Thursday (8 hours): 8
-- Friday (0 hours): 4
-- Weekend (0 hours): 6.5
+- Mon (8 hours):
+- Tuesday (8 hours):
+- Wednesday (8 hours):
+- Thursday (8 hours):
+- Friday (0 hours):
+- Weekend (0 hours):
 
 ### Participation
 
-Just talked to the developer who will be helping me today and he will check pull requests for me later this week.
-I commented on Claudia's pull request. Since it is only Wednesday, I plan to give feedback to at least one other person.
 
-Claudia's comments: https://github.com/Claudia108/TexArch/pull/58
 ### Work Completed
 
-Repo: https://github.com/marinacor1/aggregate_yo
-Research: React-Geosuggest https://github.com/ubilabs/react-geosuggest
-https://www.youtube.com/watch?v=L4aAP0Kd3Zg
 
-(I've also been working on technical prep this week with practice interviews with Ian Douglas and networking events.)
+
 # Instructor feedback
 
 ### Week 4
