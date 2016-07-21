@@ -7,7 +7,8 @@ Notes:
 * there's a rake file
 * 7 tests
 * Good REPL
-* 
+* Some opportunities to refactor.
+* Use predicate methods.
 
 ## Evaluation Rubric
 
