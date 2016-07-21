@@ -7,32 +7,36 @@
 ### Blog draft
 
 "How to animate CSS shapes using React"
-1. How to create CSS shapes
-2. How to use React to render the shapes
-3. How to animate the shapes
-4. How to use React to animate the shapes
+
+1. How to create CSS shapes (will know how to do this by Friday pm)
+2. How to use React to render the shapes (same)
+3. How to animate the shapes (start on this over the weekend)
+4. How to use React to animate the shapes (figure this out next week)
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
-- Saturday (0 hours): 1:40 hours, intro tutorials and reading
-- Mon (8 hours): 6:53 hours, finish intro reading and get express going
-- Tuesday (8 hours): 6:53 hours, css alignment exercises and struggle with React
-- Wednesday (8 hours): 7:20 hours, deploy on heroku with React and start drawing
-- Thursday (8 hours): planned 3 class hours + 4 working hours, finish drawing capital A and start lowercase
+- Saturday (0 hours): **1:40 hours**, intro tutorials and reading
+- Mon (8 hours): **6:53 hours**, finish intro reading and get express going
+- Tuesday (8 hours): **6:53 hours**, css alignment exercises and struggle with React
+- Wednesday (8 hours): **7:20 hours**, deploy on heroku with React and start drawing
+- Thursday (8 hours): **planned 3 class hours + 4 working hours**, finish drawing capital A and start lowercase
 - Friday (0 hours): finish lowercase, write something about how drawing was accomplished
 - Weekend (0 hours): research/start animation
 
 ### Participation
 
 [My PR](https://github.com/theonlyrao/alpha_animate/pull/7)
+
 [Jared's PR](https://github.com/LookingForMe/lookingfor/pull/108)
+
 [Chad's PR](https://github.com/chadellison/texas_holdem/pull/4)
 
 ### Work Completed
 
 [My repo](https://github.com/theonlyrao/alpha_animate)
+
 [Heroku](https://alphabet-animation.herokuapp.com/)
 
 # Instructor feedback
