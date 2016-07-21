@@ -53,8 +53,7 @@ Instructor/Developer will select one feature in the project to review for this s
   - Refactoring existing code to be scalable with other components
   
   * 50: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.
-  * 
 
 Weekend Plan:
- SVG Tutorial
-Continue talking about plan to refactor
+ SVG Tutorial  
+ Continue talking about plan to refactor  
