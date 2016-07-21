@@ -61,9 +61,37 @@ Complete this Form before the final eval. Delete this line from your version.
 ### Please feel free to ask any other questions or make any other statements below!
 
 - We're sorry
+- it's okay -yungJhun
 
 -----
 
+Functional Expectations
+
+
+25 points - Application is fully playable without crashes or bugs
+
+User Interface
+
+12 points - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+
+Test 
+
+25 points - Project has a running test suite that tests and multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.
+
+
+JavaScript Style
+
+17 points - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+Workflow
+
+25 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+
+
+The output from JSHint shows…
+10 points - Five or fewer complaints
+
+
 ## Instructor Feedback
 
-- Points: (base 300)
+- Points: 264/(base 300)
