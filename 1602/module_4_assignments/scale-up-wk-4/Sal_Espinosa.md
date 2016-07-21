@@ -40,7 +40,7 @@ Added issues.
 
 ### Week 4
 
-/150 points
+150/150 points
 
 ### Blog Post Draft (25 Points)  
 
