@@ -40,7 +40,7 @@ Document your general hours below (or planned hours)
 
 ### Week 4
 
-/150 points
+150/150 points
 
 ### Blog Post Draft (25 Points)  
  - No physical outline but has an organized plan for topics
