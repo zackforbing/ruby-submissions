@@ -39,6 +39,7 @@ Repo: https://github.com/marinacor1/aggregate_yo
 Research: React-Geosuggest https://github.com/ubilabs/react-geosuggest
 https://www.youtube.com/watch?v=L4aAP0Kd3Zg
 
+(I've also been working on technical prep this week with practice interviews with Ian Douglas and networking events.)
 # Instructor feedback
 
 ### Week 4
