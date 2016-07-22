@@ -2,12 +2,12 @@ Evaluator: Nate
 
 Notes:
 
-- Good work trying different routes patterns
-- Test your model logic in model tests
-- Revenue show action is getting too heavy
-- Use a serializer instead of writing keys into your model
-- Strong params don't belong in get requests
-- Good work not using enumerables in BI routes
+- Did the strong params mini-rant
+- Can speak to routes and controller organization
+- Did some experimentation with controller organization
+- Good test coverage
+- Some funky code in tests (don't use first on a hash)
+- Why fixtures ids not random?
 
 
 ### Feature Delivery
@@ -15,8 +15,8 @@ Notes:
 **1. Completion**
 
 * 4: Project completes all base requirements according to the spec harness.
-* **3: Project completes most requirements but fails 3 (5 for individual project) or fewer spec harness tests.**
-* 2: Project completes most requirements but fails 7 - 5 (10 to 6 for individual project) spec harness tests.
+* 3: Project completes most requirements but fails 3 (5 for individual project) or fewer spec harness tests.
+* **2: Project completes most requirements but fails 7 - 5 (10 to 6 for individual project) spec harness tests.**
 * 1: Project fails more than 7 (10 for individual project) spec harness tests.
 
 ### Technical Quality
@@ -37,8 +37,8 @@ Notes:
 
 **3. API Design**
 
-* 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
-* **3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.**
+* **4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.**
+* 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
 * 2: Project has inconsistencies or gaps in how its JSON data is organized or formatted.
 * 1: Project's API is not fully functional or has significant confusion around request formats.
 
