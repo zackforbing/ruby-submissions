@@ -46,7 +46,7 @@ Started a sample app with it: [Snap Me Up](https://github.com/kristindiannefoss/
 
 ### Week 4
 
-130/150 points
+150/150 points
 
 ### Blog Post Draft (25 Points)
 
@@ -55,9 +55,6 @@ Started a sample app with it: [Snap Me Up](https://github.com/kristindiannefoss/
 ### Team Participation (50 points)
 
   * 50: Developer participated daily in stand ups with the group (remote or in person). Developer was able to speak to their work in stand ups in a way that was clear and informative. Developer was involved in pull request reviews.
-  * 30: Developer participated daily in stand ups with the group (remote or in person). Developer has difficulty speaking to their work in stand ups.
-  * 
-  *** Marked as 30 for now - will update when more evidence provided**
 
 ### Hourly Work (25 points)
 
