@@ -12,7 +12,7 @@ repo:
 
 ### Christopher Soden
 
-repo:
+repo: https://github.com/seeker105/module_3_diagnostic
 
 ### Colin Osborn
 
