@@ -16,7 +16,7 @@ repo:
 
 ### Colin Osborn
 
-repo:
+repo: https://github.com/ColinOsborn/module_3_diagnostic
 
 ### Deborah Hamel
 
