@@ -4,7 +4,7 @@ repo:
 
 ### Brian Sayler
 
-repo:
+repo: https://github.com/saylerb/module_3_diagnostic
 
 ### Charles Kaminer
 
