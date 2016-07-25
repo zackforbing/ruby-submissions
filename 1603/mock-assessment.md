@@ -28,7 +28,7 @@ repo:
 
 ### Ilana Corson
 
-repo:
+repo: https://github.com/icorson3/module_3_diagnostic
 
 ### Jennifer Soden
 
