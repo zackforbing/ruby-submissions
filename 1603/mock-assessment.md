@@ -20,7 +20,7 @@ repo:
 
 ### Deborah Hamel
 
-repo:
+repo: https://github.com/deborahleehamel/module_3_diagnostic
 
 ### Erin Greenhalgh
 
