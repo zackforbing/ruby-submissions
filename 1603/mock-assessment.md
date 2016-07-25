@@ -56,7 +56,7 @@ repo:
 
 ### Parker Phillips
 
-repo:
+repo: https://github.com/ExCaelum/module-3-mock-assessment
 
 ### Robert Jaeger
 
