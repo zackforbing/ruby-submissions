@@ -32,7 +32,7 @@ repo:
 
 ### Jennifer Soden
 
-repo:
+repo: https://github.com/MsJennyGiraffe/module_3_diagnostic
 
 ### Karina Gonzalez
 
