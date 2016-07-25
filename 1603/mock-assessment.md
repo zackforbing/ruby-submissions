@@ -44,7 +44,7 @@ repo: https://github.com/kjs222/module_3_diagnostic
 
 ### Lucy Fox
 
-repo:
+repo: https://github.com/lucyfox4131/module_3_diagnostic.git
 
 ### Marcella Wigg
 
