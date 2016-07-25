@@ -48,7 +48,7 @@ repo:
 
 ### Marcella Wigg
 
-repo:
+repo: https://github.com/marcellawigg/module_3_diagnostic
 
 ### Nick Pisciotta
 
