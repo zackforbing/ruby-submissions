@@ -60,7 +60,7 @@ repo:
 
 ### Robert Jaeger
 
-repo:
+repo: https://github.com/robbiejaeger/module_3_diagnostic
 
 ### Ryan Batty
 
