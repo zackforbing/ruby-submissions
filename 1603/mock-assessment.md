@@ -16,7 +16,7 @@ repo: https://github.com/seeker105/module_3_diagnostic
 
 ### Colin Osborn
 
-repo:
+repo: https://github.com/ColinOsborn/module_3_diagnostic
 
 ### Deborah Hamel
 
