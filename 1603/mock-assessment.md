@@ -8,7 +8,7 @@ repo: https://github.com/saylerb/module_3_diagnostic
 
 ### Charles Kaminer
 
-repo:
+repo: https://github.com/ckaminer/module_3_diagnostic
 
 ### Christopher Soden
 
