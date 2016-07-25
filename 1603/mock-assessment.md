@@ -40,7 +40,7 @@ repo:
 
 ### Kerry Sheldon
 
-repo:
+repo: https://github.com/kjs222/module_3_diagnostic
 
 ### Lucy Fox
 
