@@ -24,7 +24,7 @@ repo: https://github.com/deborahleehamel/module_3_diagnostic
 
 ### Erin Greenhalgh
 
-repo:
+repo: https://github.com/ErinGreenhalgh/module_3_diagnostic
 
 ### Ilana Corson
 
