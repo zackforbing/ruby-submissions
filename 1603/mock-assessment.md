@@ -52,7 +52,7 @@ repo:
 
 ### Nick Pisciotta
 
-repo:
+repo: https://github.com/nickpisciotta/alt-fuel-finder
 
 ### Parker Phillips
 
