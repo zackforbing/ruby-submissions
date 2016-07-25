@@ -64,4 +64,4 @@ repo:
 
 ### Ryan Batty
 
-repo:
+repo: https://github.com/Riizu/module_3_diagnostic
