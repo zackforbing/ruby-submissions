@@ -1,6 +1,6 @@
 ### Anna Weisbrodt
 
-repo:
+repo: https://github.com/AnnaCW/module_3_diagnostic
 
 ### Brian Sayler
 
