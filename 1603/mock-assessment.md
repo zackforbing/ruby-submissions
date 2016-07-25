@@ -60,7 +60,7 @@ repo: https://github.com/ExCaelum/module-3-mock-assessment
 
 ### Robert Jaeger
 
-repo:
+repo: https://github.com/robbiejaeger/module_3_diagnostic
 
 ### Ryan Batty
 
