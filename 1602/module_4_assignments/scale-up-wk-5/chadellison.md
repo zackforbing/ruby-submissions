@@ -43,6 +43,7 @@ a lot more when there is more time to experiment with various suggestions.
 Stand ups were great because they helped involve other people in personal struggles and acheivements.
 I believe that the small amount of time doing stand ups improved the community, relieved some stress,
 and encouraged people to support one another.
+
 ### Please feel free to ask any other questions or make any other statements below!
 
 -----
