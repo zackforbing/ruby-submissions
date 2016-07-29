@@ -35,6 +35,7 @@ Also, I didn't know that I didn't have a clue about what state actually means in
 ### Link to blog post(s)
 
 [Learning from writing bad React](https://medium.com/@theonlyrao/rendering-components-in-different-dom-elements-with-react-343533dd7eef#.cmdxpgyr0)
+
 [Making shapes with CSS](https://medium.com/@theonlyrao/exploring-css-polygons-7a78212298b5#.d2otp3aam)
 
 ### Discuss: your experience doing PR reviews and getting PR feedback
@@ -54,8 +55,6 @@ I could do without the comments about formatting/comments/commit messages. But o
 ### Discuss: your experience doing daily stand ups
 
 It was a good exercise. I think a little harder for us independent study folks, since we couldn't really help each other that much. But it is good accountability because it really makes it clear that time is marching by ad work needs to get done.
-
-### Please feel free to ask any other questions or make any other statements below!
 
 -----
 
