@@ -1,32 +1,58 @@
-# Scale Up Submission Form - Open Source Projects
+# Scale Up Submission Form - Open Source Projects _Jeneve Parrish_
 
 ## Basics
 
-### Link(s) to the PRs or Issues You Picked Up
--[#21 Add BaseCamp](https://github.com/LookingForMe/lookingfor/pull/22)
--[#19 User Profiles](https://github.com/LookingForMe/lookingfor/pull/19)
+### Link(s) to the Issues I Picked Up
+-[#54 Animated Logo](https://github.com/LookingForMe/lookingForFrontEnd/issues/54)
+-[#55 Loader](https://github.com/LookingForMe/lookingForFrontEnd/issues/55)
 
-### Summarize what you worked on the last two weeks
+### Link(s) to the Issues My Team Picked up and Paired on
+-[#63 View Detail Button](https://github.com/LookingForMe/lookingForFrontEnd/issues/63)
+-[#66Refactor Job into JobListItem (short) and JobDetail (long)](https://github.com/LookingForMe/lookingForFrontEnd/issues/66)
+-[#60 Split SearchBarAndListings](https://github.com/LookingForMe/lookingForFrontEnd/issues/60)
+-[#58 Enter button in search](https://github.com/LookingForMe/lookingForFrontEnd/issues/58)
+
+### Summary of what I worked on the last two weeks
+
+I did a lot of research into animating with CSS, using the Sketch design app and SVG. I paired with my team to
+refactor the code in the project and fix some major bugs, and in so doing learned a lot about the structure and workings
+React components. I think we did work that will enormously help the next teams make real progress in adding new features and improving User Experience. I spent an inordinate amount of time debugging npm package version stuff on my machine.
 
 ### Hours logged this week?
 
-- Monday (0 hours):
-- Tuesday (8 hours):
-- Wednesday (8 hours):
-- Thursday (8 hours):
-- Friday (0 hours):
+- Monday (0 hours): _mock assessment_
+- Tuesday (8:30 hours): Class time, Standup, Pair Programming, Blog-post writing
+- Wednesday (5:45 hours):  Class time, Standup, Pair Programming, PR review
+- Thursday (6:30 hours): Class time, Standup, Pair Programming, PR review
+- Friday (2:30 hours): Blog Post, Submission Form
+- Saturday (2): Blog Post, Submission Form, PR Review/Merge
 
-### Talk about something from the pre-work that you didn't know about before this week.
+### Something I didn't know before the prework...
+
+How to structure a React App. I know know about state and props and how to use them. I know about Hash History and how the browser knows about state in a client-side application. I know the fundamentals of CSS animation.
 
 ### Link to blog post(s) submitted
 
+[Create a Simple Animation with Sketch and SVG](https://medium.com/@jeneve.parrish/create-a-simple-animation-with-sketch-and-svg-c4c513701b10#.rxwe1wn17)
+
 ### Discuss: your experience doing PR reviews and getting PR feedback
+
+It's pretty neat to get feedback from outside the project, much of what we heard from mentors was great feedback and often
+led to the creation of new issues on the project.
+
+It was always interesting to look at bits of code from Whiskey Tango projects in particular, and I was surprised that there was usually a little something that I could chime in on.
 
 ### Discuss: your experience doing daily stand ups
 
+Feels awkward, but maybe this is by design, to keep them short and on topic. I did like hearing about what the back-end team was doing.
+
 ### What features would you like to see the open source project you worked on have in the future?
 
+The back-end team created a new end-point for showing all past jobs per company, we didn't get around to using it, but that would be a great feature. Generally I'd love to see some wire-framing for the site so that design-oriented participants can push the look and feel of the site with agreed-upon intention.
+
 ### Please feel free to ask any other questions or make any other statements below!
+
+I wish there was more time for this...oh --- wait --- no, I don't --- I wish I had a job like this.
 
 -----
 
