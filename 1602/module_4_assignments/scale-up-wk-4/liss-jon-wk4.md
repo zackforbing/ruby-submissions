@@ -2,34 +2,41 @@
 
 - [Project Spec: Whiskey Tango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
 
+- [Project Spec: LookingFor Back End](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/looking_for_project.markdown)
+
+- [Project Spec: Looking For Front End](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/boxtrot_prime_project.markdown)
+
+- [Project Spec: mentorSHIP](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/mentorSHIP_project.markdown)
+
+- [Project Spec: Social Fellowship](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/social_fellowship_project.markdown)
+
 # Student Feedback
 
 ### Blog draft
 
-https://github.com/thompickett/thompickett.github.io/blob/webgl-egh/_posts/2016-07-20-webgl-egh.html
+[outline for big blog post](https://gist.github.com/jdliss/a2de73779cdd0a0180f0987cdba9d6fc)
+
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
-- Sun (3 hours): Prework 
-- Mon (6 hours): Mostly class time in the morning, and then spent some time on a tutorial I found.
-- Tuesday (10 hours): Finished the tutorial and then started reading into the book.
-- Wednesday (10 hours): Started the morning out reading and then in the afternoon I started writing an explanatory blog post.
-- Thursday (3 hours): Create submission form for todays meeting and work on the blog post/research.
-- Friday (0 hours): Go hang out with a guy Meeka described as weird, and then go hang out with in-laws.
-- Weekend (0 hours): Hang out with in-laws. I like them though.
+- Mon (8 hours):
+- Tuesday (8 hours):
+- Wednesday (8 hours):
+- Thursday (8 hours):
+- Friday (0 hours):
+- Weekend (0 hours):
 
 ### Participation
 
-I went to all my stand ups  
-[Inline Comment on Ling's React App](https://github.com/lingtran/girlsquad/pull/3#discussion_r71765560)  
-[Inline Comment on Patrick's App](https://github.com/patrickwhardy/webkeys/pull/1#discussion_r71769673)  
+* I've been merging PR's for now, getting beat to the punch on commenting on PR's after discussing mentor feedback with the group.
+
+* [link](https://github.com/LookingForMe/lookingForFrontEnd/pull/65#issuecomment-234078753)
 
 ### Work Completed
 
-[Notes](https://gist.github.com/thompickett/1edb8218769b211126ed291093fe6aaa)  
-[Playground](https://github.com/thompickett/webGl/tree/master/webgl-book-tutorial/1727_02/js)  
+* [lookingForFrontEnd](https://github.com/LookingForMe/lookingForFrontEnd)
 
 # Instructor feedback
 

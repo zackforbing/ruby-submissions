@@ -5,37 +5,35 @@
 # Student Feedback
 
 ### Blog draft
-
-https://github.com/thompickett/thompickett.github.io/blob/webgl-egh/_posts/2016-07-20-webgl-egh.html
+[Blog Outline](https://gist.github.com/chadellison/74f150165f9fe22622b9f383058557e2)
 
 ### Hours
 
-Document your general hours below (or planned hours)
+Hours of work time this week:
 
-- Sun (3 hours): Prework 
-- Mon (6 hours): Mostly class time in the morning, and then spent some time on a tutorial I found.
-- Tuesday (10 hours): Finished the tutorial and then started reading into the book.
-- Wednesday (10 hours): Started the morning out reading and then in the afternoon I started writing an explanatory blog post.
-- Thursday (3 hours): Create submission form for todays meeting and work on the blog post/research.
-- Friday (0 hours): Go hang out with a guy Meeka described as weird, and then go hang out with in-laws.
-- Weekend (0 hours): Hang out with in-laws. I like them though.
+- Mon (9 hours):
+- Tuesday (10 hours):
+- Wednesday (6 hours):
+- Thursday (8 hours):
+- Friday: Planning on (10 hours):
+- Weekend (0 hours):
 
 ### Participation
 
-I went to all my stand ups  
-[Inline Comment on Ling's React App](https://github.com/lingtran/girlsquad/pull/3#discussion_r71765560)  
-[Inline Comment on Patrick's App](https://github.com/patrickwhardy/webkeys/pull/1#discussion_r71769673)  
+Speak to your participation in PRs (links would be nice) and in your project groups.
+[PR I posted](https://github.com/chadellison/texas_holdem/pull/4)
+  I received feedback from two people
+[PR I Reviewed](https://github.com/LookingForMe/lookingfor/pull/108)
 
 ### Work Completed
 
-[Notes](https://gist.github.com/thompickett/1edb8218769b211126ed291093fe6aaa)  
-[Playground](https://github.com/thompickett/webGl/tree/master/webgl-book-tutorial/1727_02/js)  
+[My Repo](https://github.com/chadellison/texas_holdem)
 
 # Instructor feedback
 
 ### Week 4
 
-150/150 points
+/150 points
 
 ### Blog Post Draft (25 Points)  
 
@@ -48,6 +46,7 @@ I went to all my stand ups
 ### Hourly Work (25 points)
 
   * 25: Developer logged 7 to 8 hours per working day (or has a plan to do so over the weekend). Developer can speak to work completed during those hours.
+
 
 ### Risk Taking and Creativity (50 points)
 

@@ -6,48 +6,63 @@
 
 ### Blog draft
 
-https://github.com/thompickett/thompickett.github.io/blob/webgl-egh/_posts/2016-07-20-webgl-egh.html
+- [Blog Outlines](https://gist.github.com/drew-t/5b426ece676725f7b63debaf3ff18cfc)
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
-- Sun (3 hours): Prework 
-- Mon (6 hours): Mostly class time in the morning, and then spent some time on a tutorial I found.
-- Tuesday (10 hours): Finished the tutorial and then started reading into the book.
-- Wednesday (10 hours): Started the morning out reading and then in the afternoon I started writing an explanatory blog post.
-- Thursday (3 hours): Create submission form for todays meeting and work on the blog post/research.
-- Friday (0 hours): Go hang out with a guy Meeka described as weird, and then go hang out with in-laws.
-- Weekend (0 hours): Hang out with in-laws. I like them though.
+- Past Weekend (2.5 Hours)
+- Mon (5.5 hours):
+- Tuesday (6.5 hours):
+- Wednesday (4.5 hours):
+- Thursday (7 hours):
+- Friday (4 hours):
+- Weekend (2 hours):
 
 ### Participation
 
-I went to all my stand ups  
-[Inline Comment on Ling's React App](https://github.com/lingtran/girlsquad/pull/3#discussion_r71765560)  
-[Inline Comment on Patrick's App](https://github.com/patrickwhardy/webkeys/pull/1#discussion_r71769673)  
+[PR Comment](https://github.com/patrickwhardy/webkeys/pull/1/files#diff-2c88b7b3a46bd62fdace096686fdd47cR248)
+
+I haven't done as much PR participation as I would like, though I have spent some time helping people in person with Node and socket related questions.  I spent at least 30 minutes working with Chad yesterday on his Poker game trying to figure out some Action Cable things.  It was pretty interesting, though I'm not in love with the way Action Cable works.
+
+[My PR](https://github.com/drew-t/independent_study/pulls)
 
 ### Work Completed
 
-[Notes](https://gist.github.com/thompickett/1edb8218769b211126ed291093fe6aaa)  
-[Playground](https://github.com/thompickett/webGl/tree/master/webgl-book-tutorial/1727_02/js)  
+[Code Produced](https://github.com/drew-t/independent_study/tree/init-docker/myapp)
+
+[AWS ECS tutorial](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html)
+
+Addl Blogs & Tutorials:
+- http://blog.cloud66.com/migrating-a-rails-application-to-docker/
+
+Set up Heroku Docker CLI tools
+
+Linux Academy Docker classes
 
 # Instructor feedback
 
 ### Week 4
 
-150/150 points
+/150 points
 
 ### Blog Post Draft (25 Points)  
 
   * 25: Developer has **draft/outlines** for 2 small blog posts documenting something they have worked on for their independent study or one in depth blog post. Outline is reasonably in depth and shows research/thoughtfullness.
 
+
 ### Team Participation (50 points)
 
   * 50: Developer participated daily in stand ups with the group (remote or in person). Developer was able to speak to their work in stand ups in a way that was clear and informative. Developer was involved in pull request reviews.
 
-### Hourly Work (25 points)
+
+### Hourly Work (25 points) // check in with meeka
 
   * 25: Developer logged 7 to 8 hours per working day (or has a plan to do so over the weekend). Developer can speak to work completed during those hours.
+  * 15: Developer logged between 6 to 7 hours per working day
+  * 5: Developer logged < 6 hours per working day OR developer is unable to speak to or justify hours logged.
+  * 0: Developer did not track hours
 
 ### Risk Taking and Creativity (50 points)
 

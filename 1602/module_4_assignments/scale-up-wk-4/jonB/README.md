@@ -1,35 +1,39 @@
 # Scale Up Submission Form (Check In) Instructions
 
-- [Project Spec: Whiskey Tango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
+- [Project Spec: Social Fellowship](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/social_fellowship_project.markdown)
 
 # Student Feedback
 
 ### Blog draft
 
-https://github.com/thompickett/thompickett.github.io/blob/webgl-egh/_posts/2016-07-20-webgl-egh.html
+[Outline](https://gist.github.com/Jbern16/cc972e5bc1f9de4a36cb73301ea589b8)
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
-- Sun (3 hours): Prework 
-- Mon (6 hours): Mostly class time in the morning, and then spent some time on a tutorial I found.
-- Tuesday (10 hours): Finished the tutorial and then started reading into the book.
-- Wednesday (10 hours): Started the morning out reading and then in the afternoon I started writing an explanatory blog post.
-- Thursday (3 hours): Create submission form for todays meeting and work on the blog post/research.
-- Friday (0 hours): Go hang out with a guy Meeka described as weird, and then go hang out with in-laws.
-- Weekend (0 hours): Hang out with in-laws. I like them though.
+- Sun (2 Hours)
+- Mon (8 hours):
+- Tuesday (8 hours):
+- Wednesday (8 hours):
+- Thursday (8 hours): (Planned)
+[Report](https://turingschool1.harvestapp.com/reports) 
 
 ### Participation
 
-I went to all my stand ups  
-[Inline Comment on Ling's React App](https://github.com/lingtran/girlsquad/pull/3#discussion_r71765560)  
-[Inline Comment on Patrick's App](https://github.com/patrickwhardy/webkeys/pull/1#discussion_r71769673)  
+[PR 1](https://github.com/rootselementary/check_in_tool_rails/pull/15)
+[PR 2](https://github.com/rootselementary/check_in_tool_rails/pull/18)
+
+I've been an active member of this project for the past few days. Putting in at least 4 hours of porgramming time each day on the project.
+Matt and I were able to get a PR merged (PR1) and I am currently working on fleshing out some of the styling. 
+I was there for the IPM, and I am excited to keep contributing to this porject. Further, I paired with Jed on Wednesday and learned some awesome things about the code base.
 
 ### Work Completed
 
-[Notes](https://gist.github.com/thompickett/1edb8218769b211126ed291093fe6aaa)  
-[Playground](https://github.com/thompickett/webGl/tree/master/webgl-book-tutorial/1727_02/js)  
+[PR 1](https://github.com/rootselementary/check_in_tool_rails/pull/15)
+[PR 2](https://github.com/rootselementary/check_in_tool_rails/pull/18)
+Further, I am have been working on upping my algorithm game for interview, you can see my current progress here:
+[Algos](https://github.com/Jbern16/algos)
 
 # Instructor feedback
 
@@ -40,7 +44,7 @@ I went to all my stand ups
 ### Blog Post Draft (25 Points)  
 
   * 25: Developer has **draft/outlines** for 2 small blog posts documenting something they have worked on for their independent study or one in depth blog post. Outline is reasonably in depth and shows research/thoughtfullness.
-
+  
 ### Team Participation (50 points)
 
   * 50: Developer participated daily in stand ups with the group (remote or in person). Developer was able to speak to their work in stand ups in a way that was clear and informative. Developer was involved in pull request reviews.

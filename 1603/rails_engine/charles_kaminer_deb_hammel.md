@@ -2,13 +2,9 @@ Evaluator: Nate
 
 Notes:
 
-- Good work trying different routes patterns
-- Test your model logic in model tests
-- Revenue show action is getting too heavy
-- Use a serializer instead of writing keys into your model
-- Strong params don't belong in get requests
-- Good work not using enumerables in BI routes
-
+- GREAT!
+- Talked about things. Looks like you guys were writing.
+- Good job, Charlie, for walking Deb to her car at stupid'o'clock
 
 ### Feature Delivery
 
@@ -30,15 +26,15 @@ Notes:
 
 **2. Code Quality**
 
-* 4: Project demonstrates exceptionally well factored code.
-* **3: Project demonstrates solid code quality and MVC principles.**
+* **4: Project demonstrates exceptionally well factored code.**
+* 3: Project demonstrates solid code quality and MVC principles.
 * 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
 * 1: Project demonstrates poor factoring and/or understanding of MVC.
 
 **3. API Design**
 
-* 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
-* **3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.**
+* **4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.**
+* 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
 * 2: Project has inconsistencies or gaps in how its JSON data is organized or formatted.
 * 1: Project's API is not fully functional or has significant confusion around request formats.
 

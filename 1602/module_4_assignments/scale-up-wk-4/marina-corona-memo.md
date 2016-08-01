@@ -2,35 +2,44 @@
 
 - [Project Spec: Whiskey Tango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
 
+- [Project Spec: LookingFor Back End](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/looking_for_project.markdown)
+
+- [Project Spec: Looking For Front End](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/boxtrot_prime_project.markdown)
+
+- [Project Spec: mentorSHIP](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/mentorSHIP_project.markdown)
+
+- [Project Spec: Social Fellowship](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/social_fellowship_project.markdown)
+
 # Student Feedback
 
-### Blog draft
+### Blog outline
 
-https://github.com/thompickett/thompickett.github.io/blob/webgl-egh/_posts/2016-07-20-webgl-egh.html
+- https://gist.github.com/marinacor1/09d79b8528e70293cbfff4fea9e688f2
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
-- Sun (3 hours): Prework 
-- Mon (6 hours): Mostly class time in the morning, and then spent some time on a tutorial I found.
-- Tuesday (10 hours): Finished the tutorial and then started reading into the book.
-- Wednesday (10 hours): Started the morning out reading and then in the afternoon I started writing an explanatory blog post.
-- Thursday (3 hours): Create submission form for todays meeting and work on the blog post/research.
-- Friday (0 hours): Go hang out with a guy Meeka described as weird, and then go hang out with in-laws.
-- Weekend (0 hours): Hang out with in-laws. I like them though.
+- Mon (8 hours): 7
+- Tuesday (8 hours): 7.5
+- Wednesday (8 hours): 8
+- Thursday (8 hours): 8
+- Friday (0 hours): 4
+- Weekend (0 hours): 6.5
 
 ### Participation
 
-I went to all my stand ups  
-[Inline Comment on Ling's React App](https://github.com/lingtran/girlsquad/pull/3#discussion_r71765560)  
-[Inline Comment on Patrick's App](https://github.com/patrickwhardy/webkeys/pull/1#discussion_r71769673)  
+Just talked to the developer who will be helping me today and he will check pull requests for me later this week.
+I commented on Claudia's pull request. Since it is only Wednesday, I plan to give feedback to at least one other person.
 
+Claudia's comments: https://github.com/Claudia108/TexArch/pull/58
 ### Work Completed
 
-[Notes](https://gist.github.com/thompickett/1edb8218769b211126ed291093fe6aaa)  
-[Playground](https://github.com/thompickett/webGl/tree/master/webgl-book-tutorial/1727_02/js)  
+Repo: https://github.com/marinacor1/aggregate_yo
+Research: React-Geosuggest https://github.com/ubilabs/react-geosuggest
+https://www.youtube.com/watch?v=L4aAP0Kd3Zg
 
+(I've also been working on technical prep this week with practice interviews with Ian Douglas and networking events.)
 # Instructor feedback
 
 ### Week 4
