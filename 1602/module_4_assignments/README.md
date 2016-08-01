@@ -48,4 +48,4 @@ In this folder, we will add yet another folder for each major assignment - and a
 
 #### Week 6
 
-* [The Plan](/the-plan)
+* [The Plan](the-plan/)
