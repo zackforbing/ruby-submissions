@@ -43,7 +43,7 @@ It's been good to hear that other people are in the same boat but the timing is 
 
 # Instructor Evaluation:
 
-Points: (max 150)
+Points: (max 150) 150
 
 ### Blog Post (40 Points)  
   * 40: Developer has >= 2 blog posts documenting something they have worked on for their independent study or has one in depth blog post.
