@@ -2,20 +2,20 @@ Evaluator: Nate
 
 Notes:
 
-- Good work trying different routes patterns
-- Test your model logic in model tests
-- Revenue show action is getting too heavy
-- Use a serializer instead of writing keys into your model
-- Strong params don't belong in get requests
-- Good work not using enumerables in BI routes
+- What up with no tests? *tests were abandoned partially because test coverage was really good on the pivot at the cost of features, and I pushed them to do more features in future projects*
+- Good work not using enumerables in BI queries
+- Good use of formatting data on intake and presentation
+- Some inconsistencies in active record, but still pretty Good
+- Could use scopes for common where, like successful Transactions
+- Talked about how jBuilder is the one true customizer, but good use of serializers
 
 
 ### Feature Delivery
 
 **1. Completion**
 
-* 4: Project completes all base requirements according to the spec harness.
-* **3: Project completes most requirements but fails 3 (5 for individual project) or fewer spec harness tests.**
+* **4: Project completes all base requirements according to the spec harness.**
+* 3: Project completes most requirements but fails 3 (5 for individual project) or fewer spec harness tests.
 * 2: Project completes most requirements but fails 7 - 5 (10 to 6 for individual project) spec harness tests.
 * 1: Project fails more than 7 (10 for individual project) spec harness tests.
 
@@ -23,10 +23,10 @@ Notes:
 
 **1. Test-Driven Development**
 
-* **4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.**
+* 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
 * 3: Project demonstrates high test coverage (>80%) and tests at the controller and unit levels.
 * 2: Project demonstrates high test coverage (>70%) but does not adequately balance controller and unit tests.
-* 1: Project does not have 70% test coverage.
+* **1: Project does not have 70% test coverage.**
 
 **2. Code Quality**
 
@@ -37,8 +37,8 @@ Notes:
 
 **3. API Design**
 
-* 4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.
-* **3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.**
+* **4: Project exemplifies API design idioms, with consistent and coherent response structures, serializers to format JSON data, and effective request format handling.**
+* 3: Project uses strong and consistent data formats throughout, while relying mostly on standard Rails JSON features.
 * 2: Project has inconsistencies or gaps in how its JSON data is organized or formatted.
 * 1: Project's API is not fully functional or has significant confusion around request formats.
 
