@@ -22,7 +22,7 @@ I set out to make a two player web-based game using socket.io, node and express.
 ### Talk about something that you didn't know about before this week.
 I feel like the greatest benefit that this week has has provided me is a deeper understanding of what is going on in the projects that we've made in the past. Instead of moving forward as quickly as possible without full understanding of what I was implementing, I really took the time to find out what each module was doing and why. I think that I really expanded my toolset and ability to describe my work.
 
-### Link to [blog post](https://wordpress.com/post/kamiboers.wordpress.com/100)
+### Link to [blog post](https://kamiboers.wordpress.com/2016/08/01/the-basics-of-npm-node-express-and-socket-io/)
 
 ### Discuss: your experience doing PR reviews and getting PR feedback
 I doubt that this opinion will be popular, but I actually enjoyed the PR reviews. The commentary that I received on my pull request was pretty targeted criticism or praise, and it seemed like a pretty helpful and congenial conversation from my point of view. It was a little different to be offering code up for complete strangers in addition to classmates, but I really liked how easily people could point out issues in my code, and I was able to quickly make changes because of how specific these criticisms were. I'm sure it gets more charged in the workplace, but I think PR review can be a great tool if people are really interested in constructive criticism.
