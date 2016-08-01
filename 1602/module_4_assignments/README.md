@@ -41,3 +41,11 @@ In this folder, we will add yet another folder for each major assignment - and a
 
 * [Refactor Tractor](https://gist.github.com/rrgayhart/49dcbed1f65d51e5a92e4ea1afb58e2e) (25 points)
 * [Scale Up: Week 4](/scale-up-wk-4)
+
+#### Week 5
+
+* [Scale Up: Week 5](/scale-up-wk-5)
+
+#### Week 6
+
+* [The Plan](/the-plan)
