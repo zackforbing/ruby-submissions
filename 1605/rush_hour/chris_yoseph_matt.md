@@ -8,8 +8,7 @@ The project will be assessed with the following rubric:
 
 #### 2. Test-Driven Development
 
-/* * 3: Application is well tested but does not balance isolation and integration/feature tests */
-* 2: Application makes some use of tests, but the coverage is insufficient
+* 3: Application is well tested but does not balance isolation and integration/feature tests
 
 #### 3. Encapsulation / Breaking Logic into Components
 
