@@ -20,7 +20,7 @@
 
 ### Kerry Sheldon
 
-### Lucy Fox
+### Lucy Fox https://github.com/lucyfox4131/module_3_assessment
 
 ### Marcella Wigg
 
