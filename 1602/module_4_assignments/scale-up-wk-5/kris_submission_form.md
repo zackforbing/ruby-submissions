@@ -37,31 +37,49 @@ It was interesting to hear what everyone chose to work on and what their struggl
 
 # Instructor Evaluation:
 
-Points: (max 150)
+## Notes
+
+### Blog(s)
+
+I deeply enjoy reading your blog posts.
+
+`I've had classes on ajax but it's gone right over my head previously, since my head was so very full of other information.` is a delightful line
+
+`In my frothy wake lies one of the hardest but most rewarding academic pursuits of my life.` should be a part of our marketing material from here out out.
+
+`While hammering away on my final project yesterday, slumped into a functional coding fetal position, someone asked me how I made it through to the finish. Good question.` - Yes, yes, yes
+
+- I might have missed it - but make sure to link to the open source repo in your blog post on the gem.
+
+### General
+
+- I'd recommend adding some install instructions and deets to the README of the gem - as well as a link to the blog post that explains its creation!
+
+I'm glad you took the emotional risk of pushing yourself to do something on your own in this project - work with Josh Cheek - put yourself out there in stand ups and in PR reviews. I think you accomplished a ton and did great work. I think, at Turing, when you take your time learning topics, you can start to feel like you're not as good as a software developer or employable person as people who seem to rush through lessons and projects. This project, among many others, absolutely proves that this is not the case.
+
+You did an excellent job with articulating what you were working on in stand ups. As noted above, I really enjoy how you can speak to your experiences with humor, honesty, and lines like `functional coding fetal position`. I think this will really serve you well.  
+
+The PR review process is definitely difficult to go through when you're spiking/researching. I think it's also difficult to go through when you are not somehow convinced that your opinions on code are `important` regardless of knowing or not knowing the context of the code. If this situation comes up again, I'd recommend just picking one project/part of the code base other than your own to try and understand relatively well and only do PR review on that project/topic. 
+
+Code is usually only put up for PR review, to be merged into master, when you consider it well refactored and totally clean. The original plan of the scale up was to basically tie people to the requirement that code written, even if it takes longer, should be as researched and refactored as possible. I think there's nothing wrong with the decision to pivot to using the project as a place to stretch and learn instead - but I can definitely understand why the PR reviews in that context would be a bad match. I hope it doesn't color your view of PR review in general!
+
+## Score
+
+150/150
 
 ### Blog Post (40 Points)  
   * 40: Developer has >= 2 blog posts documenting something they have worked on for their independent study or has one in depth blog post.
-  * 25: Developer has one blog post less than 500 words long.
-  * 0: Developer created no blog posts.
 
 ### Team Participation (40 points)
 
   * 40: Developer participated daily in stand ups with the group (remote or in person). Developer was able to speak to their work in stand ups in a way that was clear and informative. Developer was involved in pull request reviews.
-  * 30: Developer participated daily in stand ups with the group (remote or in person). Developer has difficulty speaking to their work in stand ups.
-  * 20: Developer was absent for 1 stand up, did not participate actively in code reviews.
-  * 0: Developer was absent for > 1 standup, did not participate actively in lessons and peer reviews. Did not deliver or almost deliver any features.
 
 ### Hourly Work (30 points)
 
   * 30: Developer logged 7 to 8 hours per working day. Developer can speak to work completed during those hours.
-  * 20: Developer logged between 6 to 7 hours per working day
-  * 5: Developer logged < 6 hours per working day OR developer is unable to speak to or justify hours logged.
-  * 0: Developer did not track hours
 
 ### Risk Taking and Creativity (40 points)
 
   Instructor/Developer will select one feature in the project to review for this section of the rubric.
 
   * 40: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.
-  * 20: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.
-  * 10: Developers attempted to implement extensions using technologies not covered in class but it did not result in code or documentation.
