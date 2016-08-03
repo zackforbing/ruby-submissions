@@ -36,9 +36,10 @@
 
 - I loved the standups on the other hand. It kept me somewhat in the loop and connected. It was fun to hear what everyone else was working on. Also it was nice to hear everyone was struggling with the projects they picked and that I wasn't the only one.
 
-### Please feel free to ask any other questions or make any other statements below!
+### Please feel free to ask any other questions or make any other statements below! 
 
-- I know there was some blowback about how this went. That we should have had more classes and direction, but I disagree. It wasn't comfortable, but it was rewarding to go out on a limb and try new things. I think it's a great skill to work on before we're released into the wild.
+- There was some blowback about how this scale up project went. That we should have had more classes and direction, but I disagree. It wasn't comfortable, but it was rewarding to go out on a limb and try new things. I think it's a great skill to work on before we're released into the wild.
+
 -----
 
 # Instructor Evaluation:
