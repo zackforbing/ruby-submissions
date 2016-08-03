@@ -13,12 +13,12 @@
 ### Hours logged this week?
 
 - Monday (0 hours):
-- Tuesday (10 hours):
-- Wednesday (10 hours):
-- Thursday (3 hours):
+- Tuesday (8 hours): 10
+- Wednesday (8 hours): 10
+- Thursday (8 hours): 3
 - Friday (0 hours):
 
-- Total (23 hours out of 24)
+- Total (24 hours): 23
 
 ### Talk about something that you didn't know about before this week.
 
