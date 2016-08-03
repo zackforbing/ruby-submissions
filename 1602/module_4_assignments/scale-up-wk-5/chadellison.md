@@ -30,7 +30,7 @@ connection. I enjoyed figuring out how to do that, and it was easier than I thou
 it would be.
 
 ### Link to blog post(s)
-[Rails 5 Action Cable]("http://chadellison.github.io/jekyll/update/2016/07/29/Rails-5-ActionCable.html")
+[Rails 5 Action Cable](http://chadellison.github.io/jekyll/update/2016/07/29/Rails-5-ActionCable.html)
 
 ### Discuss: your experience doing PR reviews and getting PR feedback
 [PR Submission]("https://github.com/chadellison/texas_holdem/pull/22")
