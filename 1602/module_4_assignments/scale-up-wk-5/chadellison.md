@@ -12,7 +12,7 @@ other AI players, other users, or both, all with real time updates.
 
 ### Link(s) to Your Work
 
- - [Github Repo]("https://github.com/chadellison/texas_holdem")
+ - [Github Repo](https://github.com/chadellison/texas_holdem)
  - Production: coming soon!
 
 ### Hours logged this week?
