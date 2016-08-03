@@ -19,25 +19,37 @@ Locally.com
 
 - List any Turing/gSchool/Hungry Academy grads that work there
 - List anyone else you know that works there
+Talking to Caleb and Kirk
+
 - Link to the company's Github page(s)
+https://github.com/search?utf8=%E2%9C%93&q=mashable
+https://github.com/iPhoneHungry/Naked-Apartments
+
   - List any open source projects actively maintained (have commits in the last 6 months)
+  none
 - List the tech stack of the company
-  - You can find the tech stack in a few different ways
-    - Find their current and past job postings
-    - Look around their Github page
-    - Read through their blog posts
-    - Look at the LinkedIn profiles or Twitter pages or Meetup Profiles of current employees
-- Divide the tech stack into:
-  - tech you've worked with
-  - tech you're familiar with
-  - tech you know almost nothing about
-- List any meetups and events they have recently or will soon sponsor
-  - You can figure this out for searching for the company on eventbrite, meetup.com, reading through their blog and their twitter feed, etc.
-- List any technical interview information you can find about the company
-  - Find the company on GlassDoor
-  - Try googling 'Company Name Technical Interview Questions'
-- List 'pros' and 'cons' of working for this Company
-  - e.g. Pros: They're in the green energy field / Cons: They have bad reviews on Glassdoor
+Naked Apartments: Rails, JavaScript
+Mashable:
+Locally.com :Rails, JavaScript
+
+
+Glass Door Review for Naked Apartments:
+
+No Offer
+Neutral Experience
+Average Interview
+Application
+I applied online. I interviewed at Naked Apartments.
+
+Interview
+I had a phone screening, followed by a technical phone interview. I was sent a 'decline' email after the phone interview.
+
+I feel mostly neutral about the experience, though I went out of the phone interview feeling unexcited about the role. I felt the interviewer could have shown a little more enthusiasm, but maybe that's just me. Who knows. Overall, it was an alright experience.
+
+Interview Questions
+How would you refactor this small program?  
+
 - What is your next step to pursue working at this company?
+Skype convo with dev this week (Caleb), then apply direcly
 
 Spend some time researching and reaching out to the companies you profiled above. Study up on some of technologies that you are fuzzy on in their tech stack. Work on your applications and submit as many as you feel appropriate. Feel free to document your experiences below:
