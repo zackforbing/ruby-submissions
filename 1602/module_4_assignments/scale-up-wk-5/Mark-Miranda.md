@@ -43,31 +43,37 @@ This was a great project! Thank you!
 
 Instructor Evaluation:
 
-150 total points
+## Notes
 
+### Blog(s)
+
+- Definitely include links to the repos and possibly screenshots in the blog post. Links to the original and current projects would be good.
+
+- Really good background on the decisions behind the project, where other students were at when they created it, and what tech you chose.
+
+- The ending to the blog is a little bit weak - since the rest of it is so strong. This would be a really great place to include links to the handoff documentation and the repos. That can back up your claim that you made significant progress without you having to write it all out.
+
+### General
+
+You and Josh did, seriously, a phenomenal job on this project. Not only did you get a ton done and tackled difficult technical challenges, what's more impressive to me is that you did so in a very thoughtful and well documented way. You left the project in a better shape than I would have if I were trying to put it together for students to pick it up. It shows a level of skill and professionalism that is really rare, especially among 'junior' developers but honestly, even in senior developers. 
+
+## Score
+
+150/150
 ### Blog Post (40 Points)  
   * 40: Developer has >= 2 blog posts documenting something they have worked on for their independent study or has one in depth blog post.
-  * 25: Developer has one blog post less than 500 words long.
-  * 0: Developer created no blog posts.
+
 
 ### Team Participation (40 points)
 
   * 40: Developer participated daily in stand ups with the group (remote or in person). Developer was able to speak to their work in stand ups in a way that was clear and informative. Developer was involved in pull request reviews.
-  * 30: Developer participated daily in stand ups with the group (remote or in person). Developer has difficulty speaking to their work in stand ups.
-  * 20: Developer was absent for 1 stand up, did not participate actively in code reviews.
-  * 0: Developer was absent for > 1 standup, did not participate actively in lessons and peer reviews. Did not deliver or almost deliver any features.
 
 ### Hourly Work (30 points)
 
   * 30: Developer logged 7 to 8 hours per working day. Developer can speak to work completed during those hours.
-  * 20: Developer logged between 6 to 7 hours per working day
-  * 5: Developer logged < 6 hours per working day OR developer is unable to speak to or justify hours logged.
-  * 0: Developer did not track hours
 
 ### Risk Taking and Creativity (40 points)
 
   Instructor/Developer will select one feature in the project to review for this section of the rubric.
 
   * 40: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.
-  * 20: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.
-  * 10: Developers attempted to implement extensions using technologies not covered in class but it did not result in code or documentation.
