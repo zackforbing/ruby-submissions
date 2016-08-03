@@ -44,31 +44,48 @@
 
 # Instructor Evaluation:
 
-Points: (max 150)
+## Notes
+
+### Blog(s)
+
+- `WebGL kind of sucks to learn at first though. The tutorials you'll find are mostly subpar, with few exceptions.` Since this blog post is about WebGL, the odds of someone else who wrote a blog post or tutorial about it reading this post are pretty high. With that in mind, I'd make this statement a little more PC as it currently reads a little judgemental. Maybe something like `I found WebGL difficult to teach to myself through tutorials.`
+
+- I dig the use of `Bing` over `Google` here.. haha
+
+I really like the direction you took on the blog post
+
+If you're looking for a 'networking' opportunity - may I suggest finding some WebGL developers - sending them the blog and telling them that you would like some suggestions on more advanced resources since you blog covers the beginner's track. I don't think the blog technically needs it, but it's a low hassle request that could get you in contact with WebGL devs.
+
+
+### General
+
+This last commit should proooooobably not stay the last commit in your public repo https://github.com/thompickett/webGl/commit/70263e1351542dba3861350fd5cd937e0c3e6bc8 - just because the first thing someone would see would be the words `shit` and then `spike` and those two together are not something you want associated with your personal brand - from, like, a human imagination standpoint!
+
+Seriously though, even though it's a playground, I would recommend adding a readme that links to your blogpost and just states that this is a playground (you could just take the summary from this submission form).
+
+I think given the other obligations going on - it's reasonable to feel detached from the PR process. I think you and Kris were in the same boat where a. it was important to you that the work you do be exploratory (so requesting PR reviews feels silly and counterproductive, because the code isn't meant to be 'merged to master' and b. it was important to you to explore independently
+
+I'd never really thought about that perspective before - it's probably a really good thing to talk about at the beginning of scale up.
+
+Thank you for the feedback on your thoughts around the blowback. There's always going to be blowback, but I'm really glad the project worked for you in most ways. Good work on this even and especially during the entire process of getting married :D 
+
+## Score
+
+150/150
 
 ### Blog Post (40 Points)  
   * 40: Developer has >= 2 blog posts documenting something they have worked on for their independent study or has one in depth blog post.
-  * 25: Developer has one blog post less than 500 words long.
-  * 0: Developer created no blog posts.
 
 ### Team Participation (40 points)
 
   * 40: Developer participated daily in stand ups with the group (remote or in person). Developer was able to speak to their work in stand ups in a way that was clear and informative. Developer was involved in pull request reviews.
-  * 30: Developer participated daily in stand ups with the group (remote or in person). Developer has difficulty speaking to their work in stand ups.
-  * 20: Developer was absent for 1 stand up, did not participate actively in code reviews.
-  * 0: Developer was absent for > 1 standup, did not participate actively in lessons and peer reviews. Did not deliver or almost deliver any features.
 
 ### Hourly Work (30 points)
 
   * 30: Developer logged 7 to 8 hours per working day. Developer can speak to work completed during those hours.
-  * 20: Developer logged between 6 to 7 hours per working day
-  * 5: Developer logged < 6 hours per working day OR developer is unable to speak to or justify hours logged.
-  * 0: Developer did not track hours
 
 ### Risk Taking and Creativity (40 points)
 
   Instructor/Developer will select one feature in the project to review for this section of the rubric.
 
   * 40: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.
-  * 20: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.
-  * 10: Developers attempted to implement extensions using technologies not covered in class but it did not result in code or documentation.
