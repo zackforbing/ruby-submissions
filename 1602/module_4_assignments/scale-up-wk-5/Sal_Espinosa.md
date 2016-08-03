@@ -41,31 +41,48 @@ I really liked this project. I really liked the feeling of working with my team,
 
 Instructor Evaluation:
 
-150 total points
+## Notes
+
+### Blog(s)
+
+##### Commits and the People Who Love Them
+
+- Having given the assignment - this blog post was super intersting to read. Excellent way of presenting the comments/code being commented (inline and also with links)
+
+- The paragraph discussing the types of responses (Directly Related, etc) could benefit from being visually broken up a little bit - either with line breaks or some judicious bolding.
+
+- Minor spelling error: I definitely felt responsible for making sure their requests didn't go `unannswered`.
+
+##### Up to Speed With React
+
+- Would suggest linking the repo early on in the post
+
+- I'd really like to actually link this blog post in the README of the front end repo - I think it would be super helpful to the next batch of students
+
+
+### General
+
+Thanks for the work you did on this project and for taking on (being assigned because obviously) the role of project lead. Most teams tend to push towards adding features rather than spending time to refactor and leave the code base in a better place - so it takes good leadership to get a team to both move in that direction and to also find that work interesting and fulfilling. Not that I am telling you anything you don't already know - but it's very appreciated!
+
+Interesting perspective on the Project Stand Ups and being on the serious side. I think the stand up during Scale Up is kind of a combination of actual project/company stand up and also a little bit of a release vent. From a human perspective, I think having someone at a stand up who is confident in the work they have accomplished, and what they're doing next and presents it professionally and all business is actually just as heart warming (if not more) than someone who is joking around. You never came off as being overly serious or not personable (I suspect this would be difficult for you to accidentally do ever). Sometimes being the prepared/reasonable one in the meeting actually allows other people to feel more comfortable, and more open. I wouldn't change a thing (unless you felt disconnected from the group).
+
+## Score
+
+150/150
 
 ### Blog Post (40 Points)  
   * 40: Developer has >= 2 blog posts documenting something they have worked on for their independent study or has one in depth blog post.
-  * 25: Developer has one blog post less than 500 words long.
-  * 0: Developer created no blog posts.
 
 ### Team Participation (40 points)
 
   * 40: Developer participated daily in stand ups with the group (remote or in person). Developer was able to speak to their work in stand ups in a way that was clear and informative. Developer was involved in pull request reviews.
-  * 30: Developer participated daily in stand ups with the group (remote or in person). Developer has difficulty speaking to their work in stand ups.
-  * 20: Developer was absent for 1 stand up, did not participate actively in code reviews.
-  * 0: Developer was absent for > 1 standup, did not participate actively in lessons and peer reviews. Did not deliver or almost deliver any features.
 
 ### Hourly Work (30 points)
 
   * 30: Developer logged 7 to 8 hours per working day. Developer can speak to work completed during those hours.
-  * 20: Developer logged between 6 to 7 hours per working day
-  * 5: Developer logged < 6 hours per working day OR developer is unable to speak to or justify hours logged.
-  * 0: Developer did not track hours
 
 ### Risk Taking and Creativity (40 points)
 
   Instructor/Developer will select one feature in the project to review for this section of the rubric.
 
   * 40: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.
-  * 20: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.
-  * 10: Developers attempted to implement extensions using technologies not covered in class but it did not result in code or documentation.
