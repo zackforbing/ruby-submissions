@@ -27,4 +27,4 @@ The project will be assessed with the following guidelines:
 * 4: Application consistently makes use of the best-choice Enumerable methods
 
 ### 6. Code Sanitation
-* 4: Zero complaints
+* 4: Zero complaints 
