@@ -31,7 +31,7 @@
   I learned how to integrate youtube videos via iframe in an app. It will allow my client to independently add/edit/delete videos about his work. Connected to that I learned how to use youtube for uploading and editing videos. So fun and exciting to get this figured out all by myself!!!
 
 ### Link to blog post(s)
-  [Redirect Solution](https://gist.github.com/Claudia108/3db665ef12246ec0b782ac1cab9941c2)
+  [Redirect Solution](https://medium.com/@Claudia108/rails-redirect-to-former-page-using-oauth-7e55316aa881#.rx71k0io0)
 
 ### Discuss: your experience doing PR reviews and getting PR feedback
   I felt a little insecure at first putting my work out there and putting my opinions about other's code out there. But both was a great experience. Feedback I got made me look for a better solution which made the quality of my code better. Reviewing other's code taught me new things of how one can do things.

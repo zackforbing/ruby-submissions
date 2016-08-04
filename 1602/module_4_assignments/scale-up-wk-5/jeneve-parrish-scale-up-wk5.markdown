@@ -58,31 +58,44 @@ I wish there was more time for this...oh --- wait --- no, I don't --- I wish I h
 
 Instructor Evaluation:
 
-150 total points
+## Notes
+
+### Blog(s)
+
+- This blog is amazing. Will you come write content for the front end course with us?
+
+- No, seriously, this tutorial is excellent.
+
+- The formatting of the blog post makes it unreadable in a mobile format - I'm guessing because of the tables? LMK if you want any help making it more responsive (either I or Louisa or Allison can try and halp!)
+
+- Minor spelling error: SVGs are smaller file size compared to other `statndard` image formats
+
+
+### General
+
+I am not surprised by this, but you did a wonderful job documenting and leaving things for the next class to work from and towards. 
+
+I think you're right that the work done this module will elevate the project experience for the next group. I am also very glad that you pointed out and flagged the fact that we need wireframes to work from so that design oriented people on the project can move forward easier (and so that non-design oriented people can also move forward easier, without adding, I don't know, various shades of neon green).
+
+It was great to hear the story of you working with your brother to do some npm debugging (even though the fact that you had to do so much debugging is a bummer).
+
+## Score
+
+150/150
 
 ### Blog Post (40 Points)  
   * 40: Developer has >= 2 blog posts documenting something they have worked on for their independent study or has one in depth blog post.
-  * 25: Developer has one blog post less than 500 words long.
-  * 0: Developer created no blog posts.
 
 ### Team Participation (40 points)
 
   * 40: Developer participated daily in stand ups with the group (remote or in person). Developer was able to speak to their work in stand ups in a way that was clear and informative. Developer was involved in pull request reviews.
-  * 30: Developer participated daily in stand ups with the group (remote or in person). Developer has difficulty speaking to their work in stand ups.
-  * 20: Developer was absent for 1 stand up, did not participate actively in code reviews.
-  * 0: Developer was absent for > 1 standup, did not participate actively in lessons and peer reviews. Did not deliver or almost deliver any features.
 
 ### Hourly Work (30 points)
 
   * 30: Developer logged 7 to 8 hours per working day. Developer can speak to work completed during those hours.
-  * 20: Developer logged between 6 to 7 hours per working day
-  * 5: Developer logged < 6 hours per working day OR developer is unable to speak to or justify hours logged.
-  * 0: Developer did not track hours
 
 ### Risk Taking and Creativity (40 points)
 
   Instructor/Developer will select one feature in the project to review for this section of the rubric.
 
   * 40: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.
-  * 20: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.
-  * 10: Developers attempted to implement extensions using technologies not covered in class but it did not result in code or documentation.

@@ -12,6 +12,8 @@ Repo: https://github.com/ckaminer/module_3_assessment
 
 ### Christopher Soden
 
+Repo: https://github.com/seeker105/module_3_assessment
+
 ### Colin Osborn
 
 Repo: https://github.com/colinosborn/module_3_assessment
@@ -21,6 +23,8 @@ Repo: https://github.com/colinosborn/module_3_assessment
 Repo: https://github.com/deborahleehamel/module_3_assessment
 
 ### Erin Greenhalgh
+ 
+ Repo: https://github.com/ErinGreenhalgh/module_3_assessment
 
 ### Ilana Corson
 
