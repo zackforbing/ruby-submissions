@@ -29,9 +29,9 @@ Notes:
 **1. Test-Driven Development**
 
 * 4: Project shows exceptional use of testing at different layers (above 95% coverage).
-* 3: Project shows adequate testing (90% - 95% coverage).
+* **3: Project shows adequate testing (90% - 95% coverage).**
 * 2: Project shows gaps in test usage/coverage/design (85 - 90% coverage).
-* **1: Project lacks sufficient testing (under 85% coverage).**
+* 1: Project lacks sufficient testing (under 85% coverage).
 
 **2. Code Quality**
 
