@@ -13,15 +13,19 @@
 # Basics
 
 ### Link to the Github Repository for the Project
+
 [Idea Box Repo](https://github.com/saylerb/idea-box)
 
-[[###]] Link to the Deployed Application
+### Link to the Deployed Application
+
 [Idea Cubby](https://lit-woodland-67058.herokuapp.com/)
 
 ### Link to Your Commits in the Github Repository for the Project
+
 [Your Commits](https://github.com/saylerb/idea-box/commits/master)
 
 ### Provide a Screenshot of your Application
+
 ![screenshot](http://i.imgur.com/Bd0rggZ.png)
 
 ## Completion
