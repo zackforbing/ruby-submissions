@@ -33,8 +33,11 @@
 ### Were you able to complete the base functionality?
 * If not, list what functionality is missing.
 
+- Yes, I completed the base functionality.
+
 ### Which extensions, if any, did you complete?
-No extensions
+
+- No extensions
 
 ### Attach a .gif, or images of any extensions work being used on the site.
 
