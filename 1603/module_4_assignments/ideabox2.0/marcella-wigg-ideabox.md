@@ -1,4 +1,4 @@
-# Ideabox 2.0 Submission Form - Anna Weisbrodt
+# Ideabox 2.0 Submission Form - Marcella Wigg
 
 [Project Spec](https://github.com/turingschool/curriculum/blob/master/source/projects/revenge_of_idea_box.markdown)
 
@@ -23,7 +23,6 @@
 [Commits](https://github.com/marcellawigg/bright-ones/commits/master)
 
 ### Provide a Screenshot of your Application
-![screenshot](https://cloud.githubusercontent.com/assets/17806544/17761550/3793b36a-64c5-11e6-9d70-aaaea8383c9a.png)
 
 ## Completion
 
@@ -53,7 +52,7 @@
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
-[Screenshot](http://imgur.com/a/4twfj)
+![Screenshot](http://i.imgur.com/boW4LXx.png)
 
 #### MINITEST
 
@@ -80,3 +79,73 @@ Failed to do this.
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
+# Instructor Feedback
+
+78/150
+
+*** Very minor amending needs to be done and score will rise significantly when done :D See note below ***
+
+### Data Model
+
+(5 points total.)
+
+### User Flows
+
+#### Viewing ideas
+
+(5 points total.)
+
+Buggy truncation
+
+#### Adding a new idea
+
+(15 points total.)
+
+#### Deleting an existing idea
+
+***(15 points total.)***
+
+Needs to be fixed for new idea
+
+#### Changing the quality of an idea
+
+**(15 points total.)**
+
+Needs to be fixed for new idea
+
+#### Editing an existing idea
+
+**(20 points total.)**
+
+Needs to be fixed for new idea
+
+#### Idea Filtering and Searching
+
+(15 points total.)
+
+## Instructor Evaluation Points
+
+### Specification Adherence
+
+* **10 points**
+
+### User Interface
+
+* **3 points** - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+
+### Testing
+
+* **5 points** - Project has sporadic use of tests and multiple levels. Not all controller actions are tested. There are little or no attempts at integration testing.
+
+### Ruby and Rails Quality
+
+* **8 points** - Developer solves problems with a balance between conciseness and clarity and often extracts logical components. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### JavaScript Style
+
+* **5 points** - Your application has some duplication and minor bugs. Developer can speak to most choices made in the code and knows what every line is doing.
+
+### Workflow
+
+* **10 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
