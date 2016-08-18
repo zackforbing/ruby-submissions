@@ -71,3 +71,69 @@ Finished in 1.89 seconds (files took 2.33 seconds to load)
 -----
 
 ### Please feel free to ask any other questions or make any other statements below!
+
+# Instructor Feedback
+
+133/150
+
+***Ability to ammend scores below***
+
+### Data Model
+
+(5 points total.)
+
+### User Flows
+
+#### Viewing ideas
+
+5 points
+
+***Truncation saves incorrectly - has option to ammend***
+
+#### Adding a new idea
+
+(15 points total.)
+
+#### Deleting an existing idea
+
+(15 points total.)
+
+#### Changing the quality of an idea
+
+(15 points total.)
+
+#### Editing an existing idea
+
+(20 points total.)
+
+#### Idea Filtering and Searching
+
+***10 points total.***
+
+Fix bug in entering capitalized mismatch to bump to 15
+
+## Instructor Evaluation Points
+
+### Specification Adherence
+
+* **10 points**
+
+### User Interface
+
+* **5 points** - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor _without_ guidance from the developer.
+
+### Testing
+
+* **5 points** - Project has sporadic use of tests and multiple levels. Not all controller actions are tested. There are little or no attempts at integration testing.
+
+### Ruby and Rails Quality
+
+* **10 points** - Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and push business logic down where it belongs. There _zero_ instances where an instructor would recommend taking a different approach. Developer writes code that is exceptionally clear and well-factored. Application is expertly divided into logical components each with a clear, single responsibility.
+
+### JavaScript Style
+
+* **8 points** - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### Workflow
+
+* **10 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
