@@ -38,20 +38,26 @@ No extensions
 
 ### Link to a specific block of your code on Github that you are proud of
 * Why were you proud of this piece of code?
+
 [Link to Index Method](https://github.com/saylerb/idea-box/blob/master/app/assets/javascripts/crud.js.es6#L10)
+
+-I liked how succinct I made for retrieving all the ideas. Arrow functions make it look nice!
 
 ### Link to a specific block of your code on Github that you feel not great about
 * Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
 
 [Link to Append Method](https://github.com/saylerb/idea-box/blob/master/app/assets/javascripts/helpers.js.es6#L1)
+
+-I couldn't a good way elegantly inject html into the DOM. :(
+
+### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
+
 ```bash
 .......
 
 Finished in 1.89 seconds (files took 2.33 seconds to load)
 7 examples, 0 failures
 ```
-
-### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
