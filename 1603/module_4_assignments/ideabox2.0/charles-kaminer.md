@@ -20,7 +20,7 @@
 ## Completion
 
 ### Were you able to complete the base functionality?
-* Aside from the truncation feature, yes.
+* Aside from the truncation feature (in production), yes.
 
 ### Which extensions, if any, did you complete?
 * I completed the quality sort extension.
@@ -48,8 +48,10 @@
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 ![ideabox](images/charlie_tests.jpg)
 
+![ideaboxjs](images/charlie_js_tests.jpg)
+
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
-* 
+*
  [Search Filter Feature Spec](https://github.com/ckaminer/idea_box/blob/d7d065b1c6fc2f55126025d0ce3e2b0a0758abef/spec/features/search_filter_spec.rb#L17-L38)
 -----
 
