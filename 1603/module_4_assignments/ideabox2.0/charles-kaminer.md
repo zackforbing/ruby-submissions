@@ -87,9 +87,7 @@
 
 #### Editing an existing idea
 
-0 points
-
-*** can be amended if pushed and fixed ***
+20 points
 
 * When a user clicks the title or body of an idea in the list, that text should become an editable text field, pre-populated with the existing idea title or body. (8 points)
 * Clicking this link should _not_ take the user to a separate "edit" page for the given
