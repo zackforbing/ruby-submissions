@@ -93,9 +93,7 @@ Annas-MacBook:ideabox ACW$
 
 ### Please feel free to ask any other questions or make any other statements below!
 
-135/150
-
-** See note on fixing truncation ***
+141/150
 
 ----
 
@@ -109,10 +107,7 @@ Annas-MacBook:ideabox ACW$
 
 #### Viewing ideas
 
-(5 points total.)
-
-*** Pending fix for 100 characters instead of words ***
-* Idea bodies longer than 100 characters should be truncated to the nearest word. (5 points)
+(10 points total.)
 
 #### Adding a new idea
 
@@ -150,7 +145,7 @@ Annas-MacBook:ideabox ACW$
 
 ### Testing
 
-* **7 points** - Project has sporadic use of tests and multiple levels. Not all controller actions are tested. There are little or no attempts at integration testing.
+* *** points** - Project has sporadic use of tests and multiple levels. Not all controller actions are tested. There are little or no attempts at integration testing.
 
 ### Ruby and Rails Quality
 
