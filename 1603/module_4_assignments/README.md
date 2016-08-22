@@ -29,4 +29,5 @@ In this folder, we will add yet another folder for each major assignment - and a
 
 #### Week 2
 
+* [Game Time](/gametime)
 * [The Concept of Require](https://gist.github.com/rrgayhart/548e843327afb5ff8969b6dc4435c7bd) (10 points)
