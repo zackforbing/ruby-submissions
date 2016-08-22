@@ -25,7 +25,7 @@ In this folder, we will add yet another folder for each major assignment - and a
 
 * [IdeaBox 2.0](ideabox2.0/) (150 points)
 * [ES6 Assignment](https://gist.github.com/rrgayhart/4c0784c9aa2f427017891c05a46bf7a2) (5 points)
-* [Job Profiling Assignment](https://gist.github.com/rrgayhart/e6789e0b540705de9ed22b14ecb7182d)(15 points)
+* [Job Profiling Assignment](https://gist.github.com/rrgayhart/e6789e0b540705de9ed22b14ecb7182d) (15 points)
 
 #### Week 2
 
