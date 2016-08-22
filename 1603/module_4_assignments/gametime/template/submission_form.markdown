@@ -83,6 +83,8 @@ To this end, make sure to include sufficient UX to allow the user to fully inter
 - Scoreboard -- track scores across multiple game sessions. Since we aren't incorporating a server for our games, client-side storage like a cookie or LocalStorage will suffice.
 - Create multiple rounds of difficulty. (consider increasing factors such as game speed, randomness of starting setup, etc)
 
+### Features
+
 * 35 points - Application is fully playable and exceeds the expectations set by instructors
 * 25 points - Application is fully playable without crashes or bugs
 * 10 points - Application has some missing functionality but no crashes
