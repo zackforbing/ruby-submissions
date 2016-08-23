@@ -40,8 +40,6 @@ The player is presented with a procedurally generated "program" made up of seven
 - Procedurally generated dungeon, made up of rooms, an entrance, and exit
 - A movable player
 - Basic flow of: Spawn -> Navigate -> Reach Exit -> Repeat
-- Enemies (kill player on contact, no actual combat)
-- Smooth movement
 - Full collision detection with walls, exits, and enemies
 
 ### What have you accomplished so far?
@@ -50,6 +48,15 @@ The player is presented with a procedurally generated "program" made up of seven
 - DTR
 - Repo and Waffle Creation
 - Initial procedural generation research
+
+### Future features (Let's talk about this next time)
+
+- Enemies (kill player on contact, no actual combat)
+- Smooth movement
+- Where does UI belong? In canvas or in DOM?
+- Enemy movement?
+- What is visible? Line of sight? Light radius? Light cone?
+
 
 ### Questions, Comments, Concerns?
 - Use of 3rd party libraries for generation
@@ -67,16 +74,20 @@ The player is presented with a procedurally generated "program" made up of seven
 
 ### Instructor's Goals for Next Check In
 
-* Goal 1: _eg. Create snake head constructor that draws itself on the canvas_
+* Goal 1: Unit tested procedural generation of dungeon.
 
-* Goal 2: _eg. Stop snake from moving past the boundry of the canvas when moving - write tests_
+* Goal 2: Basic rendering of dungeon. Differentiate between walls, cooridors and rooms
 
-* Goal 3: _eg. Configure jshint and .jshintrc_
+* Goal 3: Player can move through cooridors and rooms, but not walls.
+
+* Goal 4: Player can spawn and exit. Placements are random.
 
 _Note: Instructor/Groups can add additional goals beyond 3. Grading for the next check in will be based on completion of goals_
 
 ### Stretch Goals
 
-* _ie. Goals that are not required to meet the checkin, but would be good to have. Completion may result in extra credit points_
+* Entrance and exit can be placed n number of tiles apart.
 
 ### Feedback?
+
+- Can't wait
