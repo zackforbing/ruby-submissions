@@ -18,7 +18,7 @@ Spaceship flies around, tries to avoid collision with asteroids.
 
 ### Include a Link to or Screen Shot of the Game
 
-[Asteroids](https://github.com/seeker105/asteroids)
+![Asteroids](images/Asteroids.png)
 
 ### Link to the Github repository for the project
 [Your Repo](https://github.com/seeker105/asteroids)
