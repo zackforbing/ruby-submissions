@@ -64,16 +64,24 @@ Spaceship flies around, tries to avoid collision with asteroids.
 
 ### Instructor's Goals for Next Check In
 
-* Goal 1: _eg. Create snake head constructor that draws itself on the canvas_
+* Goal 1: Asteroids drift around screen randomly (Asteroids warp around the screen)
 
-* Goal 2: _eg. Stop snake from moving past the boundry of the canvas when moving - write tests_
+* Goal 2: User moves spaceship around screen (turn and thruster. Stop moving when key is released.)
 
-* Goal 3: _eg. Configure jshint and .jshintrc_
+* Goal 3: When spaceship collides with asteroid it dies (spaceship disappears)
+
+* Goal 4: Draw some kind of image to the canvas (player, asteroid, background) 
+
+* Goal 5: Some tests
+
+
 
 _Note: Instructor/Groups can add additional goals beyond 3. Grading for the next check in will be based on completion of goals_
 
 ### Stretch Goals
 
-* _ie. Goals that are not required to meet the checkin, but would be good to have. Completion may result in extra credit points_
+* Ship can shoot
+
+* Asteroid splits on contact with bullet
 
 ### Feedback?
