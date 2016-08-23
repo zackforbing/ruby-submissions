@@ -114,9 +114,6 @@ Players try to capture a flag and return it to their home base to score points.
 ### Points for first check in (base 50)
 
 * 50: First check in form and README was completed and pull requested in. Team has a well documented plan for moving forward with their game. Team has completed some wireframing and/or written code.
-* 40: First check in form and README was completed and pull requested in. Team has a well documented plan for moving forward with their game. Team has not written any code or created any wireframe documents.
-* 25: First check in form completed but shows little effort at documenting/planning and team has not written any code.
-* 0: First check in form was not completed.
 
 ### Instructor's Goals for Next Check In
 
