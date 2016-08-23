@@ -70,16 +70,19 @@ N/A
 
 ### Instructor's Goals for Next Check In
 
-* Goal 1: _eg. Create snake head constructor that draws itself on the canvas_
+* Goal 1: Boundries where child cannot fall of the canvas/leave the play area
 
-* Goal 2: _eg. Stop snake from moving past the boundry of the canvas when moving - write tests_
+* Goal 2: Background for the canvas - may just be filled rectangles.
 
-* Goal 3: _eg. Configure jshint and .jshintrc_
+* Goal 3: Populate first terrain with first row of veggies that move across the screen. 
+
+* Goal 4: Collision is detected (doesn't have to be rendered) where child and veggies meet. (Note: If team focuses more on refactoring and testing then collision detection doesn't need to be fully done for next checkin)
 
 _Note: Instructor/Groups can add additional goals beyond 3. Grading for the next check in will be based on completion of goals_
 
 ### Stretch Goals
 
-* _ie. Goals that are not required to meet the checkin, but would be good to have. Completion may result in extra credit points_
+* Wireframe win and lose conditions
+* Avatar and images for the child and first row of veggies - first pass at implementing
 
 ### Feedback?
