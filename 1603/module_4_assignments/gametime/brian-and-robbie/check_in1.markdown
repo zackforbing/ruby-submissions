@@ -120,16 +120,20 @@ Players try to capture a flag and return it to their home base to score points.
 
 ### Instructor's Goals for Next Check In
 
-* Goal 1: _eg. Create snake head constructor that draws itself on the canvas_
+* Goal 1: A ball can move around - collisions with the wall are recognized - a standard velocity. 
 
-* Goal 2: _eg. Stop snake from moving past the boundry of the canvas when moving - write tests_
+* Goal 2: 
 
-* Goal 3: _eg. Configure jshint and .jshintrc_
+Two balls are in the game. Eventlistener shows and moves them both. (Two players can move the balls).
 
-_Note: Instructor/Groups can add additional goals beyond 3. Grading for the next check in will be based on completion of goals_
+or 
+
+The flag exists and is randomly placed on the map. Ball and a flag collision is recognized
+
+* Goal 3: Some amount of testing was completed for ball.
 
 ### Stretch Goals
 
-* _ie. Goals that are not required to meet the checkin, but would be good to have. Completion may result in extra credit points_
+* Both options of Goal 2 are complete
 
 ### Feedback?
