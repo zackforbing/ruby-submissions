@@ -59,16 +59,19 @@ Colors exist on a grid, users place their completing color, user wins if their c
 
 ### Instructor's Goals for Next Check In
 
-* Goal 1: _eg. Create snake head constructor that draws itself on the canvas_
+* Goal 1: Fill a space. (fill only white pixels)
 
-* Goal 2: _eg. Stop snake from moving past the boundry of the canvas when moving - write tests_
+* Goal 2: Score the board (which color wins)
 
-* Goal 3: _eg. Configure jshint and .jshintrc_
+* Goal 3: Demo a board filling
 
 _Note: Instructor/Groups can add additional goals beyond 3. Grading for the next check in will be based on completion of goals_
 
 ### Stretch Goals
 
-* _ie. Goals that are not required to meet the checkin, but would be good to have. Completion may result in extra credit points_
+* Can place points
+
+* Log out color progression as the board is filling
+
 
 ### Feedback?
