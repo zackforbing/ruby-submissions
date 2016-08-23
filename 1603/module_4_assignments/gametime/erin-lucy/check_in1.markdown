@@ -17,10 +17,10 @@ Colors exist on a grid, users place their completing color, user wins if their c
 
 ### Include a Link to or Screen Shot of the Game
 
-[Snek](http://imgur.com/gallery/owNiA)
+[Lines The Game](https://itunes.apple.com/us/app/lines-the-game/id904207373?mt=8)
 
 ### Link to the Github repository for the project
-[Your Repo](https://youtu.be/kZSfPPJ4Fk8)
+[Color Wars](https://github.com/lucyfox4131/color-wars)
 
 ## The Plan
 
