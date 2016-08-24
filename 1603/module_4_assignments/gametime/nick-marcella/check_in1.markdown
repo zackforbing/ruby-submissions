@@ -74,7 +74,7 @@ N/A
 
 * Goal 2: Background for the canvas - may just be filled rectangles.
 
-* Goal 3: Populate first terrain with first row of veggies that move across the screen. 
+* Goal 3: Populate first terrain with first row of veggies that move across the screen.
 
 * Goal 4: Collision is detected (doesn't have to be rendered) where child and veggies meet. (Note: If team focuses more on refactoring and testing then collision detection doesn't need to be fully done for next checkin)
 
