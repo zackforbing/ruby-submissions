@@ -26,4 +26,4 @@ The project will be assessed with the following rubric:
 * 3:  Application shows strong effort towards organization, content, and refactoring
 
 ### 5. Looping *or* Recursion
-* 3: Application makes effective use of loop/recursion techniques
+* 3: Application makes effective use of loop/recursion techniques 
