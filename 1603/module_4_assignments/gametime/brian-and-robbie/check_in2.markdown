@@ -5,7 +5,7 @@
 ### GOAL 1
 
 - Goal: A ball can move around - collisions with the wall are recognized - a standard velocity. 
-- ![Gif of ball moving and colliding with the wall](http://g.recordit.co/RHqY2zCqUF.gif)
+![Gif of ball moving and colliding with the wall](http://g.recordit.co/RHqY2zCqUF.gif)
 - Did you deviate from the instructions?
    - We implemented a system for offsetting movement when wall collisions are detected (exceeds instructions' expectations) 
    - Equal and opposite movement
@@ -25,7 +25,7 @@
 ### GOAL 2
 
 - Goal: Two balls are in the game. Eventlistener shows and moves them both.
-- ![Gif of two balls moving](http://g.recordit.co/T7VA3KrA1E.gif)
+![Gif of two balls moving](http://g.recordit.co/T7VA3KrA1E.gif)
 - Did you deviate from the instructions? 
   - Not really. Instructions didn't indicate _how_ we would move the ball or collisions
   - We implemented WASD as the controls for one ball, and arrow keys for the other ball
