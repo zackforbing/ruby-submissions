@@ -60,16 +60,19 @@ Figure out how scoring should work
 
 ### Instructor's Goals for Next Check In
 
-* Goal 1:
+* Goal 1: Collision Detection Logic (can check if player has collided with obstacle)
 
-* Goal 2:
+* Goal 2: Styling (Some basic CSS around the canvas, and child/veggies have images)
 
-* Goal 3:
+* Goal 3: Plan for Scoring
+
+* Goal 4: Some indication of level ending
+
 
 _Note: Instructor/Groups can add additional goals beyond 3. Grading for the next check in will be based on completion of goals_
 
 ### Stretch Goals
 
-* _ie. Goals that are not required to meet the checkin, but would be good to have. Completion may result in extra credit points_
+* Level advancement (Some congratulations message, and next level is more difficult)
 
 ### Feedback?
