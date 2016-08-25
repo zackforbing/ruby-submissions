@@ -1,30 +1,31 @@
-Complete this Form before the second check in. Delete this line from your version.
-
 # Game Time Check In # 2
 
 ## Instructor Goal Completion
 
 ### GOAL 1
 
-  - Provide a screenshot or gif or link to code for this goal
-  - Did you deviate from the instructions? Tell us about it.
-  - Questions, Comments, Concerns?
+- Goal: A ball can move around - collisions with the wall are recognized - a standard velocity. 
+- [Gif of ball moving and colliding with the wall](http://g.recordit.co/RHqY2zCqUF.gif)
+- Did you deviate from the instructions?
+- Questions, Comments, Concerns?
 
 ### GOAL 2
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
+- Goal: Two balls are in the game. Eventlistener shows and moves them both.
+- [Gif of two balls moving](http://g.recordit.co/T7VA3KrA1E.gif)
+- Did you deviate from the instructions?
 - Questions, Comments, Concerns?
 
 ### GOAL 3
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
+- Goal: Some amount of testing was completed for ball.
+- [Link to testing code on Github](https://github.com/saylerb/game-time/tree/dev/test)
+- Did you deviate from the instructions?
 - Questions, Comments, Concerns?
 
 ### GOAL 4
 
-- Provide a screenshot or gif or link to code for this goal
+- Stretch Goal (Not Complete): The flag exists and is randomly placed on the map. Ball and a flag collision is recognized
 - Did you deviate from the instructions? Tell us about it.
 - Questions, Comments, Concerns?
 
