@@ -67,24 +67,24 @@
 
 ### Points for Second Check In (base 50)
 
-* 60 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way. Students completed additional stretch goals.
 * 50 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way.
-* 35 points: Students completed all base goals but did not document the work appropriately in their form || did not complete 1 goal and failed to document why in a reasonable way.
-* 25 points: Students did not complete more than 1 goal.
-* 0 points: Students did not complete check in form prior to eval.
 
 ### Instructor's Goals for Next Check In
 
-* Goal 1:
+* Goal 1: Refactor and test some uncovered things - like asteroids - doesn't have to look nice
 
-* Goal 2:
+* Goal 2: Add shooting functionality, register the collision in some way
 
-* Goal 3:
+* Goal 3: Have more than one ship life per game or a next level/round - whatever you decide on that causes a new ship to show up. 
 
 _Note: Instructor/Groups can add additional goals beyond 3. Grading for the next check in will be based on completion of goals_
 
 ### Stretch Goals
 
-* _ie. Goals that are not required to meet the checkin, but would be good to have. Completion may result in extra credit points_
+  * Make ship movement smoother - similar to how asteroids move - doesn't have to be perfect
+    or
+  * Add scoring - and score that calculates score board that shows up at the end
+    or 
+  * Begin increasing difficulty with advanced things - like power ups or whatever you have in mind
 
 ### Feedback?

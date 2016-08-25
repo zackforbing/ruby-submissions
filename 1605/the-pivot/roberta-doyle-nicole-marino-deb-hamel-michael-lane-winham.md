@@ -12,7 +12,7 @@ Assessor: Sally
 **Completion**
 
 * Team completed all the user stories and requirements set by the client.
-  * 4: Better than expected
+  * **4: Better than expected**
   * 3: As expected
   * 2: Below expectations
   * 1: Well below expectations
@@ -21,14 +21,14 @@ Assessor: Sally
 
 * Project exhibits a production-ready user experience.
   * 4: Better than expected
-  * 3: As expected
+  * **3: As expected**
   * 2: Below expectations
   * 1: Well below expectations
 
 **Organization**
 
 * Team used a project management tool to keep their project organized.
-  * 4: Better than expected
+  * **4: Better than expected**
   * 3: As expected
   * 2: Below expectations
   * 1: Well below expectations
