@@ -5,14 +5,14 @@
 ### GOAL 1
 
 - Goal: A ball can move around - collisions with the wall are recognized - a standard velocity. 
-- [Gif of ball moving and colliding with the wall](http://g.recordit.co/RHqY2zCqUF.gif)
+- ![Gif of ball moving and colliding with the wall](http://g.recordit.co/RHqY2zCqUF.gif)
 - Did you deviate from the instructions?
 - Questions, Comments, Concerns?
 
 ### GOAL 2
 
 - Goal: Two balls are in the game. Eventlistener shows and moves them both.
-- [Gif of two balls moving](http://g.recordit.co/T7VA3KrA1E.gif)
+- ![Gif of two balls moving](http://g.recordit.co/T7VA3KrA1E.gif)
 - Did you deviate from the instructions?
 - Questions, Comments, Concerns?
 
