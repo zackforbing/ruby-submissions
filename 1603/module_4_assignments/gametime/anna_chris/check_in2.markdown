@@ -75,16 +75,20 @@
 
 ### Instructor's Goals for Next Check In
 
-* Goal 1:
+* Goal 1: Refactor and test some uncovered things - like asteroids - doesn't have to look nice
 
-* Goal 2:
+* Goal 2: Add shooting functionality, register the collision in some way
 
-* Goal 3:
+* Goal 3: Have more than one ship life per game or a next level/round - whatever you decide on that causes a new ship to show up. 
 
 _Note: Instructor/Groups can add additional goals beyond 3. Grading for the next check in will be based on completion of goals_
 
 ### Stretch Goals
 
-* _ie. Goals that are not required to meet the checkin, but would be good to have. Completion may result in extra credit points_
+  * Make ship movement smoother - similar to how asteroids move - doesn't have to be perfect
+    or
+  * Add scoring - and score that calculates score board that shows up at the end
+    or 
+  * Begin increasing difficulty with advanced things - like power ups or whatever you have in mind
 
 ### Feedback?
