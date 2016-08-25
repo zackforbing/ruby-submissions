@@ -25,5 +25,5 @@ The project will be assessed with the following rubric:
 ### 4. Fundamental Ruby & Style
 * 1:  Application generates syntax error or crashes during execution
 
-### 5. Looping *or* Recursion
+### 5. Looping *or* Recursion 
 * 1: Application struggles to loop/recurse at all
