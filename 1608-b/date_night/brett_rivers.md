@@ -26,4 +26,4 @@ The project will be assessed with the following rubric:
 * 2:  Application runs but the code has long methods, unnecessary or poorly named variables, and needs significant refactoring
 
 ### 5. Looping *or* Recursion
-* 2: Application has issues with loop/recursion techniques or mixes them inappropriately
+* 2: Application has issues with loop/recursion techniques or mixes them inappropriately 
