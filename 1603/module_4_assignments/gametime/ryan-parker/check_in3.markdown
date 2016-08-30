@@ -44,7 +44,7 @@ At this point, we both feel very strong about finishing all of planned goals in 
 
 ### Points for Second Check In (base 50)
 
-* 60 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way. Students completed additional stretch goals.
+* **60 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way. Students completed additional stretch goals.**
 * 50 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way.
 * 35 points: Students completed all base goals but did not document the work appropriately in their form || did not complete 1 goal and failed to document why in a reasonable way.
 * 25 points: Students did not complete more than 1 goal.
@@ -61,5 +61,15 @@ These goals should center around wrapping up the game:
  - Making sure the game is deployed
 
 _Note: Instructor/Groups can add additional goals beyond 3. Grading for the next check in will be based on completion of goals_
+
+- Refactor/Add any missing tests
+
+- Camera
+- Finish Win/Loss conditions for the whole game and the individual levels
+- Add scoreboard
+- Add polish items (Tilesets, music)
+- Enemy movement
+- FoV (reveals rooms as they are discovered)
+- Add per-game stats
 
 ### Feedback?
