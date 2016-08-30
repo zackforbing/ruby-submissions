@@ -84,7 +84,7 @@ Additional feature: spikes!
 
 ### Points for Second Check In (base 50)
 
-* 60 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way. Students completed additional stretch goals.
+*** 60 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way. Students completed additional stretch goals. ***
 * 50 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way.
 * 35 points: Students completed all base goals but did not document the work appropriately in their form || did not complete 1 goal and failed to document why in a reasonable way.
 * 25 points: Students did not complete more than 1 goal.
@@ -95,8 +95,9 @@ Additional feature: spikes!
 These goals should center around wrapping up the game:
 
  - Matching the [rubric](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown) requirements
- - Refactoring/Cleaning up test coverage
- - Making the game compelling for players
+ - HighScore tracked across session
+ - Refactoring/Cleaning up test coverage - specifically around Game
+ - Continuing adding game effects like moving spikes to make the game exciting
  - Making sure the README and other documentation is up to snuff
  - Making sure the game is deployed
 
