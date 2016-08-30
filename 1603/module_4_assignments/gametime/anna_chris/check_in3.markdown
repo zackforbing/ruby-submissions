@@ -45,7 +45,7 @@
 
 ### Points for Second Check In (base 50)
 
-* 60 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way. Students completed additional stretch goals.
+* **60 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way. Students completed additional stretch goals.**
 * 50 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way.
 * 35 points: Students completed all base goals but did not document the work appropriately in their form || did not complete 1 goal and failed to document why in a reasonable way.
 * 25 points: Students did not complete more than 1 goal.
