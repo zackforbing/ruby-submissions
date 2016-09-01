@@ -13,7 +13,7 @@
  -[Parker Phillips](https://github.com/Riizu/sloc/commits/master?author=ExCaelum)
 
 ### Provide a Screenshot of your Game
--![SloC Album](https://i.ytimg.com/vi/EFt-La3UUu0/maxresdefault.jpg)
+- [Gallery](http://imgur.com/gallery/sCuDa)
 
 ---
 
