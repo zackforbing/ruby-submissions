@@ -34,7 +34,7 @@ Yikes I don't really have any sad path tests :/
 
 # Instructor Feedback
 
-113/150
+143/150
 
 *** Update grade on fixes if amended - see notes below ***
 
@@ -64,9 +64,7 @@ Yikes I don't really have any sad path tests :/
 
 #### Editing an existing idea
 
-0 points
-
-*** If you want to get this fixed before Wednesday of next week - DM it to me with a test added for it and we'll amend ***
+20 points
 
 * When a user clicks the title or body of an idea in the list, that text should become an editable text field, pre-populated with the existing idea title or body. (8 points)
 * Clicking this link should _not_ take the user to a separate "edit" page for the given
@@ -90,9 +88,7 @@ Yikes I don't really have any sad path tests :/
 
 ### Testing
 
-*** Amend testing score based on testing done for fix ***
-
-* **5 points** - Project has sporadic use of tests and multiple levels. Not all controller actions are tested. There are little or no attempts at integration testing.
+* **10 points** 
 
 ### Ruby and Rails Quality
 
