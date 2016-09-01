@@ -66,6 +66,11 @@
 
 These goals should center around wrapping up the game:
 
+
+ - Matching the [rubric](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown) requirements
+ - Refactoring/Cleaning up test coverage
+ - Making the game compelling for players
+
  - REQUIREMENT FOR HIGH SCORE BOARD IS WAIVED
  - Refactoring/Cleaning up test coverage
  - Continue wrapping up levels
