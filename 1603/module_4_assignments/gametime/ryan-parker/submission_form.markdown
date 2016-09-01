@@ -80,6 +80,8 @@
 
 - Points: (base 150)
 
+140/150
+
 ### Playability Features
 
 We want your game to be full-featured and playable -- not just a proof of concept of the gameplay and rendering features.
