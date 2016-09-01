@@ -10,7 +10,7 @@ If you don't have a link or the magic of google drive is on the fritz and your l
 
 ## Doin' Homeworks Policy
 
-[Assignment Submission Repo](https://github.com/turingschool/ruby-submissions/tree/master/1511/module_4_assignments)
+[Assignment Submission Repo](https://github.com/turingschool/ruby-submissions/tree/master/1603/module_4_assignments)
 
 You'll find the directions to submit all assignments in the above repo (as they are assigned).
 
