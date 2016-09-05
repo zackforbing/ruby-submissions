@@ -82,7 +82,7 @@ Failed to do this.
 
 # Instructor Feedback
 
-78/150
+131/150
 
 *** Very minor amending needs to be done and score will rise significantly when done :D See note below ***
 
@@ -104,19 +104,17 @@ Buggy truncation
 
 #### Deleting an existing idea
 
-***(15 points total.)***
-
-Needs to be fixed for new idea
+(15 points total.)
 
 #### Changing the quality of an idea
 
-**(15 points total.)**
+15 points total.
 
 Needs to be fixed for new idea
 
 #### Editing an existing idea
 
-**(20 points total.)**
+20 points total.
 
 Needs to be fixed for new idea
 
