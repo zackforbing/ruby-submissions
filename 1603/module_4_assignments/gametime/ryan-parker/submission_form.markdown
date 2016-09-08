@@ -1,28 +1,26 @@
-Complete this Form before the final eval. Delete this line from your version.
-
 # GameTime Submission Form
 
 ## Basics
 
 ### Link to the Github Repository for the Project
-[Your Repo](https://en.wikipedia.org/wiki/Atari_video_game_burial)
+[Seven Levels of Code](https://github.com/Riizu/sloc)
 
 ### Link to the Deployed Application
-[Your Application](http://www.playr.org/play/e.t._the_extra_terrestrial_-_escape_from_planet_earth/872)
+[Production Link](http://riizu.github.io/sloc)
 
 ### Link to Your Commits in the Github Repository for the Project
--[TeamMate1](http://ericsteinborn.com/github-for-cats/img/typing.gif)
- -[TeamMate 2](http://45.media.tumblr.com/96975bc08e24a9876e62311fdd0c4a34/tumblr_ne4ehpSJ5z1qa747mo1_500.gif)
+-[Ryan Batty](https://github.com/Riizu/sloc/commits/master?author=Riizu)
+ -[Parker Phillips](https://github.com/Riizu/sloc/commits/master?author=ExCaelum)
 
 ### Provide a Screenshot of your Game
--![spacejam](https://i.ytimg.com/vi/EFt-La3UUu0/maxresdefault.jpg)
+- [Gallery](http://imgur.com/gallery/sCuDa)
 
 ---
 
 ## Completion
 
 ### Do You Consider the Application to be Fully Playable?
- - If not, list what functionality is missing.
+ - It is fully playable.
 
 ### What Extensions, as Requested By an Instructor, Did You Complete?
 - Per Extension:
@@ -30,45 +28,59 @@ Complete this Form before the final eval. Delete this line from your version.
   - Provide a .gif of the extension or a link to the relevant code
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
-- Per Feature:
- - Describe the feature
+- Procedural Generation:
+ - All of our levels are generated on the fly using a combination of a number of procedural generation algorithms. These algorithms randomly place rooms, corridors, enemies, health pack keys, exits, and the player placement. Furthermore they are easily adjustable with a single method call, allowing us to scale it to player level or any progressive math formula.
+ - [Game Engine - Where the generation is started]()
+ - [Generator - All of the generation methods]()
+- Replayability:
+ - Because of the procedural generation, the only limit to our replayability is the overall efficiency of the game and the power of the machine running it. So far we've been able to cheat ourselves to levels above 100, but it gets incredibly difficult going into level 15 with regular play.
  - Provide a .gif of the feature in action or a link to the relevant code
+- Camera:
+ - Because of the eventual size of the game map, it became critical that we have a way to zoom in and show only relevant portions of the map. Using dynamic cell grabbing and transalation of coordinates to relative canvas placement.
+ - [DisplayHandler - Draw methods](https://github.com/Riizu/sloc/blob/master/lib/display_handler.js)
+ - [Camera - Specific camera details](https://github.com/Riizu/sloc/blob/master/lib/camera.js)
 
 ----
 
 ## Risk Taking
-- What risks did you feel you took on this project?
-- How do you feel about those risks?
+- During this project, a number of heavy risks were taken, primarily the procedural generation. Considering the amount of prior experience with JS and the general difficulty of procedural generation, it was a daunting task. While we ended up scrapping our original approach, we feel it was still wildly successful. It was incredibly gratifying to see that pay off into a game that is truly different every time you play.
 
 ----
 
 ## Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- Why were you proud of this piece of code?
+- [Grid Abstraction](https://github.com/Riizu/sloc/blob/master/lib/grid.js)
+- Our grid is really the foundation of the game. We spent a solid two days early on cleaning it up and getting it ready to build upon. We knew that it was necessary to have this incredibly polished in order to use well, and that work really paid off going forward.
 
 ### Link to a specific block of your code on Github that you feel not great about
-- Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+- [Cell.hasNeighbors(directionArray)](https://github.com/Riizu/sloc/blob/master/lib/cell.js)
+- On the other hand, the grid is built with cells and while they were fully functional, they just weren't as flexible as we would of wished. In particular hasNeighbors is pretty frequently used but the code is ugly, messy, and just not easily used. In the end, it was something we stomached to be able to complete other features on time.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
+- [Test Suite](http://i.imgur.com/hpIyPCP.png)
+- We had two failures due to a strange require failure on Image(), yet the call works fine in the actual program.
+
 ### Test Breakdown
-- How Many Unit Tests?
-- How Many Feature/Integration Tests?
+- Unit Tests: 11
+- Integration Tests: 22
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
 
+- [Cell should determine it has one neighbor if a single solid cell is north of it](https://github.com/Riizu/sloc/blob/master/test/cell_test.js#L45)
+
 ### Provide a link to an example, if you have one, of a feature test that covers an 'edge case' or 'unhappy path'
 
------
-
-### Please feel free to ask any other questions or make any other statements below!
+- [Grid should pull all rooms in the grid when no rooms are present](https://github.com/Riizu/sloc/blob/master/test/grid_test.js#L63)
 
 -----
 
 # Instructor Feedback
 
 - Points: (base 150)
+
+140/150
 
 ### Playability Features
 
@@ -85,46 +97,26 @@ To this end, make sure to include sufficient UX to allow the user to fully inter
 
 ### Features
 
-* 35 points - Application is fully playable and exceeds the expectations set by instructors
-* 25 points - Application is fully playable without crashes or bugs
-* 10 points - Application has some missing functionality but no crashes
-* 0 points - Application crashes during normal usage
+* 45 points - Application is fully playable and exceeds the expectations set by instructors
 
 ### User Interface
 
 * 15 points - The application is pleasant, logical, and easy to use. There are no holes in functionality and the application stands on its own to be used by the instructor without guidance from the developer.
-* 10 points - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
-* 5 points - The application shows effort in the interface, but the result is not effective. The evaluator has some difficulty using the application when reviewing the features in the user stories.
-* 0 points - The application is confusing or difficult to use.
 
 ### Testing
 
-* 30 points - Project has a running test suite that exercises the application at multiple levels. The test suite covers almost all aspects of the application and uses mocks and stubs when appropriate.
-* 25 points - Project has a running test suite that tests multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.
-* 10 points - Project has sporadic use of tests and multiple levels. The application contains numerous holes in testing and/or many features are untested.
-* 0 points - There is little or no evidence of testing in this application.
+* 20 points - Project has sporadic use of tests and multiple levels. The application contains numerous holes in testing and/or many features are untested.
 
 ### JavaScript Style
 
-* 30 points - Application has exceptionally well-factored code with little or no duplication and all components are separated out into logical components. There zero instances where an instructor would recommend taking a different approach.
 * 20 points - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
-* 15 points - Your application has a significant amount of duplication and one or major bugs.
-* 5 points - Your client-side application does not function. Developer writes code with unnecessary variables, operations, or steps which do not increase clarity.
-* 0 points - There is little or no client-side code. Developer writes code that is difficult to understand. Application logic shows poor decomposition with too much logic mashed together.
 
 ### Workflow
 
 * 25 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
-* 15 points - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
-* 10 points - The developer makes large commits covering multiple features that make it difficult for the evaluator to determine the evolution of the application.
-* 5 points - The developer commited the code to version control in only a few commits. The evaluator cannot determine the evolution of the application.
-* 0 points - The application was not checked into version control.
 
 ### Code Sanitation
 
 The output from JSHint shows…
 
 * 15 points - Zero complaints
-* 10 points - Five or fewer complaints
-* 5 points - Six to ten complaints
-* 0 points - More than ten complaints
