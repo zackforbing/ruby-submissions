@@ -18,12 +18,12 @@ Subjective evaluation will be made on your work/process according to the followi
 2: Developer can execute an algorithm or plan given to them
 1: Developer struggles to implement an algorithm or plan
 
-3. Ruby Syntax & Standard Library
+3. Feature Completeness
 
-4: Developer is able to independently implement solutions using the best-choice tools Ruby has to offer
-3: Developer is able to implement solutions in Ruby, but may require some prompting to arrive at the best-choice tools
-2: Developer is able to implement solutions in Ruby with direct instruction
-1: Developer is unable to implement working solutions even when prompted
+4: Developer is able to finish all prescribed functionality, refactor and have all passing tests
+3: Developer is able to implement all functionality and all tests pass
+2: Developer is missing one piece of functionality
+1: Developer is unable to implement at least 50% functionality
 
 4. Rails Syntax & API
 
