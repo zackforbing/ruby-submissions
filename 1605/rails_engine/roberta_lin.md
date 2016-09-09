@@ -1,6 +1,6 @@
-Evaluator:
+Evaluator: Sally MacNicholas
 
-Students:
+Students: Roberta Doyle & Lin McCartney
 
 
 ## Project Rubric
