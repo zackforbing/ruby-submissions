@@ -1,4 +1,4 @@
-# Scale Up Submission Form (Check In): Nick Pisciotta
+# Scale Up Submission Form (Check In): Charlie Kaminer
 
 - [Project Spec: Whiskey Tango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
 
@@ -6,38 +6,40 @@
 
 ### Blog draft
 
--[Google Doc](https://docs.google.com/document/d/1owhrnXSoclNEwsLszoNg5HMnrpIZ9MvjIHRjTmctlHw/edit?usp=sharing)
+-[Medium Draft #1](https://medium.com/p/6d9419fdd554/edit)
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
 - Pre-Work (1 to 3 hours): **2 hours**
-- Tuesday (8 hours): **6 hours**
-- Wednesday (8 hours): **7.5 hours**
-- Thursday (8 hours): **9 hours**
-- Friday (8 hours): **4 hours**
-- Weekend (0 hours): **6 hours**
+- Tuesday (8 hours): **6.25 hours**
+- Wednesday (8 hours): **7 hours**
+- Thursday (8 hours): **8.5 hours**
+- Friday (8 hours): **5 hours**
+- Weekend (0 hours): **8 hours**
 
 ### Participation
 
 Speak to your participation in PRs (links would be nice) and in your project groups.
-- Have not seen a PR made that I have been able to contribute to.
-- [My PR:](https://github.com/nickpisciotta/electron_notes_app/pull/5)
-  -   Responded to some comments
+- I commented on Nick's PR.  There was only 2 total PRs this week so not much else was done. [Nick's PR](https://github.com/nickpisciotta/electron_notes_app/pull/5)
+- I have not submitted any PRs yet
 
 ### Work Completed
 
 Link to and describe the code/research you have completed so far.
 
-[Repo](https://github.com/nickpisciotta/electron_notes_app)
+[Exercisms](https://github.com/ckaminer/exercism/tree/master/python)
 
-![Wireframe](http://g.recordit.co/XVsIPVuikK.gif)
+[Regression Review](http://people.duke.edu/~rnau/regintro.htm)
+
+[Batting Average Regression](http://people.duke.edu/~rnau/regexbaseball.htm)
+
 # Instructor feedback
 
 ### Week 4
 
-/150 points
+150/150 points
 
 ### Blog Post Draft (25 Points)  
 

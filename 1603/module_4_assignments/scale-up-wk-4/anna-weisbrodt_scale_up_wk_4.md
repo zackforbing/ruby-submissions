@@ -1,4 +1,4 @@
-# Scale Up Submission Form (Check In): Nick Pisciotta
+# Scale Up Submission Form (Check In) 
 
 - [Project Spec: Whiskey Tango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
 
@@ -6,38 +6,40 @@
 
 ### Blog draft
 
--[Google Doc](https://docs.google.com/document/d/1owhrnXSoclNEwsLszoNg5HMnrpIZ9MvjIHRjTmctlHw/edit?usp=sharing)
+- [Blog draft/outline](https://gist.github.com/AnnaCW/ac756b8ef2b9cf957bcfb5a105fc0c2c)
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
-- Pre-Work (1 to 3 hours): **2 hours**
-- Tuesday (8 hours): **6 hours**
-- Wednesday (8 hours): **7.5 hours**
-- Thursday (8 hours): **9 hours**
-- Friday (8 hours): **4 hours**
-- Weekend (0 hours): **6 hours**
+- Pre-Work (1 to 3 hours): 2
+- Tuesday (8 hours): 5
+- Wednesday (8 hours): 7
+- Thursday (8 hours): 4
+- Friday (8 hours): 3 completed, ~3 more planned
+- Weekend (0 hours): 4+ planned
 
 ### Participation
 
-Speak to your participation in PRs (links would be nice) and in your project groups.
-- Have not seen a PR made that I have been able to contribute to.
-- [My PR:](https://github.com/nickpisciotta/electron_notes_app/pull/5)
-  -   Responded to some comments
+I participated in standup every day this week. I have not yet posted or responded to a PR, but plan to do so over the weekend and/or next week. 
 
 ### Work Completed
 
-Link to and describe the code/research you have completed so far.
+Research/prep: My research and prep including some background and documentation reading on React, and reading a few post posts. I also completed two React tutorials, the Creact tutorial from Lovisa S.,
+and [this tutorial](https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers#nesting-components-listing-records), which uses coffee but I converted to jsx/ES6, with occasional
+reference to a github repo mentioned in the tutorial's comments.
+[Link to my completed tutorial](https://github.com/AnnaCW/accounts-react-rails-jsx-ES6)
 
-[Repo](https://github.com/nickpisciotta/electron_notes_app)
+Project work: I set up react-rails in my project, and have (almost) successfully converted one of my views to React using two React components.
+My main challenge stemmed from trying to handle two instance variables in one view. My process here is described in more detail in my draft blog.
+The last piece to have a working view is to get the spotify iframes (that play tracks) working. I think this is just a matter of fixing the string interpolation in the iframe url. 
+[Link to code](https://github.com/AnnaCW/m3_personal_project/commit/3c826cda840da3cb970a94dd7200fca24c287abe)
 
-![Wireframe](http://g.recordit.co/XVsIPVuikK.gif)
 # Instructor feedback
 
 ### Week 4
 
-/150 points
+150/150 points
 
 ### Blog Post Draft (25 Points)  
 
