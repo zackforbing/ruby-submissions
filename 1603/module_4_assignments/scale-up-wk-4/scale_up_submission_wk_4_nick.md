@@ -12,18 +12,19 @@
 
 Document your general hours below (or planned hours)
 
-- Pre-Work (1 to 3 hours): 2 hours
-- Tuesday (8 hours): 6 hours
-- Wednesday (8 hours): 7.5 hours
-- Thursday (8 hours): 9 hours
-- Friday (8 hours): 2 hours
-- Weekend (0 hours): 6 hours
+- Pre-Work (1 to 3 hours): **2 hours**
+- Tuesday (8 hours): **6 hours**
+- Wednesday (8 hours): **7.5 hours**
+- Thursday (8 hours): **9 hours**
+- Friday (8 hours): **4 hours**
+- Weekend (0 hours): **6 hours**
 
 ### Participation
 
 Speak to your participation in PRs (links would be nice) and in your project groups.
 - Have not seen a PR made that I have been able to contribute to.
 - [My PR:](https://github.com/nickpisciotta/electron_notes_app/pull/5)
+  -   Responded to some comments
 
 ### Work Completed
 
