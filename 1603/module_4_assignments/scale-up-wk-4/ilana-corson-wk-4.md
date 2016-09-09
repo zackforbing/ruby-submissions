@@ -70,5 +70,5 @@ Speak to your participation in PRs (links would be nice) and in your project gro
 Instructor/Developer will select one feature in the project to review for this section of the rubric.
 
   * 50: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.
-  * **30: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.**
+  * **40: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.**
   * 10: Developers attempted to implement extensions using technologies not covered in class but it did not result in code or documentation.
