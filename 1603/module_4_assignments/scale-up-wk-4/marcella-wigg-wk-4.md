@@ -35,7 +35,7 @@ My code is [here](https://github.com/marcellawigg/flashcards). I spent a LOT of 
 
 ### Week 4
 
-/150 points
+150/150 points
 
 ### Blog Post Draft (25 Points)  
 
