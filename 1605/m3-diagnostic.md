@@ -1,20 +1,20 @@
 ## Angela Lindow
-git repo: https://github.com/allindow/module_3_diagnostic
+git repo:
 
 ## Caleb Cowen
 git repo:
 
 ## Christopher Concannon
-git repo: https://github.com/concach/M3_mock_assessment
+git repo:
 
 ## David Tinianow
-git repo: https://github.com/dtinianow/module_3_diagnostic
+git repo:
 
 ## Deb Hamel
-git repo: https://github.com/deborahleehamel/module_3_diagnostic
+git repo:
 
 ## Garrett Smestad
-git repo: [Module 3 Diagnostic](https://github.com/GSmes/module_3_diagnostic)
+git repo:
 
 ## Jason Hanna
 git repo: https://github.com/Automatic365/module_3_diagnostic
@@ -23,25 +23,25 @@ git repo: https://github.com/Automatic365/module_3_diagnostic
 git repo:
 
 ## Karina Gonzalez
-git repo: https://github.com/karinamzalez/module_3_diagnosticc/pull/1
+git repo:
 
 ## Kris Sparks
-git repo: https://github.com/kbs5280/module_3_diagnostic
+git repo:
 
 ## Linda McCartney
-git repo: https://github.com/lcmccartney/module_3_diagnostic
+git repo:
 
 ## Matthew Campbell
-git repo:
+git repo: https://github.com/matthewecampbell/module_3_diagnostic
 
 ## Matthew Packer
 git repo: https://github.com/matthewrpacker/module_3_diagnostic
 
 ## Michael Lane Winham
-git repo: https://github.com/Laner12/module_3_diagnostic
+git repo:
 
 ## Patrick Wentz
-git repo: https://github.com/pwentz/module_3_diagnostic/commits/master
+git repo:
 
 ## Nicole Marino
 git repo: https://github.com/NicoleKMarino/module_3_diagnostic
@@ -56,7 +56,7 @@ git repo:
 git repo: https://github.com/chompasina/module_3_diagnostic
 
 ## Trent Whitinger
-git repo:  https://github.com/twhitinger/module_3_diagnostic
+git repo:
 
 ## Yoseph Anderson
 git repo: https://github.com/Yoyo2Code/module_3_diagnostic
