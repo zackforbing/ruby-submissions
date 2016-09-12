@@ -17,7 +17,7 @@ git repo:
 git repo:
 
 ## Jason Hanna
-git repo:
+git repo: https://github.com/Automatic365/module_3_diagnostic
 
 ## Jennifer Soden
 git repo:
