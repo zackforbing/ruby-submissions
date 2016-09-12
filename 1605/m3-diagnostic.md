@@ -20,7 +20,7 @@ git repo:
 git repo: https://github.com/Automatic365/module_3_diagnostic
 
 ## Jennifer Soden
-git repo:
+git repo: https://github.com/MsJennyGiraffe/module_3_diagnostic
 
 ## Karina Gonzalez
 git repo:
