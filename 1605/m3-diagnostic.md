@@ -26,7 +26,7 @@ git repo:
 git repo:
 
 ## Kris Sparks
-git repo:
+git repo: https://github.com/kbs5280/module_3_diagnostic
 
 ## Linda McCartney
 git repo:
