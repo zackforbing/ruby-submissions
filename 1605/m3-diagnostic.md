@@ -14,7 +14,7 @@ git repo: https://github.com/dtinianow/module_3_diagnostic
 git repo:
 
 ## Garrett Smestad
-git repo:
+git repo: [Module 3 Diagnostic](https://github.com/GSmes/module_3_diagnostic)
 
 ## Jason Hanna
 git repo: https://github.com/Automatic365/module_3_diagnostic
