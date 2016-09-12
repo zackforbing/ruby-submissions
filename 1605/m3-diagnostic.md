@@ -56,7 +56,7 @@ git repo:
 git repo: https://github.com/chompasina/module_3_diagnostic
 
 ## Trent Whitinger
-git repo:
+git repo:  https://github.com/twhitinger/module_3_diagnostic
 
 ## Yoseph Anderson
 git repo: https://github.com/Yoyo2Code/module_3_diagnostic
