@@ -59,7 +59,7 @@ git repo:
 git repo:
 
 ## Yoseph Anderson
-git repo:
+git repo: https://github.com/Yoyo2Code/module_3_diagnostic
 
 ## Zachary Forbin
 git repo:
