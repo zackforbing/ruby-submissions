@@ -50,7 +50,7 @@ git repo:
 git repo:
 
 ## Ryan Flach
-git repo:
+git repo: https://github.com/ryanflach/module_3_diagnostic
 
 ## Tommasina Miller
 git repo:
