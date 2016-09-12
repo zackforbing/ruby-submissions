@@ -1,5 +1,5 @@
 ## Angela Lindow
-git repo:
+git repo: https://github.com/allindow/module_3_diagnostic
 
 ## Caleb Cowen
 git repo:
