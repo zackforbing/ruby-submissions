@@ -41,7 +41,7 @@ git repo: https://github.com/matthewrpacker/module_3_diagnostic
 git repo: https://github.com/Laner12/module_3_diagnostic
 
 ## Patrick Wentz
-git repo:
+git repo: https://github.com/pwentz/module_3_diagnostic/commits/master
 
 ## Nicole Marino
 git repo: https://github.com/NicoleKMarino/module_3_diagnostic
