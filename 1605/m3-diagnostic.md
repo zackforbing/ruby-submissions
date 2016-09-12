@@ -8,7 +8,7 @@ git repo:
 git repo:
 
 ## David Tinianow
-git repo:
+git repo: https://github.com/dtinianow/module_3_diagnostic
 
 ## Deb Hamel
 git repo:
