@@ -47,7 +47,7 @@ git repo:
 git repo:
 
 ## Roberta Doyle
-git repo:
+git repo: https://github.com/roscalabrin/module_3_diagnostic
 
 ## Ryan Flach
 git repo:
