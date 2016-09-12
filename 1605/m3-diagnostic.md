@@ -29,7 +29,7 @@ git repo:
 git repo:
 
 ## Linda McCartney
-git repo:
+git repo: https://github.com/lcmccartney/module_3_diagnostic
 
 ## Matthew Campbell
 git repo:
