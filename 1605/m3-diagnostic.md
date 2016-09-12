@@ -50,7 +50,7 @@ git repo: https://github.com/NicoleKMarino/module_3_diagnostic
 git repo: https://github.com/roscalabrin/module_3_diagnostic
 
 ## Ryan Flach
-git repo:
+git repo: https://github.com/ryanflach/module_3_diagnostic
 
 ## Tommasina Miller
 git repo: https://github.com/chompasina/module_3_diagnostic
