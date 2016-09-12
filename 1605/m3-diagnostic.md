@@ -11,7 +11,7 @@ git repo:
 git repo: https://github.com/dtinianow/module_3_diagnostic
 
 ## Deb Hamel
-git repo:
+git repo: https://github.com/deborahleehamel/module_3_diagnostic
 
 ## Garrett Smestad
 git repo: [Module 3 Diagnostic](https://github.com/GSmes/module_3_diagnostic)
