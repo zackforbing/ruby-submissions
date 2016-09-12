@@ -29,7 +29,7 @@ git repo: https://github.com/karinamzalez/module_3_diagnosticc/pull/1
 git repo: https://github.com/kbs5280/module_3_diagnostic
 
 ## Linda McCartney
-git repo:
+git repo: https://github.com/lcmccartney/module_3_diagnostic
 
 ## Matthew Campbell
 git repo:
