@@ -53,7 +53,7 @@ git repo:
 git repo:
 
 ## Tommasina Miller
-git repo:
+git repo: https://github.com/chompasina/module_3_diagnostic
 
 ## Trent Whitinger
 git repo:
