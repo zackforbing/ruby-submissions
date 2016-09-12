@@ -61,5 +61,5 @@ git repo:
 ## Yoseph Anderson
 git repo: https://github.com/Yoyo2Code/module_3_diagnostic
 
-## Zachary Forbin
-git repo:
+## Zachary Forbing
+git repo: https://github.com/zackforbing/module_3_diagnostic
