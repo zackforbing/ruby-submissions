@@ -38,7 +38,7 @@ git repo:
 git repo:
 
 ## Michael Lane Winham
-git repo:
+git repo: https://github.com/Laner12/module_3_diagnostic
 
 ## Patrick Wentz
 git repo:
