@@ -4,33 +4,27 @@
 
 ### Summarize the work you completed over the last two weeks
 
-We implemented the OmniAuth Gem on the rails server and created a controller and route to allow the ember front-end to trigger the OmniAuth process. We modified the handlebars sign-up view to handle the change and created a 'Welcome' page to display when the user is logged in. We also modified the navbar to change depending on logged in/out status and created a "Sign Out" link. We created a handlebars helper method to retrieve data from cookies.
-
 ### Link(s) to Your Work
 
- - [Github Back End](https://github.com/turingMentorSHIP/MentorSHIP-API)
- - [Github Front End](https://github.com/turingMentorSHIP/MentorSHIP-FrontEnd)
+ - Github Issues/Repo
  - Production (if relevant)
 
 ### Hours logged this week?
 
 - Monday (0 hours):
-- Tuesday (8:00 hours):
-- Wednesday (8:10 hours):
-- Thursday (8:00 hours):
+- Tuesday (8 hours):
+- Wednesday (8 hours):
+- Thursday (8 hours):
 - Friday (0 hours):
 
 
 ### Talk about something that you didn't know about before this week.
-Before this week I had never heard of Handlebars helpers, and knew nothing about creating them.
 
 ### Link to blog post(s)
 
 ### Discuss: your experience doing PR reviews and getting PR feedback
-I like being able to help people with their PRs, but coming into an unfamiliar code base it's hard to feel like I can really contribute.
 
 ### Discuss: your experience doing daily stand ups
-Doing the daily stand ups was very helpful. Being able to talk about problems with other people and explain your problems causes you to see them in a different context. And the group support is great. 
 
 ### Please feel free to ask any other questions or make any other statements below!
 
