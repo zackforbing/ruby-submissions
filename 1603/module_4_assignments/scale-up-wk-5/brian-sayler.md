@@ -10,7 +10,7 @@
 ### Summarize what you worked on the last two weeks
 - Worked on fixing a high-priority bug involving the Express server and React-Router. Issue was resolved and closed with a reviewed PR.
 - Looked at converting some jQuery AJAX requests to using a promise-based HTTP library called axios.  Issue is still open but PR is up and production-ready.
-- While looking at reducign the use of jQuery, I also researched how we could clean up some dependencies and improve performance. Issue remains open but a PR is in the works.
+- While looking at reducing the use of jQuery, I also researched how we could clean up some dependencies and improve performance. Issue remains open but a PR is in the works.
 
 ### Hours logged this week?
 
