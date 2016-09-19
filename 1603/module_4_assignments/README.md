@@ -44,3 +44,7 @@ In this folder, we will add yet another folder for each major assignment - and a
 #### Week 5
 
 * [Scale Up Week 4](scale-up-wk-5/) (150 points)
+
+#### Week 6
+
+* [The Plan](the-plan/) (50 points)
