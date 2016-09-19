@@ -1,6 +1,6 @@
-Evaluator: Sally MacNicholas
+Evaluator:
 
-Students: Roberta Doyle & Lin McCartney
+Students:
 
 
 ## Project Rubric
@@ -37,7 +37,7 @@ Students: Roberta Doyle & Lin McCartney
 
 **4. Queries**
 
-* 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.
-* **3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.**
+* **4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.**
+* 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
 * 2: Project has some gaps in ActiveRecord usage, including numerous business methods that rely on ruby enumerables to find the appropriate data.
 * 1: Project struggles to establish a coherent ActiveRecords schema, including missing relationships or dysfunctional queries.
