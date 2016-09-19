@@ -28,6 +28,8 @@ I was much more confused about how to bring a React app together than I am now. 
 
 ### Link to blog post(s)
 
+[Here](https://medium.com/@marcellawigg/gulp-a-love-story-c1d4e49e5dfb#.am57o3j3p) describing why I liked Gulp/Browserify.
+
 ### Discuss: your experience doing PR reviews and getting PR feedback
 
 I got a few comments on my PR that I submitted to the Slack channel; not a ton, but a little. I enjoyed submitting PR comments when I had them, which I did for Ilana and Charlie's this week, as well as some last week. It was interesting to look at what the team projects were working on and how they were reviewing content together.
