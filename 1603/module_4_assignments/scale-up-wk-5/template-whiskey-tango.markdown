@@ -22,7 +22,7 @@ We implemented the OmniAuth Gem on the rails server and created a controller and
 
 
 ### Talk about something that you didn't know about before this week.
-Before this week I had never heard of Handlebars helpers, and knew nothing about creating them.
+Before this week I had never heard of Handlebars helpers, and knew nothing about creating them. Handlebars in general seems very inflexible. ERB views are much easier to work with.
 
 ### Link to blog post(s)
 
