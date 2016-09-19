@@ -10,7 +10,6 @@ We implemented the OmniAuth Gem on the rails server and created a controller and
 
  - [Github Back End](https://github.com/turingMentorSHIP/MentorSHIP-API)
  - [Github Front End](https://github.com/turingMentorSHIP/MentorSHIP-FrontEnd)
- - Production (if relevant)
 
 ### Hours logged this week?
 
