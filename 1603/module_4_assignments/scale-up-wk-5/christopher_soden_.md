@@ -23,6 +23,7 @@ We implemented the OmniAuth Gem on the rails server and created a controller and
 Before this week I had never heard of Handlebars helpers, and knew nothing about creating them. Handlebars in general seems very inflexible. ERB views are much easier to work with.
 
 ### Link to blog post(s)
+[Blog](https://medium.com/@karavol27/basics-of-regexs-5e0a09c47b38#.j77bjmu0k)
 
 ### Discuss: your experience doing PR reviews and getting PR feedback
 I like being able to help people with their PRs, but coming into an unfamiliar code base it's hard to feel like I can really contribute.
