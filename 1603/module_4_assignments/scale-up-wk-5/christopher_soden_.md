@@ -20,7 +20,6 @@ We implemented the OmniAuth Gem on the rails server and created a controller and
 - Thursday (8:00 hours):
 - Friday (0 hours):
 
-
 ### Talk about something that you didn't know about before this week.
 Before this week I had never heard of Handlebars helpers, and knew nothing about creating them. Handlebars in general seems very inflexible. ERB views are much easier to work with.
 
