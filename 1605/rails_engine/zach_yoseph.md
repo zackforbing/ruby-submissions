@@ -1,6 +1,6 @@
-Evaluator:
+Evaluator: Sally MacNicholas
 
-Students:
+Students: Zack Forbing & Yoseph Anderson
 
 
 ## Project Rubric

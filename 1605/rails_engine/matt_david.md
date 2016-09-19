@@ -1,6 +1,6 @@
-Evaluator:
+Evaluator: Sally MacNicholas
 
-Students:
+Students: Matt Packer & David Tinianow
 
 
 ## Project Rubric

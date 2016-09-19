@@ -1,7 +1,8 @@
-Evaluator: Sally MacNicholas
+Evaluator: Josh
 
-Students: Roberta Doyle & Lin McCartney
+Students: Deb & Karina
 
+Notes: Allowed a late submission to get a 4 for completion
 
 ## Project Rubric
 
@@ -16,15 +17,15 @@ Students: Roberta Doyle & Lin McCartney
 
 **1. Test-Driven Development**
 
-* **4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.**
+* 4: Project demonstrates high test coverage (>90%) and tests at the controller and unit levels.
 * 3: Project demonstrates high test coverage (>80%) and tests at the controller and unit levels.
 * 2: Project demonstrates high test coverage (>70%) but does not adequately balance controller and unit tests.
-* 1: Project does not have 70% test coverage.
+* **1: Project does not have 70% test coverage.**
 
 **2. Code Quality**
 
-* **4: Project demonstrates exceptionally well factored code.**
-* 3: Project demonstrates solid code quality and MVC principles.
+* 4: Project demonstrates exceptionally well factored code.
+* **3: Project demonstrates solid code quality and MVC principles.**
 * 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
 * 1: Project demonstrates poor factoring and/or understanding of MVC.
 
@@ -37,7 +38,7 @@ Students: Roberta Doyle & Lin McCartney
 
 **4. Queries**
 
-* 4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.
-* **3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.**
+* **4: Project makes great use of ActiveRecord relationships and queries, including some advanced query functionality such as `joins` and `includes`.**
+* 3: Project makes good use of ActiveRecord, but drops to ruby enumerables for some query methods.
 * 2: Project has some gaps in ActiveRecord usage, including numerous business methods that rely on ruby enumerables to find the appropriate data.
 * 1: Project struggles to establish a coherent ActiveRecords schema, including missing relationships or dysfunctional queries.
