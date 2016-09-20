@@ -38,7 +38,7 @@ git repo:
 git repo:
 
 ## Michael Lane Winham
-git repo:
+git repo: https://github.com/laner12/module_3_assessment
 
 ## Patrick Wentz
 git repo: https://github.com/pwentz/module_3_assessment/commits/master
