@@ -47,7 +47,7 @@ git repo: https://github.com/pwentz/module_3_assessment/commits/master
 git repo: https://github.com/NicoleKMarino/module_3_assessment
 
 ## Roberta Doyle
-git repo:
+git repo: https://github.com/roscalabrin/module_3_assessment
 
 ## Ryan Flach
 git repo:
