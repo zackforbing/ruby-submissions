@@ -53,7 +53,7 @@ git repo:
 git repo:
 
 ## Tommasina Miller
-git repo:
+git repo: https://github.com/chompasina/mod_3_assessment
 
 ## Trent Whitinger
 git repo:
