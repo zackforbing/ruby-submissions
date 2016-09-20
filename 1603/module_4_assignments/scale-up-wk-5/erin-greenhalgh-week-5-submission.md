@@ -44,6 +44,10 @@ Instructor Evaluation:
 
 140/150 total points
 
+# Notes
+
+Thanks for your feedback and for summarizing/wrapping things up well and being very involved with your team even when pivoting to focus on Start Up Week!
+
 # Hours
 
 47 total hours logged (~ 6 hours a day)
