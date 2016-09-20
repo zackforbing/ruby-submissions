@@ -5,7 +5,7 @@ git repo:
 git repo:
 
 ## Christopher Concannon
-git repo:
+git repo: https://github.com/concach/module_3_assessment.git
 
 ## David Tinianow
 git repo:
