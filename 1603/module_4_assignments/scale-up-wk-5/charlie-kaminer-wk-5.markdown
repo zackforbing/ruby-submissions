@@ -8,6 +8,7 @@ Over the last two weeks I spent time re-learning the basics of linear regression
 ### Link(s) to Your Work
 
  - [Github Repo](https://github.com/ckaminer/scale_up)
+ - [Un-merged branch](https://github.com/ckaminer/scale_up/tree/train-set)
 
 ### Hours logged this week?
 
