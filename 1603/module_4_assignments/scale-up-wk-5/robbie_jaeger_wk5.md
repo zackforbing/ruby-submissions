@@ -41,9 +41,26 @@ I found it difficult to know how much detail to put into my stand up talk. I ten
 
 # Instructor Evaluation:
 
-Points: (max 150)
+Points: 110/150
+
+# Hours
+
+51 total hours logged (between 7 to 8 hours a day)
+
+# Code
+
+Left some comments in your PRs (one on Active record, one on including screen shots for visual changes in PRs). Great work on all of this - I’m not shocked that you managed to pull it off, but I’m definitely impressed!
+
+Thank you for putting in the extra effort at the end to get this wrapped up and merged well - and for handling the places where past students maybe didn't dilligently wrap things up....
+
+# Blog
+
+Good start on the blog - I’ll leave the grade open and I hope you get a chance to finish it up (mainly so that selfishly, I can add it to the project as great documentation for students to keep working on this part - and so that I can share it with the front end students) - if you do get it wrapped up, shoot me the link and I’ll update this grade/form.
 
 ### Blog Post (40 Points)  
+
+ 0 until blog finished (score pending)
+
   * 40: Developer has >= 2 blog posts documenting something they have worked on for their independent study or has one in depth blog post.
   * 25: Developer has one blog post less than 500 words long.
   * 0: Developer created no blog posts.
@@ -51,21 +68,13 @@ Points: (max 150)
 ### Team Participation (40 points)
 
   * 40: Developer participated daily in stand ups with the group (remote or in person). Developer was able to speak to their work in stand ups in a way that was clear and informative. Developer was involved in pull request reviews.
-  * 30: Developer participated daily in stand ups with the group (remote or in person). Developer has difficulty speaking to their work in stand ups.
-  * 20: Developer was absent for 1 stand up, did not participate actively in code reviews.
-  * 0: Developer was absent for > 1 standup, did not participate actively in lessons and peer reviews. Did not deliver or almost deliver any features.
 
 ### Hourly Work (30 points)
 
   * 30: Developer logged 7 to 8 hours per working day. Developer can speak to work completed during those hours.
-  * 20: Developer logged between 6 to 7 hours per working day
-  * 5: Developer logged < 6 hours per working day OR developer is unable to speak to or justify hours logged.
-  * 0: Developer did not track hours
 
 ### Risk Taking and Creativity (40 points)
 
   Instructor/Developer will select one feature in the project to review for this section of the rubric.
 
   * 40: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.
-  * 20: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.
-  * 10: Developers attempted to implement extensions using technologies not covered in class but it did not result in code or documentation.
