@@ -41,31 +41,37 @@ I've read through and worked to understand all aspects of the JavaScript and Rea
 
 # Instructor Evaluation:
 
-Points: (max 150)
+Points: 150/150
+
+# Notes
+
+Good work this week! Way to go on the deliverable, and thank you for following up with Lia and getting her feedback on how to get the most out of Start Up Week.
+
+Good point on the remote standups - last module we had someone take notes in every stand up to send out in the channel but I dropped the ball on doing that this time around! 
+
+# Blogs 
+
+` I heard a lot about the Airbnb linting rule` <- a link directly to the rules would be helpful!
+
+`If you decide to follow the Airbnb JavaScript style guides they encourage function declarations over using variables for functions because of the hoisting within the scope.` <- Same note as above
+
+For the hoisting blog, a quick definition of what happens in JavaScript to cause hoisting might be helpful - here's a super in depth explanation from the guy who is most known for absurdly in depth explanations in JavaScript https://github.com/getify/You-Dont-Know-JS/blob/a5b49a8ec0ecd328e76618dc6d5eef8470ce9e81/scope%20%26%20closures/ch4.md
+
+In general, I think you might really enjoy reading some of the You Don't Know JavaScript series :D
 
 ### Blog Post (40 Points)  
   * 40: Developer has >= 2 blog posts documenting something they have worked on for their independent study or has one in depth blog post.
-  * 25: Developer has one blog post less than 500 words long.
-  * 0: Developer created no blog posts.
 
 ### Team Participation (40 points)
 
   * 40: Developer participated daily in stand ups with the group (remote or in person). Developer was able to speak to their work in stand ups in a way that was clear and informative. Developer was involved in pull request reviews.
-  * 30: Developer participated daily in stand ups with the group (remote or in person). Developer has difficulty speaking to their work in stand ups.
-  * 20: Developer was absent for 1 stand up, did not participate actively in code reviews.
-  * 0: Developer was absent for > 1 standup, did not participate actively in lessons and peer reviews. Did not deliver or almost deliver any features.
 
 ### Hourly Work (30 points)
 
   * 30: Developer logged 7 to 8 hours per working day. Developer can speak to work completed during those hours.
-  * 20: Developer logged between 6 to 7 hours per working day
-  * 5: Developer logged < 6 hours per working day OR developer is unable to speak to or justify hours logged.
-  * 0: Developer did not track hours
 
 ### Risk Taking and Creativity (40 points)
 
   Instructor/Developer will select one feature in the project to review for this section of the rubric.
 
   * 40: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.
-  * 20: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.
-  * 10: Developers attempted to implement extensions using technologies not covered in class but it did not result in code or documentation.
