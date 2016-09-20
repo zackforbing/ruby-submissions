@@ -44,7 +44,7 @@ git repo:
 git repo:
 
 ## Nicole Marino
-git repo:
+git repo: https://github.com/NicoleKMarino/module_3_assessment
 
 ## Roberta Doyle
 git repo:
