@@ -41,7 +41,7 @@ git repo:
 git repo:
 
 ## Patrick Wentz
-git repo:
+git repo: https://github.com/pwentz/module_3_assessment/commits/master
 
 ## Nicole Marino
 git repo: https://github.com/NicoleKMarino/module_3_assessment
