@@ -8,7 +8,7 @@ git repo:
 git repo:
 
 ## David Tinianow
-git repo:
+git repo: https://github.com/dtinianow/module_3_assessment
 
 ## Deb Hamel
 git repo: https://github.com/deborahleehamel/module_3_assessment
