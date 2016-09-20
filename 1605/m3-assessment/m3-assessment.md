@@ -2,7 +2,7 @@
 git repo:
 
 ## Caleb Cowen
-git repo:
+git repo: https://github.com/Caleb9193/module_3_assessment
 
 ## Christopher Concannon
 git repo:
