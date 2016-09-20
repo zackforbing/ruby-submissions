@@ -49,7 +49,9 @@ For the links to the work, can you please make sure to link to the code/branches
 
 The amount of code created is really impressive for this project, but I have concerns about some issues in the work flow and where the state of the app currently is : notes below. From a learning new technology standpoint, I’m impressed that you and Parker dove in and figured out how to make this code work — but as someone who has to maintain this application, I wish more time was taken on documenting and PR review and refactoring based on the PR feedback.
 
-While you did post a PR for review here: https://github.com/turingMentorSHIP/MentorSHIP-API/pull/9 - there are multiple places where feedback and suggestions were given that were not addressed or cleaned up. At minimum, you need to respond to the feedback that you are given and let the reviewer know what steps you are taking and honor the fact that they took time to review your code. I would have expected that you would have created an issue that directly links to this code in the issue if you are going to merge the PR without fixing, small syntax changes should be fixed before the PR is merged.
+While you did post a PR for review here: https://github.com/turingMentorSHIP/MentorSHIP-API/pull/9 - there are multiple places where feedback and suggestions were given that were not addressed or cleaned up. At minimum, you need to respond to the feedback that you are given and let the reviewer know what steps you are taking and honor the fact that they took time to review your code. 
+
+My expectation for handling PR comments is to create an issue that directly links to this code in the issue if you are going to merge the PR without fixing things that were pointed out - and that small syntax changes should be fixed before the PR is merged, or fixed ASAP and linked in a response if the PR was already merged.
 
 To start, the following issues need more follow up - but I believe both sets of issues in either repo need clarity across the board: 
 
