@@ -56,7 +56,7 @@ git repo:
 git repo:
 
 ## Trent Whitinger
-git repo:
+git repo: https://github.com/twhitinger/module_3_assessment
 
 ## Yoseph Anderson
 git repo:
