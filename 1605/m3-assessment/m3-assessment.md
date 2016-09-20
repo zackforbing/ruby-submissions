@@ -14,7 +14,7 @@ git repo: https://github.com/dtinianow/module_3_assessment
 git repo: https://github.com/deborahleehamel/module_3_assessment
 
 ## Garrett Smestad
-git repo:
+git repo:https://github.com/GSmes/module_3_assessment
 
 ## Jason Hanna
 git repo:
