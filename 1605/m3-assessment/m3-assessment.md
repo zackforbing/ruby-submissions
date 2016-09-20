@@ -23,7 +23,7 @@ git repo:
 git repo:
 
 ## Karina Gonzalez
-git repo:
+git repo: https://github.com/karinamzalez/module_3_assessment
 
 ## Kris Sparks
 git repo:
