@@ -47,20 +47,20 @@ Points: 110/150
 
 For the links to the work, can you please make sure to link to the code/branches/prs specifically that you worked on - not just the entire repo? Makes it much easier for reviewers to know what you did there. 
 
-The amount of code created is really impressive for this project, but I have concerns about some issues in the work flow and where the state of the app currently is : notes below. From a learning new technology standpoint, I’m impressed that you and Parker dove in and figured out how to make this code work — but as someone who has to maintain this application, I wish more time was taken on documenting and following best practices.
+The amount of code created is really impressive for this project, but I have concerns about some issues in the work flow and where the state of the app currently is : notes below. From a learning new technology standpoint, I’m impressed that you and Parker dove in and figured out how to make this code work — but as someone who has to maintain this application, I wish more time was taken on documenting and PR review and refactoring based on the PR feedback.
 
 While you did post a PR for review here: https://github.com/turingMentorSHIP/MentorSHIP-API/pull/9 - there are multiple places where feedback and suggestions were given that were not addressed or cleaned up. At minimum, you need to respond to the feedback that you are given and let the reviewer know what steps you are taking and honor the fact that they took time to review your code. I would have expected that you would have created an issue that directly links to this code in the issue if you are going to merge the PR without fixing, small syntax changes should be fixed before the PR is merged.
 
 To start, the following issues need more follow up - but I believe both sets of issues in either repo need clarity across the board: 
 
-https://github.com/turingMentorSHIP/MentorSHIP-API/issues/19
-https://github.com/turingMentorSHIP/MentorSHIP-FrontEnd/issues/9
-https://github.com/turingMentorSHIP/MentorSHIP-FrontEnd/issues/8
-https://github.com/turingMentorSHIP/MentorSHIP-FrontEnd/issues/7
+- https://github.com/turingMentorSHIP/MentorSHIP-API/issues/19
+- https://github.com/turingMentorSHIP/MentorSHIP-FrontEnd/issues/9
+- https://github.com/turingMentorSHIP/MentorSHIP-FrontEnd/issues/8
+- https://github.com/turingMentorSHIP/MentorSHIP-FrontEnd/issues/7
 
-In general, the issues that were created do that have enough detail for anyone to pick them up. Mark and Josh left some issues without a ton of acceptance criteria because they had created the entire documentation repo - but your issues don’t include links to context like where in the code to look or what you mean by some off the things you included. Additionally, the work that was merged did not seem to include any documentation updates.
+In general, the issues that were created do that have enough detail. Since the work that was merged did not include any documentation updates, there would be no way for someone to pick up most of these issues without spending a ton of time digging throught he code and commit history.
 
-I have no idea from reading through the issues what the state of the application is. Does the product that is deployed and on master actually work right now?
+I don't know from reading through the issues what the state of the application is. Does the product that is deployed and on master actually work right now?
 
 Also - all work that went into the project needed to be done in a pull request: https://github.com/turingMentorSHIP/MentorSHIP-FrontEnd/commit/4b85c98642918824401d0cf95825c97850238e18 - multiple commits at the end look like they were pushed directly to master.
 
