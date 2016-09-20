@@ -44,31 +44,49 @@ I would like to see the next group that takes it get the account creation for st
 
 Instructor Evaluation:
 
-150 total points
+# Instructor Evaluation:
 
-### Blog Post (40 Points)  
+Points: 110/150
+
+# Hours
+
+48 total hours logged (~ 6 hours a day)
+
+# Code
+
+The following issues need more follow up - but I believe both sets of issues in either repo need clarity across the board: 
+
+- https://github.com/turingMentorSHIP/MentorSHIP-API/issues/19
+- https://github.com/turingMentorSHIP/MentorSHIP-FrontEnd/issues/9
+- https://github.com/turingMentorSHIP/MentorSHIP-FrontEnd/issues/8
+- https://github.com/turingMentorSHIP/MentorSHIP-FrontEnd/issues/7
+
+In general, the issues that were created do that have enough detail. Since the work that was merged did not include any documentation updates, there would be no way for someone to pick up most of these issues without spending a ton of time digging throught he code and commit history.
+
+For the pull request review, even if it is just a spike, there's nothing wrong with dropping some of the work you're doing on a spike into the Pr Review channel to just get some feedback on the work in progress.
+
+Since Chris did the majority of the code committed, one way you can handle that situation is to document your spikes in the project basecamp. Right now, all the work you did one spiking the other solution is kind of lost to the project. No one can learn from what you did because there's not documentation on the approach and why it wasn't a good fit.
+
+# Blog
+
+Great blog post!
+
+`Using all of these tools Ember provides you with an easy way to set up various endpoints for your application, allowing you to focus on some of the more important details of the code and User experience.` - User doesn't need to be capitalized here
+
+### Blog Post (40 Points)
+
   * 40: Developer has >= 2 blog posts documenting something they have worked on for their independent study or has one in depth blog post.
-  * 25: Developer has one blog post less than 500 words long.
-  * 0: Developer created no blog posts.
 
 ### Team Participation (40 points)
 
   * 40: Developer participated daily in stand ups with the group (remote or in person). Developer was able to speak to their work in stand ups in a way that was clear and informative. Developer was involved in pull request reviews.
-  * 30: Developer participated daily in stand ups with the group (remote or in person). Developer has difficulty speaking to their work in stand ups.
-  * 20: Developer was absent for 1 stand up, did not participate actively in code reviews.
-  * 0: Developer was absent for > 1 standup, did not participate actively in lessons and peer reviews. Did not deliver or almost deliver any features.
 
 ### Hourly Work (30 points)
 
-  * 30: Developer logged 7 to 8 hours per working day. Developer can speak to work completed during those hours.
   * 20: Developer logged between 6 to 7 hours per working day
-  * 5: Developer logged < 6 hours per working day OR developer is unable to speak to or justify hours logged.
-  * 0: Developer did not track hours
 
 ### Risk Taking and Creativity (40 points)
 
   Instructor/Developer will select one feature in the project to review for this section of the rubric.
 
-  * 40: Developers pushed themselves and their team by taking risks which is demonstrated by a delivered feature or well documented spike. Developers explored concepts and technologies outside the scope of the curriculum.
-  * 20: Developers pushed themselves and their team by taking risks which is demonstrated by an almost delivered feature whose next steps are not well documented.
   * 10: Developers attempted to implement extensions using technologies not covered in class but it did not result in code or documentation.
