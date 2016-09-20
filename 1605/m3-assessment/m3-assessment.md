@@ -53,7 +53,7 @@ git repo: https://github.com/roscalabrin/module_3_assessment
 git repo: https://github.com/ryanflach/module_3_assessment
 
 ## Tommasina Miller
-git repo:
+git repo: https://github.com/chompasina/mod_3_assessment
 
 ## Trent Whitinger
 git repo:
