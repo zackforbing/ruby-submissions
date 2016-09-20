@@ -11,7 +11,7 @@ git repo:
 git repo:
 
 ## Deb Hamel
-git repo:
+git repo: https://github.com/deborahleehamel/module_3_assessment
 
 ## Garrett Smestad
 git repo:
