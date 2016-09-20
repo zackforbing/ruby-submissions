@@ -50,7 +50,7 @@ git repo: https://github.com/NicoleKMarino/module_3_assessment
 git repo: https://github.com/roscalabrin/module_3_assessment
 
 ## Ryan Flach
-git repo:
+git repo: https://github.com/ryanflach/module_3_assessment
 
 ## Tommasina Miller
 git repo:
