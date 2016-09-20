@@ -14,7 +14,7 @@ git repo:
 git repo:
 
 ## Garrett Smestad
-git repo:
+git repo:https://github.com/GSmes/module_3_assessment
 
 ## Jason Hanna
 git repo:
