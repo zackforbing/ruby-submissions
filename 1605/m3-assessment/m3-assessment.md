@@ -20,7 +20,7 @@ git repo:https://github.com/GSmes/module_3_assessment
 git repo:
 
 ## Jennifer Soden
-git repo:
+git repo: https://github.com/MsJennyGiraffe/module_3_assessment
 
 ## Karina Gonzalez
 git repo:
