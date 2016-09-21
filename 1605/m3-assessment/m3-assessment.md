@@ -32,7 +32,7 @@ git repo:
 git repo:
 
 ## Matthew Campbell
-git repo:
+git repo: https://github.com/matthewecampbell/module_3_assessment
 
 ## Matthew Packer
 git repo:
