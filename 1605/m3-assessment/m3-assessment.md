@@ -59,7 +59,7 @@ git repo: https://github.com/chompasina/mod_3_assessment
 git repo:
 
 ## Yoseph Anderson
-git repo:
+git repo: https://github.com/Yoyo2Code/module_3_assessment
 
 ## Zachary Forbing
 git repo: https://github.com/zackforbing/module_3_assessment
