@@ -1,5 +1,5 @@
 ## Angela Lindow
-git repo:
+git repo:  https://github.com/allindow/module_3_assessment
 
 ## Caleb Cowen
 git repo: https://github.com/Caleb9193/module_3_assessment
