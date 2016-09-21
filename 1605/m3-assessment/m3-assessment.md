@@ -35,7 +35,7 @@ git repo:
 git repo: https://github.com/matthewecampbell/module_3_assessment
 
 ## Matthew Packer
-git repo:
+git repo: https://github.com/matthewrpacker/module_3_assessment
 
 ## Michael Lane Winham
 git repo: https://github.com/laner12/module_3_assessment
