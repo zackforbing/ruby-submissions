@@ -26,7 +26,7 @@ git repo: https://github.com/MsJennyGiraffe/module_3_assessment
 git repo:
 
 ## Kris Sparks
-git repo:
+git repo: https://github.com/kbs5280/module_3_assessment
 
 ## Linda McCartney
 git repo:
