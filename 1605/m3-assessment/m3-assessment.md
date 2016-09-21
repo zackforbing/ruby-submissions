@@ -56,7 +56,7 @@ git repo: https://github.com/ryanflach/module_3_assessment
 git repo: https://github.com/chompasina/mod_3_assessment
 
 ## Trent Whitinger
-git repo:
+git repo: https://github.com/twhitinger/module_3_assessment
 
 ## Yoseph Anderson
 git repo: https://github.com/Yoyo2Code/module_3_assessment
