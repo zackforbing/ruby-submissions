@@ -43,10 +43,10 @@
 
 ### Link to a specific block of your code on Github that you feel not great about
 - [Calculating Color Values](https://github.com/lucyfox4131/color-wars/blob/995130e2b36965c2db7330fa937f241c11c11d64/lib/color_filler.js#L72-L89)
-- This is a pretty long method that takes in many things and then makes variables from those things, which we're not a big fan of. It iterates through each block on the pattern and then checks if the block is either the user color, or one of the computer colors. Ideally this method would be flexible to iterate through any number of colors, thus getting rid of some repetition and making this more flexible. We just couldn't get this figured out in time. 
+- This is a pretty long method that takes in many things and then makes variables from those things, which we're not a big fan of. It iterates through each block on the pattern and then checks if the block is either the user color, or one of the computer colors. Ideally this method would be flexible to iterate through any number of colors, thus getting rid of some repetition and making this more flexible. We just couldn't get this figured out in time.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-``` javascript 
+``` javascript
 Block
     with default attributes
       ✓ should have an x value
@@ -126,7 +126,7 @@ None :(
 # Instructor Feedback
 
 - Points: (base 150)
-- 
+-
 130/150
 
 ### Playability Features
