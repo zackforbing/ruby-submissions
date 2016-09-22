@@ -6,7 +6,8 @@ Notes:
 * Some gaps in the UI, quick fixes will make it awesome
 * Tests are great, good to see a large percentage of code being tested
 * Code is generally broken out well, but would like to see longer methods broken
- out more and making more POROs to single out responsibilities
+ out more and making more POROs to single out responsibilities. A lot of the models are quite confusing and would have 
+ become a lot simpler had it been moved out into POROs.
 
 
 **1. Completion**
@@ -25,16 +26,13 @@ Notes:
 
 **2. Code Quality**
 
-* 4: Project demonstrates exceptionally well factored code.
-* 3: Project demonstrates solid code quality and MVC principles.
 * 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
-* 1: Project demonstrates poor factoring and/or understanding of MVC.
 
 ### Product Experience
 
 **1. User Experience**
 
-* 2: Project exhibits some gaps in the UX.
+* 4: Project exhibits a production-ready and polished UX.
 
 **2. Performance**
 

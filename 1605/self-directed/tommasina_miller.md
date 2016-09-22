@@ -5,17 +5,18 @@ Notes:
 the app is only taking info from slack and posting it to a site. Would have
 liked to see some sort of stats within slack or within the web app
 * Testing is not there. Small attempt to get some testing in there but even the
- feature tests were not robust enough.
+feature tests were not robust enough.
 * Code needs to be refactored in a lot of places
+* A lot of code/files that are not being used should have been taken out prior
+to eval
 * Great to see that a big risk was taken with the slack api, but should have
- scaled down on scope when it was taking too long to get everything
- implemented. Because of the amount of time to figure out slack api, other
- things suffered from that, like not having time to refactor and think about
- where responsibilites should live within the code.
+scaled down on scope when it was taking too long to get everything
+implemented. Because of the amount of time to figure out slack api, other
+things suffered from that, like not having time to refactor and think about
+where responsibilites should live within the code.
 
 **1. Completion**
 
-* 3: Developer completed all the user stories and requirements set by the client.
 * 2: Developer completed most of the user stories and requirements set by the client.
 
 **2. Organization**
@@ -30,7 +31,6 @@ liked to see some sort of stats within slack or within the web app
 
 **2. Code Quality**
 
-* 3: Project demonstrates solid code quality and MVC principles.
 * 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
 
 ### Product Experience
