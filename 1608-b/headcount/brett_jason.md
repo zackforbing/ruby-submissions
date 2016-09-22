@@ -23,5 +23,5 @@ Notes:
 * 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 ### 6. Code Sanitation
-* 1: More than ten complaints
+* 1: More than ten complaints 
 
