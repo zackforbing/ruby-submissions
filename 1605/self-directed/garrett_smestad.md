@@ -6,6 +6,9 @@ Notes:
  really great
 * Code is written well, but definitely can be refactored so that models and
  controllers are dealing with single responsibility
+* Playlist could be refactored out so that it is only modeling data on the
+ playlist, and have a playlist generator that would be generating all of the
+ data to make a playlist
 * Testing needs work. Service is not tested at all
 * Opportunity for helpers in the view so you aren't chaining a lot of methods
 

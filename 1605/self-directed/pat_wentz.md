@@ -1,6 +1,13 @@
 Assessor:
 
 Notes:
+* All functionality is there. Great job on taking a risk and getting vue.js
+ working
+* Some gaps in the UI, quick fixes will make it awesome
+* Tests are great, good to see a large percentage of code being tested
+* Code is generally broken out well, but would like to see longer methods broken
+ out more and making more POROs to single out responsibilities
+
 
 **1. Completion**
 
