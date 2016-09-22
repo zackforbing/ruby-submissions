@@ -32,8 +32,8 @@ Notes:
 **2. Code Quality**
 
 * 4: Project demonstrates exceptionally well factored code.
-* 3: Project demonstrates solid code quality and MVC principles.
-* **2: Project demonstrates some gaps in code quality and/or application of MVC principles.**
+* **3: Project demonstrates solid code quality and MVC principles.**
+* 2: Project demonstrates some gaps in code quality and/or application of MVC principles.
 * 1: Project demonstrates poor factoring and/or understanding of MVC.
 
 ### Product Experience
