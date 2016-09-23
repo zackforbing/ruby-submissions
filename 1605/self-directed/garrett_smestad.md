@@ -2,8 +2,6 @@ Assessor: Sally MacNicholas
 
 Notes:
 * Really great job
-* Aside from a couple errors on heroku which can be fixed by EOD, user flow is
- really great
 * Code is written well, but definitely can be refactored so that models and
  controllers are dealing with single responsibility
 * Playlist could be refactored out so that it is only modeling data on the
@@ -34,7 +32,7 @@ Notes:
 
 **1. User Experience**
 
-* 2: Project exhibits some gaps in the UX.
+* 4: Project exhibits a production-ready and polished UX.
 
 **2. Performance**
 
