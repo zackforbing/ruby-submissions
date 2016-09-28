@@ -19,15 +19,15 @@ In this folder, we will add yet another folder for each major assignment - and a
 
 #### Intermission Week
 
-* [1603 Intermission Assignments](https://github.com/turingschool/intermission-assignments/issues?q=is%3Aopen+is%3Aissue+label%3A1603) (Due EOD Friday Week 1)
+* [1605 Intermission Assignments](https://github.com/turingschool/intermission-assignments/issues?q=is%3Aopen+is%3Aissue+label%3A1605) (Due EOD Friday Week 1)
 
 #### Week 1
 
 * [IdeaBox 2.0](ideabox2.0/) (150 points)
-* [ES6 Assignment](https://gist.github.com/rrgayhart/4c0784c9aa2f427017891c05a46bf7a2) (5 points)
-* [Job Profiling Assignment](https://gist.github.com/rrgayhart/e6789e0b540705de9ed22b14ecb7182d) (15 points)
+* [ES6 Assignment](https://gist.github.com/96c832bb235a986de53f01f96a290294) (5 points)
+* [Job Profiling Assignment](https://gist.github.com/dbd8f459891e83e21205467025639678) (15 points)
 
 #### Week 2
 
 * [Game Time](/gametime)
-* [The Concept of Require](https://gist.github.com/rrgayhart/548e843327afb5ff8969b6dc4435c7bd) (10 points)
+* [The Concept of Require](https://gist.github.com/a199274681af65a0e3e7852cfbb8cfbd) (10 points)

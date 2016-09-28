@@ -2,7 +2,7 @@
 
 ## Points
 
-To graduate from Module 4 you will need to get ~80% of the total assigned points and pass your portfolio review. There will be ~1250 total points.
+To graduate from Module 4 you will need to get ~80% of the total assigned points and pass your portfolio review. There will be ~1150 total points.
 
 Everyone should have access to a google drive spreadsheet that lists where you're at in the point-wise.
 
@@ -10,7 +10,7 @@ If you don't have a link or the magic of google drive is on the fritz and your l
 
 ## Doin' Homeworks Policy
 
-[Assignment Submission Repo](https://github.com/turingschool/ruby-submissions/tree/master/1603/module_4_assignments)
+[Assignment Submission Repo](https://github.com/turingschool/ruby-submissions/tree/master/1605/module_4_assignments)
 
 You'll find the directions to submit all assignments in the above repo (as they are assigned).
 
@@ -33,10 +33,10 @@ Portfolios, as with other modules, will be reviewed at the end of the year. Don'
 
 ## Communicating with Instructors
 
-Please, please, please, please, please feel comfortable tagging `@rrgayhart` or `@neight-allen` in your pull requests on your projects. [Here's how it works](https://github.com/blog/821-mention-somebody-they-re-notified). It's a great way for us to do a 'pull request review' and answer your questions and give you technical feedback. Your mentors will (probably) love doing this too, and it's often easier for them to do than 1 on 1 pairing.
+Please, please, please, please, please feel comfortable tagging `@carmer` or `@neight-allen` in your pull requests on your projects. [Here's how it works](https://github.com/blog/821-mention-somebody-they-re-notified). It's a great way for us to do a 'pull request review' and answer your questions and give you technical feedback. Your mentors will (probably) love doing this too, and it's often easier for them to do than 1 on 1 pairing.
 
 And finally, we know this might be your most hectic module at Turing, what with all that graduating and job hunting about to happen - if you have schedule conflicts on interviews, just let us know!
 
 ## Extra Credit
 
-Find out more about [extra credit here](https://github.com/turingschool/ruby-submissions/tree/master/1603/module_4_assignments/extra-credit).
+Find out more about [extra credit here](https://github.com/turingschool/ruby-submissions/tree/master/1605/module_4_assignments/extra-credit).
