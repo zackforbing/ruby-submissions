@@ -1,6 +1,6 @@
 # Submissions for Module 4 Assignments
 
-This repository is used to collect submissions of assignments for 1603 in Module 4.
+This repository is used to collect submissions of assignments for 1605 in Module 4.
 
 In this folder, we will add yet another folder for each major assignment - and a link in this README to where they can be submitted.
 
@@ -29,5 +29,5 @@ In this folder, we will add yet another folder for each major assignment - and a
 
 #### Week 2
 
-* [Game Time](/gametime)
+* [Game Time](gametime/)
 * [The Concept of Require](https://gist.github.com/a199274681af65a0e3e7852cfbb8cfbd) (10 points)
