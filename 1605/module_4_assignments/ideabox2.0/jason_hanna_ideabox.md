@@ -4,7 +4,7 @@
 [GitHub Repo](https://github.com/Automatic365/idea-box-2.0)
 
 ### Idea Box on Heroku
-[Idea Box on Heroku](http://burymewithmymoney.com/)
+[Idea Box on Heroku](https://idea-box-2-the-reckoning.herokuapp.com/)
 
 ### Link to My Commits in the Github Repository for the Project
 [My Commits](https://github.com/Automatic365/idea-box-2.0/commits/master)
@@ -30,7 +30,7 @@
 ### Link to a specific block of your code on Github that you feel not great about
 
 [Code Shame](https://github.com/Automatic365/idea-box-2.0)
-* Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+* I'm still a little intimidated by JS and working my way through thinking through it more succinctly. I know that is to be expected in the first week, but I still feel shaky about the relationship JavaScript and I are developing.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
