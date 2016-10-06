@@ -11,7 +11,7 @@
 [Your Commits](https://github.com/Laner12/revenge_of_idea_box/commits/master)
 
 ### Provide a Screenshot of your Application
-![Idea Box Homepage](./idea_box.jpg)
+![Idea Box Homepage](http://i.imgur.com/6FrjDn3.png)
 
 ## Completion
 
@@ -35,7 +35,7 @@
 * I was having issues with how to update the voting params so I sent params to the controller to handle it, but I think there was certainly a better way.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-![Test suite](./test_suite.jpg)
+![Test suite](http://i.imgur.com/r5VWir3.png)
 
 -----
 
