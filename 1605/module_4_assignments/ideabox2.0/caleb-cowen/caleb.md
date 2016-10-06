@@ -22,7 +22,7 @@
 [Commits](https://github.com/Caleb9193/idea_box/commits/master)
 
 ### Provide a Screenshot of your Application
-[Ideas for all Homepage](https://github.com/Caleb9193/idea_box/commits/master)
+[Ideas for all Homepage](./ideasforall.png)
 
 ## Completion
 
