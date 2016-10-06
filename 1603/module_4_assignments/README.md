@@ -29,7 +29,7 @@ In this folder, we will add yet another folder for each major assignment - and a
 
 #### Week 2
 
-* [Game Time](/gametime)
+* [Game Time](gametime/)
 * [The Concept of Require](https://gist.github.com/rrgayhart/548e843327afb5ff8969b6dc4435c7bd) (10 points)
 
 #### Week 3
@@ -39,8 +39,12 @@ In this folder, we will add yet another folder for each major assignment - and a
 
 #### Week 4
 
-* [Scale Up Week 4](/scale-up-wk-4) (150 points)
+* [Scale Up Week 4](scale-up-wk-4/) (150 points)
 
 #### Week 5
 
-* [Scale Up Week 4](/scale-up-wk-5) (150 points)
+* [Scale Up Week 4](scale-up-wk-5/) (150 points)
+
+#### Week 6
+
+* [The Plan](the-plan/) (50 points)

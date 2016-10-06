@@ -2,13 +2,14 @@ Evaluator: Josh
 
 Students: Deb & Karina
 
+Notes: Allowed a late submission to get a 4 for completion
 
 ## Project Rubric
 
 **1. Completion**
 
-* 4: Project completes all base requirements according to the spec harness.
-* **3: Project completes most requirements but fails 3 (5 for individual project) or fewer spec harness tests.**
+* **4: Project completes all base requirements according to the spec harness.**
+* 3: Project completes most requirements but fails 3 (5 for individual project) or fewer spec harness tests.
 * 2: Project completes most requirements but fails 7 - 5 (10 to 6 for individual project) spec harness tests.
 * 1: Project fails more than 7 (10 for individual project) spec harness tests.
 
