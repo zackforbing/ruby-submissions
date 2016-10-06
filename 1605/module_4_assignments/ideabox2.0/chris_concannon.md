@@ -15,7 +15,7 @@
 [Your Commits](https://github.com/concach/idea_box/commits/master)
 
 ### Provide a Screenshot of your Application
-[Idea Box Homepage](./chris_concannon_idea_box.png)
+[Idea Box Homepage](./ideabox2.0/chris_concannon_idea_box.png)
 
 ## Completion
 
@@ -38,7 +38,7 @@
 * I do not feel particularly great about this piece of code because I know that my event listeners are flawed, and my search bar code (commented out) does not function properly.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-[Idea Box Tests](./chris_concannon_idea_box_spec.png)
+[Idea Box Tests](./ideabox2.0/chris_concannon_idea_box_spec.png)
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 [Idea Box Edge Case Testing](https://github.com/concach/idea_box/blob/master/spec/models/idea_spec.rb#L12-L32)
