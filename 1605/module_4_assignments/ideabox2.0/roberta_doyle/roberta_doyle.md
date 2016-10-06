@@ -28,11 +28,13 @@
 +[Code Link](https://github.com/roscalabrin/ideabox/blob/master/app/assets/javascripts/ideabox.js.es6#L1-L15)
 
 * Why were you proud of this piece of code?
+I'm happy with how I organized the my js files and classes.
 
 ### Link to a specific block of your code on Github that you feel not great about
 +[Code Link](https://github.com/roscalabrin/ideabox/blob/master/app/assets/javascripts/ideas_index.js.es6#L2-L19)
 
 * Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+It's a very long method, I couldn't figure it out how to break it into smaller methods. 
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 ![Tests](./roberta_doyle_tests.png)
