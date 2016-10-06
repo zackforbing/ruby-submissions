@@ -42,3 +42,42 @@
 ### Please feel free to ask any other questions or make any other statements below!
 
 * I was having issues grabing all of the ideas in order to filter them. I was trying ``` $idea = $(".idea") ``` assuming that it would return an array of all ideas on the DOM. How could I have got all ideas?
+
+* Idea bodies longer than 100 characters should be truncated to the nearest word. (5 points)
+*  The user should be able to "commit" their changes by pressing "Enter/Return" or by clicking outside of the text field. (2 points)
+
+(15 points total.)
+
+73 +
+
+
+
+## Instructor Evaluation Points
+
+### Specification Adherence
+
+* **10 points**: The application consists of one page with all of the major functionality being provided by jQuery. There is no use of `format.js` in Rails. There is no use of unobstrusive JavaScript. There are no front-end frameworks used in the application. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
+
+### User Interface
+* 4 One small thing needed to be explained - overall a good composition and experience
+
+* **5 points** - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor _without_ guidance from the developer.
+* **3 points** - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
+
+### Testing
+* __7__ - Only one integration test.
+
+* **8 points** - Project has a running test suite that tests and multiple levels but fails to cover some features. All controller actions are covered by tests. The application makes some use of integration testing.
+
+### Ruby and Rails Quality
+
+* **8 points** - Developer solves problems with a balance between conciseness and clarity and often extracts logical components. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### JavaScript Style
+
+* **8 points** - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### Workflow
+** 9 - Would like to see more commits and management of the code through the process.
+
+* **10 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
