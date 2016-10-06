@@ -1,0 +1,96 @@
+# Game Time Check In # 3
+
+## Instructor Goal Completion
+
+### GOAL 1 - Create 2 players
+
+- Have 2 players
+- Players take turns placing tiles and helpers on the board
+- the board/UI has some sort of visual indicator to show which player is active
+
+- Provide a screenshot or gif or link to code for this goal
+  
+  [Link to Player Class](https://github.com/scottfirestone/carcassonne/blob/master/lib/player.js)
+  [Link to Game Class showing player creation and turns](https://github.com/scottfirestone/carcassonne/blob/master/lib/game.js#L80-136)
+  
+  - Did you deviate from the instructions? Tell us about it.
+  
+  I don't think so!
+  - Questions, Comments, Concerns?
+  
+  Nope!
+
+### GOAL 2 - - Have and place specific players meeples
+- Board shows number of followers available for each player and the number of tiles remaining
+
+  - Provide a screenshot or gif or link to code for this goal
+  
+  [Link to Game class](https://github.com/scottfirestone/carcassonne/blob/master/lib/game.js#L177-231)
+  [Link to Player Info class](https://github.com/scottfirestone/carcassonne/blob/master/lib/playerInfo.js#L45-48)
+  
+  - Did you deviate from the instructions? Tell us about it.
+  
+  I don't think so!
+  - Questions, Comments, Concerns?
+  
+  Nope!
+
+### GOAL 3 - A pop up box of rules of the game that player can use, open, close, etc.
+
+  - Provide a screenshot or gif or link to code for this goal
+  
+  [Link to javascript for modal (this will be moved into a separate class)](https://github.com/scottfirestone/carcassonne/blob/3-popup-rules/lib/index.js#L11-29)
+  [Link to html for rules modal](https://github.com/scottfirestone/carcassonne/blob/3-popup-rules/index.html#L33-39)
+  - Did you deviate from the instructions? Tell us about it.
+  
+  I don't think so!
+  - Questions, Comments, Concerns?
+  
+  Nope!
+
+### GOAL 4 - starting page/screen with logo where players enter their names and can start the game
+
+- Provide a screenshot or gif or link to code for this goal
+
+  [Link to index.html](https://github.com/scottfirestone/carcassonne/blob/master/index.html#L14-21)
+  [Link to animations for game start](https://github.com/scottfirestone/carcassonne/blob/master/lib/game.js#L37-77)
+
+- Did you deviate from the instructions? Tell us about it.
+- Questions, Comments, Concerns?
+
+### Extension - - players have the ability to increase and increase their own score (players control this themselves)
+- Provide a screenshot or gif or link to code for this goal
+
+  [Link to Player Info Class](https://github.com/scottfirestone/carcassonne/blob/master/lib/playerInfo.js#L28-69)
+
+
+## Next Steps?
+
+What do you feel the next steps should be?  
+1. Board grows when tiles are placed on the edges 
+2. Can play with up to 5 players instead of just 2
+3. Tiles must be played adjacent to other tiles  
+4. There is an ending for the gmae 
+
+### General Questions, Comments, Concerns?
+
+-----
+
+## Instructor Section
+
+### Points for Third Check In (base 50)
+  50/50
+
+### Instructor's Goals for Next Check In
+
+  - Style rule div
+  - Check for illegal moves - adjacency of current tile
+  - Board grows as game grows
+  - More players
+  - Testing
+
+### Extension
+  - Colors
+  - Check for illegal moves based on position of tile
+
+### Feedback?
