@@ -34,8 +34,8 @@
 * I am proud of this code because I enjoyed figuring out the logic for updating an idea. I used an array of qualities to keep track of index and know when to update an idea quality.
 
 ### Link to a specific block of your code on Github that you feel not great about
-[Code Link](https://github.com/concach/idea_box/blob/master/app/assets/javascripts/idea_sort.js#L12-L35)
-* I am not especially proud of this code because the logic is a bit convoluted and not fully functional yet.
+[Code Link](https://github.com/dtinianow/idea_box/blob/master/app/assets/javascripts/idea_sort.js#L1-L35)
+* I am not fully proud of this code because the logic is a bit convoluted and only half functional.  I wish I had time to make it fully functional and refactor!
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 [Idea Box Tests](./test_suite.png)
