@@ -13,13 +13,13 @@
 # Basics
 
 ### Link to the Github Repository for the Project
-[Your Repo](http://giantbatfarts.com/)
+[Idea Box JS](https://github.com/zackforbing/idea_box_js)
 
 ### Link to the Deployed Application
-[Your Application](http://burymewithmymoney.com/)
+[Idea Box JS on Heroku](https://zacksideabox.herokuapp.com/)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Your Commits](http://beesbeesbees.com/)
+[My Commits](https://github.com/zackforbing/idea_box_js/commits/master)
 
 ### Provide a Screenshot of your Application
 ![spacejam](images/spacejam.jpg)
