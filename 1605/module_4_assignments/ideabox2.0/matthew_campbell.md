@@ -13,7 +13,7 @@
 [Commits](https://github.com/matthewecampbell/idea_box/commits/master)
 
 ### Provide a Screenshot of your Application
-![Screenshot](http://imgur.com/a/30ODf)
+[Screenshot](http://imgur.com/a/30ODf)
 
 ## Completion
 
@@ -24,7 +24,7 @@
 * Sorting based on quality.  I started tags but gave up.
 
 ### Jiff of my extension working.
-* ![Jiff of sorting](https://imgflip.com/gif/1by3k7)
+* [Jiff of sorting](https://imgflip.com/gif/1by3k7)
 
 # Code Quality
 
@@ -33,7 +33,7 @@
   * This was a particularly challenging part of the project for me - especially because I had never heard of "text-editable" before.  On top of that I was able to learn about different events you could use including on 'blur' which was fun for me to discover.
 
 ### Link to a specific block of 'bad' code on Github
-* [Redundancy in functions to update idea title/body](https://github.com/matthewecampbell/idea_box/blob/master/app/assets/javascripts/ideas.js#L178-L192)
+* [Sort function in ideas.js](https://github.com/matthewecampbell/idea_box/blob/master/app/assets/javascripts/ideas.js#L178-L192)
   * This was 3am and I had pneumonia and just wanted to get it to work.  The if statements make it seem a bit janky.
 
 ### Test Suite Status
