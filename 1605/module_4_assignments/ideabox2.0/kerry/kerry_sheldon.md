@@ -77,3 +77,34 @@ Rather than refactor, I decided to spend my last day and a half on learning Reac
 *  changing quality of idea
 *  deleting an idea
 *  changing title and body elements to be editable (but haven't finished it to have them actually edit...)
+
+
++17
++5
+
+## Instructor Evaluation Points
+
+### Specification Adherence
+
+* **10 points**: The application consists of one page with all of the major functionality being provided by jQuery. There is no use of `format.js` in Rails. There is no use of unobstrusive JavaScript. There are no front-end frameworks used in the application. No approach was taken that is counter to the spirit of the project and its learning goals. There are no features missing from above that make the application feel incomplete or hard to use.
+
+### User Interface
+
+* **5 points** - The application is pleasant, logical, and easy to use. There no holes in functionality and the application stands on it own to be used by the instructor _without_ guidance from the developer.
+
+### Testing
+
+* **8 points** - Project has a running test suite that tests and multiple levels but fails to cover some features. All controller actions are covered by tests. The application makes some use of integration testing.
+
+### Ruby and Rails Quality
+  Small suggestions for refactoring to follow MVC principals
+
+* **9 points** - Developer is able to craft Rails features that make smart use of Ruby, follow the principles of MVC, and push business logic down where it belongs. There _zero_ instances where an instructor would recommend taking a different approach. Developer writes code that is exceptionally clear and well-factored. Application is expertly divided into logical components each with a clear, single responsibility.
+
+### JavaScript Style
+
+* **8 points** - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+
+### Workflow
+
+* **10 points** - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
