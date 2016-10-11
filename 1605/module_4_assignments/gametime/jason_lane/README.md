@@ -6,4 +6,4 @@
 - [Lane](https://github.com/Laner12)
 
 ### Link to the Github Repository for the Project
-[Your Repo]()
+[Your Repo](https://github.com/Automatic365/gametime)

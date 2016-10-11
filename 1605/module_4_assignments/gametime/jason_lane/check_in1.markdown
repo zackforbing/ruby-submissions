@@ -3,12 +3,13 @@
 ## Basics
 
 ### Team
+
 - [Jason](https://github.com/Automatic365)
 - [Lane](https://github.com/Laner12)
 
 ### Game Name
 
-Something cool
+Something cool (will be defined by progress)
 
 ### Give a Basic Description of the Game
 
@@ -19,7 +20,7 @@ The player block will move with the movement of the curser and continue moving u
 [Actual Game](http://i.imgur.com/olNwvIA.png)
 
 ### Link to the Github repository for the project
-[Your Repo]()
+[Your Repo](https://github.com/Automatic365/gametime)
 
 ## The Plan
 
@@ -36,7 +37,8 @@ The player block will move with the movement of the curser and continue moving u
 
 ### What have you accomplished so far?
 
-- 
+- Outline
+- Create unit tests for enemy block
 
 ### Questions, Comments, Concerns?
 
