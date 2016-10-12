@@ -32,7 +32,7 @@ A player-controlled Jeepney navigates the busy streets of the Philippines, jumpi
 - When the jeepney collides with an obstacle the obstacle is removed from the canvas and the jeepney loses health
 - Bonus items appear that are worth health (or points if at full health)
 - Difficulty is automatically increased as the user plays by increasing speed and frequency of obstacles
-- The jeepney is able to pick up and drop off passengers to gain additional points
+- [Extension] The jeepney is able to pick up and drop off passengers to gain additional points
 
 ### What is your MVP, or 'this was harder than I thought' plan?
 
