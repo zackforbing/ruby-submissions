@@ -11,7 +11,7 @@ Complete this form and the README.md before the first check in. Delete this line
 
 ### Game Name
 
-Empty Calorie Overlord
+Empty Calorie Adventure
 
 ### Give a Basic Description of the Game
 
