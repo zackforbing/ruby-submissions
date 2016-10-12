@@ -1,6 +1,9 @@
-# Game Time Project Folder
+# Template Game's Name
 [Project Spec](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown)
 
-### Submissions
+### Team
+- [Ryan Flach](https://github.com/ryanflach)
+- [Angela Lindow](https://github.com/allindow)
 
-- [First Check In](ryan_angela_check_in_1.markdown)
+### Link to the Github Repository for the Project
+[Jeepney Jump](https://github.com/ryanflach/jeepney_jump)
