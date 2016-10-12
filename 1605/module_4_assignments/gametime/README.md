@@ -7,7 +7,7 @@
 
 ### Submissions
 
-- [First Check In](template/check_in1.markdown)
+- [First Check In](caleb_garret/check_in1.markdown)
 - [Second Check In](template/check_in2.markdown)
 - [Third Check In](template/check_in3.markdown)
 - [Submission Form](template/submission_form.markdown)
