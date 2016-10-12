@@ -1,5 +1,3 @@
-Complete this form and the README.md before the first check in. Delete this line from your version.
-
 # Game Time Check In # 1
 
 ## Basics
@@ -49,22 +47,20 @@ bullet ricochets around screen on click
 ### Points for first check in (base 50)
 
 * 50: First check in form and README was completed and pull requested in. Team has a well documented plan for moving forward with their game. Team has completed some wireframing and/or written code.
-* 40: First check in form and README was completed and pull requested in. Team has a well documented plan for moving forward with their game. Team has not written any code or created any wireframe documents.
+* **40: First check in form and README was completed and pull requested in. Team has a well documented plan for moving forward with their game. Team has not written any code or created any wireframe documents.**
 * 25: First check in form completed but shows little effort at documenting/planning and team has not written any code.
 * 0: First check in form was not completed.
 
 ### Instructor's Goals for Next Check In
 
-* Goal 1: _eg. Create snake head constructor that draws itself on the canvas_
+* Goal 1: Have a documented plan for getting everything done, that meets all specs
 
-* Goal 2: _eg. Stop snake from moving past the boundry of the canvas when moving - write tests_
+* Goal 2: Bullet class unit tested
 
-* Goal 3: _eg. Configure jshint and .jshintrc_
-
-_Note: Instructor/Groups can add additional goals beyond 3. Grading for the next check in will be based on completion of goals_
+* Goal 3: Limit number of ricochets
 
 ### Stretch Goals
 
-* _ie. Goals that are not required to meet the checkin, but would be good to have. Completion may result in extra credit points_
+* Can aim the bullet before firing
 
 ### Feedback?
