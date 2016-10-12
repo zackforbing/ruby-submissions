@@ -1,5 +1,3 @@
-Complete this form and the README.md before the first check in. Delete this line from your version.
-
 # Game Time Check In # 1
 
 ## Basics
@@ -11,7 +9,7 @@ Complete this form and the README.md before the first check in. Delete this line
 
 ### Game Name
 
-Empty Calorie Adventure(El Cheeto Diablo)
+Empty Calorie Adventure
 
 ### Give a Basic Description of the Game
 
@@ -35,15 +33,15 @@ Empty Calorie Adventure(El Cheeto Diablo)
 e.g.
 
 - cheeto overlord oscillates and releases junk food in intervals
-- if user accidentally catches a junk food item:
+- if user accidentally catches a junk food item: 
   * it deletes the healthy item on top of the tray(the one it collided with)
-  * it removes health from the health-o-meter
-- Health added/removed to health-o-meter should correspond with actually health point of food item
+  * it removes health from the health-o-meter 
+- Health added/removed to health-o-meter should correspond with actually health point of food item 
 - User wins game if he/she stacks enough food to touch the overlord with his healthy food stack
 - User loses if he/she catches unhealthy food item with no healthy food items on tray
-- User can choose out of three levels of difficulty:
+- User can choose out of three levels of difficulty: 
   * easy - overlord is bigger, oscillates slowly, fewer unhealthy items are dispensed from overlord
-  * medium - overlord is medium, oscillates at medium speed, medium amount of items are dispensed
+  * medium - overlord is medium, oscillates at medium speed, medium amount of items are dispensed 
   * hard - overlord is small, oscillates quickly, more unhealthy items dispensed from overlord
 - user ability to move quickly is enhanced when health-o-meter is filled (three speeds)
 - High Scores logged and shown on game over (potentially)
@@ -55,17 +53,17 @@ e.g.
 - tray moves across screen
 - overlord drops junkfood
 - player collects foods (score reflected on health-o-meter-- i.e. no stack)
-- score determines wether they win or lose  (timed)
+- score determines wether they win or lose  (timed) 
 
 ### What have you accomplished so far?
 - tray move back and forth on keypress(rightArrow & leftArrow)
 - tray doesn't move past canvas border
-- overlord oscillates
-- canvas
+- overlord oscillates 
+- canvas 
 - 36 unit tests passing
 ### Questions, Comments, Concerns?
 - concern: stacking (how long will it take?) -- i.e. collison detection, how difficult?
-- question: good resources for collision detection
+- question: good resources for collision detection 
 -----
 
 # Instructor Feedback Section
@@ -73,22 +71,21 @@ e.g.
 ### Points for first check in (base 50)
 
 * 50: First check in form and README was completed and pull requested in. Team has a well documented plan for moving forward with their game. Team has completed some wireframing and/or written code.
+* **45: First check in form was completed and pull requested in. Team has a well documented plan for moving forward with their game. Team has completed some wireframing and/or written code.**
 * 40: First check in form and README was completed and pull requested in. Team has a well documented plan for moving forward with their game. Team has not written any code or created any wireframe documents.
 * 25: First check in form completed but shows little effort at documenting/planning and team has not written any code.
 * 0: First check in form was not completed.
 
 ### Instructor's Goals for Next Check In
 
-* Goal 1: _eg. Create snake head constructor that draws itself on the canvas_
+* Goal 1: Health foods fall from the top
 
-* Goal 2: _eg. Stop snake from moving past the boundry of the canvas when moving - write tests_
+* Goal 2: Junk Foods fall from overlord
 
-* Goal 3: _eg. Configure jshint and .jshintrc_
-
-_Note: Instructor/Groups can add additional goals beyond 3. Grading for the next check in will be based on completion of goals_
+* Goal 3: Have some kind of canvas test for the draw functions
 
 ### Stretch Goals
 
-* _ie. Goals that are not required to meet the checkin, but would be good to have. Completion may result in extra credit points_
+* Health foods collide with tray and affect score, which is visible on the screen
 
 ### Feedback?
