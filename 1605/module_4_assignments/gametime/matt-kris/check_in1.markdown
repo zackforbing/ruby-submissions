@@ -77,16 +77,22 @@ Single-player, 2D, flying obstacle-course game. Player can control the flying ob
 
 ### Instructor's Goals for Next Check In
 
-* Goal 1: _eg. Create snake head constructor that draws itself on the canvas_
 
-* Goal 2: _eg. Stop snake from moving past the boundry of the canvas when moving - write tests_
+* restart game after game-over page
+* space bar for ufo flight
 
-* Goal 3: _eg. Configure jshint and .jshintrc_
+stretch: scoring
+
+* Goal 1: game-over page after collision
+
+* Goal 2: restart game after game-over page
+
+* Goal 3: space bar for ufo
 
 _Note: Instructor/Groups can add additional goals beyond 3. Grading for the next check in will be based on completion of goals_
 
 ### Stretch Goals
 
-* _ie. Goals that are not required to meet the checkin, but would be good to have. Completion may result in extra credit points_
+* scoring
 
 ### Feedback?
