@@ -39,7 +39,7 @@ Single-player, 2D, flying obstacle-course game. Player can control the flying ob
 
 - Player must "start game" from welcome display.
 - Welcome display includes instructions.
-- Score is based on time survived (e.g. player survived without colliding with an obstacle for one minute - earned 100 points).
+- Score is based on distance survived (e.g. player survived without colliding with an obstacle for 10 parsecs - earned 100 points).
 - If player collides with an obstacle, game is over.
 - Game will have two levels, with level 2 being more challenging than level 1.
 - Game provides an indication that player has progressed from level 1 to level 2.
