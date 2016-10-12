@@ -15,10 +15,10 @@ Empty Calorie Adventure
 
 ### Give a Basic Description of the Game
 
-Empty calorie overlord drops junkfood while oscillating across top of canvas.
-Healthy food is also randomly falling from the top to the bottom of the canvas.
-Player with "lunch" tray moves left and right along the botton of the canvas to collect food items, try to only collect healthy food items.
-Healthometer displays on left side of canvas increasing or decreasing level based on how many healthy food items are collected on the tray.
+* Empty calorie overlord drops junkfood while oscillating across top of canvas.
+* Healthy food is also randomly falling from the top to the bottom of the canvas.
+* Player with "lunch" tray moves left and right along the botton of the canvas to collect food items, try to only collect healthy food items.
+* Healthometer displays on left side of canvas increasing or decreasing level based on how many healthy food items are collected on the tray.
 
 
 ### Include a Link to or Screen Shot of the Game
