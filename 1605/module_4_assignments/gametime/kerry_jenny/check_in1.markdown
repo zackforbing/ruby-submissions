@@ -31,8 +31,6 @@ Our game?  It doesn't really exist yet...
 
 ### Describe Your goals for the finished product
 
-e.g.
-
 - A decimal number is provided
 - Snake moves around screen
 - Snake tries eat 0s and 1s in correct order to translate the decimal to binary
@@ -47,8 +45,6 @@ e.g.
 
 
 ### What is your MVP, or 'this was harder than I thought' plan?
-
-e.g.
 
 - Snake moves around screen
 - Snake can eat 0s or 1s
