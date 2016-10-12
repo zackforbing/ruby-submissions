@@ -43,6 +43,7 @@ e.g.
 - User uses spacebar when instructed to control the ball hit
 - Various obstacales can obstruct the path of the ball
 - Terrain type can impact the velocity of the ball
+- Ball in the hole - 9 rounds
 
 ### What have you accomplished so far?
 created a canvas, created a directional meter, created a move function on the ball
