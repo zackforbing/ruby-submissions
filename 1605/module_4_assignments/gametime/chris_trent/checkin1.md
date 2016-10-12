@@ -48,6 +48,14 @@ e.g.
 created a canvas, created a directional meter, created a move function on the ball
 
 ### Questions, Comments, Concerns?
+- deploying to github pages
+- organization of gameplay
+  - play turn encompasses:
+    - power input
+    - direction input
+    - ball movement and associated collisions
+    - possible change of course
+    - possible update of game stats
 
 -----
 
