@@ -1,38 +1,58 @@
-Complete this Form before the second check in. Delete this line from your version.
-
 # Game Time Check In # 2
 
 ## Instructor Goal Completion
 
 ### GOAL 1
-
-  - Provide a screenshot or gif or link to code for this goal
+##### Game-over page after collision.
+![UFO](check-in-1.png)
+![Game Over](game-over.png)
   - Did you deviate from the instructions? Tell us about it.
+    - No.
   - Questions, Comments, Concerns?
+    - Please look at our code to see if our solution was appropriate.
+    [Game Time Repo](https://github.com/kbs5280/game-time)
 
 ### GOAL 2
-
-- Provide a screenshot or gif or link to code for this goal
+##### Ability to start a new game after game-over page.
+![Game Over](game-over.png)
+![Game Over](welcome.png)
+![UFO](check-in-1.png)
 - Did you deviate from the instructions? Tell us about it.
+  - No.
 - Questions, Comments, Concerns?
+  - Please look at our code to see if our solution was appropriate.
+  [Game Time Repo](https://github.com/kbs5280/game-time)
 
 ### GOAL 3
-
-- Provide a screenshot or gif or link to code for this goal
+##### Use space bar instead of U key for flight.
+![UFO](scoring.png)
 - Did you deviate from the instructions? Tell us about it.
+  - No.
 - Questions, Comments, Concerns?
+  - No.
 
 ### GOAL 4
-
-- Provide a screenshot or gif or link to code for this goal
+##### Implement scoring (mentioned as a stretch goal).
+![UFO](scoring.png)
+![UFO](game-over.png)
+![UFO](you-won.png)
 - Did you deviate from the instructions? Tell us about it.
+  - No.
 - Questions, Comments, Concerns?
+  - Please look at our code to see if our solution was appropriate.
+[Game Time Repo](https://github.com/kbs5280/game-time)
 
 ## Next Steps?
 
-- What do you feel the next steps should be?
+- Scoreboard
+  - Track top scores across multiple sessions.
+  - Display top scores on game-over page.
+  - Display top scores on you-win page.
+- Refactor index.js.
+- Add more tests.
 
 ### General Questions, Comments, Concerns?
+- Nothing beyond what was stated above.
 
 -----
 
