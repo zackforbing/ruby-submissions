@@ -65,16 +65,16 @@
 
 ### Instructor's Goals for Next Check In
 
-* Goal 1:
+* Goal 1: Finish collision detection and add desired reactions to obstacles and jeepney
 
-* Goal 2:
+* Goal 2: start screen / end or restart game screen
 
-* Goal 3:
+* Goal 3: scoring points and highscore functionality
 
 _Note: Instructor/Groups can add additional goals beyond 3. Grading for the next check in will be based on completion of goals_
 
 ### Stretch Goals
 
-* _ie. Goals that are not required to meet the checkin, but would be good to have. Completion may result in extra credit points_
+* current health and current score accumulator implimented
 
 ### Feedback?
