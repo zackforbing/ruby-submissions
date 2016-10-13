@@ -2,35 +2,32 @@
 
 ## Instructor Goal Completion
 
-### GOAL 1
+### Screenshot of Current Game State
+![Screenshot of game on localhost at Checkin 2](figures/game-time-checkin-2.png)
 
-  - Provide a screenshot or gif or link to code for this goal
-  - Did you deviate from the instructions? Tell us about it.
-  - Questions, Comments, Concerns?
 
-### GOAL 2
+### GOAL 1 - Full Functional Power Meter
+  - [Power Meter Functionality](https://github.com/concach/game-time/blob/dev/lib/power-bar.js#L1-L33)
+  - No deviations
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+### GOAL 2 - Log/Set Current Meter Values with Event Listener
 
-### GOAL 3
+- [Space Bar Triggering](https://github.com/concach/game-time/blob/dev/lib/index.js#L15-L49)
+- Slight deviations - the player now holds down the space bar to start the meters. We thought this would be more engaging and precise gameplay
+- Comments: We need to refactor this... help with organization of our gameplay, and opinions on how to break out all this functionality, would be much appreciated.
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+### GOAL 3 - Additional Styling
 
-### GOAL 4
-
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+- see screenshot above
+- No deviations
+- Comments: Background image is hard-coded into css as background attribute. Is this the best way to do this?
 
 ## Next Steps?
-
-- What do you feel the next steps should be?
+- get the ball to disappear and signal the end of that turn when it hits the hole
+- refactor code to many functions including: gameLoop, roundOfGolf, playHole, endRound, playerStroke, ballInHole, etc.
 
 ### General Questions, Comments, Concerns?
+- Should we use RequireJS?
 
 -----
 
