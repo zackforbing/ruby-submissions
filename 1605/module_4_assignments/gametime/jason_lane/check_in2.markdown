@@ -1,36 +1,45 @@
-Complete this Form before the second check in. Delete this line from your version.
-
 # Game Time Check In # 2
 
 ## Instructor Goal Completion
 
+![Game Current State](http://i.imgur.com/1aOCjF7.png)
+
 ### GOAL 1
 
-  - Provide a screenshot or gif or link to code for this goal
-  - Did you deviate from the instructions? Tell us about it.
-  - Questions, Comments, Concerns?
+* There are multiple enemies moving across the screen (canvas)
+
+[enemy code](https://github.com/Automatic365/gametime/blob/player_movement/lib/enemy.js#L1-L37)
+
+  - We did not deviate from instructions but we still need to create a loop with random values to generate enemies.
 
 ### GOAL 2
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+* There is a player (might not be moving)
 
-### GOAL 3
+[player code](https://github.com/Automatic365/gametime/blob/player_movement/lib/player.js#L1-L23)
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+- We did not deviate from instructions.
 
-### GOAL 4
+### Stretch Goal
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+* Player tracks mouse movement
+
+[player code](https://github.com/Automatic365/gametime/blob/player_movement/lib/player.js#L15-L21)
+
+- We did not deviate from instructions but we need to figure out how styling takes part in the location, we had to manipulate the calculation.
+
+- Overall concern is that our requires do not work and we are having trouble pulling logic out of index.js.
 
 ## Next Steps?
 
-- What do you feel the next steps should be?
+- Loop for enemies
+- Collision detection (enemies and canvas edge)
+- Timer
+- Score calculation/ local storage
+- Level recognition
+- Summary page
+- Start button/page
+- Power-ups
 
 ### General Questions, Comments, Concerns?
 
