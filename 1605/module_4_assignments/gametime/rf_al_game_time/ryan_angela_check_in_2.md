@@ -32,17 +32,17 @@
 ### Goal 4 (stretch goal): Collision detection between jeepney and obstacles
 
 - Provide a screenshot or gif or link to code for this goal
-  * Pending
+  * [Link to low quality GIF of collision](http://recordit.co/0VoLac45nx)
 - Did you deviate from the instructions? Tell us about it.
-  * Pending
+  * Not entirely, but this current implementation is a first draft. We still need to fully test this functionality, add movement (in place of disappearance) to objects collided with, and clean up the collision so that it works from all angles correctly.
 - Questions, Comments, Concerns?
-  * Same concern as Goal 2.
+  * Same general concern as Goal 2.
 
 ## Next Steps?
 
 - What do you feel the next steps should be?
   * Implement game start and game end functionality
-  * Implement game scoring and health loss functionality
+  * Implement game scoring and visual health loss functionality
   * Implement bonus items and health gain functionality
   * Implement local storage high score functionality
   * Find additional sprites to diversify the background objects and obstacles
