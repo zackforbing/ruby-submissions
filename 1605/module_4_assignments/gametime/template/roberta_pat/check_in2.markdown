@@ -6,12 +6,12 @@ Complete this Form before the second check in. Delete this line from your versio
 
 ### GOAL 1
 - Draw Player: we implemented this and did not deviated from instructions.
-![Screenshot](./screenshot_check_in2.png)
+![Screenshot](./screenshot_checkin2.png)
 
 
 ### GOAL 2
 - Draw Second Player: we implemented this and did not deviated from instructions.
-![Screenshot](./screenshot_check_in2.png)
+![Screenshot](./screenshot_checkin2.png)
 
 
 ### GOAL 3
