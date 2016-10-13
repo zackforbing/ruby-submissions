@@ -60,7 +60,7 @@
 
 ### Points for Second Check In (base 50)
 
-* 60 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way. Students completed additional stretch goals.
+* **60 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way. Students completed additional stretch goals.**
 * 50 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way.
 * 35 points: Students completed all base goals but did not document the work appropriately in their form || did not complete 1 goal and failed to document why in a reasonable way.
 * 25 points: Students did not complete more than 1 goal.
@@ -68,16 +68,14 @@
 
 ### Instructor's Goals for Next Check In
 
-* Goal 1:
+* Goal 1: Refactor (draw and move behavior in their respective classes)
 
-* Goal 2:
+* Goal 2: Scoreboard as defined above
 
-* Goal 3:
-
-_Note: Instructor/Groups can add additional goals beyond 3. Grading for the next check in will be based on completion of goals_
+* Goal 3: Draw tests
 
 ### Stretch Goals
 
-* _ie. Goals that are not required to meet the checkin, but would be good to have. Completion may result in extra credit points_
+* Has addressed increasing difficulty (even if there aren't multiple rounds)
 
 ### Feedback?
