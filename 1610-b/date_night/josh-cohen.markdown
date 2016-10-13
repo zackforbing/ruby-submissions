@@ -1,13 +1,12 @@
 Assessed By: Beth Sebian
 
-Repo: https://github.com/ski-climb/date_night
+Repo: https://github.com/Daleon/Date-Night
 
 Notes:
-* Opportunity for more unit testing. Overall very strong testing suite, though. Strong 3
-* Base and all extensions
-* Node and Binary Search Tree classes, opportunity to add some other analytical modules/classes to manage analytical tasks
-* Some long methods, overall solid/comfortable use of Ruby style/syntax
-* Clean up file dependencies to run from top of project directory
+* Testing sufficient, some opportunities to add more isolation tests for supporting methods
+* Meets all base expectations
+* Solid SRP, opportunity to break health calculations into another class
+* Some long methods, overall solid effort at refactoring. 
 
 Score:
 
@@ -15,7 +14,7 @@ Score:
 * 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
  
 ### 2. Functional Expectations
-* 4: Application fulfills all base expectations and two extensions
+* 3: Application fulfills all base expectations
 
 ### 3. Breaking Logic into Components
 * 3: Application consistently breaks concepts into classes which encapsulate functionality. (SRP).
