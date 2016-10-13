@@ -15,7 +15,7 @@ Complete this Form before the second check in. Delete this line from your versio
   - Did you deviate from the instructions? Tell us about it.
   - Questions, Comments, Concerns?
   
-  *  The slimes are alive
+      *  The slimes are alive
 
 ### GOAL 2 -Get net on canvas
 
@@ -28,7 +28,7 @@ Complete this Form before the second check in. Delete this line from your versio
 - Did you deviate from the instructions? Tell us about it.
 - Questions, Comments, Concerns?
 
-*  We were able to render the net, but it has the color of the second slime, while the second slime has the color of the net.  This occurs even though we set default values for both the slime and the net
+     *  We were able to render the net, but it has the color of the second slime, while the second slime has the color of the net.  This occurs even though we set default values for both the slime and the net
 
 ### GOAL 3 - Colision detection for slimes vs net***
 
@@ -39,7 +39,7 @@ Complete this Form before the second check in. Delete this line from your versio
 - Did you deviate from the instructions? Tell us about it.
 - Questions, Comments, Concerns?
 
-* We added collision detection for each slime between the net and the walls.  Each slime can only stay on their own respective side of the volleyball court
+    * We added collision detection for each slime between the net and the walls.  Each slime can only stay on their own respective side of the volleyball court
 
 ### STRETCH GOAL - One working (and the understanding why) DOM test
 
@@ -51,20 +51,20 @@ Complete this Form before the second check in. Delete this line from your versio
 - Did you deviate from the instructions? Tell us about it.
 - Questions, Comments, Concerns?
 
-* We wrote several working tests using the stub technique we learned in class
+     * We wrote several working tests using the stub technique we learned in class
 
 ## Next Steps?
 
 - What do you feel the next steps should be?
 
-* Our next steps are listed on our waffle [here.](https://waffle.io/dtinianow/slime_volleyball)
-* Top three steps include 1) rendering a ball, 2) making the ball move, and 3) fixing the color rendering bug
+    * Our next steps are listed on our waffle [here.](https://waffle.io/dtinianow/slime_volleyball)
+    * Top three steps include 1) rendering a ball, 2) making the ball move, and 3) fixing the color rendering bug
 
 ### General Questions, Comments, Concerns?
 
-*  Trying to fix the bug of why color net and slime colors swap 
-*  Understanding why and if we need to use beginPath and closePath in our gameloop
-*  We think these problems are likely related
+   *  Trying to fix the bug of why color net and slime colors swap 
+   *  Understanding why and if we need to use beginPath and closePath in our gameloop
+   *  We think these problems are likely related
 
 -----
 
