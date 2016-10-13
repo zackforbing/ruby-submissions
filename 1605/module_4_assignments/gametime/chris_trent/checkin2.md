@@ -36,23 +36,23 @@
 ### Points for Second Check In (base 50)
 
 * 60 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way. Students completed additional stretch goals.
-* 50 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way.
+* **50 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way.**
 * 35 points: Students completed all base goals but did not document the work appropriately in their form || did not complete 1 goal and failed to document why in a reasonable way.
 * 25 points: Students did not complete more than 1 goal.
 * 0 points: Students did not complete check in form prior to eval.
 
 ### Instructor's Goals for Next Check In
 
-* Goal 1:
+* Goal 1: Refactoring (possible game class, draw and move functionality in respective classes, etc)
 
-* Goal 2:
+* Goal 2: Ball in hole ends the round
 
-* Goal 3:
+* Goal 3: Obstacles that deflect the ball
 
-_Note: Instructor/Groups can add additional goals beyond 3. Grading for the next check in will be based on completion of goals_
+* Goal 4: Persist and track of strokes and display score to user
 
 ### Stretch Goals
 
-* _ie. Goals that are not required to meet the checkin, but would be good to have. Completion may result in extra credit points_
+* A second round of difficulty
 
 ### Feedback?
