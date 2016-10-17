@@ -33,7 +33,7 @@ Josh Cohen:
 
 Laszlo Balogh:
 
-Lucy Conklin:
+Lucy Conklin: Mars Rover Landing Mechanisms
 
 Marisa Burton:
 
