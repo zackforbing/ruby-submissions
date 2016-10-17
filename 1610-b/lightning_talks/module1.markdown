@@ -6,7 +6,7 @@ Amy Kintner: An Extremely Brief Talk About Utopian History and Theory
 
 Ann Wolff: 
 
-Brett Rivers:
+Brett Rivers: Botnets & the Intternet of Things
 
 Caroline Powell:  Eutrophication
 
