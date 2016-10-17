@@ -26,7 +26,7 @@ Jason Conrad:
 
 Jesse Shipley: How to get Google to fix your car.
 
-Kyle Heppenstall:
+Kyle Heppenstall: Become a better person in 72 lonely hours
 
 Josh Cohen: 
   Modern Nuclear Submarines
