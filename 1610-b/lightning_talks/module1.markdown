@@ -20,7 +20,7 @@ Edilene Cruz:
 
 Eric Wahlgren-Sauro: 
 
-Ethan Bennett:
+Ethan Bennett: Why You Should Stop Not Giving a Shit About Jazz
 
 Jason Conrad:
 
