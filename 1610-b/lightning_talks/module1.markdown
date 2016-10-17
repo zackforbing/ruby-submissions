@@ -2,7 +2,7 @@ Alex Fosco:
 
 Amara Lovato:
 
-Amy Kintner:
+Amy Kintner: An Extremely Brief Talk About Utopian History and Theory
 
 Ann Wolff: 
 
