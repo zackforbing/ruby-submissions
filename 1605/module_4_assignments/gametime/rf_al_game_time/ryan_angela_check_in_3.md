@@ -30,7 +30,9 @@
 
 - [Really getting a lot of mileage out of this low-quality GIF](http://recordit.co/UsaSotHR56)
 - Did you deviate from the instructions? Tell us about it.
+  - Somewhat. We had originally anticipated tying the scoring to avoiding obstacles; however, as our difficulty increases, it's truly the speed that is increasing, and what we really care about is time survived. As such, scoring is now tied to time survived, knowing that avoiding obstacles is a prerequisite for survival.
 - Questions, Comments, Concerns?
+  - None at this time.
 
 ## Next Steps?
 
