@@ -4,7 +4,7 @@ Amara Lovato:
 
 Amy Kintner: An Extremely Brief Talk About Utopian History and Theory
 
-Ann Wolff: 
+Ann Wolff: Molecules and Modernism: How Technology Inspired Impressionism
 
 Brett Rivers: Botnets & the Intternet of Things
 
