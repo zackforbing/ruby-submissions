@@ -29,7 +29,7 @@ Jesse Shipley:
 Kyle Heppenstall:
 
 Josh Cohen: 
-  Modern Nuclear Submarines - Q & A
+  Modern Nuclear Submarines
 
 Laszlo Balogh:
 
