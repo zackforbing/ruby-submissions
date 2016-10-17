@@ -6,7 +6,7 @@ Amy Kintner:
 
 Ann Wolff: 
 
-Brett Rivers:
+Brett Rivers: Botnets & the Intternet of Things
 
 Caroline Powell:
 
