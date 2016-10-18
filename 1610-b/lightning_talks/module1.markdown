@@ -37,7 +37,7 @@ Lucy Conklin: Mars Rover Landing Mechanisms
 
 Marisa Burton:
 
-Molly Brown:
+Molly Brown: Cram more into your brain with spaced repetition
 
 Michael Hill:
 
