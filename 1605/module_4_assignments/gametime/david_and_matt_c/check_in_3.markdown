@@ -21,7 +21,7 @@
 ### GOAL 3 - Ball collides with player, and reacts accordingly
 
 - Provide a screenshot or gif or link to code for this goal
-    - ![alt text](https://imgflip.com/gif/1ck7es "Slime Volleyball")
+    - ![](https://imgflip.com/1ck7es.gif)
 - Did you deviate from the instructions? Tell us about it.
 - Questions, Comments, Concerns?
      - Code needs to be refactored, as mentioned in Goal #2
@@ -30,7 +30,7 @@
 ### STRETCH GOAL - Scoreboard (cards 20, 21, and persistence)
 
 - Provide a screenshot or gif or link to code for this goal
-   -![alt text](https://imgflip.com/gif/1ck831 "Game Gif")
+   -![](https://imgflip.com/1ck831.gif)
    -[Code Link](https://github.com/dtinianow/slime_volleyball/blob/master/lib/scripts/scoreboard.js)
 - Did you deviate from the instructions? Tell us about it.
 - Questions, Comments, Concerns?
