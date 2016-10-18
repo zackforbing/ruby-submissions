@@ -14,7 +14,7 @@ Daniel Rodriguez: Why You Should Skip Breakfast
 
 David Knott:
 
-Drew Palazzari: How to build a computer
+Drew Palazzari:
 
 Edilene Cruz:
 
@@ -47,7 +47,7 @@ Nick Erhardt:  Put the *can* in Pe*can* rolls - a study in delicousness
 
 Nick Gheorgita:
 
-Phyllis Hugunien:
+Phyllis Hugunien: "How to Buy a House the no BS way"
 
 Robbie Smith:"Do you Strava?"
 
