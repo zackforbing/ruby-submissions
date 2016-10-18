@@ -4,9 +4,9 @@
 
 ### GOAL 1
 
-  -Junkfood to fall from CURRENT location of the overlord
-  -[Giphy](https://cl.ly/3U0m0B381V2y)
-  -[Code](https://github.com/chompasina/gametime/blob/development/lib/index.js#L84-L104)
+  - Junkfood to fall from CURRENT location of the overlord
+  - [Giphy](https://cl.ly/3U0m0B381V2y)
+  - [Code](https://github.com/chompasina/gametime/blob/development/lib/index.js#L84-L104)
   - Did you deviate from the instructions? Tell us about it. 
     * Nope, we got it exactly. 
   - Questions, Comments, Concerns?
