@@ -52,6 +52,7 @@
 ### General Questions, Comments, Concerns?
   * Can we use jQuery's jque-meter? or other plug-ins?
   * We moved a lot of things into index.js but want to know how to test them. How should we go about that? What would you recommend before turning it in? 
+  * What's going on with our sprites when we pull down a new branch? They keep disappearing but after some time they work consistently. Do we need to use on-load?
 
 # Instructor Section
 
