@@ -14,7 +14,7 @@ Daniel Rodriguez: Why You Should Skip Breakfast
 
 David Knott:
 
-Drew Palazzari:
+Drew Palazzari: How to build a computer
 
 Edilene Cruz:
 
