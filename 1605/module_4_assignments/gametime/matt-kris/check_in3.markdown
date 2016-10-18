@@ -1,39 +1,37 @@
-Complete this Form before the third check in. Delete this line from your version.
-
 # Game Time Check In # 3
 
 ## Instructor Goal Completion
 
 ### GOAL 1
-
-  - Provide a screenshot or gif or link to code for this goal
-  - Did you deviate from the instructions? Tell us about it.
-  - Questions, Comments, Concerns?
+##### Refactor - draw and move behavior in their respective files
+![UFO Code](ufo-code.png)
+![Obstacle Code](obstacle-code.png)
 
 ### GOAL 2
-
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+##### Scoreboard - Track scores across sessions
+![Scoreboard](scoreboard.png)
+- We chose to display the top three scores (highest score first)
 
 ### GOAL 3
+##### Draw tests
+![Obstacle Draw Test](obstacle-draw-test.png)
+![UFO Draw Test](ufo-draw-test.png)
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
-
-### GOAL 4
-
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+### GOAL 4 (Stretch)
+##### Address Difficulty
+![Level of Difficulty Code](difficulty-code.png)
+- We chose to increase speed based on score
+  - Game speeds up every 500 points
 
 ## Next Steps?
 
-- What do you feel the next steps should be?
+- Improve styling (e.g. images for objects)
+- Some indication of progress (e.g. when game speeds up, player gets a notice)
+- Integrate sound and bonus point objects (stretch goal)
 
 ### General Questions, Comments, Concerns?
-
+- Are we on the right track?
+- Do you have any questions/concerns?
 -----
 
 # Instructor Section
