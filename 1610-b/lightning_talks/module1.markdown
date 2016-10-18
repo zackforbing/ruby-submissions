@@ -16,7 +16,7 @@ David Knott:
 
 Drew Palazzari: How to build a computer
 
-Edilene Cruz:
+Edilene Cruz: Canine raw feeding
 
 Eric Wahlgren-Sauro: 
 
