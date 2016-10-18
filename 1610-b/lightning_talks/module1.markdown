@@ -16,7 +16,7 @@ David Knott: How Ruby Can Save Your Marriage
 
 Drew Palazzari: How to build a computer
 
-Edilene Cruz:
+Edilene Cruz: Canine raw feeding
 
 Eric Wahlgren-Sauro: 
 
