@@ -1,36 +1,46 @@
-Complete this Form before the third check in. Delete this line from your version.
-
 # Game Time Check In # 3
 
 ## Instructor Goal Completion
 
-### GOAL 1
+### GOAL 1: Random generation of enemies
 
-  - Provide a screenshot or gif or link to code for this goal
-  - Did you deviate from the instructions? Tell us about it.
-  - Questions, Comments, Concerns?
+[Random Generation](https://github.com/Automatic365/gametime/blob/canvas_collision/lib/game.js#L21-L34)
 
-### GOAL 2
+  - Did you deviate from the instructions?
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+      * No we did not deviate from the instructions.
 
-### GOAL 3
+### GOAL 2: Collision Detection
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+[Collision Detection](https://github.com/Automatic365/gametime/blob/canvas_collision/lib/game.js#L41-L67)
 
-### GOAL 4
+- Did you deviate from the instructions?
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+    * No we did not deviate from the instructions.
+
+### GOAL 3: Score and Timer
+
+[Score](https://github.com/Automatic365/gametime/blob/canvas_collision/lib/player.js#L1-L28)
+
+- Did you deviate from the instructions?
+
+    * I wouldn't say that we deviated but the goal was written as score and timer. But our score is calculated by the duration of time alive. That being said, we felt that is was redundant to have both on the screen.
+
+### Stretch Goal: Start and End Screens
+
+[Start/End](https://github.com/Automatic365/gametime/blob/timer/lib/game.js#L61-L67)
+
+- Did you deviate from the instructions?
+
+    * We currently have end page presenting your score and are working on a start/restart screen.
+
+- Are we on the right track?
 
 ## Next Steps?
 
-- What do you feel the next steps should be?
+- Power ups
+- Start screen
+
 
 ### General Questions, Comments, Concerns?
 
