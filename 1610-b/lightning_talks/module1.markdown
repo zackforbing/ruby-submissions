@@ -39,7 +39,7 @@ Marisa Burton:
 
 Molly Brown: Cram more into your brain with spaced repetition
 
-Michael Hill:
+Michael Hill: Why Bob Stoops should be fired!
 
 Michael Schutte: "What's with the Tomato? Pomodoro Unpacked"
 
