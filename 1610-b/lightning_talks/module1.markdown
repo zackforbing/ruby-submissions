@@ -43,7 +43,7 @@ Michael Hill:
 
 Michael Schutte: "What's with the Tomato? Pomodoro Unpacked"
 
-Nick Erhardt:
+Nick Erhardt:  Put the *can* in Pe*can* rolls - a study in delicousness
 
 Nick Gheorgita:
 
