@@ -1,52 +1,53 @@
-Alex Fosco: 
+Alex Fosco: Navigate With the Stars
 
-Amara Lovato:
+Amara Lovato: A dream travel to Spain
 
-Amy Kintner:
+Amy Kintner: An Extremely Brief Talk About Utopian History and Theory
 
-Ann Wolff: 
+Ann Wolff: Molecules and Modernism: How Technology Inspired Impressionism
 
-Brett Rivers:
+Brett Rivers: Botnets & the Intternet of Things
 
-Caroline Powell:
+Caroline Powell:  Eutrophication
 
-Daniel Rodriguez:
+Daniel Rodriguez: Why You Should Skip Breakfast
 
-David Knott:
+David Knott: How Ruby Can Save Your Marriage
 
-Drew Palazzari:
+Drew Palazzari: How to build a computer
 
-Edilene Cruz:
+Edilene Cruz: Canine raw feeding
 
 Eric Wahlgren-Sauro: 
 
-Ethan Bennett:
+Ethan Bennett: Why You Should Stop Not Giving a Shit About Jazz
 
-Jason Conrad:
+Jason Conrad: A Brief history of Rollercoasters
 
-Jesse Shipley:
+Jesse Shipley: How to get Google to fix your car.
 
-Kyle Heppenstall:
+Kyle Heppenstall: Become a better person in 72 lonely hours
 
-Josh Cohen:
+Josh Cohen: 
+  Modern Nuclear Submarines
 
-Laszlo Balogh:
+Laszlo Balogh: Appreciating a car infotainment system
 
-Lucy Conklin:
+Lucy Conklin: Mars Rover Landing Mechanisms
 
-Marisa Burton:
+Marisa Burton: The Case Against Denver’s Ordinance Sec. 8-55, which bans "pitbull" breeds 
 
-Molly Brown:
+Molly Brown: Cram more into your brain with spaced repetition
 
-Michael Hill:
+Michael Hill: Why Bob Stoops should be fired!
 
-Michael Schutte:
+Michael Schutte: "What's with the Tomato? Pomodoro Unpacked"
 
-Nick Erhardt:
+Nick Erhardt:  Put the *can* in Pe*can* rolls - a study in delicousness
 
-Nick Gheorgita:
+Nick Gheorgita: Optimal Stopping Problems
 
-Phyllis Hugunien:
+Phyllis Hugunien: "How to Buy a House the no BS way"
 
-Robbie Smith:
+Robbie Smith:"Do you Strava?"
 
