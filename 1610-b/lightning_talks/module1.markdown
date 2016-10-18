@@ -1,4 +1,4 @@
-Alex Fosco: 
+Alex Fosco: Navigate With the Stars
 
 Amara Lovato:
 
