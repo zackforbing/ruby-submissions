@@ -12,7 +12,7 @@ Caroline Powell:  Eutrophication
 
 Daniel Rodriguez: Why You Should Skip Breakfast
 
-David Knott:
+David Knott: How Ruby Can Save Your Marriage
 
 Drew Palazzari: How to build a computer
 
