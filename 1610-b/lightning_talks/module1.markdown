@@ -31,7 +31,7 @@ Kyle Heppenstall: Become a better person in 72 lonely hours
 Josh Cohen: 
   Modern Nuclear Submarines
 
-Laszlo Balogh:
+Laszlo Balogh: Appriciating a car infotainment system
 
 Lucy Conklin: Mars Rover Landing Mechanisms
 
