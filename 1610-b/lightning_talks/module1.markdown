@@ -45,7 +45,7 @@ Michael Schutte: "What's with the Tomato? Pomodoro Unpacked"
 
 Nick Erhardt:  Put the *can* in Pe*can* rolls - a study in delicousness
 
-Nick Gheorgita:
+Nick Gheorgita: Optimal Stopping Problems
 
 Phyllis Hugunien: "How to Buy a House the no BS way"
 
