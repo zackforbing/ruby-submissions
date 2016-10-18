@@ -12,7 +12,7 @@ Caroline Powell:
 
 Daniel Rodriguez:
 
-David Knott:
+David Knott: How Ruby Can Save Your Marriage
 
 Drew Palazzari:
 
