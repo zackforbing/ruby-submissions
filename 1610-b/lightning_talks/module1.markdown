@@ -35,7 +35,7 @@ Laszlo Balogh: Appreciating a car infotainment system
 
 Lucy Conklin: Mars Rover Landing Mechanisms
 
-Marisa Burton:
+Marisa Burton: The Case Against Denver’s Ordinance Sec. 8-55, which bans "pitbull" breeds 
 
 Molly Brown: Cram more into your brain with spaced repetition
 
