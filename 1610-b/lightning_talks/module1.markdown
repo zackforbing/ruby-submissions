@@ -1,6 +1,6 @@
 Alex Fosco: Navigate With the Stars
 
-Amara Lovato:
+Amara Lovato: A dream travel to Spain
 
 Amy Kintner: An Extremely Brief Talk About Utopian History and Theory
 
