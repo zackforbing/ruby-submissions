@@ -1,7 +1,7 @@
 ## Module 3 Diagnostic Submissions
 
 ### Brendan Dillon
-repo:
+repo: https://github.com/brendandillon/module_3_diagnostic
 
 ### Brian Heim
 repo:
