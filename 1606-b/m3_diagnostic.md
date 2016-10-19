@@ -43,7 +43,7 @@ repo:
 repo:
 
 ### Sonia Gupta
-repo:
+repo:https://github.com/tgisg/module_3_diagnostic
 
 ### Susi Irwin
 repo:
