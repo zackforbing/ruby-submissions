@@ -46,4 +46,4 @@ repo: https://github.com/Cdunagan05/module_3_diagnostic
 repo:
 
 ### Susi Irwin
-repo:
+repo: https://github.com/susiirwin/module_3_diagnostic
