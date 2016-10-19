@@ -105,7 +105,7 @@ Outline:
 
 Michael Schutte: "What's with the Tomato? Pomodoro Unpacked"
 
-Outline: 
+Outline: https://gist.github.com/tmikeschu/98d1cfd801b7e621bd861edb08e16b2f
 
 
 Nick Erhardt:  Put the *can* in Pe*can* rolls - a study in delicousness
