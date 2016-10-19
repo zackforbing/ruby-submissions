@@ -37,7 +37,7 @@ repo: https://github.com/JeanJoeris/module_3_diagnostic
 repo: https://github.com/rsbarbo/module_3_diagnostic
 
 ### Ryan David Workman
-repo:
+repo: https://github.com/rdavid1099/module_3_diagnostic
 
 ### Chase Dunagan
 repo: https://github.com/Cdunagan05/module_3_diagnostic
