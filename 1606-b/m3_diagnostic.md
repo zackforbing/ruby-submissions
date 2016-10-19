@@ -40,7 +40,7 @@ repo:
 repo:
 
 ### Chase Dunagan
-repo:
+repo: https://github.com/Cdunagan05/module_3_diagnostic
 
 ### Sonia Gupta
 repo:
