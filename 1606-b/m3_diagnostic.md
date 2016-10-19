@@ -43,7 +43,7 @@ repo: https://github.com/rdavid1099/module_3_diagnostic
 repo: https://github.com/Cdunagan05/module_3_diagnostic
 
 ### Sonia Gupta
-repo:
+repo:https://github.com/tgisg/module_3_diagnostic
 
 ### Susi Irwin
 repo: https://github.com/susiirwin/module_3_diagnostic
