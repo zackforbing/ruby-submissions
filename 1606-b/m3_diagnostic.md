@@ -19,7 +19,7 @@ repo:
 repo:
 
 ### Jasmin Hudacsek
-repo:
+repo: https://github.com/j-sm-n/module_3_diagnostic
 
 ### Jesse Spevack
 repo: https://github.com/PlanetEfficacy/module_3_diagnostic
