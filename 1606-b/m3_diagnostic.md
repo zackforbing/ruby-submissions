@@ -16,7 +16,7 @@ repo: https://github.com/calaway/module_3_diagnostic
 repo:
 
 ### David Davydov
-repo:
+repo: https://github.com/kctrlv/module_3_diagnostic
 
 ### Jasmin Hudacsek
 repo: https://github.com/j-sm-n/module_3_diagnostic
