@@ -28,7 +28,7 @@ repo: https://github.com/PlanetEfficacy/module_3_diagnostic
 repo: https://github.com/MDes41/module_3_diagnostic
 
 ### Nate Anderson
-repo:
+repo: https://github.com/NateAnderson1780/module_3_diagnostic
 
 ### Jean Joeris
 repo: https://github.com/JeanJoeris/module_3_diagnostic
