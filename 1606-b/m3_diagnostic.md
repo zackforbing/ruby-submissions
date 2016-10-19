@@ -25,7 +25,7 @@ repo: https://github.com/j-sm-n/module_3_diagnostic
 repo: https://github.com/PlanetEfficacy/module_3_diagnostic
 
 ### Matt DesMarteau
-repo:
+repo: https://github.com/MDes41/module_3_diagnostic
 
 ### Nate Anderson
 repo:
