@@ -16,7 +16,7 @@ repo:
 repo:
 
 ### David Davydov
-repo:
+repo: https://github.com/kctrlv/module_3_diagnostic
 
 ### Jasmin Hudacsek
 repo:
