@@ -34,7 +34,7 @@ repo:
 repo: https://github.com/JeanJoeris/module_3_diagnostic
 
 ### Raphael Barbo
-repo:
+repo: https://github.com/rsbarbo/module_3_diagnostic
 
 ### Ryan David Workman
 repo:
