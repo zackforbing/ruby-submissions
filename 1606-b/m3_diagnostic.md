@@ -13,7 +13,7 @@ repo:
 repo:
 
 ### Dan Broadbent
-repo:
+repo: https://github.com/danbroadbent/module_3_diagnostic
 
 ### David Davydov
 repo:
