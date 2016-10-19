@@ -7,7 +7,7 @@ repo: https://github.com/brendandillon/module_3_diagnostic
 repo: https://github.com/bheim6/module_3_diagnostic
 
 ### Bryan Goss
-repo:
+repo: https://github.com/bcgoss/mod_3_diagnostic
 
 ### Calaway
 repo: https://github.com/calaway/module_3_diagnostic
