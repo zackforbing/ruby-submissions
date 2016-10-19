@@ -22,7 +22,7 @@ repo:
 repo:
 
 ### Jesse Spevack
-repo:
+repo: https://github.com/PlanetEfficacy/module_3_diagnostic
 
 ### Matt DesMarteau
 repo:
