@@ -25,7 +25,7 @@ repo:
 repo:
 
 ### Matt DesMarteau
-repo:
+repo: https://github.com/MDes41/module_3_diagnostic
 
 ### Nate Anderson
 repo:
