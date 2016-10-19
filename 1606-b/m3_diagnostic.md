@@ -34,7 +34,7 @@ repo:
 repo:
 
 ### Raphael Barbo
-repo:
+repo: https://github.com/rsbarbo/module_3_diagnostic
 
 ### Ryan David Workman
 repo:
