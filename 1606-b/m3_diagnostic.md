@@ -10,7 +10,7 @@ repo:
 repo:
 
 ### Calaway
-repo:
+repo: https://github.com/calaway/module_3_diagnostic
 
 ### Dan Broadbent
 repo:
