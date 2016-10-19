@@ -37,7 +37,7 @@ repo:
 repo:
 
 ### Ryan David Workman
-repo:
+repo: https://github.com/rdavid1099/module_3_diagnostic
 
 ### Chase Dunagan
 repo:
