@@ -10,7 +10,7 @@ repo: https://github.com/bheim6/module_3_diagnostic
 repo:
 
 ### Calaway
-repo:
+repo: https://github.com/calaway/module_3_diagnostic
 
 ### Dan Broadbent
 repo:
