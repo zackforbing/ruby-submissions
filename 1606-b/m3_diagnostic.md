@@ -31,7 +31,7 @@ repo:
 repo:
 
 ### Jean Joeris
-repo:
+repo: https://github.com/JeanJoeris/module_3_diagnostic
 
 ### Raphael Barbo
 repo:
