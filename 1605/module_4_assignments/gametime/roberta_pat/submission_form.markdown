@@ -69,7 +69,7 @@ of the game:
 ### Link to a specific block of your code on Github that you feel not great about
 - Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
   +[Code](https://github.com/roscalabrin/bomberman/blob/master/lib/helpers/collisionEngine.js#L7-L31)
-  +[Code](https://github.com/roscalabrin/bomberman/blob/master/lib/defaultMap.js#L33-L45)
+  +[Code](https://github.com/roscalabrin/bomberman/blob/master/lib/defaultMap.js#L38-L50)
 
   This is the end result of an attempted refactor after our refactor tractor lesson. We think the attempt,
   at the very least, makes the code more readable. The reason it's here is that becuase there is no 
