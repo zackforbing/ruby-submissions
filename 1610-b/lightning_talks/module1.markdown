@@ -38,9 +38,9 @@ David Knott: How Ruby Can Save Your Marriage
 Outline: 
 
 
-Drew Palazzari: How to build a computer
+Drew Palazzari: An Argument for the Salvation of Our Spider Bros
 
-Outline: 
+Outline: https://gist.github.com/Dpalazzari/8f33be525f0b4c9e3cfeb30e8bb5ba70
 
 
 Edilene Cruz: Canine raw feeding
