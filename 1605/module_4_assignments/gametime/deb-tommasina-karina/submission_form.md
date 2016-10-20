@@ -14,8 +14,7 @@
  -[Deb](https://github.com/chompasina/gametime/commits?author=deborahleehamel)
 
 ### Provide a Screenshot of your Game
--![Winner - Empty Calorie Overlord and the Healthy Food Revival](http://g.recordit.co/xoqMEMbaLF.gif)
--![Loser - Empty Calorie Overlord and the Healthy Food Revival](http://g.recordit.co/OjQb5U4DLK.gif)
+-![Empty Calorie Overlord and the Healthy Food Revival](http://g.recordit.co/H0IIYTd0YT.gif)
 ---
 
 ## Completion
