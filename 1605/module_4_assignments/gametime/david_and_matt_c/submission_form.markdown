@@ -55,7 +55,7 @@
 ## Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- [Code Link](https://github.com/dtinianow/slime_volleyball/blob/master/lib/scripts/slime.js#L205-#L217
+- [Code Link](https://github.com/dtinianow/slime_volleyball/blob/master/lib/scripts/slime.js#L205-#L217)
 - Why were you proud of this piece of code?
 - This link goes to the code that allows a Slime to jump.  We mentioned this code above in the section we feel exceeds expectations too, because this was one of the more challenging components of this project.  Figuring out this code was particularily gratifying.
 
