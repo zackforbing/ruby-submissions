@@ -1,71 +1,79 @@
-Complete this Form before the final eval. Delete this line from your version.
-
 # GameTime Submission Form
 
 ## Basics
 
 ### Link to the Github Repository for the Project
-[Your Repo](https://en.wikipedia.org/wiki/Atari_video_game_burial)
+[Game Time Repo](https://github.com/kbs5280/game-time)
 
 ### Link to the Deployed Application
-[Your Application](http://www.playr.org/play/e.t._the_extra_terrestrial_-_escape_from_planet_earth/872)
+[UFO](https://kbs5280.github.io/game-time/)
 
 ### Link to Your Commits in the Github Repository for the Project
--[TeamMate1](http://ericsteinborn.com/github-for-cats/img/typing.gif)
- -[TeamMate 2](http://45.media.tumblr.com/96975bc08e24a9876e62311fdd0c4a34/tumblr_ne4ehpSJ5z1qa747mo1_500.gif)
+[Kris Sparks](https://github.com/kbs5280/game-time/commits/master?author=kbs5280)
+[Matt Packer](https://github.com/kbs5280/game-time/commits/master?author=matthewrpacker)
 
 ### Provide a Screenshot of your Game
--![spacejam](https://i.ytimg.com/vi/EFt-La3UUu0/maxresdefault.jpg)
-
----
+![UFO GIF](http://recordit.co/LLHJUB8U51.gif)
 
 ## Completion
 
 ### Do You Consider the Application to be Fully Playable?
- - If not, list what functionality is missing.
+ - Yes.  The application is fully playable without external guidance.  There are no gaps in the player experience.  The game exceeds base requirements.
 
 ### What Extensions, as Requested By an Instructor, Did You Complete?
-- Per Extension:
-  - Describe the extension
-  - Provide a .gif of the extension or a link to the relevant code
+- N/A
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
-- Per Feature:
- - Describe the feature
- - Provide a .gif of the feature in action or a link to the relevant code
-
-----
+- Obstacle Asteroid Image:
+  - All flying danger obstacles have been replaced with asteroid images.
+  - [Lines 12 to 19](https://github.com/kbs5280/game-time/blob/9a9a574011ddc5174d7f292de34bcc4e11647c4f/lib/game.js#L12-L19)
+  - [Lines 175 to 179](https://github.com/kbs5280/game-time/blob/9a9a574011ddc5174d7f292de34bcc4e11647c4f/lib/game.js#L175-L179)
+- Star Image:
+  - All flying bonus obstacles have been replaced with star images.
+  - [Lines 21 to 28](https://github.com/kbs5280/game-time/blob/9a9a574011ddc5174d7f292de34bcc4e11647c4f/lib/game.js#L21-L28)
+  - [Lines 181 to 185](https://github.com/kbs5280/game-time/blob/9a9a574011ddc5174d7f292de34bcc4e11647c4f/lib/game.js#L181-L185)
+- Obstacle Asteroid Collision Response:
+  - Upon colliding with an asteroid, initiate an explosion sound.
+  - [Lines 290 to 295](https://github.com/kbs5280/game-time/blob/9a9a574011ddc5174d7f292de34bcc4e11647c4f/lib/game.js#L290-L295)
+- Bonus Star Collision Response:
+  - Upon colliding with a star, initiate a bonus sound and increase points.
+  - [Lines 315 to 318](https://github.com/kbs5280/game-time/blob/9a9a574011ddc5174d7f292de34bcc4e11647c4f/lib/game.js#L315-L318)
 
 ## Risk Taking
 - What risks did you feel you took on this project?
+  - After we reached MVP:
+    - We modified our danger obstacle flight behavior.  For example, instead of just traversing the x-axis at a certain y co-ordinate, we chose to have some danger obstacles traverse both the x and y axis.
+    - We added bonus point obstacles.  By adding these obstacles, we had to build in additional collision detection that coordinated with our scoring system.
+    - We modified our UFO object from a rectangle to two ellipses, i.e. one ellipse is the top portion of the UFO object and the other ellipse is the bottom portion of the UFO object.  By modifying how we were drawing the UFO, we had to modify our collision detection to account for each ellipse.
 - How do you feel about those risks?
-
-----
+  - We feel good that we were able to set challenging goals and accomplish those goals.  Seeing the process from ideation to production was rewarding.
 
 ## Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
 - Why were you proud of this piece of code?
+- [Lines 20 to 22](https://github.com/kbs5280/game-time/blob/9a9a574011ddc5174d7f292de34bcc4e11647c4f/lib/obstacle.js#L20-L22)
+- First, we added speed as an attribute to Obstacle.  Then, we created a prototype on Obstacle `speedModifier`.  The speed modifier accepts a number and increases the obstacles speed based on the number passed.  We were proud that we were able to rethink our initial implementation to adhere to object oriented JavaScript principles.
 
 ### Link to a specific block of your code on Github that you feel not great about
 - Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+- [Lines 175 to 185](https://github.com/kbs5280/game-time/blob/9a9a574011ddc5174d7f292de34bcc4e11647c4f/lib/game.js#L175-L185)
+- Based on the similarities between these two conditionals, `if(asteroidReady)` and `if(starReady)`, we feel like this was a missed refactoring opportunity.  Our challenge was the we have four variables in a function that is not dynamic.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
+![Test Suite](test-suite.png)
 
 ### Test Breakdown
-- How Many Unit Tests?
-- How Many Feature/Integration Tests?
+- How Many Unit Tests? 19
+- How Many Feature/Integration Tests? 4
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
+- N/A
 
 ### Provide a link to an example, if you have one, of a feature test that covers an 'edge case' or 'unhappy path'
-
------
+- N/A
 
 ### Please feel free to ask any other questions or make any other statements below!
-
------
-
 # Instructor Feedback
 
 - Points: (base 150)
