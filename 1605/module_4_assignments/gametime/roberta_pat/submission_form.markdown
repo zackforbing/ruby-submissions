@@ -58,7 +58,7 @@ of the game:
 ### Link to a specific block of your code on Github that you are proud of
 - Why were you proud of this piece of code?
   +[Code](https://github.com/roscalabrin/bomberman/blob/master/lib/player.js#L35-L49)
-  +[Code](https://github.com/roscalabrin/bomberman/blob/master/lib/game.js#L47-L76)
+  +[Code](https://github.com/roscalabrin/bomberman/blob/master/lib/game.js#L47-L61)
 
   We thought this was a neat refactor. Before we had 4 different draw methods on each player subclass
   since the numbers needed were dynamic. What we instead did was moving the sprite coords as props on
