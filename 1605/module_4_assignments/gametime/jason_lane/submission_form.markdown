@@ -108,13 +108,13 @@ To this end, make sure to include sufficient UX to allow the user to fully inter
 ### Features
 
 * 35 points - Application is fully playable and exceeds the expectations set by instructors
-* 25 points - Application is fully playable without crashes or bugs
+* __27 points - Application is fully playable without crashes or bugs__
 * 10 points - Application has some missing functionality but no crashes
 * 0 points - Application crashes during normal usage
 
 ### User Interface
 
-* 15 points - The application is pleasant, logical, and easy to use. There are no holes in functionality and the application stands on its own to be used by the instructor without guidance from the developer.
+* __15 points - The application is pleasant, logical, and easy to use. There are no holes in functionality and the application stands on its own to be used by the instructor without guidance from the developer.__
 * 10 points - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
 * 5 points - The application shows effort in the interface, but the result is not effective. The evaluator has some difficulty using the application when reviewing the features in the user stories.
 * 0 points - The application is confusing or difficult to use.
@@ -122,21 +122,21 @@ To this end, make sure to include sufficient UX to allow the user to fully inter
 ### Testing
 
 * 30 points - Project has a running test suite that exercises the application at multiple levels. The test suite covers almost all aspects of the application and uses mocks and stubs when appropriate.
-* 25 points - Project has a running test suite that tests multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.
+* __20 points - Project has a running test suite that tests multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.__
 * 10 points - Project has sporadic use of tests and multiple levels. The application contains numerous holes in testing and/or many features are untested.
 * 0 points - There is little or no evidence of testing in this application.
 
 ### JavaScript Style
 
 * 30 points - Application has exceptionally well-factored code with little or no duplication and all components are separated out into logical components. There zero instances where an instructor would recommend taking a different approach.
-* 20 points - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.
+* __20 points - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.__
 * 15 points - Your application has a significant amount of duplication and one or major bugs.
 * 5 points - Your client-side application does not function. Developer writes code with unnecessary variables, operations, or steps which do not increase clarity.
 * 0 points - There is little or no client-side code. Developer writes code that is difficult to understand. Application logic shows poor decomposition with too much logic mashed together.
 
 ### Workflow
 
-* 25 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+* __25 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.__
 * 15 points - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 * 10 points - The developer makes large commits covering multiple features that make it difficult for the evaluator to determine the evolution of the application.
 * 5 points - The developer commited the code to version control in only a few commits. The evaluator cannot determine the evolution of the application.
@@ -146,7 +146,9 @@ To this end, make sure to include sufficient UX to allow the user to fully inter
 
 The output from JSHint shows…
 
-* 15 points - Zero complaints
+* __15 points - Zero complaints__
 * 10 points - Five or fewer complaints
 * 5 points - Six to ten complaints
 * 0 points - More than ten complaints
+
+total = 122
