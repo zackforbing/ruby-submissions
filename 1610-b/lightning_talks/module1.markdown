@@ -80,7 +80,7 @@ Outline:
 
 Laszlo Balogh: Appreciating a car infotainment system
 
-Outline: 
+Outline: https://gist.github.com/Laszlo-JFLMTCO/ede81cb4a6f660d0fc9cf12c7d963f41
 
 
 Lucy Conklin: Mars Rover Landing Mechanisms
