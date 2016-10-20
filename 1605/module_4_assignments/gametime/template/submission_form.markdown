@@ -1,64 +1,78 @@
-Complete this Form before the final eval. Delete this line from your version.
-
 # GameTime Submission Form
 
 ## Basics
 
 ### Link to the Github Repository for the Project
-[Your Repo](https://en.wikipedia.org/wiki/Atari_video_game_burial)
+[Your Repo](https://github.com/chompasina/gametime)
 
 ### Link to the Deployed Application
-[Your Application](http://www.playr.org/play/e.t._the_extra_terrestrial_-_escape_from_planet_earth/872)
+[Your Application](https://chompasina.github.io/gametime/)
 
 ### Link to Your Commits in the Github Repository for the Project
--[TeamMate1](http://ericsteinborn.com/github-for-cats/img/typing.gif)
- -[TeamMate 2](http://45.media.tumblr.com/96975bc08e24a9876e62311fdd0c4a34/tumblr_ne4ehpSJ5z1qa747mo1_500.gif)
+-[Tommasina](https://github.com/chompasina/gametime/commits?author=chompasina)
+ -[Karina](https://github.com/chompasina/gametime/commits?author=karinamzalez)
+ -[Deb](https://github.com/chompasina/gametime/commits?author=deborahleehamel)
 
 ### Provide a Screenshot of your Game
--![spacejam](https://i.ytimg.com/vi/EFt-La3UUu0/maxresdefault.jpg)
+-![Empty Calorie Overlord and the Healthy Food Revival](https://record screen)
 
 ---
 
 ## Completion
 
 ### Do You Consider the Application to be Fully Playable?
- - If not, list what functionality is missing.
+ - Yes.
+ * It has agreed upon functionality.
+ * Player can collect healthy foods on tray which increases health points on meter/progress bar.
+ * Player can collect junk foods on tray but this decreases health points on meter/progress bar.
+ * There are 3 levels. Players move on to next level and win the game when their health food points reach >=600.
+ * Scores are tracked and displayed on screen.
+ * High scores board(scores above 600) on screen.
+ 
 
 ### What Extensions, as Requested By an Instructor, Did You Complete?
-- Per Extension:
-  - Describe the extension
-  - Provide a .gif of the extension or a link to the relevant code
+- Per Feature:
+ - No assigned extensions.
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
 - Per Feature:
- - Describe the feature
- - Provide a .gif of the feature in action or a link to the relevant code
+ - Not sure if any feature particularyly exceeds expectation but our Health-o-meter/progress bar is a nice intuitive feature.
+ - I think the concept/feature of the "Empty Calorie Overlord" was also a fun feature.
 
 ----
 
 ## Risk Taking
-- What risks did you feel you took on this project?
-- How do you feel about those risks?
-
+- We took a risk with the oscillating overlord and associating the junk food objects with the overlord's position.
+- So many sprites!
+- We tackled the challenges and learned so much about coordinating timed events and managing intervals and the states that every little piece are in at different moments in the game. 
+- We wanted this project to be connected to our Pahlka posse and got a good start on special documentation specifically geared toward the posse project. We prioritized building functionality and will be able to follow up with a playable game that the posse can integrate and continue to work on.
 ----
 
 ## Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- Why were you proud of this piece of code?
+https://github.com/chompasina/gametime/blob/development/lib/index.js#L64-L83
+ * We are proud of this code because it was really hard to figure out how to make the junk food increase in a random way. We had to play around with timing in three spots: setInterval for the Overlord, the requestAnimationFrame timing, and the new timing interval for oscillating the overlord for increasing difficulty throughout the game. We had to play around with the numbers a lot to make sure the overlord didn't speed up too quickly and overpopulate the board with junk food objects. We think what resulted was a very natural evolution to a more difficult game towards the end. 
+
 
 ### Link to a specific block of your code on Github that you feel not great about
-- Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+https://github.com/chompasina/gametime/blob/development/lib/index.js#L85-L101
+ * This code feels like a cop-out because it feels like there should be a better way to reset the requestAnimationFrame (the cancel function is an "experimental" function that didn't work consistently for us even though we passed in the requestAnimationFrame ID). Instead we are looping through the window and clearing all of the setIntervals for every object. We also just manually wipe the health food and junk food arrays clean which could have been handled by a master stop-game-play function instead. I suppose because we don't know true game conventions, not sure if this is an acceptable way to end the game or not. 
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
+![testing](http://g.recordit.co/GNibgXu3ec.gif)
 
 ### Test Breakdown
 - How Many Unit Tests?
+ * 56 passing
 - How Many Feature/Integration Tests?
+ * 4 passing
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
+[Edge Case](https://github.com/)
 
 ### Provide a link to an example, if you have one, of a feature test that covers an 'edge case' or 'unhappy path'
+[Edge Case](https://github.com/)
 
 -----
 
