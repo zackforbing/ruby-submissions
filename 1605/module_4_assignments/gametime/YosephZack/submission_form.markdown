@@ -1,64 +1,72 @@
-Complete this Form before the final eval. Delete this line from your version.
-
 # GameTime Submission Form
 
 ## Basics
 
 ### Link to the Github Repository for the Project
-[Your Repo](https://en.wikipedia.org/wiki/Atari_video_game_burial)
+[zackforbing / game_time](https://github.com/zackforbing/game_time)
 
 ### Link to the Deployed Application
-[Your Application](http://www.playr.org/play/e.t._the_extra_terrestrial_-_escape_from_planet_earth/872)
+[Your Application](https://zackforbing.github.io/game_time/)
 
 ### Link to Your Commits in the Github Repository for the Project
--[TeamMate1](http://ericsteinborn.com/github-for-cats/img/typing.gif)
- -[TeamMate 2](http://45.media.tumblr.com/96975bc08e24a9876e62311fdd0c4a34/tumblr_ne4ehpSJ5z1qa747mo1_500.gif)
+-[Zack](https://github.com/zackforbing/game_time/commits?author=zackforbing)
+ -[Yoseph](https://github.com/zackforbing/game_time/commits?author=Yoyo2Code)
 
 ### Provide a Screenshot of your Game
--![spacejam](https://i.ytimg.com/vi/EFt-La3UUu0/maxresdefault.jpg)
+-[timefreeze](https://postimg.org/image/vye3qs9dd/)
 
 ---
 
 ## Completion
 
 ### Do You Consider the Application to be Fully Playable?
- - If not, list what functionality is missing.
+ - Yes, the game is fully functional.
 
 ### What Extensions, as Requested By an Instructor, Did You Complete?
-- Per Extension:
-  - Describe the extension
-  - Provide a .gif of the extension or a link to the relevant code
+- No Extensions
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
-- Per Feature:
- - Describe the feature
- - Provide a .gif of the feature in action or a link to the relevant code
+- hurdles!
 
 ----
 
 ## Risk Taking
 - What risks did you feel you took on this project?
+
+    I feel like the scope of this project was too much for the time that we had to work with. a lot of cool features ended up being left off, but we did complete the MVP.
+
 - How do you feel about those risks?
+
+    I think we probably should have chosen something a bit simpler and then added
+    features to it as we completed the MVP. However, we are happy with how much we accomplished, and given a bit more time, think we could probably implement a lot of the features that our game is missing compared to the original.
 
 ----
 
 ## Code Quality
 
-### Link to a specific block of your code on Github that you are proud of
+### [Link to a block of code you're proud of](https://github.com/zackforbing/game_time/blob/017f27c5092464b044dac5358e43207b0ce1755b/lib/hurdle.js#L1)
 - Why were you proud of this piece of code?
 
-### Link to a specific block of your code on Github that you feel not great about
+    I (Zack) built this entire class from scratch in a code spike, and aside from the draw, it all worked first try, so I was pretty proud of that.
+
+### [Link to a block of code you're not proud of](https://github.com/zackforbing/game_time/blob/017f27c5092464b044dac5358e43207b0ce1755b/lib/game.js#L8)
 - Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
+
+    time did not allow us to refactor this. and that's really why I'm not proud of it. it seems like some code, the key listeners in particular, could use some serious refactoring.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
 ### Test Breakdown
-- How Many Unit Tests?
-- How Many Feature/Integration Tests?
+- How Many Unit Tests? 37 passing tests.
+- How Many Feature/Integration Tests? none.
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
 
+    we do not have one.
+
 ### Provide a link to an example, if you have one, of a feature test that covers an 'edge case' or 'unhappy path'
+
+    we do not have one.
 
 -----
 
