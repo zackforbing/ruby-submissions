@@ -3,9 +3,9 @@ Alex Fosco: Navigate With the Stars
 Outline: 
 
 
-Amara Lovato: A dream travel to Spain
+Amara Lovato: A Dream Travel To Spain
 
-Outline: 
+Outline: https://gist.github.com/pixapi/a7fc6fe54c9b5889857f61a8a9a3fe0e
 
 
 Amy Kintner: An Extremely Brief Talk About Utopian History and Theory
