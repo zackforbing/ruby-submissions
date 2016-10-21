@@ -20,7 +20,7 @@ Outline:
 
 Brett Rivers: Botnets & the Intternet of Things
 
-Outline: 
+Outline: https://github.com/riverswb/lightning-talks/blob/master/botnets-iots.md
 
 
 Caroline Powell:  Eutrophication
