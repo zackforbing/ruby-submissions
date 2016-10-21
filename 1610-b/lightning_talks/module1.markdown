@@ -103,7 +103,7 @@ Michael Hill: Why Bob Stoops should be fired!
 Outline: 
 
 
-Michael Schutte: "What's with the Tomato? Pomodoro Unpacked"
+Mike Schutte: "What's with the Tomato? Pomodoro Unpacked"
 
 Outline: https://gist.github.com/tmikeschu/98d1cfd801b7e621bd861edb08e16b2f
 
