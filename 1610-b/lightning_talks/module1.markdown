@@ -115,7 +115,7 @@ Outline:
 
 Nick Gheorgita: Optimal Stopping Problems
 
-Outline: 
+Outline: https://gist.github.com/njgheorghita/c567ea16bf80f237415832c9040b9d63
 
 
 Phyllis Hugunien: "How to Buy a House the no BS way"
