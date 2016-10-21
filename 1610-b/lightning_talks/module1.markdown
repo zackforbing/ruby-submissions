@@ -60,7 +60,7 @@ Outline:
 
 Jason Conrad: A Brief history of Rollercoasters
 
-Outline: 
+Outline: https://gist.github.com/jdconrad89/cacd816faceef837cbd21f530c305447
 
 
 Jesse Shipley: How to get Google to fix your car.
