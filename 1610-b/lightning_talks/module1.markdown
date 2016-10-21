@@ -45,7 +45,7 @@ Outline:
 
 Edilene Cruz: Canine raw feeding
 
-Outline: 
+Outline: https://gist.github.com/edilenedacruz/3cbba024abc2df58e93467e103c88531
 
 
 Eric Wahlgren-Sauro: 
