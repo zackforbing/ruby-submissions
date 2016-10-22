@@ -48,9 +48,14 @@ Edilene Cruz: Canine raw feeding
 Outline: https://gist.github.com/edilenedacruz/3cbba024abc2df58e93467e103c88531
 
 
-Eric Wahlgren-Sauro: 
+Eric Wahlgren-Sauro: The downside of self-driving cars & Netflix recommendations  
 
-Outline: 
+Outline: -explain who Daivd Krakauer is 
+         -explain cognitive artifacts 
+         -explain complementary artifacts 
+         -explian competitive artifacts
+         -state impact
+         -final thought 
 
 
 Ethan Bennett: Why You Should Stop Not Giving a Shit About Jazz
