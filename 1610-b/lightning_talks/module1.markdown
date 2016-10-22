@@ -100,7 +100,7 @@ Outline:
 
 Molly Brown: Cram more into your brain with spaced repetition
 
-Outline: 
+Outline: https://gist.github.com/mollybrown/6576c8a56453380c72af9aa5a5a05fbb
 
 
 Michael Hill: Why Bob Stoops should be fired!
