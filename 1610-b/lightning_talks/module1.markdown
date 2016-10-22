@@ -75,7 +75,7 @@ Outline:
 
 Kyle Heppenstall: Become a better person in 72 lonely hours
 
-Outline: 
+Outline: https://gist.github.com/kheppenstall/053379b6c3e3ad01e72bffc954ea4373
 
 
 Josh Cohen: Modern Nuclear Submarines
