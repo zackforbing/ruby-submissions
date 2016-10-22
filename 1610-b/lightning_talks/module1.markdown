@@ -70,7 +70,7 @@ Outline: https://gist.github.com/jdconrad89/cacd816faceef837cbd21f530c305447
 
 Jesse Shipley: How to get Google to fix your car.
 
-Outline: 
+Outline: https://gist.github.com/Sh1pley/b577405293a8e3af5f3ce4d18fbddca7
 
 
 Kyle Heppenstall: Become a better person in 72 lonely hours
