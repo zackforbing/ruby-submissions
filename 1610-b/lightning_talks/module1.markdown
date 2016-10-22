@@ -30,7 +30,7 @@ Outline:
 
 Daniel Rodriguez: Why You Should Skip Breakfast
 
-Outline: 
+Outline: https://gist.github.com/drod1000/e4e0ce7d286ae4f59aecb010fdaa21f0
 
 
 David Knott: How Ruby Can Save Your Marriage
