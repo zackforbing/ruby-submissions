@@ -96,22 +96,6 @@ Lucy Conklin: Mars Rover Landing Mechanisms
 Marisa Burton: The Case Against Denver’s Ordinance Sec. 8-55, which bans "pitbull" breeds 
 
 Outline: 
-What are pit bulls?
-•	Multiple breeds: American Pit Bull Terrier, American Staffordshire Terrier, Staffordshire Bull Terrier
-•	Law ambiguous—displaying “majority of physical traits” to multiple breeds or conform to American Kennel club standards, meaning dogs that aren’t genetically pit bulls can still be banned
-•	Why banned and its efficacy? 
-•	A couple of well-known attacks by pitbulls lead to hysteria of the moment
-•	According to the city, dog fighters had bred the dog for strength and aggression, resulting in pit bull attacks that had the potential to be “more severe and more likely to result in fatalities”
-o	Although there haven’t been any fatal pit bull attacks since the ban, correlation does not mean causation. Other cities in Colorado with no dog bans have had no fatal dog attacks, and there still have been fatal dog attacks in Denver since the ban, but the dogs that attacked were not pit bulls.
-o	Since 1992, Denver has impounded 5,286 pitbulls.
-•	Why not to ban?
-o	A wide variety of breeds are involved in dog attacks, but the vast majority of dog breed bans around the country ban pit bulls
-o	Dog behavior and aggression is complex and largely depends on owner and past history than breed
-o	Pit bulls cannot be adopted by residents of Denver, and an estimated 3,500 pit bulls have been put to death since the ban’s enactment
-o	5,000 owners have been ticketed and has cost the city hundreds of thousands in enforcement 
-o	People still skirt the law and have pit bulls. Shelters still take in pit bulls because they don’t believe in the law. They find a loophole around the law by merely mislabeling the dog’s breed when adopting out.
-o	Owner responsibility, like with guns, marijuana, etc. 
-
 
 
 Molly Brown: Cram more into your brain with spaced repetition
