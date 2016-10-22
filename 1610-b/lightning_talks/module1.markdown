@@ -10,7 +10,7 @@ Outline: https://gist.github.com/pixapi/a7fc6fe54c9b5889857f61a8a9a3fe0e
 
 Amy Kintner: An Extremely Brief Talk About Utopian History and Theory
 
-Outline: 
+Outline: https://gist.github.com/akintner/8c00c06b38aef9ba75c4284d5da98bba
 
 
 Ann Wolff: Molecules and Modernism: How Technology Inspired Impressionism
