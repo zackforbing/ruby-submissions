@@ -115,7 +115,7 @@ Outline: https://gist.github.com/tmikeschu/98d1cfd801b7e621bd861edb08e16b2f
 
 Nick Erhardt:  Put the *can* in Pe*can* rolls - a study in delicousness
 
-Outline: 
+Outline: https://gist.github.com/ski-climb/21ece04e49de0223dbc426386d9fbed6
 
 
 Nick Gheorgita: Optimal Stopping Problems
