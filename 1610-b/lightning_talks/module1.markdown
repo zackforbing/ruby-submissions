@@ -15,7 +15,7 @@ Outline: https://gist.github.com/akintner/8c00c06b38aef9ba75c4284d5da98bba
 
 Ann Wolff: Molecules and Modernism: How Technology Inspired Impressionism
 
-Outline: 
+Outline: https://gist.github.com/wlffann/2a2ae9fc5dfc6f1b773a71cbedfa43e1
 
 
 Brett Rivers: Botnets & the Intternet of Things
