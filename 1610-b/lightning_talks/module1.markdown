@@ -60,7 +60,7 @@ Outline: -explain who Daivd Krakauer is
 
 Ethan Bennett: Why You Should Stop Not Giving a Shit About Jazz
 
-Outline: 
+Outline: https://gist.github.com/ethanbennett/8d39cab1453a26e6eaeccdde16d0b777
 
 
 Jason Conrad: A Brief history of Rollercoasters
