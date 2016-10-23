@@ -25,7 +25,7 @@ Outline: https://github.com/riverswb/lightning-talks/blob/master/botnets-iots.md
 
 Caroline Powell:  Eutrophication
 
-Outline: 
+Outline: https://gist.github.com/CPowell23/eb3495be02823feeaf8a0c118262b5cf
 
 
 Daniel Rodriguez: Why You Should Skip Breakfast
