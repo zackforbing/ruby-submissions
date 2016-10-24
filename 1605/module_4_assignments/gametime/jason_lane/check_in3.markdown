@@ -1,36 +1,46 @@
-Complete this Form before the third check in. Delete this line from your version.
-
 # Game Time Check In # 3
 
 ## Instructor Goal Completion
 
-### GOAL 1
+### GOAL 1: Random generation of enemies
 
-  - Provide a screenshot or gif or link to code for this goal
-  - Did you deviate from the instructions? Tell us about it.
-  - Questions, Comments, Concerns?
+[Random Generation](https://github.com/Automatic365/gametime/blob/canvas_collision/lib/game.js#L21-L34)
 
-### GOAL 2
+  - Did you deviate from the instructions?
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+      * No we did not deviate from the instructions.
 
-### GOAL 3
+### GOAL 2: Collision Detection
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+[Collision Detection](https://github.com/Automatic365/gametime/blob/canvas_collision/lib/game.js#L41-L67)
 
-### GOAL 4
+- Did you deviate from the instructions?
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
-- Questions, Comments, Concerns?
+    * No we did not deviate from the instructions.
+
+### GOAL 3: Score and Timer
+
+[Score](https://github.com/Automatic365/gametime/blob/canvas_collision/lib/player.js#L1-L28)
+
+- Did you deviate from the instructions?
+
+    * I wouldn't say that we deviated but the goal was written as score and timer. But our score is calculated by the duration of time alive. That being said, we felt that is was redundant to have both on the screen.
+
+### Stretch Goal: Start and End Screens
+
+[Start/End](https://github.com/Automatic365/gametime/blob/timer/lib/game.js#L61-L67)
+
+- Did you deviate from the instructions?
+
+    * We currently have end page presenting your score and are working on a start/restart screen.
+
+- Are we on the right track?
 
 ## Next Steps?
 
-- What do you feel the next steps should be?
+- Power ups
+- Start screen
+
 
 ### General Questions, Comments, Concerns?
 
@@ -41,7 +51,7 @@ Complete this Form before the third check in. Delete this line from your version
 ### Points for Second Check In (base 50)
 
 * 60 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way. Students completed additional stretch goals.
-* 50 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way.
+* **55 points: Students documented their work well and completed all base goals or have documented where/why they deviated from the goal in a reasonable way.**
 * 35 points: Students completed all base goals but did not document the work appropriately in their form || did not complete 1 goal and failed to document why in a reasonable way.
 * 25 points: Students did not complete more than 1 goal.
 * 0 points: Students did not complete check in form prior to eval.
@@ -50,12 +60,12 @@ Complete this Form before the third check in. Delete this line from your version
 
 These goals should center around wrapping up the game:
 
- - Matching the [rubric](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown) requirements
- - Refactoring/Cleaning up test coverage
- - Making the game compelling for players
- - Making sure the README and other documentation is up to snuff
- - Making sure the game is deployed
+- Win/lose is comparison to high scores
 
-_Note: Instructor/Groups can add additional goals beyond 3. Grading for the next check in will be based on completion of goals_
+- Matching the [rubric](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/gametime_project.markdown) requirements
+- Refactoring/Cleaning up test coverage
+- Making the game compelling for players
+- Making sure the README and other documentation is up to snuff
+- Making sure the game is deployed
 
 ### Feedback?

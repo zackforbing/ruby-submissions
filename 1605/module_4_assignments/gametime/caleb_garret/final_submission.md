@@ -3,70 +3,134 @@
 ## Basics
 
 ### Link to the Github Repository for the Project
-[zackforbing / game_time](https://github.com/zackforbing/game_time)
+[Gametime Repo](https://github.com/Caleb9193/gametime)
 
 ### Link to the Deployed Application
-[Your Application](https://zackforbing.github.io/game_time/)
+[Ricochet](https://caleb9193.github.io/gametime/)
 
 ### Link to Your Commits in the Github Repository for the Project
--[Zack](https://github.com/zackforbing/game_time/commits?author=zackforbing)
- -[Yoseph](https://github.com/zackforbing/game_time/commits?author=Yoyo2Code)
+-[Caleb](https://github.com/Caleb9193/gametime/commits/master?author=Caleb9193)
+ -[Garret](https://github.com/Caleb9193/gametime/commits/master?author=GSmes)
 
 ### Provide a Screenshot of your Game
--[timefreeze](https://postimg.org/image/vye3qs9dd/)
+-![Ricochet](http://i.imgur.com/dH55Edj.gif)
 
 ---
 
 ## Completion
 
 ### Do You Consider the Application to be Fully Playable?
- - Yes, the game is fully functional.
+ - Yes
 
 ### What Extensions, as Requested By an Instructor, Did You Complete?
-- No Extensions
+- None
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
-- hurdles!
+
 
 ----
 
 ## Risk Taking
 - What risks did you feel you took on this project?
-
-    I feel like the scope of this project was too much for the time that we had to work with. a lot of cool features ended up being left off, but we did complete the MVP.
-
+ - Choosing a project that relied heavily on math and equations
+ - Not using any styling packages such as bootstrap, styling it all by hand
+ - Implementing setTimeout very soon after we learned it, before we were really familiar with it
 - How do you feel about those risks?
-
-    I think we probably should have chosen something a bit simpler and then added
-    features to it as we completed the MVP. However, we are happy with how much we accomplished, and given a bit more time, think we could probably implement a lot of the features that our game is missing compared to the original.
+ - I feel like they were important to take when trying to build anything involving animation
 
 ----
 
 ## Code Quality
 
-### [Link to a block of code you're proud of](https://github.com/zackforbing/game_time/blob/017f27c5092464b044dac5358e43207b0ce1755b/lib/hurdle.js#L1)
+### Link to a specific block of your code on Github that you are proud of
+[Collision detection](https://github.com/Caleb9193/gametime/blob/master/lib/bullet.js#L36)
 - Why were you proud of this piece of code?
+  -It was broken into small, easy to read parts, despite having very complicated logic
 
-    I (Zack) built this entire class from scratch in a code spike, and aside from the draw, it all worked first try, so I was pretty proud of that.
-
-### [Link to a block of code you're not proud of](https://github.com/zackforbing/game_time/blob/017f27c5092464b044dac5358e43207b0ce1755b/lib/game.js#L8)
+### Link to a specific block of your code on Github that you feel not great about
+ - [Levels](https://github.com/Caleb9193/gametime/blob/master/lib/level_one.js#L4)
 - Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
-
-    time did not allow us to refactor this. and that's really why I'm not proud of it. it seems like some code, the key listeners in particular, could use some serious refactoring.
+  - Feel like all the levels could've been put into one constructor somehow, but wasn't really sure if that would just</br>
+  result in one big messy file
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
+  - ```Bullet
+    default attributes
+      ✓ has a default height
+      ✓ has a default width
+      ✓ has a default y-coordinate
+      ✓ has a default x-coordinate
+      ✓ has a default radius
+      ✓ has a default beginning bounce count
+    given attributes
+      ✓ has a given context
+      ✓ has a given x-coordinate direction
+      ✓ has a given y-coordinate direction
+    draw
+      ✓ should call arc on the canvas
+      ✓ should pass x-coordinate, y-coordinate, and radius to arc
+    move
+      ✓ should increment the x coordinate by directionX
+      ✓ should increment the y coordinate by directionY
+    collisionCheck
+      ✓ should be defined
+
+  Shooter
+    given attributes
+      ✓ should have a given context
+
+  Obstacle
+    given attributes
+      ✓ should have a given x-coordinate
+      ✓ should have a given y-coordinate
+      ✓ should have a given height
+      ✓ should have a given width
+      ✓ should have a given context
+
+  Target
+    default attributes
+      ✓ should have a default width
+      ✓ should have a default height
+      ✓ should have a default display attribute of true
+    given attributes
+      ✓ should have a given x-coordinate
+      ✓ should have a given y-coordinate
+      ✓ should have a given context
+
+  LevelOne
+    default attributes
+      ✓ has a default ammo amount
+      ✓ has a default array of targets
+      ✓ has a default array of obstacles
+
+  LevelThree
+    default attributes
+      ✓ has a default ammo amount
+      ✓ has a default array of targets
+      ✓ has a default array of obstacles
+
+  LevelTwo
+    default attributes
+      ✓ has a default ammo amount
+      ✓ has a default array of targets
+      ✓ has a default array of obstacles
+
+  Scoreboard
+    given attributes
+      ✓ it should have a given context
+
+
+  36 passing (25ms)```
 
 ### Test Breakdown
-- How Many Unit Tests? 37 passing tests.
-- How Many Feature/Integration Tests? none.
+- How Many Unit Tests?
+ - 36
+- How Many Feature/Integration Tests?
+ - 0
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
 
-    we do not have one.
-
 ### Provide a link to an example, if you have one, of a feature test that covers an 'edge case' or 'unhappy path'
-
-    we do not have one.
 
 -----
 
@@ -94,36 +158,35 @@ To this end, make sure to include sufficient UX to allow the user to fully inter
 ### Features
 
 * 35 points - Application is fully playable and exceeds the expectations set by instructors
-* __25 points - Application is fully playable without crashes or bugs__
+* __24 points - Application is fully playable without crashes or bugs__
 * 10 points - Application has some missing functionality but no crashes
 * 0 points - Application crashes during normal usage
 
 ### User Interface
 
-* 15 points - The application is pleasant, logical, and easy to use. There are no holes in functionality and the application stands on its own to be used by the instructor without guidance from the developer.
-* __10 points - The application has many strong pages/interactions, but a few holes in lesser-used functionality.__
+* __15 points - The application is pleasant, logical, and easy to use. There are no holes in functionality and the application stands on its own to be used by the instructor without guidance from the developer.__
+* 10 points - The application has many strong pages/interactions, but a few holes in lesser-used functionality.
 * 5 points - The application shows effort in the interface, but the result is not effective. The evaluator has some difficulty using the application when reviewing the features in the user stories.
 * 0 points - The application is confusing or difficult to use.
 
 ### Testing
 
 * 30 points - Project has a running test suite that exercises the application at multiple levels. The test suite covers almost all aspects of the application and uses mocks and stubs when appropriate.
-* 25 points - Project has a running test suite that tests multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.
-* __20 points - use of stubs is good for trying to test features - no collision detection tests which brings this score down a little__
+* __20 points - Project has a running test suite that tests multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.__
 * 10 points - Project has sporadic use of tests and multiple levels. The application contains numerous holes in testing and/or many features are untested.
 * 0 points - There is little or no evidence of testing in this application.
 
 ### JavaScript Style
 
 * 30 points - Application has exceptionally well-factored code with little or no duplication and all components are separated out into logical components. There zero instances where an instructor would recommend taking a different approach.
-* __19 points - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.__
+* __25 points - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.__
 * 15 points - Your application has a significant amount of duplication and one or major bugs.
 * 5 points - Your client-side application does not function. Developer writes code with unnecessary variables, operations, or steps which do not increase clarity.
 * 0 points - There is little or no client-side code. Developer writes code that is difficult to understand. Application logic shows poor decomposition with too much logic mashed together.
 
 ### Workflow
 
-* __23 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.__
+* __25 points - The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.__
 * 15 points - The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
 * 10 points - The developer makes large commits covering multiple features that make it difficult for the evaluator to determine the evolution of the application.
 * 5 points - The developer commited the code to version control in only a few commits. The evaluator cannot determine the evolution of the application.
@@ -138,4 +201,4 @@ The output from JSHint shows…
 * 5 points - Six to ten complaints
 * 0 points - More than ten complaints
 
-total: 112
+total = 124

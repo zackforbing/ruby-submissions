@@ -3,84 +3,75 @@
 ## Basics
 
 ### Link to the Github Repository for the Project
-[Your Repo](https://github.com/Automatic365/gametime)
+[Your Repo](https://github.com/chompasina/gametime)
 
 ### Link to the Deployed Application
-[Your Application](https://automatic365.github.io/gametime/)
+[Your Application](https://chompasina.github.io/gametime/)
 
 ### Link to Your Commits in the Github Repository for the Project
--[Jason Hanna](https://github.com/Automatic365/gametime/commits/master?author=Automatic365)
- -[Lane Winham](https://github.com/Automatic365/gametime/commits/master?author=Laner12)
+-[Tommasina](https://github.com/chompasina/gametime/commits?author=chompasina)
+ -[Karina](https://github.com/chompasina/gametime/commits?author=karinamzalez)
+ -[Deb](https://github.com/chompasina/gametime/commits?author=deborahleehamel)
 
 ### Provide a Screenshot of your Game
-![](http://i.imgur.com/sFpGkyx.gif)
-
+-![Empty Calorie Overlord and the Healthy Food Revival](http://g.recordit.co/H0IIYTd0YT.gif)
 ---
 
 ## Completion
 
 ### Do You Consider the Application to be Fully Playable?
- - Yes, judging by the rubric we believe it to be fully playable.
+ - Yes.
+ * It has agreed upon functionality.
+ * Player can collect healthy foods on tray which increases health points on meter/progress bar.
+ * Player can collect junk foods on tray but this decreases health points on meter/progress bar.
+ * There are 3 levels. Players move to next level and win the game when their health food points reach >=600.
+ * Scores are tracked and displayed on screen.
+ * High scores board(scores above 600) on screen.
+ 
 
 ### What Extensions, as Requested By an Instructor, Did You Complete?
-- No extensions were executed
+- Per Feature:
+ - No assigned extensions.
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
-As a group we exceeded what we thought we would produced, however being new to JavaScript I am not sure where an instructor would fall.
-
 - Per Feature:
- - random generation of enemies and powerups
- -[generation code](https://github.com/Automatic365/gametime/blob/master/lib/game.js#L14-L26)
-
- - enemies looping the canvas
- -[enemy loop](https://github.com/Automatic365/gametime/blob/master/lib/enemy.js#L19-L37)
-
- - player moves with mouse
- -[player update](https://github.com/Automatic365/gametime/blob/master/lib/player.js#L18-L28)
+ - Our Healthy Foods/Empty Calorie Overlord progress bar was difficult to implement but adds to user experience as an intuitive feature.
+ - The oscillation of the "Empty Calorie Overlord" gave us substantial challenge in coordinating the movement of the junk food. We hope that our initial sprite for "el Cheeto Diablo" (Donald Trump starring as "Empty Calorie Overlord") exceeded instructor expectations as well.
 
 ----
 
 ## Risk Taking
-
-- What risks did you feel you took on this project?
-
-    * Picking a game that relies heavily on trajectory and speed
-
-
-- How do you feel about those risks?
-
-    * I think we executed the mimicked functionality well, and the final product is fun to play
-
+- We took a risk with the oscillating overlord and associating the junk food objects with the overlord's position.
+- We tackled the challenges and learned so much about coordinating timed events and managing intervals and the states that every little piece are in at different moments in the game. 
+- We wanted this project to be connected to our Pahlka posse and got a good start on special documentation specifically geared toward the posse project. We prioritized building functionality and will be able to follow up with a playable game that the posse can integrate and continue to work on.
+- So many sprites! Dealing with assets, transparency, sizing, image quality, etc. was more than we realized.
 ----
 
 ## Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-![](http://i.imgur.com/cU5pw5Z.png)
-- Why were you proud of this piece of code?
-    * We had two similar methods and had a successful refactor by finding the difference and making those differences the arguments for the new method.
+https://github.com/chompasina/gametime/blob/development/lib/index.js#L64-L83
+ * We are proud of this code because it was really hard to figure out how to make the junk food increase in a random way. We had to play around with timing in three spots: setInterval for the Overlord, the requestAnimationFrame timing, and the new timing interval for oscillating the overlord for increasing difficulty throughout the game. We had to play around with the numbers a lot to make sure the overlord didn't speed up too quickly and overpopulate the board with junk food objects. We think what resulted was a very natural evolution to a more difficult game towards the end. 
+
 
 ### Link to a specific block of your code on Github that you feel not great about
-![](http://i.imgur.com/KV0LLgy.png)
-- Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
-    * Our attempt to refactor the methods, however we ran out of time to get this method functioning
-![](http://i.imgur.com/FdPoCym.png)
+https://github.com/chompasina/gametime/blob/development/lib/index.js#L85-L101
+ * This code feels like a cop-out because it feels like there should be a better way to reset the requestAnimationFrame (the cancel function is an "experimental" function that didn't work consistently for us even though we passed in the requestAnimationFrame ID). Instead we are looping through the window and clearing all of the setIntervals for every object. We also just manually wipe the health food and junk food arrays clean which could have been handled by a master stop-game-play function instead. Because we don't know true game conventions, we're not sure if this is an acceptable way to end the game or not. 
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
+![testing](http://g.recordit.co/eDDKpnS17E.gif)
 
 ### Test Breakdown
-![](http://i.imgur.com/ZDAYuYE.png)
-
 - How Many Unit Tests?
-    * 24
-    
+ * 56 passing
 - How Many Feature/Integration Tests?
-
-    * 1 attempted commented out
+ * 4 passing
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
+[Edge Case](https://github.com/chompasina/gametime/blob/development/test/junk-food-test.js#L33-L36)
 
 ### Provide a link to an example, if you have one, of a feature test that covers an 'edge case' or 'unhappy path'
+[Edge Case](https://github.com/)
 
 -----
 
@@ -107,8 +98,8 @@ To this end, make sure to include sufficient UX to allow the user to fully inter
 
 ### Features
 
-* 35 points - Application is fully playable and exceeds the expectations set by instructors
-* __27 points - Application is fully playable without crashes or bugs__
+* __33 points - Application is fully playable and exceeds the expectations set by instructors__ - Documentation was really solid. Definitely above and beyone expectations
+* 25 points - Application is fully playable without crashes or bugs
 * 10 points - Application has some missing functionality but no crashes
 * 0 points - Application crashes during normal usage
 
@@ -122,14 +113,17 @@ To this end, make sure to include sufficient UX to allow the user to fully inter
 ### Testing
 
 * 30 points - Project has a running test suite that exercises the application at multiple levels. The test suite covers almost all aspects of the application and uses mocks and stubs when appropriate.
-* __20 points - Project has a running test suite that tests multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.__
+* __23 points - Project has a running test suite that tests multiple levels but fails to cover some features. All functionality is covered by tests. The application makes some use of integration testing.__ 
+
+* dropped a few points for missing some core functionality from the tests (capturing food on tray/collision)
+
 * 10 points - Project has sporadic use of tests and multiple levels. The application contains numerous holes in testing and/or many features are untested.
 * 0 points - There is little or no evidence of testing in this application.
 
 ### JavaScript Style
 
 * 30 points - Application has exceptionally well-factored code with little or no duplication and all components are separated out into logical components. There zero instances where an instructor would recommend taking a different approach.
-* __20 points - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.__
+* __17 points - Application is thoughtfully put together with some duplication and no major bugs. Developer can speak to choices made in the code and knows what every line of code is doing.__
 * 15 points - Your application has a significant amount of duplication and one or major bugs.
 * 5 points - Your client-side application does not function. Developer writes code with unnecessary variables, operations, or steps which do not increase clarity.
 * 0 points - There is little or no client-side code. Developer writes code that is difficult to understand. Application logic shows poor decomposition with too much logic mashed together.
@@ -151,4 +145,4 @@ The output from JSHint shows…
 * 5 points - Six to ten complaints
 * 0 points - More than ten complaints
 
-total = 122
+total = 128

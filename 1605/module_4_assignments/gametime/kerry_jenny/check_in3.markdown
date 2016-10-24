@@ -2,36 +2,50 @@
 
 ## Instructor Goal Completion
 
-### GOAL 1
-##### Refactor - draw and move behavior in their respective files
-![UFO Code](ufo-code.png)
-![Obstacle Code](obstacle-code.png)
+### GOAL 1 Food is Bits
 
-### GOAL 2
-##### Scoreboard - Track scores across sessions
-![Scoreboard](scoreboard.png)
-- We chose to display the top three scores (highest score first)
+  -![Bits](http://i65.tinypic.com/2gvseva.png)
+  - We did not deviate
+  - No questions, comments, concerns
 
-### GOAL 3
-##### Draw tests
-![Obstacle Draw Test](obstacle-draw-test.png)
-![UFO Draw Test](ufo-draw-test.png)
+### GOAL 2 The correct bit is replenished
 
-### GOAL 4 (Stretch)
-##### Address Difficulty
-![Level of Difficulty Code](difficulty-code.png)
-- We chose to increase speed based on score
-  - Game speeds up every 500 points
+- [replenish food code](https://github.com/kjs222/gametime/blob/master/lib/game.js#L59-L69)
+- We did not deviate
+- No questions, comments, concerns
+
+### GOAL 3 There is a number to convert on the screen
+
+  -![Number](http://i68.tinypic.com/egsivb.png)
+  - We did not deviate
+  - No questions, comments, concerns
+
+### GOAL 4  Let the player know if they picked up the wrong bit
+
+- [lose segments code](https://github.com/kjs222/gametime/blob/master/lib/snake.js#L113-L120)
+-![lose segments gif](http://g.recordit.co/EPGsn95l14.gif)
+- We did not deviate - the snake loses two segments if they pick up wrong bit.  
+- No questions, comments, concerns
+
+## Stretch Goal SCOREBOARD
+-![scoreboard](http://i67.tinypic.com/2rxd0zb.png)
+- scoreboard functionality in place
+- will add ability to enter name
 
 ## Next Steps?
 
-- Improve styling (e.g. images for objects)
-- Some indication of progress (e.g. when game speeds up, player gets a notice)
-- Integrate sound and bonus point objects (stretch goal)
+- Name for scoreboard
+- Styling top UI (number, score, etc)
+- Deploy on github pages
+- Linter
+- README
+
 
 ### General Questions, Comments, Concerns?
-- Are we on the right track?
-- Do you have any questions/concerns?
+
+- feature testing?
+- local storage testing?
+
 -----
 
 # Instructor Section
