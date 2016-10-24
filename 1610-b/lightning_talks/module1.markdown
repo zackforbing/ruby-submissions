@@ -105,7 +105,7 @@ Outline: https://gist.github.com/mollybrown/6576c8a56453380c72af9aa5a5a05fbb
 
 Michael Hill: Why Bob Stoops should be fired!
 
-Outline: 
+Outline: https://gist.github.com/michael-hill/72e424662dcfa02e78a7977ae2eb8797
 
 
 Mike Schutte: "What's with the Tomato? Pomodoro Unpacked"
