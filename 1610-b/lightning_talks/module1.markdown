@@ -1,6 +1,6 @@
 Alex Fosco: Navigate With the Stars
 
-Outline: 
+Outline: https://gist.github.com/alfosco/cec74b41c84b5664d0035962a0f32c15
 
 
 Amara Lovato: A Dream Travel To Spain
