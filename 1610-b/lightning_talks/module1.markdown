@@ -50,12 +50,7 @@ Outline: https://gist.github.com/edilenedacruz/3cbba024abc2df58e93467e103c88531
 
 Eric Wahlgren-Sauro: The downside of self-driving cars & Netflix recommendations  
 
-Outline: -explain who Daivd Krakauer is 
-         -explain cognitive artifacts 
-         -explain complementary artifacts 
-         -explian competitive artifacts
-         -state impact
-         -final thought 
+Outline:
 
 
 Ethan Bennett: Why You Should Stop Not Giving a Shit About Jazz
