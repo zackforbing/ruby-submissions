@@ -33,9 +33,9 @@ Daniel Rodriguez: Why You Should Skip Breakfast
 Outline: https://gist.github.com/drod1000/e4e0ce7d286ae4f59aecb010fdaa21f0
 
 
-David Knott: How Ruby Can Save Your Marriage
+David Knott: Skills that Change Lives
 
-Outline: 
+Outline: https://gist.github.com/DavidKnott/f9b43db10826da201032da65a7480251
 
 
 Drew Palazzari: An Argument for the Salvation of Our Spider Bros
