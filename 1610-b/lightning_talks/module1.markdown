@@ -90,7 +90,7 @@ Lucy Conklin: Mars Rover Landing Mechanisms
 
 Marisa Burton: The Case Against Denver’s Ordinance Sec. 8-55, which bans "pitbull" breeds 
 
-Outline: 
+Outline: https://gist.github.com/MarisaMBurton/08beaaaa5bbff6ba259aa12eacaa828d
 
 
 Molly Brown: Cram more into your brain with spaced repetition
