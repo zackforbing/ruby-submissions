@@ -50,7 +50,7 @@ Outline: https://gist.github.com/edilenedacruz/3cbba024abc2df58e93467e103c88531
 
 Eric Wahlgren-Sauro: The downside of self-driving cars & Netflix recommendations  
 
-Outline:
+Outline: https://gist.github.com/cews7/649e03ed7f6ad44aeaa6c764e603fc08
 
 
 Ethan Bennett: Why You Should Stop Not Giving a Shit About Jazz
