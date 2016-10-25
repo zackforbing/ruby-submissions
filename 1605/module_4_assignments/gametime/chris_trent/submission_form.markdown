@@ -2,78 +2,84 @@
 
 ## Basics
 
-### Link to the Github Repository for the Project
-[Game Time Repo](https://github.com/kbs5280/game-time)
+### Team
+- [Trent](https://github.com/twhitinger)
+- [Chris](https://github.com/concach)
 
-### Link to the Deployed Application
-[UFO](https://kbs5280.github.io/game-time/)
+### Github Repository
+[Github Repository](https://github.com/concach/game-time)
+
+### Deployed Application
+[Lyger Woods 2017](http://concach.github.io/game-time)
 
 ### Link to Your Commits in the Github Repository for the Project
-[Kris Sparks](https://github.com/kbs5280/game-time/commits/master?author=kbs5280)
-[Matt Packer](https://github.com/kbs5280/game-time/commits/master?author=matthewrpacker)
+-[Chris](https://github.com/concach/game-time/commits?author=concach)
+ -[Trent](https://github.com/concach/game-time/commits?author=twhitinger)
 
 ### Provide a Screenshot of your Game
-![UFO GIF](http://recordit.co/LLHJUB8U51.gif)
+-![Lyger Woods 2017 Gameplay](figures/game-time-submission-1.png)
+-![Lyger Woods 2017 Menu](figures/game-time-submission-2.png)
+
+---
 
 ## Completion
 
 ### Do You Consider the Application to be Fully Playable?
- - Yes.  The application is fully playable without external guidance.  There are no gaps in the player experience.  The game exceeds base requirements.
+ - Yes
 
 ### What Extensions, as Requested By an Instructor, Did You Complete?
-- N/A
+ - none, but we did modify our random obstacle generator to make holes more difficult, randomly
 
 ### What Features, if Any, Do You Feel Exceed Instructor Expectations?
-- Obstacle Asteroid Image:
-  - All flying danger obstacles have been replaced with asteroid images.
-  - [Lines 12 to 19](https://github.com/kbs5280/game-time/blob/9a9a574011ddc5174d7f292de34bcc4e11647c4f/lib/game.js#L12-L19)
-  - [Lines 175 to 179](https://github.com/kbs5280/game-time/blob/9a9a574011ddc5174d7f292de34bcc4e11647c4f/lib/game.js#L175-L179)
-- Star Image:
-  - All flying bonus obstacles have been replaced with star images.
-  - [Lines 21 to 28](https://github.com/kbs5280/game-time/blob/9a9a574011ddc5174d7f292de34bcc4e11647c4f/lib/game.js#L21-L28)
-  - [Lines 181 to 185](https://github.com/kbs5280/game-time/blob/9a9a574011ddc5174d7f292de34bcc4e11647c4f/lib/game.js#L181-L185)
-- Obstacle Asteroid Collision Response:
-  - Upon colliding with an asteroid, initiate an explosion sound.
-  - [Lines 290 to 295](https://github.com/kbs5280/game-time/blob/9a9a574011ddc5174d7f292de34bcc4e11647c4f/lib/game.js#L290-L295)
-- Bonus Star Collision Response:
-  - Upon colliding with a star, initiate a bonus sound and increase points.
-  - [Lines 315 to 318](https://github.com/kbs5280/game-time/blob/9a9a574011ddc5174d7f292de34bcc4e11647c4f/lib/game.js#L315-L318)
+- Functional Expectations:
+ - The game plays with sounds and interactive user input that requires skill
+ - Every hole in the game will be different due to random obstacle generation between the hole and the ball, even though the hole and ball stay in the same place
+ - The game has multiple types of obstacles that interact with the ball differently - sand pits slow the ball down, while trees and the hole walls deflect the ball
+
+- JavaScript Style:
+ - The game is broken out into logical components based on the requirements of that particular moment in the game. For example, each round includes 9 different instances of PlayHole, and each instance of PlayHole contains up to 10 individual Strokes, and each Stroke has new instances of the power and direction inputs. The "brains" behind the game interactions largely reside in the PlayHole constructor.
+
+- Testing:
+ - The game is thoroughly tested for each unit, and integration-tested wherever possible.
+
+----
 
 ## Risk Taking
-- What risks did you feel you took on this project?
-  - After we reached MVP:
-    - We modified our danger obstacle flight behavior.  For example, instead of just traversing the x-axis at a certain y co-ordinate, we chose to have some danger obstacles traverse both the x and y axis.
-    - We added bonus point obstacles.  By adding these obstacles, we had to build in additional collision detection that coordinated with our scoring system.
-    - We modified our UFO object from a rectangle to two ellipses, i.e. one ellipse is the top portion of the UFO object and the other ellipse is the bottom portion of the UFO object.  By modifying how we were drawing the UFO, we had to modify our collision detection to account for each ellipse.
-- How do you feel about those risks?
-  - We feel good that we were able to set challenging goals and accomplish those goals.  Seeing the process from ideation to production was rewarding.
+- Having re-rendering of holes during the game without a page refresh was quite a challenge
+- We overcame the challenges. Given more time, we could definitely add more features and further refactor our code, but we believe this is a solid foundation for an easily-expandable miniature golf game
+
+----
 
 ## Code Quality
 
 ### Link to a specific block of your code on Github that you are proud of
-- Why were you proud of this piece of code?
-- [Lines 20 to 22](https://github.com/kbs5280/game-time/blob/9a9a574011ddc5174d7f292de34bcc4e11647c4f/lib/obstacle.js#L20-L22)
-- First, we added speed as an attribute to Obstacle.  Then, we created a prototype on Obstacle `speedModifier`.  The speed modifier accepts a number and increases the obstacles speed based on the number passed.  We were proud that we were able to rethink our initial implementation to adhere to object oriented JavaScript principles.
+[code](https://github.com/concach/game-time/blob/master/test/play-hole-test.js#L32-L77)
+- This demonstrates our solid testing of the stroke tallying and instantiation, and the hole-object interactions (including the all-important ball-in-hole). We like this code because it not only demonstrates thorough testing, but it also demonstrates the logical way we broke out functions on the ball to allow for these interactions to play out in an arena with many objects.
 
 ### Link to a specific block of your code on Github that you feel not great about
-- Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
-- [Lines 175 to 185](https://github.com/kbs5280/game-time/blob/9a9a574011ddc5174d7f292de34bcc4e11647c4f/lib/game.js#L175-L185)
-- Based on the similarities between these two conditionals, `if(asteroidReady)` and `if(starReady)`, we feel like this was a missed refactoring opportunity.  Our challenge was the we have four variables in a function that is not dynamic.
+[code](https://github.com/concach/game-time/blob/master/lib/play-golf.js#L30-L58)
+- This code is present, in one way or another, in pretty much every one of our .js files. Our game operates on the basis of objects calling .update() and .draw() at the appropriate time. We feel that this is repetitive and could be refactored somehow.
 
-### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-![Test Suite](test-suite.png)
+### Test suite
+![Test Suite](figures/game-time-submission-tests.png)
 
 ### Test Breakdown
-- How Many Unit Tests? 19
-- How Many Feature/Integration Tests? 4
+- 42 Total Tests + 4 that won't run due to sinon loading problems
+- 4 operational, + 4 that won't run due to sinon loading problems
 
 ### Provide a link to an example, if you have one, of a unit test that covers an 'edge case' or 'unhappy path'
-- N/A
+[link](https://github.com/concach/game-time/blob/master/test/ball-test.js#L51-L65)
 
 ### Provide a link to an example, if you have one, of a feature test that covers an 'edge case' or 'unhappy path'
-- N/A
+[link](https://github.com/concach/game-time/blob/master/test/play-hole-test.js#L56-L77)
+- note: We believe that by providing detailed failure messages, this should count as "sad path" testing
+
+-----
 
 ### Please feel free to ask any other questions or make any other statements below!
+- Would really like to figure out why sinon won't load with mocha
+-----
+
 # Instructor Feedback
 
 - Points: (base 150)
@@ -94,7 +100,7 @@ To this end, make sure to include sufficient UX to allow the user to fully inter
 ### Features
 
 * 35 points - Application is fully playable and exceeds the expectations set by instructors
-* **28 points - Application is fully playable without crashes or bugs**
+* **25 points - Application is fully playable without crashes or bugs**
 * 10 points - Application has some missing functionality but no crashes
 * 0 points - Application crashes during normal usage
 
