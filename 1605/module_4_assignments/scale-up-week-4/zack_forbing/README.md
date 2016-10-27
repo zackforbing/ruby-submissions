@@ -1,44 +1,37 @@
 # Scale Up Submission Form (Check In) Instructions
 
+**Each student needs to submit this form. Make a copy of this file, name it with your own name, and put it in the same folder. Fill out the Student Feedback sections below. Delete this line in your copy.**
+
+- [Project Spec: Whiskey Tango](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/independent_study_project.markdown)
+
 - [Project Spec: LookingFor](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/looking_for_project.markdown)
+
+- [Project Spec: mentorSHIP](https://github.com/turingschool/lesson_plans/blob/master/ruby_04-apis_and_scalability/mentorSHIP_project.markdown)
 
 # Student Feedback
 
 ### Blog draft
 
-Link to my Blog outline: [Where to Begin with LookingFor](https://medium.com/@zackforbing/where-to-begin-with-lookingfor-202803ecf1b0#.auqyvlbuo)
+- Provide a link to your blog draft or outline
 
 ### Hours
 
 Document your general hours below (or planned hours)
 
-- Pre-Work (1 to 3 hours): 1 hour sunday
-- Monday (8 hours): 5:58 hours
-- Tuesday (8 hours): 7:53 hours
-- Wednesday (8 hours): 4:27 hours
-- Thursday (8 hours): :35 hours (so far)
-- Weekend (0 hours): planning to spend some hours getting some code down finally
+- Pre-Work (1 to 3 hours):
+- Monday (8 hours):
+- Tuesday (8 hours):
+- Wednesday (8 hours):
+- Thursday (8 hours):
+- Weekend (0 hours):
 
 ### Participation
 
 Speak to your participation in PRs (links would be nice), blog reviews and in your project groups.
 
-I have participated in a [PR of Ryan Flach's](https://github.com/ryanflach/good-morning-sunshine/pull/1), [Kris Sparks' PR on LookingForFrontEnd](https://github.com/LookingForMe/lookingForFrontEnd/pull/82) and I sent Chris Concannon feedback on his blog in slack. that text is below:
-```
-great blog post, @concach00 ! I wish I could offer some pointers but that is pretty damn solid. getting stuck troubleshooting in the middle of a lesson is the worst, so I personally appreciate your efforts to cut down on that, and be as clear as possible about what the installation process of android studio sdk entails.
-```
-I also responded to Jason on his blog post, which I sent through slack DM:
-
-```
-hey man, I've got some feedback on your blog outline.
-I think it's a great start. you have a LOT of talking points in this that will be a good jumping off point for making this a longer blog post. if you're directing this towards complete noobs,  definitely make an effort to explain the terms you're using, for example 99% of them won't even know what TDD is. so try to remember that as you flesh this out more.
-```
-
-I also have a PR open on the LookingForFrontEnd that cleans up some small syntax errors that jshint was throwing, as well as going through the JSHint options outlined in the .jshintrc file to get rid of deprecated or unused options.
-
 ### Work Completed
 
-I completed the [creact tutorial](https://github.com/zackforbing/creact-starter) - up to the refactoring anyway, it got really confusing about where things were supposed to go after that. I made a [PR](https://github.com/LookingForMe/lookingForFrontEnd/pull/81) yesterday of work that I had completed earlier in the week when we weren't contributors yet, it's fixing basic syntax errors that jshint threw, and removing a bunch of deprecated options in the .jshintrc file.
+Link to and describe the code/research you have completed so far.
 
 # Instructor feedback
 
