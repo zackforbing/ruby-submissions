@@ -49,8 +49,8 @@ Link to and describe the code/research you have completed so far.
 
 Points in this section are cumulative
 
-* 15: Developer participated in 4 daily stand ups
-* 5: Developer participated in a 5th daily stand up and was able to speak to their work in a way that was clear and informative.
+* 15: Developer participated in 2 daily stand ups
+* 5: Developer participated in a 3rd daily stand up and was able to speak to their work in a way that was clear and informative.
 * 10: Developer submitted a detailed pull request for review
 * 5: Developer provided useful feedback on a PR review request.
 * 5: Developer provided useful feedback on a second PR review request.
